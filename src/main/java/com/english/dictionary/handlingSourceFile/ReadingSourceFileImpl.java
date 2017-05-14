@@ -11,7 +11,7 @@ public class ReadingSourceFileImpl implements ReadingSourceFile {
 
     public BufferedReader readFile() {
 
-        File file = new File("src/main/resources/dictionary2.txt");
+        File file = new File("src/main/resources/dictionary.txt");
 
         InputStream inputStream = null;
         try {

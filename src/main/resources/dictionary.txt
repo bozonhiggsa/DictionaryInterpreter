@@ -47,7 +47,7 @@ Concurrent requests – одновременные (параллельные) запросы
 Only concern himself with – сам имеет дело (касается, затрагивает) только с
 Concern – отношение; касательство; беспокойство
 Very familiar with – очень хорошо знакомым с
-That employ this features – которые используют (применяют) эти особенности (детали)
+That employ these features – которые используют (применяют) эти особенности (детали)
 Produced by the doGet method – произведённый методом doGet
 Servlet container provides instances of the servlet – сервлет контейнер поставляет (предоставляет) экземпляры сервлета
 Instantiate multiple instances – создать множество экземпляров
@@ -228,7 +228,7 @@ Hernia - грыжа
 Governor - губернатор; правитель
 Injury - травма; рана
 Look after - присматривать
-Could you look after my cat? - можешь ты присмотреть за моим котом?
+Could you look after my cat? - не могли бы вы присмотреть за моим котом?
 Get on well - ладить
 Get rid of - избавиться
 Get through - справиться; сдать экзамен
@@ -773,7 +773,7 @@ On behalf of - от лица; от имени кого-то
 In behalf of - ради; в пользу; в защиту кого-то
 Assume - допускать; предполагать; принимать; брать на себя
 Then you won't have any problems - тогда у тебя не будет никаких проблем
-What would you recommend? - что бы вы порекомендовали?
+What would you recommend? - что бы ты порекомендовал?
 It depends on your needs - это зависит от ваших потребностей
 Why not? – почему нет?
 Afford – давать; доставлять; позволить себе
@@ -934,7 +934,7 @@ Neither have you! – ты тоже не изменился!
 What's been happening in your life? - что произошло в твоей жизни?
 Not much has been going on – ничего особенного не произошло
 Same old, same old – всё по старому
-I'm in a bit of a rush right now – я немного спешу сейчас
+I'm in a bit of a rush right now – я немного спешу прямо сейчас
 How about we go out for a drink some night? - как насчёт пойти выпить как-нибудь ночью?
 What do you say? - что скажешь?
 Sounds good! - звучит хорошо!
@@ -1163,7 +1163,7 @@ Anger – гнев; раздражение
 Betrayal – измена; предательство
 Cognition – познание; познавательная способность
 Perception – восприятие; ощущение; осознание
-Could you, please, repeat it slowly? – могли бы вы, пожалуйста, повторить медленнее?
+Could you, please, repeat it slowly? – не могли бы вы, пожалуйста, повторить медленнее?
 The thing is – дело в том, что
 Interesting thing is – вот что интересно, так это
 Let it go! – отпусти это!; позволь этому случиться!
@@ -1206,7 +1206,7 @@ I might do it today, but I won't – я мог бы это сделать сегодня, но не буду
 I could do it – я мог бы это сделать (практически это реально)
 Can you do it? – можешь ты сделать это?
 Will you do it for me? – сделаешь это для меня?
-Could you do it? – могли бы вы сделать это?
+Could you do it? – не могли бы вы сделать это?
 Would you do it? – мог бы ты сделать это?
 May I do it? – могу я сделать это? (спрашиваю разрешения)
 Can I do it? – могу я сделать это? (есть ли такая возможность)
@@ -1214,7 +1214,7 @@ Should I do it? – мне следует сделать это?
 I may wanna try it – возможно я захочу попробовать это
 I could help you, if you like – я мог бы помочь тебе, если ты хочешь
 What would you like? – что бы ты хотел?
-Where would you like to go? – а куда бы ты хотел пойти?
+Where would you like to go? – куда бы ты хотел пойти?
 I wouldn't do it – я бы не сделал этого
 I would never do it – я бы никогда не сделал этого
 I need to – мне надо
@@ -1240,7 +1240,7 @@ Wrong – ошибка; неправильность; неверный; ошибочный; сломанный
 It's all going wrong – всё идёт неправильно
 Anxious – взволнованный; озабоченный; беспокоящийся
 I'm anxious about it – я беспокоюсь об этом
-What do you like to do most of all? – что тебе нравится делать больше всего
+What do you like to do most of all? – что тебе нравится делать больше всего?
 Most of all I like creating new things – больше всего мне нравится создание новых вещей
 I have something to do – мне придётся кое-что сделать
 Are you at home? – ты дома?
@@ -1339,3 +1339,14 @@ Now, what do we have here? – итак, что мы имеем здесь?
 Do you like programming on Java? – тебе нравится программирование на Java?
 She watched me doing it – она видела меня делающим это
 I hate being ignored – я ненавижу быть игнорируемым
+Permit – позволение; разрешение; позволять; давать возможность; разрешать
+Enchant – очаровывать; восхищать
+HR (human resources) – эйчар
+Admit – допускать; соглашаться; сознаваться
+Reward – награда; премия; вознаграждение
+Award – присуждение (награды, премии); награждать
+Customer – заказчик; клиент
+Employer – наниматель; работодатель
+Employee – служащий; наёмный работник
+He isn’t anywhere – его нет нигде
+This work is very hard to do – эту работу очень сложно сделать

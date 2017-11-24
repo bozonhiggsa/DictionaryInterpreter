@@ -45,5 +45,17 @@
     </form:form>
 </div>
 
+<div align="center">
+    <form action="${pageContext.servletContext.contextPath}/well_known" method="GET">
+        <table>
+            <tr>
+                <td>
+                    <input type="submit" align="center" value="Go ahead!"/>
+                </td>
+            </tr>
+        </table>
+    </form>
+</div>
+
 </body>
 </html>

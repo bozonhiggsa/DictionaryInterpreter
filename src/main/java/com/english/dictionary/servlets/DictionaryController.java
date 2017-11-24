@@ -62,7 +62,7 @@ public class DictionaryController {
         boolean replyReveal = false;
         WordEng wordEngForRemovingFromList = null;
         for (WordEng wordFromList: wordsEngFromBd) {
-                System.out.println("Ответ сравнивается со словами из списка: " + wordFromList.getWord());
+                //System.out.println("Ответ сравнивается со словами из списка: " + wordFromList.getWord());
                 if(wordEngAsReply.getWord().trim().equalsIgnoreCase(wordFromList.getWord())){
                     this.processingEngWordService.updateWordEngFromBd(wordFromList);
                     replyReveal = true;
@@ -81,6 +81,32 @@ public class DictionaryController {
             model.addAttribute("check", false);
             return "pageReturn";
         }
+        if(wordsEngFromBd.isEmpty()){
+            if(this.processingEngWordService.selectCountForDone() != 0 && repeat){
+                return "redirect: repeat";
+            } else {
+                repeat = false;
+                return "redirect: translate";
+            }
+        } else {
+            WordEng wordEng = wordsEngFromBd.getFirst();
+            Set<WordRus> setWordRus = wordEng.getWordsRus();
+            model.addAttribute("setWordRussian", setWordRus);
+            model.addAttribute("originalWordEnglish", wordEng);
+            return "otherVariant";
+        }
+    }
+
+    @RequestMapping(value="/well_known", method = RequestMethod.GET)
+    public String omitWord(Model model){
+
+        WordEng wordEngForOmit = wordsEngFromBd.getFirst();
+        this.processingEngWordService.updateWordEngFromBd(wordEngForOmit);
+        wordsEngFromBd.remove(wordEngForOmit);
+        for (WordEng wordFromList: wordsEngFromBd) {
+            logger3.info("Now list has comprised words: " + wordFromList.getWord());
+        }
+
         if(wordsEngFromBd.isEmpty()){
             if(this.processingEngWordService.selectCountForDone() != 0 && repeat){
                 return "redirect: repeat";

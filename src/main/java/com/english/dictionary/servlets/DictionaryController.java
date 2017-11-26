@@ -62,7 +62,7 @@ public class DictionaryController {
         boolean replyReveal = false;
         WordEng wordEngForRemovingFromList = null;
         for (WordEng wordFromList: wordsEngFromBd) {
-                //System.out.println("Ответ сравнивается со словами из списка: " + wordFromList.getWord());
+                System.out.println("Ответ сравнивается со словами из списка: " + wordFromList.getWord());
                 if(wordEngAsReply.getWord().trim().equalsIgnoreCase(wordFromList.getWord())){
                     this.processingEngWordService.updateWordEngFromBd(wordFromList);
                     replyReveal = true;

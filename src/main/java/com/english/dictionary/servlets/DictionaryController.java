@@ -81,20 +81,8 @@ public class DictionaryController {
             model.addAttribute("check", false);
             return "pageReturn";
         }
-        if(wordsEngFromBd.isEmpty()){
-            if(this.processingEngWordService.selectCountForDone() != 0 && repeat){
-                return "redirect: repeat";
-            } else {
-                repeat = false;
-                return "redirect: translate";
-            }
-        } else {
-            WordEng wordEng = wordsEngFromBd.getFirst();
-            Set<WordRus> setWordRus = wordEng.getWordsRus();
-            model.addAttribute("setWordRussian", setWordRus);
-            model.addAttribute("originalWordEnglish", wordEng);
-            return "otherVariant";
-        }
+
+        return choosePageForRendering(model);
     }
 
     @RequestMapping(value="/well_known", method = RequestMethod.GET)
@@ -107,20 +95,7 @@ public class DictionaryController {
             logger3.info("Now list has comprised words: " + wordFromList.getWord());
         }
 
-        if(wordsEngFromBd.isEmpty()){
-            if(this.processingEngWordService.selectCountForDone() != 0 && repeat){
-                return "redirect: repeat";
-            } else {
-                repeat = false;
-                return "redirect: translate";
-            }
-        } else {
-            WordEng wordEng = wordsEngFromBd.getFirst();
-            Set<WordRus> setWordRus = wordEng.getWordsRus();
-            model.addAttribute("setWordRussian", setWordRus);
-            model.addAttribute("originalWordEnglish", wordEng);
-            return "otherVariant";
-        }
+        return choosePageForRendering(model);
     }
 
     @RequestMapping(value="/resetCount", method = RequestMethod.GET)
@@ -176,6 +151,23 @@ public class DictionaryController {
         int countForDone = this.processingEngWordService.selectCountForDone();
         counter.setCountForDone(countForDone);
         model.addAttribute("counterView", counter);
+    }
+
+    private String choosePageForRendering(Model model){
+        if(wordsEngFromBd.isEmpty()){
+            if(this.processingEngWordService.selectCountForDone() != 0 && repeat){
+                return "redirect: repeat";
+            } else {
+                repeat = false;
+                return "redirect: translate";
+            }
+        } else {
+            WordEng wordEng = wordsEngFromBd.getFirst();
+            Set<WordRus> setWordRus = wordEng.getWordsRus();
+            model.addAttribute("setWordRussian", setWordRus);
+            model.addAttribute("originalWordEnglish", wordEng);
+            return "otherVariant";
+        }
     }
 
 }

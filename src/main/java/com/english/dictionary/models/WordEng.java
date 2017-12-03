@@ -78,4 +78,24 @@ public class WordEng {
         this.wordsRus = wordsRus;
     }
 
+    @Override
+    public String toString() {
+        return "'" + word + "'";
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        WordEng wordEng = (WordEng) o;
+
+        return word != null ? word.equals(wordEng.word) : wordEng.word == null;
+
+    }
+
+    @Override
+    public int hashCode() {
+        return word != null ? word.hashCode() : 0;
+    }
 }

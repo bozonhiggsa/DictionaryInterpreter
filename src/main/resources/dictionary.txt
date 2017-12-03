@@ -520,7 +520,7 @@ Back of beyond – глушь
 Scalding – обжигающий
 Slightest – малейшее
 Prompt – подсказка; напоминание; подсказывать
-Carry out – выполнять
+Carry out – выполнять; совершать
 Along the way – по пути
 Proper – правильный
 Assure – уверять
@@ -1087,7 +1087,7 @@ Self-motivated and comfortable working independently - который сам себя мотивиру
 Headset – головной телефон
 This job requires – эта работа требует
 Deploy – развёртывание; использовать; употреблять; развёртывать
-Java developer should have experience - разработчику Java следует иметь опыт
+Java developer should have experience - Java разработчику следует иметь опыт
 Empathy – эмпатия; сочуствие; сопереживание
 Deal – сделка; договор; соглашение; вести дела; иметь дело
 Adherence – приверженность; верность; строгое соблюдение
@@ -1203,7 +1203,7 @@ Choose – выбирать
 Between – между двумя
 Among – среди многих
 Wrong – ошибка; неправильность; неверный; ошибочный; сломанный
-It's all going wrong – всё идёт неправильно
+It's all going wrong – всё идёт неправильно (процесс)
 Anxious – взволнованный; озабоченный; беспокоящийся
 I'm anxious about it – я беспокоюсь об этом
 What do you like to do most of all? – что тебе нравится делать больше всего?
@@ -1498,12 +1498,12 @@ Couldn't be better! – не могло быть лучше!
 Could be worse – могло быть хуже
 So so – так себе
 Just great! – прямо отлично!
-Getting by! – понемножку!
+Getting by – понемножку
 Same as always – как всегда
 Not so well – не очень хорошо
 Kind of lousy – довольно паршиво
 Lousy – вшивый; паршивый; отвратительный
-Well done! – отличная работа!
+Well done! – отлично сделано!
 Go ahead! – пожалуйста!; вперёд, начинай!
 Don't even think about it! – даже не думай об этом!
 Cause – причина; основание; вопрос; послужить причиной/поводом
@@ -1545,7 +1545,7 @@ This is the way to do it! – вот как это нужно делать!
 Do it any way you like – делайте как вам нравится
 Have it your way – пусть будет по вашему
 That's the way it works! – вот как это работает!
-That's the way it goes – так уж повелось
+That's the way it goes – вот так уж повелось
 Just the other way around! – как раз наоборот!
 To have a way with – уметь обращаться с
 In order to – для того, чтобы
@@ -1876,7 +1876,7 @@ no matter how – неважно как
 no matter where – где бы то ни было; неважно куда; неважно где
 no matter what – неважно что
 it doesn't matter what – неважно что
-it doesn't matter where – неважно куда; неважно где
+it doesn't matter where – где бы то ни было; неважно куда; неважно где
 I will do it whatever you'll tell me – я сделаю это, что бы ты ни говорил мне
 No matter what people think I will do it – неважно что люди думают, я сделаю это
 It doesn't matter what people think I will do it anyway – неважно что люди думают, я сделаю это, так или иначе
@@ -2027,7 +2027,7 @@ Here is the thing – дело вот в чём
 Get it together – взять себя в руки
 Be on a roll – быть в ударе
 Shut up – заткнись
-Make a difference – менять что-либо
+Make a difference – менять (что-либо)
 It doesn't make much of a difference – это ничего существенно не меняет
 I doubt it – я сомневаюсь в этом
 Get up – вставать
@@ -2058,7 +2058,7 @@ What are you gonna do with it? – что ты собираешься делать с этим?
 Take advantage of – воспользоваться; пользоваться преимуществом
 In the depths of despair – в полном отчаянии
 Demand – потребность; спрос; требование; требовать
-Turn into – превращать
+Turn into – превратить в
 Of course not – конечно же нет
 Not all that – не так-то
 Judging by – судя по
@@ -2086,7 +2086,7 @@ In a good way – в хорошем смысле
 Attempt – попытка
 I don't get the point – я не понимаю смысла
 Find out – узнавать; понимать; выяснять
-It's common mistake – это распространённая ошибка
+It's common mistake – это общая (распространённая) ошибка
 Assumption – предположение
 Evil – зло; злой; зловещий
 Go through with – доводить до конца; завершать

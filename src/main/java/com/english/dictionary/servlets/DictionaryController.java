@@ -30,6 +30,7 @@ public class DictionaryController {
     private static LinkedList<WordEng> wordsEngFromBd = new LinkedList<WordEng>();
     private static final Logger logger3 = LoggerFactory.getLogger(DictionaryController.class);
     private static boolean repeat;
+    private static WordEng originalWordEnglish;
 
     @Autowired
     @Qualifier(value="processingEngWordService")
@@ -57,26 +58,25 @@ public class DictionaryController {
     @RequestMapping(value="/verify", method = RequestMethod.POST)
     public String verifyWord(@ModelAttribute("wordEnglish") WordEng wordEngAsReply, Model model){
 
-        logger3.info("Retrieved english word-reply: " + wordEngAsReply.getWord());
+        logger3.warn("Retrieved english word-reply: " + wordEngAsReply.getWord());
 
         boolean replyReveal = false;
         WordEng wordEngForRemovingFromList = null;
         for (WordEng wordFromList: wordsEngFromBd) {
-                System.out.println("Ответ сравнивается со словами из списка: " + wordFromList.getWord());
-                if(wordEngAsReply.getWord().trim().equalsIgnoreCase(wordFromList.getWord())){
-                    this.processingEngWordService.updateWordEngFromBd(wordFromList);
-                    replyReveal = true;
-                    logger3.info("Coincidence revealed!  English word was updated: " + wordFromList.getWord());
-                    wordEngForRemovingFromList = wordFromList;
-                }
+            if(wordEngAsReply.getWord().trim().equalsIgnoreCase(wordFromList.getWord())){
+                this.processingEngWordService.updateWordEngFromBd(wordFromList);
+                replyReveal = true;
+                logger3.warn("Coincidence revealed!  English word was updated: " + wordFromList.getWord());
+                wordEngForRemovingFromList = wordFromList;
+            }
         }
         if(replyReveal){
             wordsEngFromBd.remove(wordEngForRemovingFromList);
             for (WordEng wordFromList: wordsEngFromBd) {
-                logger3.info("Now list has comprised words: " + wordFromList.getWord());
+                logger3.warn("Now list has comprised words: " + wordFromList.getWord());
             }
         } else {
-            Set<WordRus> setWordRus = wordsEngFromBd.getFirst().getWordsRus();
+            Set<WordRus> setWordRus = originalWordEnglish.getWordsRus();
             model.addAttribute("setWordRussian", setWordRus);
             model.addAttribute("check", false);
             return "pageReturn";
@@ -88,11 +88,12 @@ public class DictionaryController {
     @RequestMapping(value="/well_known", method = RequestMethod.GET)
     public String omitWord(Model model){
 
-        WordEng wordEngForOmit = wordsEngFromBd.getFirst();
+        WordEng wordEngForOmit = originalWordEnglish;
         this.processingEngWordService.updateWordEngFromBd(wordEngForOmit);
+        logger3.warn("Удаляем известное слово: " + wordEngForOmit.getWord());
         wordsEngFromBd.remove(wordEngForOmit);
         for (WordEng wordFromList: wordsEngFromBd) {
-            logger3.info("Now list has comprised words: " + wordFromList.getWord());
+            logger3.warn("Now list has comprised word: " + wordFromList.getWord());
         }
 
         return choosePageForRendering(model);
@@ -123,7 +124,7 @@ public class DictionaryController {
     @RequestMapping(value="/prompt", method = RequestMethod.GET)
     public String prompt(Model model){
 
-        WordEng wordEng = wordsEngFromBd.getFirst();
+        WordEng wordEng = originalWordEnglish;
         Set<WordRus> setWordRus = wordEng.getWordsRus();
         model.addAttribute("setWordRussian", setWordRus);
         model.addAttribute("originalWordEnglish", wordEng);
@@ -136,12 +137,14 @@ public class DictionaryController {
         LinkedList<WordEng> wordEngList = this.processingEngWordService.selectListWordEngFromBd(wordEng);
         Set<WordRus> setWordRus = new TreeSet<WordRus>();
         if(!wordEngList.isEmpty()){
-            logger3.info("English words in servlet's body: " + wordEng.getWord());
+            logger3.warn("English word in servlet's body: " + wordEng.getWord());
+            logger3.warn("List of associated English words: " + wordEngList.toString());
             setWordRus = wordEng.getWordsRus();
         }
         wordsEngFromBd = wordEngList;
         model.addAttribute("setWordRussian", setWordRus);
         model.addAttribute("originalWordEnglish", wordEng);
+        originalWordEnglish = wordEng;
         model.addAttribute("wordEnglishList", wordEngList);
         Counter counter = new Counter();
         int countALL = this.processingEngWordService.selectCountAll();
@@ -163,6 +166,8 @@ public class DictionaryController {
             }
         } else {
             WordEng wordEng = wordsEngFromBd.getFirst();
+            logger3.warn("Следующим вариантом будет: " + wordEng.getWord());
+            originalWordEnglish = wordEng;
             Set<WordRus> setWordRus = wordEng.getWordsRus();
             model.addAttribute("setWordRussian", setWordRus);
             model.addAttribute("originalWordEnglish", wordEng);

@@ -1,6 +1,6 @@
 Only upon the condition – только при условии
 Oracle is willing to license – Oracle готов (добровольно) лицензировать
-Terms and conditions – ограничения и условия договора
+Terms and conditions – ограничения и условия
 Limited license grants – ограниченная лицензия предполагает (предоставляет)
 License for evaluation purposes – лицензия для определения (оценки) целей
 Excerpting brief portions of the specification – выборка (цитирование) коротких частей спецификации
@@ -70,7 +70,7 @@ I will read it – я прочитаю это
 What will he do with it? – что он будет делать с этим?
 This will our bus – это наверное наш автобус
 Accidents will happen – происшествия могут случаться
-Will you tell me the time? – можете подсказать мне время?
+Will you tell me the time? – можете вы подсказать мне время?
 Retrieve – доставать; извлекать; восстанавливать
 Whatever – какой бы ни; любой; что бы ни
 Look up – поиск; просмотр; искать; смотреть вверх
@@ -132,7 +132,7 @@ Mandatory – обязательный
 Third-party – сторонняя
 Third-party applications support – поддержка приложений третьих фирм
 Bill of materials – список материалов
-Against – напротив; опираясь на; в контакте с; на фоне
+Against – против; напротив
 Reverse – обратное; противоположное
 Notably – в особенности
 Allegedly – будто бы; якобы
@@ -145,7 +145,7 @@ Thorough – исчерпывающий; всесторонний; совершенный; абсолютный
 Treatment – обращение; рассмотрение; трактовка
 Mature – зрелый; взрослый; сформировавшийся
 Whereby – посредством чего
-Hence – отсюда; поэтому
+Hence – отсюда; поэтому; следовательно; таким образом
 Assemble – собирать; вызывать
 Aforementioned – вышеупомянутый
 Standalone applications – отдельные (автономные) приложения
@@ -293,7 +293,7 @@ Intently - пристально; внимательно
 Unquestionable - бесспорный; несомненный
 Envelop - обёртывать
 above all - прежде всего; превыше всего
-after all - в конце концов
+after all - после всего (в конце концов)
 and all - и всё такое
 and so on - и так далее
 and so forth - и так далее
@@ -319,7 +319,7 @@ for one's part - что касается конкретного человека
 on one's part - что касается конкретного человека
 for the most part - вообще; по большей части
 I dare say - осмелюсь сказать
-I wonder - интересно
+I wonder - мне интересно
 if I remember rightly - если я правильно помню
 if I'm not mistaken - если я не ошибаюсь
 in a nutshell - вкратце
@@ -335,7 +335,7 @@ in brief - короче
 in a word - короче
 in the long run - в конечном счёте
 it turned out that - оказалось, что
-just for the record - для справки, скажу сразу
+just for the record - только для записи (для справки, скажу сразу)
 lay it on the line - говорить начистоту
 let alone - не говоря уж о
 look here - послушай
@@ -372,7 +372,7 @@ maybe - может быть
 namely - а именно
 no doubt - без сомнения
 without doubt - без сомнения
-so - итак
+so - так; итак
 they say - говорят
 to be more exact - точнее говоря
 to begin with - начнем с
@@ -507,7 +507,7 @@ Conversely – наоборот
 Further - дальнейший; продолжающийся; затем; более того; продвигать; содействовать; способствовать
 Furthermore - к тому же; более того; кроме того
 Moreover - сверх того; кроме того
-Therefor - из-за этого
+Therefor - из-за этого; поэтому
 Consequently - следовательно; в результате
 Thus - таким образом; соответственно
 Thereupon - на этой основе; вследствие того; в этой связи
@@ -551,7 +551,7 @@ Invoke – просить; запрашивать
 Handling – управление; обработка
 Authority – власть; полномочие; авторитет
 Nevertheless – всё таки; тем не менее
-Even so – даже при этих условиях
+Even so – даже так; даже при этих условиях
 At the same time – в тот же раз
 Though – хотя; даже; если бы; хотя бы; тем не менее; однако
 Meanwhile – тем временем; между тем
@@ -820,7 +820,7 @@ gauge - мера; масштаб; шаблон; эталон
 excessive - чрезвычайный; чрезмерный
 prolifically - обильно; в изобилии
 asterisk - звёздочка
-fiance - жених
+fiance - жених, невеста
 synonymous - синоним
 accused - обвиняемый
 sacrilegious - кощунственный
@@ -878,8 +878,8 @@ Not bad – не плохо
 How's your job? - как твоя работа?
 It's good! Thanks for asking - она (работа) в порядке! спасибо что спрашиваешь
 What's new? – что нового?
-I've got news for you - у меня есть новости для тебя
-I just got a new job - я только-что получил новую работу
+I've got news for you - у меня есть новости для тебя (результат)
+I've just got a new job - я только-что получил новую работу (результат)
 That's great! - это отлично!
 I just got a promotion at work - я только-что получил продвижение на работе
 get a promotion – получить продвижение
@@ -930,7 +930,7 @@ Resort – прибежище; курорт
 Business convention – бизнес конференция
 Where did you learn it? - где ты изучил это?
 To book tickets – заказать билеты
-Have a good time! - приятно провести время!
+Have a good time! - хорошо провести время!
 Have a nice day! - приятного дня!
 I'm working for an American company - я работаю для американской компании
 How old are you? - сколько лет тебе?
@@ -962,7 +962,7 @@ For now my career is my priority - сейчас карьера является моим приоритетом
 Are you busy with work? – вы очень заняты на работе?
 I'm in love with going to the gym – я обожаю заниматься в спортзале
 work out – складываться; решать (задачу); отработать (долг); сработать; тренироваться
-The plan work out – план сработал
+The plan works out – план срабатывает
 Is your job demanding? – твоя работа ответственная?
 When I was younger, I used to play football - когда я был моложе, я играл в футбол
 I was born and raised in Kharkov - я родился и вырос в Харькове
@@ -1036,7 +1036,7 @@ I want to start as a Java developer - я хочу начать как Java разработчик
 I plan on getting a master's degree in programming - я планирую получить магистерскую степень в программировании
 I'm not making a lot of money right now, but I have good career opportunities - я не зарабатываю много денег прямо сейчас, но я имею хорошие карьерные возможности
 I'm not making a lot of money right now, but I have a good perspective in this company - я не зарабатываю много денег прямо сейчас, но я имею хорошую перспективу в этой компании
-My family could not pay for my education any more - моя семья не может больше платить за моё обучение
+My family could not pay for my education any more - моя семья не могла больше платить за моё обучение
 Suppress – подавлять; пресекать; сдерживать; запрещать; скрывать
 Ownership – собственность; владение; имущество
 Win – победа; победить; выиграть
@@ -1063,7 +1063,7 @@ I'm tired of it - я устал от этого
 I will get there by car - я буду добираться туда на машине
 How long have you been living here? - как долго ты живёшь здесь?
 Are you satisfied with your job? - ты удовлетворён своей работой?
-It is hard to say – сложно сказать
+It's hard to say – сложно сказать
 Do you think so? – ты так считаешь?
 My friend is very proud of it - мой друг очень гордится этим
 That is a little bit expensive - это немного дороговато
@@ -1129,7 +1129,7 @@ Anger – гнев; раздражение
 Betrayal – измена; предательство
 Cognition – познание; познавательная способность
 Perception – восприятие; ощущение; осознание
-Could you, please, repeat it slowly? – не могли бы вы, пожалуйста, повторить медленнее?
+Could you, please, repeat it slowly? – не могли бы вы, пожалуйста, повторить это медленнее?
 The thing is – дело в том, что
 Interesting thing is – вот что интересно, так это
 Let it go! – отпусти это!; позволь этому случиться!
@@ -1176,14 +1176,14 @@ Could you do it? – не могли бы вы сделать это?
 Would you do it? – мог бы ты сделать это?
 May I do it? – могу я сделать это? (спрашиваю разрешения)
 Can I do it? – могу я сделать это? (есть ли такая возможность)
-Should I do it? – мне следует сделать это?
+Should I do it? – следует мне сделать это?
 I may wanna try it – возможно я захочу попробовать это
 I could help you if you like – я мог бы помочь тебе, если ты хочешь
 What would you like? – что бы ты хотел?
 Where would you like to go? – куда бы ты хотел пойти?
 I wouldn't do it – я бы не сделал этого
 I would never do it – я бы никогда не сделал этого
-I need to – мне надо
+I need to work – мне надо работать
 Are you able to do it? – ты в состоянии сделать это?
 Do you have to do it? – тебе обязательно делать это?
 You don't have to go there, do you? – тебе ведь не обязательно идти туда, не так ли?
@@ -1205,7 +1205,7 @@ Among – среди многих
 Wrong – ошибка; неправильность; неверный; ошибочный; сломанный
 It's all going wrong – всё идёт неправильно (процесс)
 Anxious – взволнованный; озабоченный; беспокоящийся
-I'm anxious about it – я беспокоюсь об этом
+I'm anxious about it – я обеспокоен этим
 What do you like to do most of all? – что тебе нравится делать больше всего?
 Most of all I like creating new things – больше всего мне нравится создание новых вещей
 I have something to do – мне нужно кое-что сделать
@@ -1300,7 +1300,7 @@ I wish I had smth – я бы хотел, чтобы я имел что-то
 To study – учиться самому (быть в процессе обучения)
 To learn – изучать
 To teach – обучать кого-то
-You have done it all wrong – ты сделал это всё неправильно
+You have done it all wrong – ты сделал это всё неправильно (результат)
 Now, what do we have here? – итак, что мы имеем здесь?
 Do you like programming on Java? – тебе нравится программирование на Java?
 She watched me doing it – она видела меня делающим это
@@ -1325,11 +1325,11 @@ Have him sign it – попроси (вынуди) его подписать это
 I like being here with you – мне нравится быть здесь с тобой
 She must be very happy – она должно быть очень счастлива
 Conform – согласоваться; соответствовать; приспосабливаться
-What exactly is he doing? – что именно он делает?
+What exactly is he doing? – что именно он делает? (процесс)
 Disturb – мешать; тревожить; беспокоить
 I have a lot of work to do today – у меня много работы, чтобы сделать сегодня
 Can I watch you do it? – могу я посмотреть как ты делаешь это?
-I love to watch them work – мне нравится смотреть как они работают
+I love to watch them work – я люблю смотреть как они работают
 We can do it later – мы можем сделать это позже
 Touch – прикосновение; касание; касаться; трогать
 Either – любой (из двух); тоже (с отрицанием)
@@ -1391,7 +1391,7 @@ Necessary – необходимое; необходимый; нужный; требуемый
 Deliver – доставлять; освобождать; избавлять
 Delivery – поставка; доставка
 Delivered – доставленный
-It's hard for me to say if he is right – мне сложно сказать, прав ли он
+It's hard for me to say if he is right – это сложно для меня, сказать, прав ли он
 To pass that exam – сдать тот экзамен
 Vital – жизненно необходимый; полный жизни
 Relative – родственник; относительный; сравнительный
@@ -1403,7 +1403,7 @@ Blame – виновность; порицание; осуждение; осуждать; обвинять
 It's not for you to blame me! – не тебе меня судить!
 Reason – разум; ум; здравомыслие; повод; причина; рассуждать; доказывать
 Attend to your business – занимайтесь своим делом
-It wouldn't hurt for you to do that – тебе бы не повредило сделать такое
+It wouldn't hurt for you to do that – это бы не повредило тебе сделать такое
 Shall I do it for you? – должен ли я сделать это для тебя?
 You will have to be patient – тебе придётся быть терпеливым
 I won't have to do it – мне не придётся делать это
@@ -1449,14 +1449,14 @@ Appearance – появление; видимость; наружность; внешний вид
 Deceive – обманывать; вводить в заблуждение
 Appearances can be deceiving – внешность может быть обманчивой
 Punish – наказывать
-Will you be quiet, please? – можно потише, пожалуйста?
+Will you be quiet, please? – можешь быть тише, пожалуйста?
 Rules are made to be broken – правила сделаны, чтобы быть нарушенными
 It's good to be here! – хорошо быть здесь!
 How long will it take? – как долго это займёт?
 It will take all day – это займёт весь день
 I'm not gonna have to explain anything – мне скорее всего не придётся объяснять ничего
 Perhaps – возможно; наверно
-He could have done it himself, but he didn't – он мог бы сделать это сам, но не сделал
+He could have done it himself, but he didn't – он мог бы сделать это сам (тогда), но не сделал
 She couldn't have said that! – не могла она сказать такого!
 She must have been about twenty then – ей, должно быть, было лет 20 тогда
 He must have failed to get that job – ему, должно быть, не удалось получить ту работу
@@ -1482,7 +1482,7 @@ Pleased – довольный
 Here you are – вот, пожалуйста
 You're welcome – пожалуйста
 It was nothing – не о чем говорить; не за что
-Don't mention it – не стоит благодарности
+Don't mention it – не упоминай это (не стоит благодарности)
 Sorrow – печаль; горе; сожаление
 Sorrowful – печальный; плачевный; несчастный
 To be sorry – сожалеть
@@ -1500,7 +1500,7 @@ So so – так себе
 Just great! – прямо отлично!
 Getting by – понемножку
 Same as always – как всегда
-Not so well – не очень хорошо
+Not so well – не так хорошо
 Kind of lousy – довольно паршиво
 Lousy – вшивый; паршивый; отвратительный
 Well done! – отлично сделано!
@@ -1510,30 +1510,30 @@ Cause – причина; основание; вопрос; послужить причиной/поводом
 I don't like bothering people – я не люблю напрягать (надоедать) людей
 Fix the problems – решать проблемы
 Anyway – во всяком случае; так или иначе
-I haven't done it yet – я не сделал этого ещё
+I haven't done it yet – я не сделал этого ещё (результат)
 Lately – недавно; в последнее время
 Whom are you talking? – с кем ты разговариваешь?
 Who are you talking to? – с кем ты разговариваешь?
 Where are you going to? – куда ты едешь?
 In how many days will it be done? – через сколько дней это будет сделано?
 He is well-off – он хорошо зарабатывает
-For whose sake are you doing all this? – ради кого ты делаешь всё это?
+For whose sake are you doing all this? – ради кого ты делаешь всё это? (процесс)
 There were seven candidates for the position – на это место было 7 кандидатов
 There is an error there – там есть ошибка
-There is no answer to this question – на этот вопрос нет ответа
-There is no solution to this problem – у этой проблемы нет решения
+There is no answer to this question – нет ответа на этот вопрос
+There is no solution to this problem – нет решения у этой проблемы
 Are there any questions? – есть какие-нибудь вопросы?
 I have one question – у меня один вопрос
 Your proposal has many drawbacks – ваше предложение имеет много недостатков
-There is a significant drawback in your proposal – в вашем предложении есть значительный недостаток
+There is a significant drawback in your proposal – есть значительный недостаток в вашем предложении
 There were many people who made the same mistake that I did – было много людей, которые сделали ту же ошибку, что и я
 You know, there's a problem – вы знаете, есть одна проблема
 It is difficult to be a boss – трудно быть начальником
-It isn't easy to answer this question – на этот вопрос нелегко ответить
+It isn't easy to answer this question – нелегко ответить на этот вопрос
 It's hard to understand what she is talking about – трудно понять, о чём она говорит
 Way – путь; дорога; расстояние; сторона; направление; отношение; образ; манера; способ
 We lost our way – мы сбились с пути
-I can see no way out for us – я не вижу выхода для нас
+I can see no way out for us – я не могу увидеть выход для нас
 He has come a long way in his work – он далеко продвинулся в своей работе
 Which way are you going? – в какую вам сторону?
 In a way, you are right – в некотором отношении вы правы
@@ -1541,8 +1541,8 @@ This was wrong in every way – это было неправильно во всех отношениях
 No way! – ни за что!; так не пойдёт!
 There is no other way to do it – нет другого способа сделать это
 In what way can I get this information? – каким образом я могу раздобыть эту информацию?
-This is the way to do it! – вот как это нужно делать!
-Do it any way you like – делайте как вам нравится
+This is the way to do it! – это способ, чтобы сделать это!
+Do it any way you like – делайте это любым способом как вам нравится
 Have it your way – пусть будет по вашему
 That's the way it works! – вот как это работает!
 That's the way it goes – вот так уж повелось
@@ -1574,7 +1574,7 @@ I've seen this many times before – я видел это много раз прежде
 I'm seeing my customer tomorrow – я встречаюсь с моим клиентом завтра
 He's always doing this – он всегда делает это (сказано с раздражением)
 I can see – могу представить…
-Just keep it real – оставь всё как есть
+Just keep it real – просто оставь как есть
 When it's official, we'll talk again – когда это будет подтверждено, мы поговорим снова
 It's gonna have to be done – это скорее всего придётся сделать
 Cost – цена; стоимость; стоить; назначать цену
@@ -1596,10 +1596,10 @@ I don't know the answer, and neither does he – я не знаю ответа, и он тоже не зн
 I don't know the answer, and he doesn't, either – я не знаю ответа, и он не знает тоже
 Still – ещё; всё ещё; однако; всё же; тем не менее
 He is still busy – он ещё занят
-I'm still waiting for your reply – я всё ещё жду вашего ответа
-I have already done it – я уже сделал это
-Have you done it already? – ты уже сделал это?
-I've already told him about it – я уже рассказал ему об этом
+I'm still waiting for your reply – я всё ещё жду вашего ответа (процесс)
+I have already done it – я уже сделал это (результат)
+Have you done it already? – ты сделал это уже? (результат)
+I've already told him about it – я уже рассказал ему об этом (результат)
 He is already here – он уже здесь
 Yet – ещё не; уже; однако; всё же; тем не менее
 He is not here yet – он ещё не здесь
@@ -1625,7 +1625,7 @@ He may be late – он возможно опаздает
 I might do it, but I'm not sure for the quality – я мог бы сделать это, но я не уверен за качество
 It's supposed to be so – по идее, это должно быть так
 I've had to do it – мне пришлось сделать это
-No one says like that – никто так не говорит
+No one says like that – никто не говорит так
 Could you call me later? – не могли бы вы позвонить мне позже?
 to get – получать; раздобыть; достать; принести; поймать; понимать; добираться; становиться; начинаться
 get to – сделать так, чтобы сделалось; заставить (уговорить, повлиять)
@@ -1682,11 +1682,11 @@ What did she say? – что она сказала?
 What did she tell you? – что она сказала тебе?
 To tell the truth – говорить правду
 To tell a lie – говорить неправду
-I told you so! – я же говорил тебе!
+I told you so! – я же говорил тебе так!
 It's just talk! – это только разговоры!
 Stop talking! – прекратите разговаривать!
 What are you talking about? – о чём вы говорите?
-to be about to – скоро; вот-вот
+be about to – скоро; вот-вот
 The lesson is about to start – урок скоро начнётся
 Don't worry, it's gonna be all right! – не переживай, всё будет в порядке!
 You can join us if you will – вы можете присоединиться к нам, если желаете
@@ -1722,7 +1722,7 @@ Coverage – сфера действия; рамки; границы; масштаб; освещение в СМИ
 Confidence – вера; доверие; уверенность; конфиденциальность
 Strengths and weaknesses – сильные и слабые стороны
 Polite – вежливый; любезный; изящный; изысканный
-When will you make your decision? – когда вы примете решение?
+When will you make your decision? – когда вы примете ваше решение?
 Chief – руководитель; лидер; начальник; шеф
 Company headquaters – главный офис компании
 Vacation – оставление; освобождение; отпуск; отдых
@@ -1742,15 +1742,15 @@ He may not have seen her – он, возможно, не видел её
 I might as well – я мог бы так же
 Without saying a word – не говоря ни слова
 hear out – выслушать
-You should've heard him out – ты должен был выслушать его
-You shouldn't have said it – тебе не надо было этого говорить
+You should've heard him out – тебе следовало выслушать его
+You shouldn't have said it – тебе не надо было говорить это
 You shouldn't have done it – тебе не следовало этого делать
-Shouldn't you be doing your work? – разве ты не должен делать свою работу?
-It can't be true – не может быть, что это правда
+Shouldn't you be doing your work? – разве ты не должен делать свою работу? (процесс)
+It can't be true – это не может быть правдой
 Can it be true? – неужели это правда?
-Can they still be working? – неужели они всё ещё работают?
-Can he have forgiven her? – неужели он простил её?
-He can't have forgiven her – не может быть, чтобы он простил её
+Can they still be working? – неужели они всё ещё работают? (процесс)
+Can he have forgiven her? – неужели он простил её? (результат)
+He can't have forgiven her – не может быть, чтобы он простил её (результат)
 Be allowed to – будет разрешено
 They will be allowed to do it – им будет разрешено сделать это
 Tight – сжатый; плотный; тугой; строгий; надёжный; трудный
@@ -1784,11 +1784,11 @@ If there were no jams, I would go there – если бы там не было пробок (сейчас), т
 If I was invited, I came – если меня приглашали, то я приходил
 If I had listened his recommendations, I could have done it better – если бы я выслушал его рекомендации (тогда), то я мог бы сделать это лучше (тогда)
 If I had listened his advices, I would've been taken to that job – если бы я выслушал его советы (тогда), то я был бы взят на ту работу (тогда)
-If I wanted, I would do – если бы я хотел (сейчас), то я бы сделал (сейчас)
+If I wanted, I would do it – если бы я хотел (сейчас), то я бы сделал это (сейчас)
 If I had wanted, I would have done it – если бы я хотел (тогда), то я бы сделал это (тогда)
 If I could help you, I would do it, but I can't – если бы я мог помочь тебе (сейчас), то я бы сделал это (сейчас), но я не могу (сейчас)
-If I had been able to do it – если бы я смог сделать это (тогда)
-If I'd had to do it – если бы мне пришлось сделать это (тогда)
+If I had been able to do it – если бы я смог сделать это (тогда), ...
+If I would had to do it – если бы мне пришлось сделать это (тогда)
 I would be able to do it – я бы смог сделать это
 I would have to do it – мне бы пришлось сделать это
 There would be more possibilities – было бы больше возможностей
@@ -1842,9 +1842,9 @@ I understand her being like that – я понимаю, почему она ведёт себя подобным обр
 Commit – совершать; вверять; поручать; фиксировать
 I'm sorry for interrupting you – прошу прощения, что перебил вас
 He seems to want it – кажется, что он хочет этого
-He seems to want to say smth to you – кажется, что он хочет что-то сказать тебе
+He seems to want to say smth to you – кажется, что он хочет сказать что-то тебе
 He turns out to have a work – он, оказывается, имеет работу
-He turned out to be married – оказалось, что он женат
+He turned out to be married – он, оказалось, женат
 He doesn't seem to have a soul – кажется, у него нет души
 Appear – показываться; появляться; выходить; казаться
 He appears to be tired – он кажется уставшим
@@ -1858,7 +1858,7 @@ Surely – конечно; несомненно; уверенно; верно
 He is less likely to do it – ему сложнее сделать это
 He is more likely to do it – ему проще сделать это
 He said that he didn't like that – он сказал, что ему не нравится это
-He said he had done it – он сказал, что он сделал это
+He said he had done it – он сказал, что он сделал это (результат в прош.)
 He said that he was reading a book – он сказал, что он читает книгу
 He asked if I liked it – он спросил, нравится ли мне это
 He asked whether I liked it – он спросил, нравится ли мне это
@@ -1910,20 +1910,20 @@ There's one thing I want to tell you – есть одна вещь, которую я хочу рассказать
 There are many ideas you may use – есть много идей, которые ты можешь использовать
 There are so much to tell you – есть так много, чтобы рассказать тебе
 I have smth interesting to show you – у меня есть кое-что интересное, что мне нужно показать тебе
-The thing he is trying to say – то, что он пытается сказать
-I like the thing you're doing – мне нравится то, что ты делаешь
-I like the way you do it – мне нравится, как ты делаешь это
-I like the way he is doing his work – мне нравится, как он делает свою работу
+The thing he is trying to say – то, что он пытается сказать (процесс)
+I like the thing you're doing – мне нравится то, что ты делаешь (процесс)
+I like the way you do it – мне нравится, как ты делаешь это (вообще)
+I like the way he is doing his work – мне нравится, как он делает свою работу (процесс)
 In a way to do smth – так, чтобы сделать что-то
 In a way that does smth – таким образом, который сделает что-то
 Do it in a way to earn some money – сделай это так, чтобы заработать немного денег
 Do it in a way that brings money – сделай это таким образом, который принесёт деньги
 That's the very film I told you about – вот тот самый фильм, о котором я тебе рассказывал
-This is the film is the one I told you about – этот фильм тот самый, о котором я тебе рассказывал
+This film is the one I told you about – этот фильм тот самый, о котором я тебе рассказывал
 The thing I like about her is the way she dresses – то, что мне нравится в ней, это как она одевается
 What I like about her is the way she dresses – что мне нравится в ней, это как она одевается
 It doesn't make you happier – это не делает тебя счастливее
-It doesn't make it easier to do – от этого не легче
+It doesn't make it easier to do – это не делает это легче сделать
 Masterly – мастерский; совершенный; мастерски
 Accomplished – завершённый; совершённый; искусный
 Completed – законченный; завершённый
@@ -1959,7 +1959,7 @@ He looks like going to leave – он выглядит собирающимся уйти
 He is thought to be a diligent employee – он нём думают, что он усердный работник
 Launch – запуск; запускать; начинать
 Customizable – настраиваемый
-first draft – черновой набросок
+first draft – первый (черновой) набросок
 Cookie – печенье
 Flavor – вкус
 Stuff – имущество; вещи; хлам
@@ -1990,7 +1990,7 @@ I'll be there for you, cause you're there for me too – я помогу тебе, потому что
 I'll be there for you, like I've been there before – я помогу тебе, как я помогал тебе раньше
 Come on! – да брось!; вперёд!; давай!
 Instead of – вместо
-That's right – именно
+That's right! – именно!
 All of a sudden – неожиданно
 It turns out – оказывается
 feel like – быть склонным; быть в настроении; хотеть
@@ -1999,7 +1999,7 @@ gorgeous – великолепный; шикарный
 turned on – возбуждённый
 it hit me – меня осенило
 kind of – вроде как
-that wouldn't be an issue – это не будет проблемой
+that wouldn't be an issue – это бы не было проблемой
 well, it matters to me – ну, это имеет значение для меня
 survivor – выживший
 it sucks – это отстой
@@ -2007,12 +2007,12 @@ you got screwed – тебя поимели
 I'm all better – я чувствую себя лучше
 This is for the best – это к лучшему
 Be away – отлучиться
-Hit on – заигрывать
+Hit on – заигрывать; приударять
 Like there's a smth – как будто есть что-то
 Horrible – ужасный; страшный; отвратительный
 Be supposed to – быть должным (сделать что-либо)
 Head for – направляться на
-Hang out – тусоваться
+Hang out – зависать; тусоваться
 Whatsoever – какой бы ни
 How did you get through it? – как ты справился с этим?
 Cut off - отрубать; отрезать; разъединять
@@ -2035,7 +2035,7 @@ Wish me luck – пожелай мне удачи
 Severe – тяжёлый; серъёзный; суровый; жестокий; жёсткий
 Give me a break! – отстань от меня!
 End up – закончить тем, что
-I don't think so – я так не думаю
+I don't think so – я не думаю так
 Crash – авария; крушение; падать; валиться; разбиваться
 Are you gonna be ok? – ты будешь в порядке?
 Split – делить
@@ -2056,11 +2056,11 @@ Credence – обоснование; доверие
 What else? – что же ещё?
 What are you gonna do with it? – что ты собираешься делать с этим?
 Take advantage of – воспользоваться; пользоваться преимуществом
-In the depths of despair – в полном отчаянии
+In the depths of despair – в глубинах отчаяния (в полном отчаянии)
 Demand – потребность; спрос; требование; требовать
 Turn into – превратить в
 Of course not – конечно же нет
-Not all that – не так-то
+Not all that – не всё что
 Judging by – судя по
 Affection – влечение; привязанность
 Violate – нарушать
@@ -2175,3 +2175,105 @@ morning! – доброе утро!
 See you later – увидимся позже
 Departure – отъезд; уход; отбытие; отправная точка
 watch out – остерегаться; быть начеку
+cute – изящный; привлекательный; прелестный; проницательный; сообразительный; находчивый; умный
+prominent – выступающий; заметный; видный; выдающийся; знаменитый
+so long – пока!; до свидания!; прощайте!
+Pal – друг; приятель; товарищ; дружить
+Alert – тревога; бдительный; настороженный; поднимать тревогу
+Altitude – высота; возвышенность; высокое положение
+Patch – клочок; лоскут; обрывок; заплата; чинить; латать
+Booze – спиртное; бухло
+Troop – стадо; отряд; группа людей; войска
+Suit – прошение; обращение; ухаживание; комплект; набор; костюм; подходить; соответствовать; устраивать
+Silly – глупый
+What the hell? – какого чёрта?
+Mess – беспорядок; путаница; неприятность; создавать беспорядок; валять дурака
+get into a mess – попасть в беду
+mess up – портить
+don't mess with me – не валяй дурака со мной	
+favour – расположение; благосклонность; поддержка; одобрение; любезность; одолжение
+do me a favour – сделай мне одолжение
+footage – длина плёнки в футах; метраж; отснятый материал фильма
+explode – взрывать
+exploded – разобранный
+rendering – передача; интерпретация; визуализация
+am I right? – я прав?
+Let me handle this – давай я разберусь с этим
+Associate – товарищ; коллега; партнёр; объединённый; связанный; объединяться; связывать; ассоциировать
+Associated – объединённый; связанный
+Amaze – изумлять; поражать; удивлять
+Amazing – изумительный; ошеломительный; удивительный
+Exclude – исключать
+Don't be late! – не опаздывай!
+hang on – прицепиться; повиснуть; крепко держаться
+to relive – вновь пережить
+I'm racking my brain – я напрягаю мой мозг
+Performer – исполнитель (задания); актёр
+Performance – исполнение; выполнение
+Chill – холод; холодный; охлаждать
+Chill out – успокаиваться; остывать
+Caution – внимательность; осторожность; предостережение; предостерегать
+Advance – движение вперёд; продвижение; двигать вперёд; продвигать
+Impact – удар; толчок; импульс; влияние
+Bound – граница; рамки; ограничение; несвободный; связанный; ограничивать; сдерживать
+Obtain – получать; добывать; достигать
+Take it out of here – забери это отсюда
+It's your choice – это твой выбор
+So, what's it gonna be? – так как это будет?
+Flame – огонь; пламя; гореть; пылать
+Passion – страсть
+Excitement – волнение; возбуждение
+Trainee – практикант; стажёр
+Chapter – глава
+Build – внешний вид; форма; конструкция; строить; сооружать
+Build on – основываться на; надстраивать
+Web framework built on the Servlet API – веб фреймворк, основанный на Servlet API
+From the very beginning – с самого начала
+Commonly known – общеизвестен
+Also based on – также основан на
+To cover – покрывать; охватывать
+This section covers Spring Web MVC – этот раздел охватывает Spring Web MVC
+Baseline – база; базис; базовый
+Range – круг; диапазон; ряд; ассортимент; варьироваться; простираться
+Design – разработка; дизайн; проектирование; конструкция; конструкторский; разрабатывать; проектировать; конструировать
+Share – доля; часть; участие; долевой; делить; разделять; распределять
+Shared – общий; совместный
+Flexible – гибкий; гибкость
+Diverse – различный; разнообразный
+Workflow – рабочий поток
+And more – и больше; и так далее
+That in turn – это, в свою очередь
+According – согласно
+Declare – декларировать; объявлять; заявлять
+Initialize – инициализировать
+Pay – плата; оплата; зарплата; платить; оплачивать; вознаграждать
+Excellent – отличный; отменный
+Excellently – отлично
+Perfectly – отлично; совершенно
+Very well – отлично
+Very good – очень хорошо
+In general – вообще
+Mainly – в основном; преимущественно; главным образом
+Principally – в основном; главным образом
+Basically – в основном; по существу
+Urgent – срочный; неотложный
+Typically – как правило; обычно
+Shield – щит; защита; защищать; ограждать
+However – однако; тем не менее
+Perk – привилегия; преимущество
+Participate – участвовать; принимать участие
+Credentials – полномочия
+As a reminder – как напоминание
+Variety – разнообразие; разнообразные; различные
+With the use of – с использованием (чего-то)
+Using – с использованием (чего-то)
+With the application of – с применением (чего-то)
+A wide range of – широкий круг
+In various areas – в разных областях
+In various ways – по разным направлениям
+In different directions – по разным направлениям
+For a noise immunity increase – для увеличения помехозащищённости
+Increase – возрастание; рост; увеличение; возрастать; увеличиваться
+Against a background of – на фоне (чего-то)
+Subject areas – предметные области
+Schedule – план работы; график; составлять расписание; намечать; планировать

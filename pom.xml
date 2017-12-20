@@ -93,6 +93,11 @@
                 <artifactId>mysql-connector-java</artifactId>
                 <version>${mysql-version}</version>
             </dependency>
+            <dependency>
+                <groupId>org.postgresql</groupId>
+                <artifactId>postgresql</artifactId>
+                <version>9.4.1210.jre7</version>
+            </dependency>
             <!--Spring-->
             <dependency>
                 <groupId>org.springframework</groupId>

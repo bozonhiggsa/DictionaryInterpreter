@@ -13,9 +13,10 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+
+import java.util.LinkedHashSet;
 import java.util.LinkedList;
 import java.util.Set;
-import java.util.TreeSet;
 
 /**
  * Controller for requests processing
@@ -135,11 +136,12 @@ public class DictionaryController {
 
     private void processingTemplate(WordEng wordEng, Model model){
         LinkedList<WordEng> wordEngList = this.processingEngWordService.selectListWordEngFromBd(wordEng);
-        Set<WordRus> setWordRus = new TreeSet<WordRus>();
+        Set<WordRus> setWordRus = new LinkedHashSet<WordRus>();
         if(!wordEngList.isEmpty()){
             logger3.warn("English word in servlet's body: " + wordEng.getWord());
             logger3.warn("List of associated English words: " + wordEngList.toString());
             setWordRus = wordEng.getWordsRus();
+            logger3.warn("List of associated Russian words: " + setWordRus.toString());
         }
         wordsEngFromBd = wordEngList;
         model.addAttribute("setWordRussian", setWordRus);

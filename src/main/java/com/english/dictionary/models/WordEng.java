@@ -1,8 +1,8 @@
 package com.english.dictionary.models;
 
 import javax.persistence.*;
+import java.util.LinkedHashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
 /**
  * Base model for english words
@@ -74,7 +74,7 @@ public class WordEng {
         return wordsRus;
     }
 
-    public void setWordsRus(TreeSet<WordRus> wordsRus) {
+    public void setWordsRus(LinkedHashSet<WordRus> wordsRus) {
         this.wordsRus = wordsRus;
     }
 
@@ -90,12 +90,15 @@ public class WordEng {
 
         WordEng wordEng = (WordEng) o;
 
+        if (id != wordEng.id) return false;
         return word != null ? word.equals(wordEng.word) : wordEng.word == null;
 
     }
 
     @Override
     public int hashCode() {
-        return word != null ? word.hashCode() : 0;
+        int result = id;
+        result = 31 * result + (word != null ? word.hashCode() : 0);
+        return result;
     }
 }

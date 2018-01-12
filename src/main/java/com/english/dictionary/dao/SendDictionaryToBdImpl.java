@@ -6,8 +6,9 @@ import com.english.dictionary.interfaces.SendWordEngToBdService;
 import com.english.dictionary.models.WordEng;
 import com.english.dictionary.models.WordRus;
 import org.springframework.context.ApplicationContext;
+
+import java.util.LinkedHashSet;
 import java.util.Set;
-import java.util.TreeSet;
 
 /**
  * Implementation of {@link SendDictionaryToBd} for send the dictionary into BD
@@ -22,10 +23,13 @@ public class SendDictionaryToBdImpl implements SendDictionaryToBd {
 
         for (String setStrings: setStringWithWords) {
 
-            TreeSet<String> words = new ExtractWordsImpl().extractWords(setStrings);
+            LinkedHashSet<String> words = new ExtractWordsImpl().extractWords(setStrings);
 
             WordEng wordEng = this.instance.extractWordEng(words);
-            TreeSet<WordRus> wordsRus = this.instance.extractWordsRus(words, wordEng);
+
+            //if(!wordEng.getWord().contains("?")){continue;}
+
+            LinkedHashSet<WordRus> wordsRus = this.instance.extractWordsRus(words, wordEng);
             wordEng.setWordsRus(wordsRus);
 
             SendWordEngToBdService sendWordEngToBdService = (SendWordEngToBdService) context.getBean("sendEngWordService");

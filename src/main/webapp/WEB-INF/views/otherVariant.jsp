@@ -6,7 +6,7 @@
 <html>
 <head>
     <title>Other variant of english word</title>
-    <link rel="stylesheet" href="../../css/style.css">
+    <link href=<c:url value="/static/style.css"/> rel="stylesheet">
 </head>
 <body>
 <div align="center">

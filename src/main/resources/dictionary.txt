@@ -65,8 +65,6 @@ Respective – соответствующий; соответственный
 Retain – сохранять; удерживать в памяти
 Alias – прозвище; псевдоним
 Will – воля; желание; проявлять волю (желание)
-I will do it – я сделаю это
-I will read it – я прочитаю это
 What will he do with it? – что он будет делать с этим?
 This will our bus – это наверное наш автобус
 Accidents will happen – происшествия могут случаться
@@ -217,7 +215,7 @@ Pivot - главный; основной; центровой; опорный; вращаться вокруг оси
 Insane - сумасшедший; безумный; безрассудный
 Casual - случайный; нерегулярный; неаккуратный; повседневный
 Flattery - лесть; подхалимство
-Thereby - таким образом; в связи с этим; приблизительно
+Thereby - таким образом; в связи с этим; тем самым
 Feverishly - лихорадочно; возбуждённо; взволнованно
 Consciousness - сознание
 Governor - губернатор; правитель
@@ -482,14 +480,12 @@ Advertisement - реклама
 Albeit - хотя
 Caching - кэширование
 Chattering – болтовня
-Ink-jet printer – струйный принтер
 Sheepish – глуповатый
 Countryside – сельская местность
 Forsooth – поверь
 Plug – штекер
 Slight – незначительный
 Hassle – стычка
-Relay – реле
 Rebel – бунтарь; воспротивиться
 Briskly – оживлённо
 Overflowing – переполненный
@@ -737,7 +733,7 @@ Tuple – запись
 Cardinality – количество элементов множества
 Invoice – счёт
 Is everything OK? – всё в порядке?
-That would be better – так будет лучше
+That would be better – это было бы лучше
 Anything else? – что-нибудь ещё?
 Income – доход; прибыль; заработок
 Expense – затраты; расход; стоимость; цена
@@ -855,7 +851,6 @@ sophomore - второкурсник
 unanimous - единогласный
 devious - удалённый; уединённый; заблудший
 fictitious - выдуманный; нереальный; поддельный; фальшивый
-vacuum - вакуум
 plagiarism - плагиат
 pity – жалость; сожаление; печальный факт
 I'd love to – с удовольствием
@@ -885,7 +880,7 @@ I just got a promotion at work - я только-что получил продвижение на работе
 get a promotion – получить продвижение
 get a raise – получить повышение зарплаты
 bump up – повысить в должности
-They bump me up to Java Senior - они повысили меня до Java Senior
+They bump me up to Java Senior - они повышают меня до Java Senior
 So, how is it? – ну, и как она?
 It pays more than my last job – она (работа) платит больше, чем моя прошлая работа
 It's been ages since, I last saw you - очень давно не видел тебя
@@ -909,7 +904,7 @@ I just got back from – я только что вернулся из
 What did you do there? – что ты там делал?
 How was it? – как это было?
 Conjunction – связывание; сцепление; соединение
-Resolve – решимость; намерение; решение
+Resolve – намерение; решимость; решение; разрешение; урегулирование; решать; разрешать; урегулировать
 Where are you from? - откуда ты?
 Is this your first time here? - это твой первый раз здесь?
 How long will you be here? - как долго будешь ты находиться здесь?
@@ -1445,7 +1440,7 @@ My work is the only thing I can think about – моя работа это единственное, о чём
 Explore – исследовать; выяснять; анализировать; экспериментировать
 Exploration – исследование; изучение
 Discover – обнаруживать; узнавать; делать открытие
-Appearance – появление; видимость; наружность; внешний вид
+Appearance – появление; выступление; видимость; наружность; внешний вид
 Deceive – обманывать; вводить в заблуждение
 Appearances can be deceiving – внешность может быть обманчивой
 Punish – наказывать
@@ -1737,8 +1732,8 @@ She must be having an appointment now – она, должно быть, на встрече сейчас (про
 He must be thinking about her – он, должно быть, думает о ней (процесс)
 She must've been doing smth – она, должно быть, делала что-то (долго)
 He may not want to come – он, возможно, не захочет приходить
-He may have done smth – он, возможно, сделал что-то
-He may not have seen her – он, возможно, не видел её
+He may have done smth – он, возможно, сделал что-то (результат)
+He may not have seen her – он, возможно, не видел её (результат)
 I might as well – я мог бы так же
 Without saying a word – не говоря ни слова
 hear out – выслушать
@@ -1983,8 +1978,8 @@ Plural – множественный
 Chart – график; диаграмма
 Gear – передача
 Fixate – зацикливаться
-Tie – связать
-This way – такой; таким образом
+Tie – галстук; связать
+This way – так; таким образом; сюда
 I'll be there for you – я помогу тебе
 I'll be there for you, cause you're there for me too – я помогу тебе, потому что ты помогаешь мне тоже
 I'll be there for you, like I've been there before – я помогу тебе, как я помогал тебе раньше
@@ -2268,7 +2263,7 @@ Variety – разнообразие; разнообразные; различные
 With the use of – с использованием (чего-то)
 Using – с использованием (чего-то)
 With the application of – с применением (чего-то)
-A wide range of – широкий круг
+A wide range of – широкий круг (чего-то)
 In various areas – в разных областях
 In various ways – по разным направлениям
 In different directions – по разным направлениям
@@ -2277,3 +2272,125 @@ Increase – возрастание; рост; увеличение; возрастать; увеличиваться
 Against a background of – на фоне (чего-то)
 Subject areas – предметные области
 Schedule – план работы; график; составлять расписание; намечать; планировать
+Activity – деятельность
+Guidance – методические указания
+Methodological guidelines – методические указания
+Laboratory – лаборатория; лабораторный
+As follows – следующим образом; а именно; таковы
+Principal – основной; главный; главное
+Firm – фирма; крепкий; твёрдый
+The same as if – то же самое, как если бы; такой же, как если бы
+Note that if – замечу, что если …
+While – время; пока; хотя; тогда как
+While doing smth – при делании чего-то
+Negotiation – переговоры; обсуждение; согласование
+Negotiate – вести переговоры; договариваться
+Also known as – также известен как
+Dedicate – посвятить
+built-in – встроенный
+pluggable – сменный; съёмный
+hand over – передавать (из рук в руки)
+parsing – разбор
+ridiculous – смешной; нелепый
+conquest – победа; завоевание
+misery – страдание
+wreck – крушение; авария
+tutor – наставник; репетитор
+approximately – примерно; приблизительно
+about – около; примерно; приблизительно; об
+around – вокруг; около; примерно; приблизительно
+artificial – искусственный
+artificial intelligence – искусственный интеллект
+That way – так; таким образом; туда
+I'll do my best – я сделаю всё, что в моих силах
+Co-founder – соучредитель
+Fluency – плавность; беглость
+Grammar – грамматика
+Meaning – значение; смысл
+Vocabulary – словарь; словарный запас; лексика
+Well, actually that's kind of a trick question – ну, в действительности это своего рода вопрос-обманка
+Meaningful – выразительный; многозначительный
+Habit – привычка; обычай; традиция
+Prevent – предотвращать
+Towards – в направлении; перед
+Capture – захват; сбор; улавливание; захватить
+Over and over again – снова и снова
+Of all time – за всё время
+Regularly – регулярно
+Grace – грация; изящество
+Unmatched – несравненный; непревзойдённый
+Failure – неспособность; неудача; провал
+Discourage – обескураживать; препятствовать; сдерживать
+Another – другой; ещё один
+Invention – изобретение
+Eventually – в конце концов
+Obstacles didn't make him give up – препятствия не заставили его бросить
+Clearly – чётко; явно; ясно; очевидно
+That's why I succeed – вот почему я добился успеха
+He had a healthy relationship with failure – он имел здоровое отношение к неудаче
+He saw failure as a step towards success – он смотрел на неудачу, как на шаг в направлении успеха
+This way of thinking eventually led him to success – такой образ мышления в конце концов привёл его к успеху
+Persevere – упорно продолжать
+This attitude of seeing failure as a learning experience helped me persevere – такое отношение к встречающейся неудаче как к обучающему опыту помогло мне упорно продолжать
+Perversion – извращение
+Pervert – извращенец; извращать
+Deprave – развращать
+Depraved – развращённый; порочный
+Good luck! – удачи!
+Method is worth special attention – метод стоит специального внимания
+In particular – в частности
+Overhead – верхний; накладные расходы
+Community – сообщество
+Bind – связать
+Usability – пригодность; удобство использования
+Functionality – функциональность
+As mentioned before – как упомянуто ранее
+Let's start with – давайте начнём с
+Merge – объединить; сливаться
+Concise – краткий
+Simply put – просто излагая; проще говоря
+Rest – отдых; остаток; отдыхать
+Almost – почти
+Otherwise – иначе
+Deprecated – не рекомендуется
+Desperate – отчаянный; отчаявшийся
+Corresponding – соответствующий
+I missed you – я скучал по тебе
+Consider – рассмотреть; рассматривать; считать
+Rough – грубо; грубый; приблизительный
+As soon as – как только
+But these weren't the only things that made him great – но это не были единственные вещи, которые сделали его великим
+He wasn't discouraged by failure – его не обескураживала неудача
+He knew that failure was just another chance for him to improve – он знал, что неудача была лишь ещё одним шансом для него, чтобы совершенствоваться
+There was always a problem – всегда была проблема
+There were always problems – всегда были проблемы
+Convince – убеждать
+Humble – скромный
+Pursuit – достижение; достижения
+Tip – чаевые; совет; кончик; наводка; подсказка
+Hold on – подождать; держаться; продержаться
+Restlessness – беспокойство
+Wealth – богатство
+Wealthy – богатый
+Mimic – имитировать
+Robust – надёжный; активный; устойчивый
+Facilitate – способствовать; содействовать
+Validate – проверить; подтвердить; подтверждать
+Revalidate – подтвердить; подтверждать
+Disable – отключить; отключать
+Exchange – обмен
+He came to a similar conclusion – он пришёл к подобному заключению
+After trying to find – после попыток найти
+Executive – исполнительный; руководитель
+Asset – актив; имущество; ресурс
+Chord – струна; аккорд
+Struck a chord – задело
+One by one – один за одним
+By mistake – по ошибке
+The time had come to say goodbye – пришло время сказать прощай
+And then smth happened – и затем кое-что произошло
+All of this – всё это
+All of these – все эти
+All of them – все они
+All of us – все мы; всех нас
+Out of the box – из коробки

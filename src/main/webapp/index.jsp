@@ -3,6 +3,7 @@
 <html>
 <head>
     <title>Dictionary</title>
+    <link href=<c:url value="/static/style.css"/> rel="stylesheet">
 </head>
 <body>
 <br/>

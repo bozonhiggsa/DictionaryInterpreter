@@ -1,6 +1,6 @@
 package com.english.dictionary.interfaces;
 
-import java.util.TreeSet;
+import java.util.LinkedHashSet;
 
 /**
  * Interface for extracting words from String
@@ -9,6 +9,6 @@ import java.util.TreeSet;
  */
 public interface ExtractWords {
 
-    TreeSet<String> extractWords(String s);
+    LinkedHashSet<String> extractWords(String s);
 
 }

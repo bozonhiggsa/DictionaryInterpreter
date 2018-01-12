@@ -1,16 +1,17 @@
 package com.english.dictionary.handlingSourceFile;
 
 import com.english.dictionary.interfaces.ExtractWords;
-import java.util.TreeSet;
+
+import java.util.LinkedHashSet;
 
 /**
  * Implementation of {@link ExtractWords} interface for extracting words from String
  */
 public class ExtractWordsImpl implements ExtractWords {
 
-    public TreeSet<String> extractWords(String s) {
+    public LinkedHashSet<String> extractWords(String s) {
 
-        TreeSet<String> setWords = new TreeSet<String>();
+        LinkedHashSet<String> setWords = new LinkedHashSet<String>();
         int index = s.indexOf(" – "); // shorter char
         if(index == -1){
             index = s.indexOf(" - "); // longer char

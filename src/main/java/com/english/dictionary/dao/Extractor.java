@@ -2,8 +2,9 @@ package com.english.dictionary.dao;
 
 import com.english.dictionary.models.WordEng;
 import com.english.dictionary.models.WordRus;
+
+import java.util.LinkedHashSet;
 import java.util.TreeMap;
-import java.util.TreeSet;
 
 /**
  * Extractor WordEng and TreeSet<WordRus> from TreeSet<String> words
@@ -25,7 +26,7 @@ public class Extractor {
         return instance;
     }
 
-    public WordEng extractWordEng(TreeSet<String> words){
+    public WordEng extractWordEng(LinkedHashSet<String> words){
         String wordEng = "";
         for (String word: words) {
             wordEng = word;
@@ -34,10 +35,10 @@ public class Extractor {
         return new WordEng(wordEng);
     }
 
-    public TreeSet<WordRus> extractWordsRus(TreeSet<String> words, WordEng wordEng){
+    public LinkedHashSet<WordRus> extractWordsRus(LinkedHashSet<String> words, WordEng wordEng){
 
         words.remove(wordEng.getWord());
-        TreeSet<WordRus> wordsRus = new TreeSet<WordRus>();
+        LinkedHashSet<WordRus> wordsRus = new LinkedHashSet<WordRus>();
         for (String s: words) {
             WordRus tempWordRus = new WordRus(s);
             buffer.putIfAbsent(tempWordRus, tempWordRus);

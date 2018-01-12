@@ -6,7 +6,7 @@
 <html>
 <head>
     <title>Correction the fail answer</title>
-    <link rel="stylesheet" href="../../css/style.css">
+    <link href=<c:url value="/static/style.css"/> rel="stylesheet">
 </head>
 <body>
 

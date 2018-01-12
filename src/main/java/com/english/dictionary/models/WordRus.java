@@ -41,7 +41,41 @@ public class WordRus implements Comparable<WordRus> {
         this.word = word;
     }
 
-    public int compareTo(WordRus that) {
-        return this.getWord().compareTo(that.getWord());
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (o == null || getClass() != o.getClass()) return false;
+
+        WordRus wordRus = (WordRus) o;
+
+        if (id != wordRus.id) return false;
+        return word != null ? word.equals(wordRus.word) : wordRus.word == null;
+
     }
+
+    @Override
+    public int hashCode() {
+        int result = id;
+        result = 31 * result + (word != null ? word.hashCode() : 0);
+        return result;
+    }
+
+    @Override
+    public String toString() {
+        return "WordRus{" +
+                "word='" + word + '\'' +
+                ", id=" + id +
+                '}';
+    }
+
+    public int compareTo(WordRus that) {
+        if(this.word.compareTo(that.getWord()) > 0){
+            return 1;
+        }
+        else if(this.word.compareTo(that.getWord()) < 0){
+            return -1;
+        }
+        else return 0;
+    }
+
 }

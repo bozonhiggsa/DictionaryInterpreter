@@ -70,7 +70,7 @@ This will our bus – это наверное наш автобус
 Accidents will happen – происшествия могут случаться
 Will you tell me the time? – можете вы подсказать мне время?
 Retrieve – доставать; извлекать; восстанавливать
-Whatever – какой бы ни; любой; что бы ни
+Whatever – какой бы ни; любой; что бы ни; независимо от; по любому
 Look up – поиск; просмотр; искать; смотреть вверх
 Conventional – условный; оговоренный; удовлетворяющий техническим условиям
 Explicit – подробный; явный; точный; заключение; конец
@@ -130,7 +130,7 @@ Mandatory – обязательный
 Third-party – сторонняя
 Third-party applications support – поддержка приложений третьих фирм
 Bill of materials – список материалов
-Against – против; напротив
+Against – против; напротив; на фоне
 Reverse – обратное; противоположное
 Notably – в особенности
 Allegedly – будто бы; якобы
@@ -405,7 +405,7 @@ Self-imposed - возложенный на самого себя
 Impose - класть; помещать; возлагать
 Exile - изгнание; ссылка
 Circus - цирк
-As far as - поскольку
+As far as - поскольку; насколько; что касается; дальше
 Concerned - заинтересованный; затронутый; увлечённый; участвующий
 Appease - успокаивать
 Rule out - вычёркивать; исключать
@@ -703,7 +703,7 @@ Prerequisite – предпосылка; предварительное условие
 Consistency – логичность; последовательность; связность
 Pop-up – всплывающий; выскакивающий
 Obey – подчиняться; повиноваться
-Placeholder – указатель места заполнения
+Placeholder – местозаполнитель
 Underscore – акцентировать; подчёркивать
 Ambiguity – двусмысленность; неопределённость
 Rely – полагаться; надеяться; зависеть
@@ -933,7 +933,7 @@ What is your profession? - какая твоя профессия?
 Where do you work? - где ты работаешь?
 What are you doing? – чем вы занимаетесь?
 What do you do professionally? - чем вы занимаетесь (профессионально)?
-What do you do in life anyway? - чем вы занимаетесь в жизни?
+What do you do in life anyway? - чем вы занимаетесь по жизни?
 What do you do for a living? – как вы зарабатываете на жизнь?
 How do you earn a living? – как вы зарабатываете на жизнь?
 What do you do in your free time? - что вы делаете в своё свободное время?
@@ -1059,7 +1059,7 @@ I will get there by car - я буду добираться туда на машине
 How long have you been living here? - как долго ты живёшь здесь?
 Are you satisfied with your job? - ты удовлетворён своей работой?
 It's hard to say – сложно сказать
-Do you think so? – ты так считаешь?
+Do you think so? – ты считаешь так?
 My friend is very proud of it - мой друг очень гордится этим
 That is a little bit expensive - это немного дороговато
 I would like to see it - я бы хотел увидеть её
@@ -1619,7 +1619,7 @@ Have you been able to do it? – ты смог сделать это?
 He may be late – он возможно опаздает
 I might do it, but I'm not sure for the quality – я мог бы сделать это, но я не уверен за качество
 It's supposed to be so – по идее, это должно быть так
-I've had to do it – мне пришлось сделать это
+I've had to do it – мне пришлось сделать это (результат)
 No one says like that – никто не говорит так
 Could you call me later? – не могли бы вы позвонить мне позже?
 to get – получать; раздобыть; достать; принести; поймать; понимать; добираться; становиться; начинаться
@@ -1698,7 +1698,7 @@ Part-time employment – частичная занятость
 Temporary employment – временная работа
 Self-employment – работа на себя
 Job market – рынок труда
-Job requirements – требования к работнику
+Job requirements – требования работы
 Job opening – вакансия
 Immediate opening – срочная вакансия
 Entry level position – стартовая должность
@@ -2394,3 +2394,100 @@ All of these – все эти
 All of them – все они
 All of us – все мы; всех нас
 Out of the box – из коробки
+Swap – обмен; обменять; заменить
+Complexity – сложность
+Research – исследование; исследования; исследовать
+Possibility – возможность
+Solve – решить; решать; урегулировать
+Solving – решение; разрешение; урегулирование
+Based on – на основе
+Downside – обратная сторона; недостаток
+Justify – оправдать; обосновать
+Scattered – разбросанные
+Leverage – использование; влияние; привлечение
+External – внешний; наружный
+Thank you so much – большое спасибо
+Thank you very much – большое спасибо
+Thanks a lot – большое спасибо
+Survey – исследование; обследование; обзор; опрос
+Insight – понимание
+Implication – последствие
+Implicated – причастны к; замешаны
+pros and cons – плюсы и минусы; преимущества и недостатки
+forgery – подделка
+boost – повышение; импульс; стимул; толчок; повысить; увеличить; стимулировать; активизировать
+blueprint – план; проект; программа; концепция
+networking – сеть; сетевой; создание сетей; налаживание связей
+follow up – отслеживание; отслеживать
+approve – утвердить; одобрить
+approval – утверждение; одобрение
+challenge – проблема; задача; вызов; трудность; оспаривание; оспаривать; бросать вызов
+feed – корм; питание; канал; кормить; питаться
+RSS feed for this post – RSS канал для этого поста
+Feedback – отзыв; отклик; обратная связь
+Spoil – портить; испортить
+Moan – стонать
+Moaning – стон
+Subtle – тонкий; едва уловимый
+Hood – капюшон; капот
+Under the hood – под капотом
+Storage – хранение; хранилище
+Strict – строгий
+Surveillance – слежение; наблюдение
+Introduce – представить; ввести
+Whenever – когда; как только; всякий раз
+Drift – дрейф; смещение; дрейфовать
+Greater than or equal – больше или равно
+Expectation – ожидание
+Strive – стремиться; добиваться
+Striving – стремление
+Content – контент; содержание; довольствоваться
+As opposed to – в противоположность к; а не
+Harvest – урожай; собирать
+Influential – влиятельный
+Distinguish – отличать; различать
+Indistinguishable – неразличимый
+Qualify – квалифицировать
+Proponents – сторонники
+on the right track – на правильном пути
+even though – даже хотя
+the world as it truly is – мир как он реально есть
+some have even gone as far as – некоторые даже пошли дальше
+only a one in a billion chance – только один шанс из миллиарда
+keep in mind – держите в уме
+because of this – из-за этого
+to determine the destination – определить место назначения
+somewhat – довольно; отчасти; в некоторой степени
+that even if – что даже если
+to each of us – для каждого из нас
+citizen – гражданин
+citizenship – гражданство
+punch – удар; пунш; ударить
+pleased as punch – доволен как пунш
+upset the apple cart – создавать сложности (расстраивать корзину яблок)
+hacking – взлом
+life hacking – хитрость жизни
+overcome – преодоления; преодолеть
+revise – пересмотреть
+revising – пересмотр
+edit – редактировать
+editing – редактирование
+edition – издание
+guardian – опекун; хранитель; защитник
+honored – почётный; польщён
+I'm honored – это честь для меня; я польщён
+Distinction – отличие; различие; различия
+Unlike – в отличие от
+Participant – участник
+Inheritance – наследование; наследство
+Interlocking decisions – взаимосвязанные решения
+fanned the flames – раздули пламя
+foreigner – иностранец
+sore – боль; больной; болит
+sore spot – больное место
+bizarre – странный
+stress – стресс; подчеркнуть; подчёркивать
+rage – гнев; ярость
+By the same token – в то же время; к тому же
+Compassion – сострадание
+Contribute – способствовать; содействовать; вносить

@@ -33,14 +33,12 @@ public class ProcessingWordEngFromBdImpl implements ProcessingWordEngFromBd {
 
     public WordEng selectWordEngFromBd() {
         Session session = this.sessionFactory.getCurrentSession();
-        //SQLQuery sqlQuery = session.createSQLQuery("SELECT * FROM english_words AS EW WHERE EW.mark = 0 ORDER BY RAND() LIMIT 1");
         SQLQuery sqlQuery = session.createSQLQuery("SELECT * FROM english_words AS EW WHERE EW.mark = false ORDER BY RANDOM() LIMIT 1");
         return processingTemplate(sqlQuery);
     }
 
     public WordEng selectWordEngForRepeat() {
         Session session = this.sessionFactory.getCurrentSession();
-        //SQLQuery sqlQuery = session.createSQLQuery("SELECT * FROM english_words AS EW WHERE EW.mark = 1 AND EW.done = 0 ORDER BY RAND() LIMIT 1");
         SQLQuery sqlQuery = session.createSQLQuery("SELECT * FROM english_words AS EW WHERE EW.mark = true AND EW.done = false ORDER BY RANDOM() LIMIT 1");
         return processingTemplate(sqlQuery);
     }
@@ -95,7 +93,6 @@ public class ProcessingWordEngFromBdImpl implements ProcessingWordEngFromBd {
 
     public int selectCountRemain() {
         Session session = this.sessionFactory.getCurrentSession();
-        //SQLQuery sqlQuery = session.createSQLQuery("SELECT COUNT(id) FROM english_words AS EW WHERE EW.mark = 0");
         SQLQuery sqlQuery = session.createSQLQuery("SELECT COUNT(id) FROM english_words AS EW WHERE EW.mark = false");
         BigInteger countRemain = (BigInteger) sqlQuery.getSingleResult();
         logger.info("Counter remaining records was getting: " + countRemain);
@@ -104,7 +101,6 @@ public class ProcessingWordEngFromBdImpl implements ProcessingWordEngFromBd {
 
     public int selectCountForDone() {
         Session session = this.sessionFactory.getCurrentSession();
-        //SQLQuery sqlQuery = session.createSQLQuery("SELECT COUNT(id) FROM english_words AS EW WHERE EW.mark = 1 AND EW.done = 0");
         SQLQuery sqlQuery = session.createSQLQuery("SELECT COUNT(id) FROM english_words AS EW WHERE EW.mark = true AND EW.done = false");
         BigInteger countForDone = (BigInteger) sqlQuery.getSingleResult();
         logger.info("Counter of records for done was getting: " + countForDone);
@@ -113,7 +109,6 @@ public class ProcessingWordEngFromBdImpl implements ProcessingWordEngFromBd {
 
     public void resetMark() {
         Session session = this.sessionFactory.getCurrentSession();
-        //session.createSQLQuery("UPDATE english_words AS EW SET EW.mark = 0, EW.done = 0").executeUpdate();
         session.createSQLQuery("UPDATE english_words SET mark = false, done = false").executeUpdate();
         logger.info("Counter was reset");
     }

@@ -4,7 +4,7 @@ Terms and conditions – ограничения и условия
 Limited license grants – ограниченная лицензия предполагает (предоставляет)
 License for evaluation purposes – лицензия для определения (оценки) целей
 Excerpting brief portions of the specification – выборка (цитирование) коротких частей спецификации
-Such excerpts do not in the aggregate constitute a significant portion – такие выдержки не составляют в совокупности значительной части
+Such excerpts do not in the aggregate constitute a significant portion – такие выдержки в совокупности не составляют значительной части
 Distribution of compliant implementations – распространение реализаций, соответствующих техническим условиям
 Royalty free – без авторского гонорара (отчислений)
 Perpetual license – бессрочная лицензия
@@ -2590,3 +2590,51 @@ prediction – предсказание; прогнозирование
 predicate – сказанное, заявленное (утверждение); основные
 expertise – опыт; экспертиза; квалификация; компетенция
 substitution – замена; замещение
+as many as possible – так много как возможно
+current affairs – текущие новости
+native speaker – нативный спикер (носитель языка)
+practice makes perfect – практика делает совершенным
+not do much for – не делает много для
+on one's own – самостоятельно
+read lips – читать по губам
+constitute – составлять; являться; представлять собой
+capability – потенциал; возможность; способность
+affair – роман; связь; интрижка; отношения
+affairs – дела; вопросы
+unpredictable – непредсказуемый
+wisdom – мудрость
+for sale – на продажу
+rule – правило; правление; управлять
+go for a walk – ходить гулять
+sometimes – иногда; порой; временами
+courageous – отважный
+each other – друг друга
+it's not my fault – это не моя вина
+speak for – высказываться в защиту
+attentively – внимательно
+educational institution – учебное заведение
+levy – налог; сбор; взимать
+scale – масштаб; шкала; масштабировать
+graph – граф; график; диаграмма
+monitoring – контроль; мониторинг; наблюдение; отслеживание
+optional – опциональный; дополнительный; необязательный
+observers register themselves – наблюдатели регистрируют себя сами
+discretion – усмотрение
+left to the discretion of the designer – оставлены на усмотрение дизайнера
+consecutive – последовательные; подряд
+on the other hand – с другой стороны
+address – адрес; решение; рассмотрение; устранение; удовлетворение; рассматривать; решать
+undo – отменить
+queue – очередь; стоять в очереди
+receiver – приёмник; получатель
+separation – разделение
+signature – подписание; подпись; сигнатура
+opaque – непрозрачный
+consort – супруг
+she is worth listening to – к ней стоит прислушиваться
+crop – урожай
+help out – выручать
+take pity on – сжалиться над
+we'll see about that – мы ещё посмотрим
+literally – буквально; в прямом смысле
+coming right up – сейчас будет

@@ -1341,7 +1341,7 @@ I don't know where the password is Ц € не знаю где пароль
 I don't know why he did it Ц € не знаю почему он сделал это
 Now, it's my turn Ц теперь мо€ очередь
 What is going on? Ц что происходит?
-Keep up Ц продолжать
+Keep up Ц продолжать; содержать
 Geek Ц чокнутый; помешанный
 Until Ц до тех пор пока
 Maybe you can do it by yourself? Ц может быть ты сможешь сделать это сам?
@@ -2468,7 +2468,7 @@ upset the apple cart Ц создавать сложности (расстраивать корзину €блок)
 hacking Ц взлом
 life hacking Ц хитрость жизни
 overcome Ц преодолени€; преодолеть
-revise Ц пересмотреть
+revise Ц пересмотреть; исправить
 revising Ц пересмотр
 edit Ц редактировать
 editing Ц редактирование
@@ -2638,3 +2638,102 @@ take pity on Ц сжалитьс€ над
 we'll see about that Ц мы ещЄ посмотрим
 literally Ц буквально; в пр€мом смысле
 coming right up Ц сейчас будет
+out of envy Ц из зависти
+steal Ц красть
+struggle Ц борьба; усили€; боротьс€
+are you in a hurry? Ц ты торопишьс€?
+Meeting Ц совещание; встреча; собрание
+Hint Ц намЄк; подсказка
+Rare Ц редкий
+Greet Ц приветствовать
+Coupling Ц сцепление; соединение; св€зывание
+Chain Ц цепь; цепочка; приковывать; соедин€ть в цепь
+Sender Ц отправитель
+Damage Ц ущерб; повреждение; вред; повредить
+Pipeline Ц канал; трубопровод
+Pipeline mode Ц конвейерный режим
+Pipeline architecture Ц конвейерна€ архитектура
+Contain Ц содержать; включать
+Traversal Ц прохождение; обход
+Recursive traversal Ц рекурсивный обход
+Potentially Ц потенциально; возможно
+Node Ц узел
+Wiring Ц проводка
+Hard-wiring Ц жЄсткое св€зывание
+can be configured dynamically Ц могут быть сконфигурированы динамически
+simplify Ц упростить
+successor Ц преемник
+entrance Ц вход
+entry Ц вступление; ввод; доступ; вход
+entry point Ц отправной пункт; точка входа
+careful Ц осторожный; внимательный; тщательный; осторожно; внимательно; тщательно
+passed on Ц передаЄтс€; передан
+usually Ц обычно
+return Ц возвращение; вернутьс€; возвращатьс€
+assess Ц оценить; оценивать
+provide Ц представить; предоставить; обеспечить; оказывать; предусматривать
+turn Ц поворот; очередь; повернуть; превратить
+turn on Ц включить
+allege Ц утверждать
+alleged Ц предполагаемых
+alleged crimes Ц предполагаемых преступлений
+alleged victims Ц предполагаемых жертв
+spread Ц распространение; распростран€тьс€
+spreading rumours Ц распространение слухов
+dawn Ц рассвет
+howdy y'all, my friends Ц приветствую вас, мои друзь€
+he has bought Ц он купил (результат)
+on the right Ц справа; направо
+subordinates Ц подчинЄнные
+wear Ц носить; надеть; одевать
+it's a hit below the belt Ц это удар ниже по€са
+interaction Ц взаимодействие
+interact Ц взаимодействовать
+promote Ц способствовать; содействовать; поощр€ть
+vary Ц варьироватьс€; различатьс€; мен€тьс€
+intermediary Ц посредник; посредничество
+peer Ц сверстник; равный; ровн€; коллега
+piece Ц кусок; часть
+peace Ц мир; покой; спокойствие; мирный
+phenomenon Ц €вление; феномен
+granularity Ц детализаци€
+affiliation Ц принадлежность
+affiliate Ц филиал
+affiliated Ц св€заны; ассоциированы
+couple Ц пара
+coupled Ц св€занный; сочетаемый
+alternate Ц альтернативный
+simultaneously Ц одновременно
+Partition Ц раздел; разделение
+Partitioning Ц разделение
+Proliferate Ц распростран€тьс€; разрастатьс€
+Conduct Ц поведение; проведение; ведение; проводить
+Mutual Ц взаимный; обоюдный
+Identify Ц идентифицировать
+Benefit Ц пособие; льгота; польза; выгода
+vice versa Ц наоборот
+arbitrary Ц произвольный
+generalization Ц обобщение
+specialization Ц специализаци€
+superior Ц высший; вышесто€щий; превосход€щий; старший
+patience Ц терпение
+Haven't you forgotten anything? Ц вы ничего не забыли?
+Look out for Ц присматривать
+quickly Ц быстро
+alone Ц один; одна; одну
+by far Ц намного; безусловно
+wrap up Ц закончить
+season Ц сезон
+temper Ц характер; самообладание; нрав; темперамент; терпение
+I'm about to lose my temper Ц € вот-вот потер€ю моЄ терпение
+Dissertation Ц диссертаци€
+Thesis Ц диссертаци€; тезис
+Report Ц доклад; отчЄт; сообщение; докладывать; сообщать
+Paper Ц документ; бумага; доклад; стать€
+Presentation Ц представление; презентаци€; выступление; доклад
+Computation Ц расчЄт; вычисление
+Computational Ц вычислительный
+Alter Ц изменить; мен€ть
+Statement Ц за€вление; изложение; утверждение; показание
+Limb Ц конечность
+Stick Ц палка; держатьс€; воткнуть; засунуть

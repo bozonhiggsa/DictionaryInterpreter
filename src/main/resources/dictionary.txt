@@ -2717,7 +2717,7 @@ generalization Ц обобщение
 specialization Ц специализаци€
 superior Ц высший; вышесто€щий; превосход€щий; старший
 patience Ц терпение
-Haven't you forgotten anything? Ц вы ничего не забыли?
+Haven't you forgotten anything? Ц вы ничего не забыли? (результат)
 Look out for Ц присматривать
 quickly Ц быстро
 alone Ц один; одна; одну
@@ -2737,3 +2737,26 @@ Alter Ц изменить; мен€ть
 Statement Ц за€вление; изложение; утверждение; показание
 Limb Ц конечность
 Stick Ц палка; держатьс€; воткнуть; засунуть
+Effort Ц усилие
+Future efforts will be focused on Ц будущие усили€ будут сфокусированы на
+Propose Ц предлагать
+Effectiveness Ц эффективность
+Robustness Ц устойчивость
+Extract Ц экстракт; извлечение; извлекать
+Extraction Ц извлечение
+Due to Ц благодар€; по причине; за счЄт
+The next goal is Ц следующей целью €вл€етс€
+Modern Ц современный
+Often Ц часто; зачастую
+The purpose of this activity is Ц целью этой де€тельности €вл€етс€
+The objective of this paper is Ц целью этой статьи €вл€етс€
+The goal is Ц целью €вл€етс€
+This work is aimed at Ц эта работа нацелена на
+The aim was Ц целью было
+Aim Ц цель; задача; целитьс€
+Separately Ц отдельно; раздельно
+Curve Ц крива€
+During Ц во врем€
+Fully Ц полностью
+Completely Ц полностью; совершенно
+Algorithm Ц алгоритм

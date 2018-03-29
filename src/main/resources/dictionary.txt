@@ -883,7 +883,7 @@ bump up – повысить в должности
 They bump me up to Java Senior - они повышают меня до Java Senior
 So, how is it? – ну, и как она?
 It pays more than my last job – она (работа) платит больше, чем моя прошлая работа
-It's been ages since, I last saw you - очень давно не видел тебя
+It's been ages since, I last saw you - это было очень давно, когда я в прошлый раз видел тебя
 It is so good to see you! - так приятно видеть тебя!
 It's been a long time! How've you been? - это было так давно (когда я видел тебя)! Как поживаешь?
 I haven't seen you around lately. Where have you been? - я не видел тебя в последнее время. где ты был?
@@ -2641,7 +2641,7 @@ coming right up – сейчас будет
 out of envy – из зависти
 steal – красть
 struggle – борьба; усилия; бороться
-are you in a hurry? – ты торопишься?
+are you in a hurry? – ты в спешке?
 Meeting – совещание; встреча; собрание
 Hint – намёк; подсказка
 Rare – редкий
@@ -2700,7 +2700,7 @@ granularity – детализация
 affiliation – принадлежность
 affiliate – филиал
 affiliated – связаны; ассоциированы
-couple – пара
+couple – пара; связываться; соединяться
 coupled – связанный; сочетаемый
 alternate – альтернативный
 simultaneously – одновременно
@@ -2760,3 +2760,106 @@ During – во время
 Fully – полностью
 Completely – полностью; совершенно
 Algorithm – алгоритм
+Forecast – прогноз; прогнозирование
+Weather forecast – прогноз погоды
+Purse – кошелёк; сумочка
+Sweetheart – возлюбленная; дорогой; дорогая; милый; милая; дорогуша
+Darling – дорогой; дорогая; милый; милая; дорогуша
+Honey – милый; милая; сладкая; медовая
+For some reason – по некоторой причине
+Elder – старший
+Shine – светить; сиять
+Let him down – подвести его
+Make up – составлять
+Be made up of – быть составленным из
+Common – общий; распространённый; обычный; община
+Chamber – камера; палата; зал
+Early – рано
+I can't wrap my head around – я не могу охватить моей головой
+Ought – должен; следует
+Parent – родитель
+Employ – использовать; применять; нанимать
+Generic – общий; типовой
+Restriction – ограничение
+Digit – цифра
+Skeleton – скелет
+Expand – расширять
+Expend – тратить; расходовать
+Invariant – неизменный
+Mandate – мандат; полномочия; давать полномочия
+Affectionate – любящий; нежный
+Affectionately – нежно; с любовью
+Label – этикетка; ярлык; маркировка; маркировать
+Labelled – маркированный
+Examine – изучить; рассмотреть; проанализировать
+Shell – корпус; оболочка; скорлупа
+Type – тип; ввести; печатать
+Universe – вселенная
+Suggest – предлагать; предполагать; советовать
+Score – счёт; выиграть
+Importance – важность
+In accordance with – в соответствии с
+Person – персона; человек; личность
+look up to – равняться на
+in sight – в поле зрения
+phone – телефон; звонок; звонить
+weigh – весить
+weight – вес
+liar – лжец; лгунья
+enter – ввести; вступать; войти
+coast – берег; побережье
+defeat – поражение; нанести поражение
+nod – кивок; кивнуть
+invader – захватчик
+encouragement – поддержка; поощрение
+goal – цель; гол; ворота
+countryman – соотечественник
+closer – ближе; близкий; близко
+fabled – легендарный
+trophy – трофей
+settle – урегулировать; уладить; поселиться; обосноваться
+sparkling – игристый; сверкающий; блестящий
+dissect – вскрывать; препарировать
+deadlock – тупик; затор
+brave – храбрый; смелый
+bravely – храбро; смело
+convert – конвертировать; преобразовывать
+glory – слава
+glorious – славный; великолепный
+circumstance – обстоятельство
+blow – удар; взорваться; взрывать; дуть; отсасывать
+to one another – друг другу
+robbery – ограбление
+robber – грабитель
+robbed – ограбленный
+dangerous – опасный
+district – район
+at all times – всегда
+forward – вперёд; передовой; направлять
+in front of – перед
+in front of him – перед ним
+hardly – с трудом; вряд ли; едва
+crush – раздавить
+perfume – аромат
+smell – запах; пахнуть; нюхать
+stink – вонь; вонять
+at one time – однажды; одновременно; за один раз
+allocate – выделять; распределять
+beyond – за пределами; после; вне
+source – источник; исходный
+squad – команда; отряд
+interchangeable – взаимозаменяемый
+bury – захоронить; закопать; зарыть
+upheaval – потрясение
+cohesion – сплочённость; единство
+exhortation – призыв
+exercise – осуществление; реализация; деятельность; упражнение; осуществлять
+crow about – хвастаться
+sick – больной; болеть
+loss – потеря; утрата
+at a loss – в недоумении
+leave – оставлять; покидать
+leave for – отправляться (куда-то)
+favourite – любимый
+band – группа
+serve – служить; обслуживать

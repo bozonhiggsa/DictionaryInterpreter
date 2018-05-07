@@ -5,7 +5,7 @@ import java.io.*;
 import java.nio.charset.Charset;
 
 /**
- * Implementation of {@link ReadingSourceFile} interface for reading source txt file
+ * Implementation of {@link ReadingSourceFile} interface for source txt file reading
  */
 public class ReadingSourceFileImpl implements ReadingSourceFile {
 

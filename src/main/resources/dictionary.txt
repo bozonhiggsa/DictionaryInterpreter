@@ -344,7 +344,7 @@ or what? - или как?
 or whatever - или что-то ещЄ
 something tells me - что-то мне подсказывает
 that is to say - иначе говор€
-that's flat! - и всЄ!
+that's flat - это окончательно (решение)
 that's the way things are going - вот как дела обсто€т
 to one's mind - на чей-то взгл€д
 to say nothing of - не говор€ уж о
@@ -2604,7 +2604,7 @@ unpredictable Ц непредсказуемый
 wisdom Ц мудрость
 for sale Ц на продажу
 rule Ц правило; правление; управл€ть
-go for a walk Ц ходить гул€ть
+go for a walk Ц идти на прогулку
 sometimes Ц иногда; порой; временами
 courageous Ц отважный
 each other Ц друг друга
@@ -3088,3 +3088,9 @@ I bet Ц держу пари; готов поспорить
 Vote Ц голос; голосование; голосовать
 Neighbour Ц сосед
 Expel Ц высылать; изгон€ть; исключать
+Always Ц всегда
+Nail Ц гвоздь; ноготь; пригвоздить
+Sin Ц грех; грешить
+Needle Ц игла
+Flat Ц квартира; фиксированный
+Wash Ц мыть

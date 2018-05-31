@@ -1,10 +1,10 @@
 # Vocabulary Tester
 
 Vocabulary Tester is a web application for testing the writing english skills.
-The application downloads a personal dictionary from TXT-file into a database and then
-permits to extract randomly the words and phrases from database.
-The application extracts a next random word/phrase if you have done a proper
-translation in english for a previous word.
+The application downloads a personal dictionary from TXT-file
+into a database and then permits to extract randomly the words and phrases from database.
+The application extracts a next random word/phrase if you
+have done a proper translation in english for a previous word.
 It permits to verify the writing english skills.
 
 Technologies:

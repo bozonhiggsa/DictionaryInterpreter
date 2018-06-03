@@ -1,4 +1,4 @@
-Language: java
+language: java
 sudo: false
 after success:
 - bash <(curl -s https://codecov.io/bash)

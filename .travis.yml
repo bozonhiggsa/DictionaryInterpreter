@@ -8,3 +8,4 @@ recipients:
 - ihor.v.savchenko@gmail.com
 on_success: never # default: change
 on_failure: always # default: always
+github_token: $GITHUB_TOKEN

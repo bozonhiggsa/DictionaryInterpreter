@@ -1,0 +1,10 @@
+Language: java
+sudo: false
+after success:
+- bash <(curl -s https://codecov.io/bash)
+notifications:
+email:
+recipients:
+- ihor.v.savchenko@gmail.com
+on_success: never # default: change
+on_failure: always # default: always

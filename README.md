@@ -1,5 +1,7 @@
 # Vocabulary Tester
 
+https://travis-ci.org/bozonhiggsa/DictionaryInterpreter.svg?branch=master
+
 Vocabulary Tester is a web application for testing the writing english skills.
 The application downloads a personal dictionary from TXT-file
 into a database and then permits to extract randomly the words and phrases from database.

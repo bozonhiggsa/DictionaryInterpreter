@@ -1,9 +1,7 @@
-github_enterprise:
-  global_upload_token: "580c5987-37c5-4c17-a862-d4a102391dc7"
 Language: java
 sudo: false
 after success:
-- bash <(curl -s https://codecov.io/bash) -t "580c5987-37c5-4c17-a862-d4a102391dc7" -r owner/repo
+- bash <(curl -s https://codecov.io/bash)
 notifications:
 email:
 recipients:

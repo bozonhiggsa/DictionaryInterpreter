@@ -972,7 +972,7 @@ I teach digital processing at the university - € преподаю цифровую обработку в у
 How long have you been doing that? - как долго ты занимаешьс€ этим?
 How long have you been in this business? - как долго ты в этом бизнесе?
 Since I graduated - с тех пор как € закончил учЄбу
-I've been in this business for over ten years - € в этом бизнесе пор€дка 10 лет
+I've been in this business for over ten years - € в этом бизнесе уже более 10 лет
 I have been working here for only a week - € работаю здесь только неделю
 What do you do at your job? - что ты делаешь на своей работе?
 Do you like your job? - тебе нравитс€ тво€ работа?
@@ -3206,3 +3206,21 @@ plenty of time Ц достаточно (много) времени
 expressly Ц пр€мо; чЄтко; конкретно; категорически
 after Ц после
 descent Ц происхождение; спуск; снижение
+check out Ц проверить; посмотреть на
+take over Ц вз€ть на себ€; захватить; зан€ть
+offence Ц преступление; правонарушение; нарушение
+hesitate Ц колебатьс€; стесн€тьс€; сомневатьс€
+intership Ц стажировка
+with a proven track record Ц с подтверждЄнным послужным списком
+featuring Ц характеризующийс€
+liaise Ц поддерживать св€зь; контактировать
+prioritize Ц удел€ть приоритетное внимание; расставл€ть приоритеты
+gratified Ц удовлетворЄн
+enclose Ц прилагать; включать
+continued Ц продолжил; дальнейший; посто€нный
+excellence Ц совершенство; совершенствование
+dear Ц дорогой; милый; уважаемый
+willingness Ц готовность; желание; стремление
+vacancy Ц ваканси€
+I've had enough Ц с мен€ достаточно
+For over Ц в течение более; уже более

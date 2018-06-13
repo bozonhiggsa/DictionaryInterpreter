@@ -27,7 +27,7 @@ public class SendDictionaryToBdImpl implements SendDictionaryToBd {
 
             WordEng wordEng = this.instance.extractWordEng(words);
 
-            if(!wordEng.getWord().contains("?")){continue;}
+            //if(!wordEng.getWord().contains("?")){continue;}
 
             LinkedHashSet<WordRus> wordsRus = this.instance.extractWordsRus(words, wordEng);
             wordEng.setWordsRus(wordsRus);

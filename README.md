@@ -11,7 +11,7 @@ Technologies:
 - Spring MVC;
 - Spring ORM;
 - Hibernate;
-- MySQL or Postgresql;
+- MySQL or PostgreSQL (separately in 2 branches);
 - Logging: log4j, slf4j;
 
 Features:

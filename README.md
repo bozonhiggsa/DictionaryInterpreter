@@ -13,7 +13,7 @@ It permits to verify the writing english skills.
 - Spring MVC;
 - Spring ORM;
 - Hibernate;
-- MySQL or Postgresql;
+- MySQL or Postgresql (in 2 branch);
 - Logging: log4j, slf4j;
 
 # Features:

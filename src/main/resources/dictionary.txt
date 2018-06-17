@@ -1334,7 +1334,7 @@ What is it? Ц в чЄм дело?
 Mend Ц починка; чинить; ремонтировать
 Fix Ц устанавливать; налаживать; ремонтировать; подправить
 But I'm not very good with these things Ц но € не очень хорош с этими штуковинами
-Hurray! Ц урра!
+Hurray Ц урра
 I'm an expert at these things Ц € эксперт в этих вещах
 I don't know where the password is Ц € не знаю где пароль
 I don't know why he did it Ц € не знаю почему он сделал это
@@ -1617,7 +1617,7 @@ I've been able to do it Ц € смог сделать это
 Have you been able to do it? Ц ты смог сделать это?
 He may be late Ц он возможно опаздает
 I might do it, but I'm not sure for the quality Ц € мог бы сделать это, но € не уверен за качество
-It's supposed to be so Ц по идее, это должно быть так
+It's supposed to be so Ц предположительно это должно быть так
 I've had to do it Ц мне пришлось сделать это (результат)
 No one says like that Ц никто не говорит так
 Could you call me later? Ц не могли бы вы позвонить мне позже?
@@ -2542,7 +2542,7 @@ For that reason Ц по этой причине
 Matter Ц вопрос; проблема; дело; предмет; матери€
 No one else Ц никто больше; никто другой
 Dude Ц парень; чувак
-Cheers Ц ура; спасибо; твоЄ здоровье; будь здоров
+Cheers Ц урра; спасибо; твоЄ здоровье; будь здоров
 Cheers to Ц выпьем за
 Although Ц хот€
 Measure Ц мера; измерение; меры
@@ -3242,3 +3242,44 @@ unfakeable Ц неподдельный
 utterly Ц полностью; абсолютно; совершенно
 fortune Ц состо€ние; богатство; удача; фортуна
 so far Ц до сих пор; на данный момент
+security Ц безопасность; охрана; защита
+express Ц выразить; высказать
+fist Ц кулак
+brick Ц кирпич
+castle Ц замок
+wig Ц парик
+chalk Ц мел
+crown Ц корона
+engine Ц мотор; движок; двигатель
+pillow Ц подушка
+constellation Ц созвездие
+mug Ц кружка
+proud Ц гордый
+tongue Ц €зык
+someone Ц человек; кто-то
+worthwhile Ц сто€щий
+ghost Ц дух; призрак
+take off Ц сн€ть; снимать
+belief Ц вера; убеждение; убеждЄнность
+naive Ц наивный
+estimate Ц оценка; оценивать
+underestimate Ц недооценивать
+arse Ц задница
+spank Ц шлЄпать
+spanking Ц порка
+pinch Ц щипок; ущипнуть
+I'm convinced of it Ц € убеждЄн в этом
+endless Ц бесконечный; нескончаемый
+percussion Ц ударные
+repercussions Ц последстви€
+steam Ц пар; паровой
+liable Ц подлежит; ответственен
+liable for punishment Ц подлежит наказанию
+is liable for any troubles Ц ответственен за любые проблемы
+malpractice Ц злоупотреблени€
+coincidence Ц совпадение
+eclipse Ц затмение; затмить
+twice a week Ц дважды в неделю
+hangover Ц похмелье
+suitcase Ц кейс; чемодан
+meal Ц еда; пища; питание; блюдо

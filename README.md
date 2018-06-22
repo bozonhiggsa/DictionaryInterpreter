@@ -12,11 +12,11 @@ Technologies:
 - Spring ORM;
 - Hibernate;
 - MySQL or PostgreSQL (separately in two branches);
-- Logging: log4j, slf4j;
+- Logging: Log4J, SLF4J;
 
 Features:
 - Web application permits to download a personal dictionary from TXT-file (any native language);
-- Used MySQL or Postgresql database and MANY-TO-MANY association for persisting a dictionary;
+- Used MySQL or PostgreSQL database and MANY-TO-MANY association for persisting a dictionary;
 - Words and phrases extract randomly from database;
 - It is possible to repeat the words that already done;
 - It is possible to take a prompt;

@@ -2073,7 +2073,7 @@ Bring to mind Ц напоминать
 Anyhow Ц так или иначе
 a number of Ц некоторое количество
 I'm really not familiar enough with Ц € действительно недостаточно знаком с 
-Figure out Ц вы€сн€ть
+Figure out Ц вы€сн€ть; разобратьс€
 For a while Ц некоторое врем€
 The point is Ц дело в том, что
 In a good way Ц в хорошем смысле
@@ -3322,3 +3322,34 @@ spend Ц тратить; расходовать; проводить
 candy Ц конфета
 innocent Ц невинный; невиновный
 sublime Ц возвышенный
+assertion Ц утверждение
+assert Ц утверждать; за€вл€ть
+sense Ц смысл; чувство
+Does that make sense? Ц это пон€тно?
+Am I making sense to you? Ц € пон€тен дл€ вас?
+I like your sense of humor Ц мне нравитс€ твоЄ чувство юмора
+Sensitive Ц чувствительный
+She is very sensitive to criticism Ц она очень чувствительна к критике
+In a sense, you're right Ц в каком-то смысле вы правы
+Nonsense Ц бессмыслица; чушь
+sensible choice Ц разумный выбор
+Makes sense! Ц имеет смысл! (логично!)
+Yeah, that makes perfect sense! Ц да, это совершенно пон€тно!
+It all makes sense now Ц теперь всЄ пон€тно
+It doesn't make any sense! Ц это не имеет никакого смысла!
+It makes no sense! Ц это чушь!
+What you just said makes no sense to me at all Ц то, что ты сейчас сказал, непон€тно мне вообще
+Questions? Ц вопросы?
+Realize Ц понимать; осознавать; реализовать; осуществить
+I'm trying to figure out a way to do Ц € пытаюсь разобратьс€, как сделать
+I finally figured it out! Ц € наконец вы€снил это!
+I just figured out what your problem is Ц € только-что вы€снил, в чЄм тво€ проблема
+I think I figured out why Ц € думаю € разобралс€ почему
+Go figure! Ц поди разберись!
+It figures Ц похоже на то
+Fog Ц туман
+I haven't the foggiest idea! Ц € не имею ни малейшего пон€ти€!
+I don't have the foggiest idea what you're talking Ц € не имею ни малейшего пон€ти€, о чЄм вы говорите
+Charm Ц шарм; очарование; оба€ние; очаровать
+Darkness Ц тьма; темнота
+stand out Ц выдел€тьс€

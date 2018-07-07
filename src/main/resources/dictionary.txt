@@ -295,7 +295,7 @@ after all - после всего (в конце концов)
 and all - и всЄ такое
 and so on - и так далее
 and so forth - и так далее
-as a matter of fact - собственно говор€
+as a matter of fact - собственно говор€; на самом деле
 as things stand now - при текущем положении дел
 as things turned out - как оказалось
 as to - что касаетс€
@@ -356,7 +356,6 @@ as you know - как вам известно
 as was pointed - как было отмечено
 besides - кроме того
 evidently - очевидно
-for that matter - что касаетс€ этого
 fortunately - к счастью
 unfortunately - к несчастью
 frankly speaking - откровенно говор€
@@ -630,7 +629,7 @@ Embark Ц начинать; вступать
 Conducive Ц благопри€тный; подход€щий
 Rally Ц объединение; сплочение; сбор; ралли
 Mindset Ц образ мысли; тип мышлени€
-Growth Ц развитие; рост; выращивать
+Growth Ц развитие; рост
 Bring out Ц показывать; вы€вл€ть; обнаруживать
 Accountable Ц подотчЄтный; ответственный
 Inclusive Ц включающий
@@ -3353,3 +3352,24 @@ I don't have the foggiest idea what you're talking Ц € не имею ни малейшего пон€
 Charm Ц шарм; очарование; оба€ние; очаровать
 Darkness Ц тьма; темнота
 stand out Ц выдел€тьс€
+grow Ц расти; выращивать
+adore Ц обожать
+stubborn Ц упр€мый
+fancy Ц модный; причудливый; шикарный; нравитьс€; представить
+I really fancy Ц мне реально нравитс€
+I don't fancy Ц € не представл€ю; мне не нравитс€; € не желаю
+Acute Ц острый; серьЄзный
+Warn Ц предупреждать
+Warning Ц предупреждение
+at last Ц наконец; в конце концов
+wander Ц бродить; блуждать
+for that matter Ц если на то пошло
+It's rather important, as a matter of fact Ц это довольно важно, на самом деле
+Thunder Ц гром
+Adopt Ц прин€ть; принимать; усыновить
+Access modifier Ц модификатор доступа
+Vertex Ц вершина
+Inside Ц внутрь; изнутри; внутренний
+Outside Ц снаружи; внешний; наружный
+Superclass Ц суперкласс
+Subclass Ц субкласс

@@ -1,14 +1,14 @@
 Only upon the condition – только при условии
 Oracle is willing to license – Oracle готов (добровольно) лицензировать
 Terms and conditions – ограничения и условия
-Limited license grants – ограниченная лицензия предполагает (предоставляет)
+Limited license grants – ограниченная лицензия предоставляет
 License for evaluation purposes – лицензия для определения (оценки) целей
 Excerpting brief portions of the specification – выборка (цитирование) коротких частей спецификации
 Such excerpts do not in the aggregate constitute a significant portion – такие выдержки в совокупности не составляют значительной части
 Distribution of compliant implementations – распространение реализаций, соответствующих техническим условиям
 Royalty free – без авторского гонорара (отчислений)
 Perpetual license – бессрочная лицензия
-The foregoing license is expressly conditioned on you not acting outside its scope – предшествующая (вышеупомянутая) лицензия чётко (прямо, категорически) обуславливает вас не действовать вне этих рамок
+The foregoing license is expressly conditioned on you not acting outside its scope – предшествующая (вышеупомянутая) лицензия чётко (прямо, категорически) обуславливает вас не действовать вне её рамок
 Servlet API described herein – Servlet API описано здесь
 Bench mark – исходные данные; критерий
 Particular features – конкретные (частные, редкие) особенности (детали)
@@ -407,7 +407,6 @@ As far as - поскольку; насколько; что касается; дальше
 Concerned - заинтересованный; затронутый; увлечённый; участвующий
 Appease - успокаивать
 Rule out - вычёркивать; исключать
-Set out - изложить; излагать; изложенные; поставленные; предусмотренные
 Incontrovertible - бесспорный; неопровержимый
 Massacre - бойня; избиение
 Chasing - погоня; преследование
@@ -814,7 +813,7 @@ gauge - мера; масштаб; шаблон; эталон
 excessive - чрезвычайный; чрезмерный
 prolifically - обильно; в изобилии
 asterisk - звёздочка
-fiance - жених, невеста
+fiance - жених; невеста
 synonymous - синоним
 accused - обвиняемый
 sacrilegious - кощунственный
@@ -1087,7 +1086,7 @@ Approach – подход (к решению задачи); приближение
 Respectable – респектабельный; представительный; достаточный
 Profile – профиль; профилировать; обрабатывать по шаблону
 Profiling – профилирование; определение профиля
-Charge – заряд; руководство; ответственность; заряжать; поручать
+Charge – обвинение; плата; заряд; руководство; ответственность; обвинять; взимать; заряжать; поручать
 Seduction – соблазн; искушение; обольщение
 Seduce – соблазнять; совращать
 Temptation – искушение; соблазн
@@ -2666,7 +2665,7 @@ careful – осторожный; внимательный; тщательный; осторожно; внимательно; тщательн
 passed on – передаётся; передан
 usually – обычно
 return – возвращение; вернуться; возвращаться
-assess – оценить; оценивать
+assess – оценивать
 provide – представить; предоставить; обеспечить; оказывать; предусматривать
 turn – поворот; очередь; повернуть; превратить
 turn on – включить
@@ -2790,7 +2789,7 @@ Examine – изучить; рассмотреть; проанализировать
 Shell – корпус; оболочка; скорлупа
 Type – тип; ввести; печатать
 Universe – вселенная
-Suggest – предлагать; предполагать; советовать
+Suggest – предлагать; предполагать; советовать; указывать
 Score – счёт; выиграть
 Importance – важность
 In accordance with – в соответствии с
@@ -3492,7 +3491,7 @@ item – пункт
 impede – препятствовать; мешать
 impediment – препятствие; помеха
 devote – уделять; посвятить
-have you ever thought about …? – ты когда-нибудь думал о …?
+have you ever thought about? – ты когда-нибудь думал о?
 Neck – шея
 Bottleneck – узкое место; горлышко бутылки
 Vision – видение; зрение; концепция; перспектива
@@ -3528,4 +3527,34 @@ malefactor – злоумышленник
 noun – существительное
 adjective – прилагательное
 adverb – наречие
-We apologise for any inconvenience – мы извиняемся за любые неудобства
+We apologize for any inconvenience – мы извиняемся за любые неудобства
+duration – продолжительность
+waste – отходы; трата; растрата; тратить; растрачивать
+compliant – соответствующий требованиям
+significant – значительный; существенный
+grade – класс; оценка
+sign up – записаться; подписаться
+subscribe – подписаться
+unsubscribe – отписаться
+subscription – подписка
+dream – мечта; мечтать; сниться; грезить
+He only dreamt – он только грезил; ему только снилось
+that means – это означает
+actually – фактически; действительно; в действительности
+grant – грант; предоставление; предоставлять; выдавать
+They recently granted – они недавно предоставили
+He had recently stressed – он недавно подчеркнул
+was already over – было уже поздно
+workday was already over – рабочий день был уже поздним
+beard – борода
+after that – после этого
+relax – отдых; расслабиться
+all in all, he enjoyed a fairly relaxed schedule – в общем, он наслаждался весьма расслабленным графиком
+research suggests that – исследование указывает что
+disparate – разрозненные; несопоставимые
+set out – изложить; излагать; изложенные; поставленные; предусмотренные
+invitation – приглашение
+Glad too for accepting my invitation – очень рад за принятие поего приглашения
+To my regret I cannot accept your invitation – к моему сожалению я не могу принять ваше приглашение
+mark – марка; знак; метка; отметка; отмечать
+absent – отсутствовать; отсутствующий

@@ -19,7 +19,7 @@ public class ReadingSourceFileImpl implements ReadingSourceFile {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
-        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, Charset.forName("cp1251")));
+        BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream, Charset.forName("UTF-8")));
         return reader;
     }
 }

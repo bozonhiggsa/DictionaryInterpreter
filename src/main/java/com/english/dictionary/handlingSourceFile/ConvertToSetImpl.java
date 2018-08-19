@@ -3,6 +3,7 @@ package com.english.dictionary.handlingSourceFile;
 import com.english.dictionary.interfaces.ConvertToSet;
 import java.io.BufferedReader;
 import java.io.IOException;
+import java.nio.charset.Charset;
 import java.util.Set;
 import java.util.TreeSet;
 
@@ -18,6 +19,7 @@ public class ConvertToSetImpl implements ConvertToSet {
         try {
             String s;
             while ((s = reader.readLine()) != null){
+                System.out.println(s);
                 set.add(s.toLowerCase());
             }
         } catch (IOException e) {

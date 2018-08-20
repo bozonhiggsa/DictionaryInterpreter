@@ -19,7 +19,6 @@ public class ConvertToSetImpl implements ConvertToSet {
         try {
             String s;
             while ((s = reader.readLine()) != null){
-                System.out.println(s);
                 set.add(s.toLowerCase());
             }
         } catch (IOException e) {

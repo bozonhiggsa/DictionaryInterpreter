@@ -1915,7 +1915,6 @@ What I like about her is the way she dresses – что мне нравится 
 It doesn't make you happier – это не делает тебя счастливее
 It doesn't make it easier to do – это не делает это легче сделать
 Masterly – мастерский; совершенный; мастерски
-Accomplished – завершённый; совершённый; искусный
 Completed – законченный; завершённый
 Execute – осуществлять; выполнять; исполнять
 Realized – выполненный; реализованный
@@ -3570,3 +3569,4 @@ dignified – достойный
 hazard – опасность; риск
 dismissal – увольнение
 bluff – блеф; блефовать
+Accomplished – достигнутый; завершённый

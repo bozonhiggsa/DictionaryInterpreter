@@ -11,7 +11,7 @@ Perpetual license – бессрочная лицензия
 The foregoing license is expressly conditioned on you not acting outside its scope – предшествующая (вышеупомянутая) лицензия чётко (прямо, категорически) обуславливает вас не действовать вне её рамок
 Servlet API described herein – Servlet API описано здесь
 Bench mark – исходные данные; критерий
-Particular features – конкретные (частные, редкие) особенности (детали)
+Particular features – конкретные (особые, отдельные) характеристики
 To carry out the intention of the specification – выполнить (осуществить) цель спецификации
 Compatibility test suite has been provided for assessing - набор для тестирования совместимости предоставлен для оценивания
 For resolving questions – для решения вопросов
@@ -47,7 +47,7 @@ Concurrent requests – одновременные (параллельные) запросы
 Only concern himself with – сам имеет дело (касается, затрагивает) только с
 Concern – отношение; касательство; беспокойство
 Very familiar with – очень хорошо знакомым с
-That employ these features – которые используют (применяют) эти особенности (детали)
+That employ these features – которые используют (применяют) эти фичи
 Produced by the doGet method – произведённый методом doGet
 Servlet container provides instances of the servlet – сервлет контейнер поставляет (предоставляет) экземпляры сервлета
 Instantiate multiple instances – создать множество экземпляров
@@ -97,7 +97,6 @@ Comprehensive documentation – обширная (всесторонняя) документация
 Embrace – объятие; обнимать; охватывать
 Opinionated – самоуверенный
 Favors convention over configuration – поддерживает договорённость через конфигурацию
-Invasive – навязчивый
 This capability applies – эта способность применяется
 Embedded – внедрённый
 Tier – звено; уровень
@@ -255,7 +254,7 @@ Neglect - пренебрежение; игнорирование; пренебрегать; игнорировать
 Suggestion - предложение; совет
 Deplorable situation - плачевная ситуация
 Remedy - средство; лекарство; исправлять
-Agitate - волновать; возбуждать
+Agitate - агитировать; волновать
 Bitter - горький; ожесточённый
 Gust of wind - порыв ветра
 Plausible - правдоподобный; похожий на правду
@@ -312,8 +311,6 @@ for all that - за всё, что
 for example - например
 for instance - например
 for one thing - например; первым делом
-for one's part - что касается конкретного человека
-on one's part - что касается конкретного человека
 for the most part - вообще; по большей части
 I dare say - осмелюсь сказать
 I wonder - мне интересно
@@ -377,7 +374,7 @@ you see - понимаете?
 Blank - белый; пустой; чистый
 Ballpoint - шариковая ручка
 Clip - скрепка; зажим
-Meddle - заниматься; интересоваться; вмешиваться
+Meddle - вмешиваться
 Cubby hole - уютное местечко
 Excruciating - мучительный
 Bore - скучное занятие; скука; надоедать
@@ -417,7 +414,7 @@ To wage war - вести войну
 Abandon - покидать; оставлять; сдавать
 Gleeful - весёлый; радостный
 Jealous - ревнивый
-Prodigy - предзнаменование; чудо; чудовище
+Prodigy - гений; чудо; чудовище
 Marvel - чудо; диво; изумляться; удивляться
 Dumping - сваливание; сбрасывание
 Credible - вероятный; правдоподобный; заслуживающий доверия; надёжный
@@ -441,7 +438,6 @@ Superintend - заведовать; руководить; присматривать; надзирать
 Poke - толчок; пинок; совать; пихать
 Poke around - высматривать; выискивать
 Air-tight - воздухонепроницаемый; без слабых мест
-Miserably - печально; жалко; прискорбно; весьма; очень; сильно
 Draught - сквозняк
 Painter - живописец; художник
 Kitschy - вульгарный
@@ -457,7 +453,7 @@ Left to my own devices - предоставленный самому себе
 Flighty - непостоянный; изменчивый; ветренный
 Shrewd - пронизывающий; проницательный; сообразительный
 Ferret out - вынюхивать; разведывать
-Regardless - невнимательный
+Regardless - независимо от
 Lease - аренда; сдавать в аренду
 Merely - только; просто; единственно
 Magnificent – великолепный
@@ -676,7 +672,7 @@ Embarrassment – затруднение; помеха; замешательство; смущение
 Embarrass – затруднять; мешать; сбивать с толку; смущать
 Uneasy – неудобный; беспокойный; тревожный; неловкий; скованный
 Queer – странный; необычный; чудной
-seem – казаться; выглядеть; представляться
+seem – кажется; выглядит; представляется
 Scarcely – едва; почти не; вряд ли
 Adorable – обожаемый; восхитительный; очаровательный
 Worship – поклонение; почитание; культ
@@ -822,7 +818,7 @@ fascinate - восхищать; пленять; очаровывать
 psychology - психология
 stationery - канцелярские товары
 statutory - установленный; предписанный
-sincerely - честно; искренне; прямо; полностью; целиком
+sincerely - искренне
 sanctuary - святилище
 carnivorous - плотоядный
 existence - существо; существование
@@ -1090,8 +1086,8 @@ Seduce – соблазнять; совращать
 Temptation – искушение; соблазн
 Payback – окупаемость; расплата
 Bid – предложение цены; заявка (на торгах)
-Replicate – отвечать; повторять; копировать; имитировать
-Entire – полный; совершенный; чистый; целый
+Replicate – воспроизводить; повторять; копировать; имитировать
+Entire – полный; целый; весь
 Seamless – бесшовный; плавный
 Remain – остатки; оставаться; пребывать
 Staff – палка; посох; штат; штаб
@@ -1912,7 +1908,7 @@ The thing I like about her is the way she dresses – то, что мне нравится в ней, 
 What I like about her is the way she dresses – что мне нравится в ней, это как она одевается
 It doesn't make you happier – это не делает тебя счастливее
 It doesn't make it easier to do – это не делает это легче сделать
-Masterly – мастерский; совершенный; мастерски
+Masterly – мастерский; мастерски; виртуозно
 Completed – законченный; завершённый
 Execute – осуществлять; выполнять; исполнять
 Realized – выполненный; реализованный
@@ -1921,7 +1917,7 @@ Fraud – обман; мошенничество; подделка; обманщик; мошенник
 Pretender – притворщик; претендент
 It's important to make a good impression – важно произвести хорошее впечатление
 Elevate – поднимать; повышать; продвигать; улучшать
-Depress – понижать; ослаблять
+Depress – понижать; ослаблять; подавлять
 Sentence – предложение; высказывание; приговор; осуждение
 Altogether – вполне; полностью; всецело; совершенно
 Bargain – соглашение; сделка; выгодная покупка; заключить сделку; торговаться
@@ -1937,7 +1933,7 @@ I would rather do smth – я бы лучше предпочёл сделать что-то
 I'd rather not do it – я бы лучше предпочёл не делать этого
 I'd rather you did it – я бы лучше предпочёл, чтобы ты сделал это
 I'd better not do it – я бы лучше не делал этого
-Terrific – страшный; ужасающий; прекрасный; отличный; потрясающий
+Terrific – страшный; ужасный; прекрасный; отличный; потрясающий
 Terrifically – страшно; ужасно; отлично; замечательно
 Terrify – ужасать; внушать страх; запугивать
 Terrible – страшный; ужасный; громадный
@@ -2100,7 +2096,7 @@ Reticent – молчаливый; немногословный; умалчивающий
 Choke – удушье; удушение; душить
 Bloody – кровавый; чёртов
 Ruddy – чёртов
-Adjust – приводить в порядок; подгонять; приспосабливать
+Adjust – корректировать; подгонять; приспосабливать
 Mate – приятель; напарник; спариваться
 Confirm – подтверждать
 Resemble – быть похожим; походить на
@@ -2629,7 +2625,7 @@ help out – выручать
 take pity on – сжалиться над
 we'll see about that – мы ещё посмотрим
 literally – буквально; в прямом смысле
-coming right up – сейчас будет
+coming right up – сейчас будет; на подходе
 out of envy – из зависти
 steal – красть
 struggle – борьба; усилия; бороться
@@ -3130,7 +3126,6 @@ civil – гражданский
 servant – слуга; служащий
 were twice as likely – были в 2 раза вероятней
 detrimental – ущерб; пагубный
-fined – оштрафован
 common sense – здравый смысл
 overall – общий; всеобщий; целый; совокупный
 advocate – адвокат; защитник; сторонник; выступать за; отстаивать; поддерживать
@@ -3200,7 +3195,7 @@ expressly – прямо; чётко; конкретно; категорически
 after – после
 descent – происхождение; спуск; снижение
 check out – проверить; посмотреть на; заценить
-take over – взять на себя; захватить; занять
+take over – взять на себя; захватить; занять место
 offence – преступление; правонарушение; нарушение
 hesitate – колебаться; стесняться; сомневаться
 intership – стажировка
@@ -3579,7 +3574,118 @@ to get around this problem – обойти эту проблему
 charge – обвинение; плата; заряд; руководство; ответственность; обвинять; взимать; заряжать; поручать
 thread-safe – потокобезопасный
 accomplished – достигнутый; завершённый
-Invoke – ссылаться на; запрашивать; вызывать
+invoke – ссылаться на; запрашивать; вызывать
 they may invoke this article – они могут ссылаться на эту статью
 How to invoke a service – как вызвать услугу; как запросить сервис
 join – присоединиться к
+to allocate more resources – выделять больше ресурсов
+Now more than ever – сейчас больше, чем когда-либо
+Now more than ever, the company must allocate its resources equitably – сейчас больше, чем когда-либо, компания должна распределять свои ресурсы равномерно (справедливо)
+equity – равенство; равноправие; справедливость
+equitably – равномерно; справедливо
+how can he compose something like that? – как мог он сочинить что-то типа такого?
+user can compose queries – пользователь может составлять запросы
+Well, that's what we're trying to ferret out – ну, вот то, что мы пытаемся разведать
+Right now, I can't replicate it – прямо сейчас я не могу повторить (воспроизвести) это
+We need to replicate it – нам надо повторить это
+It emphasizes the need to anticipate would-be problems – это подчёркивает необходимость предвидеть вероятные проблемы
+I will no longer meddle in her things – я не буду больше вмешиваться в её дела
+I like to wander through the labyrinth of the human mind – мне нравится бродить сквозь лабиринт человеческого сознания
+I cannot do nothing – я не могу ничего не делать
+You do nothing without my say – ты ничего не делаешь без моего приказа
+He was welcome wherever he went – ему были рады куда бы он ни приходил
+Delete all references wherever they appear – удаляйте все ссылки, где бы они ни появлялись
+motion – движение; предложение
+we focused on motion capture – мы сфокусировались на захвате движения
+I photograph them and capture the moment – я фотографирую их и улавливаю момент
+I understand you have a motion – как я понимаю ты имеешь предложение
+I just ask that you don't agitate him – я только прошу, чтобы вы не волновали его
+I didn't want to agitate her by telling her – я не хотел взволновать её разговаривая с ней
+apart from Germany, they also visited Italy and Austria – наряду с Германией они также посетили Италию и Австрию
+I like all topics apart from the web design – мне нравятся все темы кроме веб дизайна
+I like all co-workers except for chief – мне нравятся все сослуживцы кроме начальника
+I need to lay it on the line – мне надо сказать начистоту
+I'm sincerely sorry for your troubles – мне искренне жаль за ваши неприятности
+I sincerely appreciate the interest that they have taken in this important matter – я искренне ценю интерес, который они проявили в этом важном вопросе
+It was a masterly performance – это было виртуозное исполнение
+that's when it hit me – вот тогда меня осенило
+something exceptional coming right up – кое-что исключительное сейчас будет
+We are not all musical prodigies – мы не все музыкальные гении
+in other circumstances, a certificate may become unreliable thereafter – в других обстоятельствах сертификат может стать ненадёжным впоследствии
+but despite this – но несмотря на это
+malice – злоба; злой умысел
+machine identifies malice and an intent to harm – машина идентифицирует злой умысел и намерение причинить вред
+However, despite all these troubles you are here – тем не менее, несмотря на все эти проблемы, ты здесь
+predicament – затруднительное положение
+I don't want to end up in your predicament – я не хочу оказаться в твоём положении
+I'm not going to end up like him – я не собираюсь закончить подобно ему
+by now – на данный момент; к настоящему времени
+I thought it would be over by now – я думал это будет закончено к настоящему времени
+He was supposed to end up in jail by now – он должен был закончить в тюрьме на данный момент 
+jail – тюрьма
+it seems realistic – это выглядит правдоподобно
+ad-hoc initiatives may seem an attractive option – специальные инициативы могут представляться привлекательным вариантом
+attract – привлечь; привлекать
+attractive – привлекательный
+option – опция; вариант
+I can take over part of the responsibility – я могу взять на себя часть ответственности
+eventually, it would take over her mind altogether – в конце концов это бы захватило её разум всецело
+how could they take over my kingdom? – как смогли они захватить моё королевство?
+may I take over? – могу я занять место?
+this is perfectly pure water – это идеально чистая вода
+absurd – абсурд; абсурдный
+absurdity – абсурд; абсурдность
+this is pure absurdity – это чистый абсурд
+it is utterly illogical – это абсолютно нелогично
+to exploit this incident – чтобы использовать этот инцидент
+should fully exploit every opportunity for action – следует полностью использовать каждую возможность для действия
+to exploit the resource base – чтобы эксплуатировать (разрабатывать) ресурсную базу
+that was a terrific moment – то был потрясающий момент
+you have a terrific chance – ты имеешь отличный (прекрасный) шанс
+that's clearly terrific – это очевидно ужасно
+terrific noise – ужасный шум
+I think it's going terrifically well – я думаю всё идёт замечательно хорошо
+It's terrifically painful for him to part with her – это ужасно больно для него расставаться с ней
+That explains why we resemble each other – это объясняет почему мы похожи друг на друга
+it is beyond my control – это за пределами моего контроля
+beyond the community – за пределами сообщества
+He proved beyond doubt – он доказал, вне всяких сомнений
+work must continue beyond 2020 – работа должна продолжаться после 2020
+I want to be supportive, not intrusive – я хочу быть поддерживающим, не навязчивым
+You're obsessive – ты одержимый (навязчивый)
+She is obsessed with this – она одержима этим
+Decisions were thus taken at a high level – решения были, таким образом, приняты на высоком уровне
+My mind, and thus my actions were aimed at – мои мысли и, соответственно, мои действия были нацелены на
+My mind, and thus my efforts have been sent to – мои мысли и, соответственно, мои усилия были направлены к
+I asked him not to shout – я попросил его не кричать
+I promise I won't yell – я обещаю, я не буду кричать
+Because I don't want to yell – потому что я не хочу кричать
+regardless where they may be – независимо от того, где они могут быть
+regardless their convictions – независимо от их убеждений
+Your story is far more compelling – твоя история намного более убедительна
+This case is indeed compelling – этот случай действительно убедительный
+Chief can obligate an employee – начальник может обязать работника
+I think I heard my car arrive – я думаю, я слышал, как моя машина прибыла
+The entire system could crumble at any second – вся эта система может рухнуть в любую секунду
+Particular – конкретный; особый; особенный; отдельный
+Children, moreover, remain particularly vulnerable – дети, кроме того, остаются особенно уязвимыми
+She moreover maintains it – она, кроме того, поддерживает это
+These strange occurrences moreover are ongoing – эти странные события, кроме того, происходят в настоящее время
+He continued to maintain liaison with her – он продолжил поддерживать связь с ней
+The possession of dangerous explosives is prohibited – владение опасными взрывчатыми запрещено
+private ownership – частная собственность
+to restore property ownership – восстановить владение собственностью
+even though their goals differ – даже хотя их цели различаются
+fictional – вымышленный
+Even though the movie is fictional – даже хотя это кино является вымышленным
+I will adjust my behaviour accordingly – я буду корректировать моё поведение согласно
+I'm gonna adjust my activities – я собираюсь скорректировать мои действия
+He was fined – он был оштрафован
+miserable – несчастный; жалкий
+I was miserable, depressed – я был несчастным, подавленным
+miserable failure – полный провал
+this had been a miserable failure – это был полный провал
+This could be split in a number of specific tasks – это может быть разделено на ряд специфических задач
+support – поддержка; поддерживать
+will support access to meta-data – будет поддерживать доступ к мета-данным
+furthermore, we will support additional steps – кроме того, мы будем поддерживать дополнительные шаги

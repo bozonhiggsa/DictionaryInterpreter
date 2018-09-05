@@ -2883,7 +2883,7 @@ remorse Ц раска€ние
 tampering Ц вмешательство
 evidence Ц доказательство; улика; свидетельство
 evidence tampering Ц фальсификаци€ доказательств
-put a hold on Ц приостановить; отложить
+put a hold on Ц вз€ть задержку на
 controversy Ц спор; противоречие; разногласи€
 swing Ц качели; размах; свинг; качатьс€
 naughty Ц непослушный; озорной; шаловливый
@@ -3291,7 +3291,7 @@ within 5 days Ц в течение 5 дней
 conference Ц конференци€
 international Ц международный
 scientific and technical Ц научно-технический
-pitch Ц подача; презентаци€
+pitch Ц подача; презентаци€; поле
 by accident Ц случайно
 He is always very thorough in his work Ц он всегда очень тщателен в своей работе
 plead guilty Ц признавать себ€ виновным
@@ -3684,8 +3684,9 @@ He was fined Ц он был оштрафован
 miserable Ц несчастный; жалкий
 I was miserable, depressed Ц € был несчастным, подавленным
 miserable failure Ц полный провал
-this had been a miserable failure Ц это был полный провал
+this had been a miserable failure Ц это был полный провал (результат в прошлом)
 This could be split in a number of specific tasks Ц это может быть разделено на р€д специфических задач
 support Ц поддержка; поддерживать
 will support access to meta-data Ц будет поддерживать доступ к мета-данным
 furthermore, we will support additional steps Ц кроме того, мы будем поддерживать дополнительные шаги
+you can't put a hold on the future Ц ты не можешь вз€ть задержку на (отложить) будущее

@@ -366,7 +366,7 @@ they say - говорят
 to be more exact - точнее говоря
 to begin with - начнем с
 well - ну; итак
-you see - понимаете?
+you see - понимаете...
 Blank - белый; пустой; чистый
 Ballpoint - шариковая ручка
 Clip - скрепка; зажим
@@ -983,7 +983,7 @@ Go broke – разориться; обанкротиться
 It went broke – она (компания) разорилась
 I didn't get along with my boss – я не ладил с моим боссом
 Waiter – официант
-I usually have classes during the day – обычно у меня занятия днём
+I usually have classes during the day – обычно у меня занятия во время дня
 Environment – окружение; окружающая среда
 Miracle – чудо
 stipulation – условие; оговорка; соглашение
@@ -1514,7 +1514,7 @@ It's hard to understand what she is talking about – трудно понять, о чём она гов
 Way – путь; дорога; расстояние; сторона; направление; отношение; образ; манера; способ
 We lost our way – мы сбились с пути
 I can see no way out for us – я не могу увидеть выход для нас
-He has come a long way in his work – он далеко продвинулся в своей работе
+He has come a long way in his work – он далеко продвинулся в своей работе (результат)
 Which way are you going? – в какую вам сторону?
 In a way, you are right – в некотором отношении вы правы
 This was wrong in every way – это было неправильно во всех отношениях
@@ -1550,7 +1550,7 @@ I'm having a business – я занят делом
 I just thought – я просто подумал…
 You know, I've been thinking about it – ты знаешь, я тут подумал об этом…
 What are you thinking about? – о чём ты думаешь?
-I've seen this many times before – я видел это много раз прежде
+I've seen this many times before – я видел это много раз прежде (результат)
 I'm seeing my customer tomorrow – я встречаюсь с моим клиентом завтра
 He's always doing this – он всегда делает это (сказано с раздражением)
 I can see – могу представить…
@@ -2969,7 +2969,7 @@ currency – валюта
 deposit – вклад; депозит
 selection – выбор; отбор; подбор; выделение
 depletion – истощение
-what do I owe you? – что я вам должен?
+what do I owe you? – что я вам обязан?
 Falsely – ложно
 Collect – собирать; забрать
 search for – искать тщательно
@@ -3619,7 +3619,7 @@ by now – на данный момент; к настоящему времени
 I thought it would be over by now – я думал это будет закончено к настоящему времени
 He was supposed to end up in jail by now – он должен был закончить в тюрьме на данный момент 
 jail – тюрьма
-it seems realistic – это выглядит правдоподобно
+it seems realistic – это выглядит реалистично
 ad-hoc initiatives may seem an attractive option – специальные инициативы могут представляться привлекательным вариантом
 attract – привлечь; привлекать
 attractive – привлекательный
@@ -3781,4 +3781,6 @@ perplexing challenges – трудные задачи
 violence – насилие; жестокость
 violent – насильственный; жестокий
 people are so violent, and so perplexing – люди такие жестокие и такие озадачивающие
-We view the violent events with concern – мы рассматриваем эти насильственные события с озабоченностью
+We view the violent events with concern – мы рассматриваем эти насильственные события с беспокойством
+Hopefully – к счастью; возможно
+And hopefully everything will work out – и, возможно, всё сложится (всё образуется)

@@ -3290,7 +3290,7 @@ scientific and technical Ц научно-технический
 pitch Ц подача; презентаци€; поле
 by accident Ц случайно
 He is always very thorough in his work Ц он всегда очень тщателен в своей работе
-plead guilty Ц признавать себ€ виновным
+plead guilty Ц признать вину
 speech Ц речь; выступление
 verify Ц проверить; подтвердить; подтверждать
 verified Ц проверенный; подтверждЄнный
@@ -3784,3 +3784,7 @@ people are so violent, and so perplexing Ц люди такие жестокие и такие озадачива
 We view the violent events with concern Ц мы рассматриваем эти насильственные событи€ с беспокойством
 Hopefully Ц к счастью; возможно
 And hopefully everything will work out Ц и, возможно, всЄ сложитс€ (всЄ образуетс€)
+proposal Ц предложение
+unavoidable Ц неизбежный
+enumeration Ц перечисление; перечень
+the enumeration is no longer valid Ц это перечисление не €вл€етс€ больше валидным

@@ -5,7 +5,7 @@ DROP TABLE IF EXISTS postgres.public.russian_words CASCADE;
 CREATE TABLE postgres.public.english_words
 (
      id serial NOT NULL,
-     word character varying(150) NOT NULL,
+     word character varying(200) NOT NULL,
      mark BOOLEAN,
      done BOOLEAN,
      CONSTRAINT id PRIMARY KEY (id),
@@ -19,7 +19,7 @@ OIDS = FALSE
 CREATE TABLE postgres.public.russian_words
 (
      id serial NOT NULL,
-     word character varying(150) NOT NULL,
+     word character varying(200) NOT NULL,
      CONSTRAINT id2 PRIMARY KEY (id),
      CONSTRAINT "wordRus_UNIQUE" UNIQUE (word)
 )

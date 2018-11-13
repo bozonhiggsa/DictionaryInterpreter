@@ -6,7 +6,7 @@ USE dictionary;
 
 CREATE TABLE `dictionary`.`english_words` (
   `id` INT NOT NULL AUTO_INCREMENT,
-  `word` VARCHAR(150) NOT NULL,
+  `word` VARCHAR(200) NOT NULL,
   `mark` TINYINT(1) NOT NULL,
   `done` TINYINT(1) NOT NULL,
   PRIMARY KEY (`id`),
@@ -15,7 +15,7 @@ CREATE TABLE `dictionary`.`english_words` (
 
 CREATE TABLE `dictionary`.`russian_words` (
   `id` INT NOT NULL AUTO_INCREMENT,
-  `word` VARCHAR(150) NOT NULL,
+  `word` VARCHAR(200) NOT NULL,
   PRIMARY KEY (`id`),
   UNIQUE INDEX `wordRus_UNIQUE` (`word` ASC))
   CHARSET cp1251 COLLATE cp1251_general_ci;

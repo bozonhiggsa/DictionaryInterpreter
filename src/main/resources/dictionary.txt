@@ -947,7 +947,7 @@ It's pretty good - это довольно хорошо
 I'm an assistant professor - я доцент
 I teach digital processing at the university - я преподаю цифровую обработку в университете
 How long have you been doing that? - как долго ты занимаешься этим? (долго)
-How long have you been in this business? - как долго ты в этом бизнесе? (долго)
+How long have you been in this business? - как долго ты в этом бизнесе? (состояние результат/долго)
 Since I graduated - с тех пор как я закончил учёбу
 I've been in this business for over ten years - я в этом бизнесе уже более 10 лет (состояние результат/долго)
 I have been working here for only a week - я работаю здесь только неделю (долго)
@@ -1026,11 +1026,11 @@ I was invited for an interview - я был приглашён для интервью
 What do you think about the company? - что ты думаешь о компании?
 I think it is a very interesting and profitable business - я думаю это очень интересный и прибыльный бизнес
 It corresponds to my profession and work experience - она соответствует моей профессии и опыту работы
-I like the job you have offered me - мне нравится работа, которую ты предлагаешь мне
+I like the job you have offered me - мне нравится работа, которую ты предлагаешь мне (результат)
 I accept your offer - я принимаю твоё предложение
 I'm tired of it - я устал от этого
 I will get there by car - я буду добираться туда на машине
-How long have you been living here? - как долго ты живёшь здесь?
+How long have you been living here? - как долго ты живёшь здесь? (долго)
 Are you satisfied with your job? - ты удовлетворён своей работой?
 It's hard to say – сложно сказать
 Do you think so? – ты считаешь так?
@@ -1108,7 +1108,7 @@ Clever – остроумный; сообразительный; хитрый
 I'm stuck in a rut – я застрял в рутине
 I'd like some more coffee – я бы хотел ещё немного кофе
 Let's find some more money – давай найдём ещё немного денег
-We are having fun – мы веселимся; мы получаем удовольствие
+We are having fun – мы веселимся; мы получаем удовольствие (процесс)
 All or nothing at all – всё или ничего вообще
 At all – полностью; вообще
 And you are? – А ты?
@@ -1129,7 +1129,7 @@ I got to go – мне нужно идти
 I will be able to do it – я смогу сделать это
 I'm angry with you – я сердитый на тебя
 Guess – догадка; предположение; гадать; полагать; считать
-What have you been doing? – что ты такое делал (до настоящего времени), чем занимался? (что так выглядишь)
+What have you been doing? – что ты такое делал (до настоящего времени), чем занимался? (что так выглядишь) (долго)
 Let me think – дайте-ка мне подумать
 I can do it – я могу сделать это
 I must do it – я должен сделать это
@@ -1260,7 +1260,7 @@ Get hungry – проголодаться (стать голодным)
 Get ill – заболеть (стать больным)
 Get angry – рассердиться (стать сердитым)
 Put up with it! – смирись с этим!
-I'm looking forward to hearing from you – я с нетерпением жду ответа от вас
+I'm looking forward to hearing from you – я с нетерпением жду ответа от вас (процесс)
 I'm too busy to talk to you right now – я слишком занят, чтобы разговаривать с тобой прямо сейчас
 I'm too smart to make such mistakes – я слишком умный, чтобы делать такие ошибки
 I wish you were here – я бы хотел, чтобы ты был здесь
@@ -1324,9 +1324,9 @@ He said I might use his code – он сказал, что я могу использовать его код
 I thought you might like it – я думал, что тебе может понравиться это
 He told us he would come – он сказал нам, что он придёт
 I thought you would do it – я думал, что ты бы сделал это
-Does she know where you are going? – она знает, куда ты собираешься?
-We had been married for four years – мы были женаты в течении 4 лет
-The contract has been signed – контракт был подписан
+Does she know where you are going? – она знает, куда ты собираешься? (процесс)
+We had been married for four years – мы были женаты в течении 4 лет (состояние долго/результат)
+The contract has been signed – контракт был подписан (результат)
 What am I supposed to say to my customer? – и что я теперь должен сказать моему заказчику?
 Will I see you again? – я увижу тебя снова?
 You're very likely to – скорее всего (ты есть очень вероятно к этому)
@@ -1921,7 +1921,7 @@ Terrifically – страшно; ужасно; отлично; замечательно
 Terrify – ужасать; внушать страх; запугивать
 Terrible – страшный; ужасный; громадный
 He feels like working – он в настроении поработать
-He looks like going to leave – он выглядит собирающимся уйти
+He looks like going to leave – он выглядит подобно собирающемуся уйти
 He is thought to be a diligent employee – он нём думают, что он усердный работник
 Launch – запуск; запускать; начинать
 Customizable – настраиваемый
@@ -2471,7 +2471,8 @@ Stage – этап; стадия; сцена; выставлять; демонстрировать
 Outline – план; проект; набросок; изложить; наметить
 Scenario – сценарий
 Occur – происходить; возникать; иметь место
-Occurring – происходят; происходящие; возникающие
+is occurring – происходит
+Occurring – происходящие; возникающие
 Speed up – ускорить
 Proven – проверенный; доказанный
 Ad-hoc – специальный
@@ -2631,7 +2632,7 @@ entrance – вход
 entry – вступление; ввод; доступ; вход
 entry point – отправной пункт; точка входа
 careful – осторожный; внимательный; тщательный; осторожно; внимательно; тщательно
-passed on – передаётся; передан
+is passed on – передаётся; передан
 usually – обычно
 return – возвращение; вернуться; возвращаться
 assess – оценивать
@@ -2822,8 +2823,7 @@ loss – потеря; утрата
 at a loss – в недоумении
 leave – оставлять; покидать
 leave for – отправляться (куда-то)
-favourite – любимый
-favorite – любимый
+favo(u)rite – любимый
 band – группа
 serve – служить; обслуживать
 former – бывший; прежний; первый
@@ -3556,7 +3556,7 @@ Now more than ever – сейчас больше, чем когда-либо
 Now more than ever, the company must allocate its resources equitably – сейчас больше, чем когда-либо, компания должна распределять свои ресурсы равномерно (справедливо)
 equity – равенство; равноправие; справедливость
 equitably – равномерно; справедливо
-how can he compose something like that? – как мог он сочинить что-то типа такого?
+how could he compose something like that? – как мог он сочинить что-то типа такого?
 user can compose queries – пользователь может составлять запросы
 Well, that's what we're trying to ferret out – ну, вот то, что мы пытаемся разведать (процесс)
 Right now, I can't replicate it – прямо сейчас я не могу повторить (воспроизвести) это
@@ -3665,7 +3665,7 @@ furthermore, we will support additional steps – кроме того, мы будем поддерживат
 you can't put a hold on the future – ты не можешь взять задержку на (отложить) будущее
 Can I insure my vehicle? – могу я застраховать мой автомобиль?
 society must insure that – общество должно гарантировать, что
-Not unless he told you something useful – нет, если только он не сказал тебе что-то полезное
+Not unless he told you something useful – не, если только он не сказал тебе что-то полезное
 swear – клясться; ругаться
 Nobody pays any attention unless you swear – никто не обращает никакого внимания, пока ты не ругаешься
 We don't get to swear at each other anymore – мы не станем ругать друг друга больше
@@ -3824,7 +3824,7 @@ wake up – проснуться; просыпаться
 When I woke up afterward, 12 hours were missing – когда я проснулся позже, 12 часов были потеряны
 I don't want to wake her – я не хочу разбудить её
 It's always better to wake at home, isn't it? – всегда лучше проснуться дома, не так ли?
-You have to surprise her, awaken your senses – ты должен удивить её, пробудить ваши чувства
+You have to surprise her, awaken your senses – ты вынужден удивить её, пробудить ваши чувства
 I had a cup of tea to keep myself awake – я выпил чашку чая, чтобы держать себя бодрствующим
 This amount was subsequently reduced to – это количество было впоследствии уменьшено до
 But it didn't start out that way – но это не начиналось таким образом
@@ -3833,7 +3833,7 @@ We cannot postpone a session or defer it – мы не можем перенести сессию или отср
 And everything else, for that matter – и всё другое, если на то пошло
 We can check out the project – мы можем посмотреть на этот проект
 either way – в любом случае
-Either way, we still have to check out this code – в любом случае, мы всё ещё должны проверить этот код
+Either way, we still have to check out this code – в любом случае, нам всё ещё приходиться проверять этот код
 I'd better check up – я бы лучше проверил
 You could hardly have let him down more – ты мог вряд ли подвести его больше (результат)
 I don't want to let him down – я не хочу подвести его
@@ -3847,7 +3847,7 @@ So I can find out what really happened – так я могу выяснить, что реально произо
 Moreover, the scheme could scarcely work – кроме того, эта схема сможет вряд ли работать
 You have scarcely spoken to her – ты почти не разговаривал с ней (результат)
 I can't go through with this – я не могу пойти на это
-You have to go through with it – ты должен довести до конца это
+You have to go through with it – тебе приходится довести до конца это
 in accordance with the recommendation – в соответствии с этой рекомендацией
 the choice is arbitrary – этот выбор является произвольным
 They could do much more in the way of providing assistance – они могли делать много больше в плане оказания (предоставления) помощи
@@ -3880,7 +3880,7 @@ He recognized their value and held on to them – он распознал их ценность и приде
 We must accommodate and reconcile their interests – мы должны подогнать и примирить (согласовать) их интересы
 A calm and humble life will bring more happiness than the pursuit of success and the constant restlessness that comes with it – спокойная и скромная жизнь принесёт больше счастья, чем достижение успеха и постоянное беспокойство, которое приходит с ним
 Utter – полный; произнести; выговорить
-I can't even utter the last part – я не могу даже произнести следующую часть
+I can't even utter the last part – я не могу даже произнести последнюю часть
 Since yesterday not utter a word – со вчерашнего дня не произнёс ни слова
 to deliver – доставить; обеспечить; избавлять
 I have given thanks for delivering me from that pain – я воздал благодарности (результат) за избавление меня от той боли
@@ -4069,3 +4069,8 @@ the way I figure it – как я представляю себе это
 burning – сжигание; горящий
 this burning issue could also figure in the road map – этот горящий вопрос может также фигурировать в дорожной карте
 it should not constitute a layer distinct from other layers – он не должен (следует) являться (представлять собой) слоем, отличным от других слоёв
+It's about enjoying the present moment and being content with what we've got as opposed to what we want – это об наслаждении настоящим моментом и довольствовании с тем, что мы имеем (результат) в противоположность к тому, что мы хотим
+substantial – существенный; значительный
+significantly – значительно; существенно
+distinct – отдельный; различный; отличный
+strengthen – укрепить

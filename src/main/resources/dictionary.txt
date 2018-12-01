@@ -186,7 +186,7 @@ Tough – жёсткий; крепкий; трудный; несгибаемый
 Sought after – востребованный; популярный
 Draft – чек; счёт; набросок; эскиз; отбирать; делать набросок
 Wake – разбудить; проснуться; последствие
-In the wake - в результате
+In the wake of smth - в результате чего-то
 To sack you – уволить тебя
 Scare – испуг; паника; пугать
 We can scare up – мы можем отыскать
@@ -291,8 +291,8 @@ and so forth - и так далее
 as a matter of fact - собственно говоря; на самом деле
 as things stand now - при текущем положении дел
 as things turned out - как оказалось
-as to - что касается
-as for - что касается
+as to - что касается; в отношении
+as for - что касается; в отношении; как и для
 at a glance - с первого взгляда
 at any rate - во всяком случае
 at first - во-первых
@@ -361,7 +361,7 @@ no doubt - без сомнения
 without doubt - без сомнения
 so - так; итак
 they say - говорят
-to be more exact - точнее говоря
+to be more exact - чтобы быть более точным (точнее говоря)
 to begin with - начнем с
 well - ну; итак
 you see - понимаете...
@@ -463,7 +463,7 @@ Crow - ворона
 Scarecrow – чучело
 Advertise – рекламировать
 Advertisement - реклама
-Albeit - хотя
+Albeit - хотя и
 Caching - кэширование
 Chattering – болтовня
 Sheepish – глуповатый
@@ -476,13 +476,12 @@ Rebel – бунтарь; воспротивиться
 Briskly – оживлённо
 Overflowing – переполненный
 Lit up – зажигать
-Handle – рукоятка; удобный случай; возможность; повод; предлог; управлять; справляться; заведовать; контролировать; ухаживать 
 Hailed – расценена
 Ascertain – выяснять
 Curt – односложный
 Muted – приглушённый
 Extent – степень
-Apparently – по всей видимости
+Apparently – очевидно; по всей видимости
 Eerily – устрашающе
 Orderly – упорядоченный
 Conversely – наоборот
@@ -547,12 +546,10 @@ Tasty - вкусный; изящный; приятный
 Persistence – постоянство; настойчивость
 Colocation – совместное размещение
 Revert – возвращаться
-Fetch – принести; достать
 Bunch – связка; пачка
 Descriptive – описательный; дескриптивный; наглядный
 Collaborate – работать совместно; сотрудничать
 Notify – извещать; уведомлять
-Pending – незаконченный; ожидающий решения
 Genre – жанр
 Annoy – досаждать; раздражать; надоедать
 Annoyed – раздражённый; раздосадованный
@@ -574,8 +571,7 @@ Disruption – разрушение
 Rescue – спасение; избавление; освобождение
 Weird – рок; судьба; роковой; странный; непонятный
 Training – воспитание; обучение; тренировка; стажировка
-Picking up – выбор; подбор; забрать; собирать; подбирать
-Empower – давать возможность; разрешать; оказывать поддержку; уполномочивать
+Empower – дать возможность; позволить; оказывать поддержку; уполномочить
 Energizing – активация; включение; возбуждение
 Exhilarate – веселить; развлекать; подбодрять; воодушевлять
 Awaken – пробуждать; пробудить
@@ -587,9 +583,7 @@ Drain – вытекание; вытекать; высыхать; оттекать
 Overdrive – изматывать; изнурять
 Frantically – безумно; неистово; яростно
 Majority – большинство
-Involve – втягивать; вовлекать; погружаться
 Due – должное; должный; надлежащий; ожидаемый
-Sort out – рассортировать; выяснить
 Crisis mode – кризисный режим; аврал
 Superficial – внешний; поверхностный; кажущийся; мнимый
 One-off – одноразовый
@@ -610,7 +604,7 @@ Spot – пятно; капля; место
 Reinforce – укреплять; усиливать
 Overwhelm – ошеломлять; поражать; подавлять; сокрушать
 Instill – прививать; насаживать
-Embark – начинать; вступать
+Embark on – начинать; вступать на
 Conducive – благоприятный; подходящий
 Rally – объединение; сплочение; сбор; ралли
 Mindset – образ мысли; тип мышления
@@ -620,7 +614,6 @@ Accountable – подотчётный; ответственный
 Inclusive – включающий
 Fabulous – потрясающий; изумительный; ошеломительный; легендарный
 Outset – начало; начинание
-Engage – вовлекать; принуждать; заставлять; быть занятым
 Solicit – просить; умолять; запрашивать; требовать
 Bold – отважный; храбрый
 Pivotal – центральный; осевой; основной
@@ -880,7 +873,7 @@ I just got back from – я только что вернулся из
 What did you do there? – что ты там делал?
 How was it? – как это было?
 Conjunction – связывание; сцепление; соединение
-Resolve – намерение; решимость; решение; разрешение; урегулирование; решать; разрешать; урегулировать
+Resolve – намерение; решимость; урегулирование; решать; разрешать; урегулировать
 Where are you from? - откуда ты?
 Is this your first time here? - это твой первый раз здесь?
 How long will you be here? - как долго будешь ты находиться здесь?
@@ -958,7 +951,7 @@ Commitment – обязательство
 Do you make good money? - ты зарабатываешь хорошие деньги?
 Well, it depends on the deal - ну, это зависит от сделки
 What's your professional background? - каков твой профессиональный опыт?
-I'm out of work at the moment - я не работаю в данный момент
+I'm out of work at the moment - я вне работы в данный момент
 I lost my job - я потерял свою работу
 I left my job - я покинул свою работу
 I quit my job - я ушёл с работы
@@ -1006,7 +999,7 @@ I plan on getting a master's degree in programming - я планирую получить магисте
 I'm not making a lot of money right now, but I have good career opportunities - я не зарабатываю много денег прямо сейчас, но я имею хорошие карьерные возможности
 I'm not making a lot of money right now, but I have a good perspective in this company - я не зарабатываю много денег прямо сейчас, но я имею хорошую перспективу в этой компании
 My family could not pay for my education any more - моя семья не могла больше платить за моё обучение
-Suppress – подавлять; пресекать; сдерживать; запрещать; скрывать
+Suppress – подавлять; пресекать
 Ownership – собственность; владение; имущество
 Win – победа; победить; выиграть
 Sorry, I don't quite understand you - извини, я не совсем понимаю тебя
@@ -1089,7 +1082,7 @@ Receipt – квитанция; рецепт
 Remaining – остальной; остающийся
 Exploit – деяние; подвиг
 To exploit – использовать; эксплуатировать; разрабатывать
-Encourage – поддерживать; поощрять
+Encourage – поддерживать; поощрять; ободрять; стимулировать
 Cruel – жестокий; беспощадный
 Appreciate – ценить; быть признательным; принимать во внимание
 Furious – взбешённый; неистовый; яростный
@@ -1260,7 +1253,7 @@ Get hungry – проголодаться (стать голодным)
 Get ill – заболеть (стать больным)
 Get angry – рассердиться (стать сердитым)
 Put up with it! – смирись с этим!
-I'm looking forward to hearing from you – я с нетерпением жду ответа от вас (процесс)
+I'm looking forward to hearing from you – я с нетерпением жду (процесс) ответа от вас
 I'm too busy to talk to you right now – я слишком занят, чтобы разговаривать с тобой прямо сейчас
 I'm too smart to make such mistakes – я слишком умный, чтобы делать такие ошибки
 I wish you were here – я бы хотел, чтобы ты был здесь
@@ -1273,7 +1266,7 @@ Now, what do we have here? – итак, что мы имеем здесь?
 Do you like programming on Java? – тебе нравится программирование на Java?
 She watched me doing it – она видела меня делающим это
 I hate being ignored – я ненавижу быть игнорируемым (пассив процесс)
-Permit – позволение; разрешение; позволять; давать возможность; разрешать
+Permit – позволение; разрешение; позволять; разрешать
 Enchant – очаровывать; восхищать
 HR (human resources) – эйчар; отдел кадров
 Admit – признать; допускать; сознаваться
@@ -1316,7 +1309,7 @@ Now, it's my turn – теперь моя очередь
 What is going on? – что происходит?
 Keep up – продолжать; поддерживать; держаться наравне
 Geek – чокнутый; помешанный
-Until – до; пока не; до тех пор
+Until – до; пока не; до тех пор, пока не
 Maybe you can do it by yourself? – может быть ты сможешь сделать это сам?
 He is like – и он такой говорит: «прямая речь»
 He was like – и он такой сказал: «прямая речь»
@@ -1575,7 +1568,7 @@ Not yet – ещё нет
 Are you ready yet? – вы уже готовы?
 Aren't you ready yet? – вы ещё не готовы?
 One more – ещё один
-Some more – ещё немного
+Some more – ещё немного; немного больше
 Once more – ещё раз
 One more time – ещё раз
 No more – больше не
@@ -1721,7 +1714,7 @@ He can't have forgiven her – не может быть, чтобы он простил её (результат)
 Be allowed to – будет разрешено
 They will be allowed to do it – им будет разрешено сделать это
 Tight – сжатый; плотный; тугой; строгий; надёжный; трудный
-Claim – заявление; утверждение; претензия; требование; заявлять; утверждать; требовать
+Claim – заявление; утверждение; претензия; иск; требование; заявлять; утверждать; претендовать; требовать
 Deny – отказывать; отрицать
 Persuade – убеждать
 I am here to help you – я здесь с целью помочь тебе
@@ -1973,7 +1966,7 @@ you got screwed – тебя поимели
 I'm all better – я чувствую себя лучше
 This is for the best – это к лучшему
 Be away – отлучиться
-Hit on – заигрывать; приударять
+Hit on – заигрывать; приударить за
 Like there's a smth – как будто есть что-то
 Horrible – ужасный; страшный; отвратительный
 Be supposed to – быть должным (сделать что-либо)
@@ -1991,7 +1984,7 @@ Here is the thing – дело вот в чём
 Get it together – взять себя в руки
 Be on a roll – быть в ударе
 Shut up – заткнись
-Make a difference – менять (что-либо)
+Make a difference – изменить (что-либо) (делать разницу)
 It doesn't make much of a difference – это ничего существенно не меняет
 I doubt it – я сомневаюсь в этом
 Get up – вставать
@@ -2177,7 +2170,7 @@ Caution – внимательность; осторожность; предостережение; предостерегать
 Advance – движение вперёд; продвижение; двигать вперёд; продвигать
 Impact – удар; толчок; импульс; влияние
 Bound – граница; рамки; ограничение; несвободный; связанный; ограничивать; сдерживать
-Obtain – получать; добывать; достичь; достигать
+Obtain – получать; добывать; добиться
 Take it out of here – забери это отсюда
 It's your choice – это твой выбор
 So, what's it gonna be? – так как это будет?
@@ -2237,7 +2230,7 @@ Increase – возрастание; рост; увеличение; возрастать; увеличиваться
 Against a background of – на фоне (чего-то)
 Subject areas – предметные области
 Schedule – план работы; график; составлять расписание; намечать; планировать
-Activity – деятельность
+Activity – действие; деятельность
 Guidance – методические указания
 Methodological guidelines – методические указания
 Laboratory – лаборатория; лабораторный
@@ -2352,7 +2345,7 @@ Chord – струна; аккорд
 Struck a chord – задело
 One by one – один за одним
 By mistake – по ошибке
-The time had come to say goodbye – пришло время сказать прощай
+The time had come to say goodbye – пришло время сказать прощай (результат в прошлом)
 And then smth happened – и затем кое-что произошло
 All of this – всё это
 All of these – все эти
@@ -2365,7 +2358,7 @@ Research – исследование; исследования; исследовать
 Possibility – возможность
 Solve – решить; решать; урегулировать
 Solving – решение; разрешение; урегулирование
-Based on – на основе
+Based on – на основе; основан на
 Downside – обратная сторона; недостаток
 Justify – оправдать; обосновать
 Scattered – разбросанные
@@ -2821,7 +2814,7 @@ crow about – хвастаться
 sick – больной; болеть
 loss – потеря; утрата
 at a loss – в недоумении
-leave – оставлять; покидать
+leave – оставлять; покидать; уходить
 leave for – отправляться (куда-то)
 favo(u)rite – любимый
 band – группа
@@ -3010,7 +3003,7 @@ play out – разыграть; играть на улице
 disgrace – позор; бесчестие
 rip – вырвать; оторвать; разорвать
 rip away – разрушить
-back – обратно; назад; спина; поддержать; возвращаться
+back – обратно; назад; спина; поддержать
 rival – соперник; конкурент; конкурировать; соперничать
 howl – вой; выть
 pride – гордость
@@ -3078,7 +3071,7 @@ Explosive – взрывчатка; взрывной
 numerous implementations – многочисленные реализации
 Embellish – украшать; украсить; приукрасить
 Topic – тема; вопрос; признак; тематика; предмет
-Be fond of – быть в восторге от
+Be fond of – быть в восторге от; любить
 Refuse – отказываться; отказать
 Uniformly – единообразно; одинаково; равномерно
 Across – через; между; среди
@@ -3303,7 +3296,7 @@ It makes no sense! – это чушь!
 What you just said makes no sense to me at all – то, что ты сейчас сказал, непонятно мне вообще
 Questions? – вопросы?
 Realize – понимать; осознавать; реализовать; осуществить
-I'm trying to figure out a way to do – я пытаюсь разобраться, как сделать
+I'm trying to figure out a way to do – я пытаюсь (процесс) разобраться, как сделать
 I finally figured it out! – я наконец выяснил это!
 I just figured out what your problem is – я только-что выяснил, в чём твоя проблема
 I think I figured out why – я думаю я разобрался почему
@@ -3374,7 +3367,6 @@ restate – вновь заявить; повторить
 household – домохозяйство
 rule number one – правило номер один
 kid around – дурачиться
-pick up – забрать; взять; подобрать
 refrain – воздерживаться
 no problem – без проблем
 priceless – бесценный
@@ -3404,7 +3396,7 @@ store – магазин; хранение; склад; хранить; сохранять
 storing – хранение
 restore – восстанавливать
 restoring – восстановление
-back up – назад; обратно; подкрепить; возвращаться
+back up – назад; обратно; поддержать; подкрепить; возвращаться
 backup – подкрепление; прикрытие; поддержка; подмога; резервная копия
 collaboration – сотрудничество; взаимодействие
 branch – отделение; филиал; отрасль; секция; ветка
@@ -4031,7 +4023,7 @@ elicit – получить; вызвать; извлечь
 in an attempt to elicit a response – в попытке получить (извлечь) ответ
 to elicit emotion – чтобы вызвать (извлечь) эмоцию
 the challenges to be met are essentially the following – задачи, которые повстречаются, являются в основном следующими
-so essentially it sounds quite brave – так что по существу это звучит довольно смело
+so essentially it sounds quite brave – так что по существу это звучит довольно смелым
 We come essentially to admire the art – мы приходим, главным образом, полюбоваться произведениями искусства
 figure – цифра; показатель; рисунок; фигура; полагать; считать; представлять себе; фигурировать
 These figures have not changed substantially – эти цифры (показатели) не изменились (результат) существенно (значительно)
@@ -4074,3 +4066,169 @@ substantial – существенный; значительный
 significantly – значительно; существенно
 distinct – отдельный; различный; отличный
 strengthen – укрепить
+I thought I'd give it a shot – я подумал, что я бы попробовал
+let's give it a shot – давайте попробуем
+right, let me have a crack – ладно, дайте мне попробовать
+let me have a crack at it – дайте мне попробовать с этим
+worry – беспокоиться; волноваться; переживать
+if you're worried I could have a go – если ты обеспокоен, я могу попробовать
+well, you might at least have a go – ну, ты мог по крайней мере попробовать
+I think I should have a go – я думаю мне следует попробовать
+this claim comprises two separate items – эта претензия (иск) включает два отдельных пункта
+the claim described at paragraph involves several contracts – требование, описанное в параграфе, включает несколько контрактов
+such a claim can also be considered separately – такое требование (заявление) может также быть рассмотрено отдельно
+this claim therefore does not appear to be credible – это утверждение (заявление) поэтому не кажется правдоподобным (заслуживающим доверия)
+It would be absurd to claim it – было бы абсурдно утверждать (заявлять) это
+the same person cannot claim this right more than once – та же персона не может претендовать (требовать) на это право более, чем один раз
+You know, those people look up to you – ты знаешь, те люди равняются на тебя
+to be back – возвращаться
+go back – возвращаться
+get back – возвращаться
+come back – возвращаться
+well I'm never going back – итак, я никогда не вернусь (процесс)
+coming back I can do very quickly – возвращаться я умею делать очень быстро
+I think it depends if he's planning on coming back – я думаю, это зависит от того, планирует ли он возвращаться (процесс)
+I ask to back my proposal – я прошу поддержать моё предложение
+I took it back up a few years ago – я забрал это обратно несколько лет назад
+in order to back up their efforts – для того, чтобы поддержать их усилия
+we have been prepared to back up our words with action – мы были подготовлены (состояние результат/долго) подкрепить (поддержать) наши слова действиями
+sometimes you have to back up and go around – иногда тебе приходится возвращаться и идти в обход
+maybe we should go back up – может быть нам следует идти назад
+each site can thus act as backup for the other – каждый сайт может таким образом действовать как поддержка (резервная копия) для другого
+watched over us until our backup came – следил за нами до тех пор, пока наше подкрепление (подмога, прикрытие) не пришло
+should cover a broad range of predicate offences committed outside our country – следует охватить широкий круг основных правонарушений, совершённых вне нашей страны
+I wish to make another point that I find interesting – я бы хотел донести другую точку зрения, которую я нахожу интересной
+He must be fond of you – он должно быть в восторге от тебя
+I want you to be fond of me – я хочу, чтобы ты любил меня
+They decided to embark with enthusiasm on a new life – они решили начать (вступить на) с энтузиазмом новую жизнь
+handle – рукоятка; управляться с; справляться с; разобраться с; обрабатывать
+to rapidly and accurately handle complex data – чтобы быстро (оперативно) и точно обрабатывать комплексные данные
+I hope you can handle that – я надеюсь, ты можешь справиться с таким
+the handle is too small for my hand – рукоятка слишком маленькая для моей руки
+pending – нерешённый; ожидающий решения; ожидая
+this practice should continue, pending a permanent solution – эту практику следует продолжать, ожидая перманентного решения
+to resolve one pending issue – чтобы решить (разрешить) один нерешённый (ожидающий решения) вопрос
+I can assert that – я могу утверждать, что
+responsible – ответственный
+the latter continues to assert that it is responsible for preparing this enumeration – последний продолжает заявлять, что он является ответственным за подготовку этого перечня
+It is not enough to assert that – не достаточно заявить, что
+pictures often convey values more powerfully than words – изображения часто передают ценности более мощно, чем слова
+I can't convey my feelings in words – я не могу выразить мои чувства словами
+I must convey my deep pessimism – я должен выразить мой глубокий пессимизм
+why not take credit for what you have accomplished? – почему не поставить себе в заслугу то, чего вы добились? (результат)
+resolve, at a higher level, strategic issues – урегулирование, на более высоком уровне, стратегических проблем
+strong resolve to find a peaceful solution – твёрдая решимость найти мирное решение
+the recipe aims to identify and resolve potential conflicts – средство нацелено идентифицировать и разрешать потенциальные конфликты
+funding – финансирование
+commercial projects may obtain funding – коммерческие проекты могут получить финансирование
+I helped him to obtain rare objects, dig for information and find answers – я помог ему добыть редкие объекты, раскопать информацию и найти ответы
+We can obtain results – мы можем добиться результатов
+involve – включать; предусматривать; предполагать; привлекать; вовлекать
+this can involve very severe punishment, including discharge – это может включать (предполагать) очень серъёзное наказание, включая увольнение
+such efforts must also involve the indispensable role of all concerned parties – такие усилия должны также включать (предусматривать) обязательную роль всех заинтересованных сторон
+initially – первоначально
+initially, this will involve the exchange of information – первоначально это будет включать (предполагать) обмен информацией
+We must involve the community in this process at an early stage – мы должны привлекать (вовлекать) сообщество в этот процесс на раннем этапе
+the process must be initiated, albeit cautiously – процесс должен быть инициирован, хотя и осторожно
+current progress, albeit slow, is encouraging – текущий прогресс, хотя и медленный, является ободряющим
+We have serious doubts as to their effectiveness – мы имеем серъёзные сомнения, что касается (в отношении) их эффективности
+It lacks precision as to its implementation – ей недостаёт (не хватает) точности, что касается её реализации
+this situation creates uncertainty as to the law applicable to a given contract – эта ситуация создаёт неопределённость в отношении применимости этого закона к данному контракту
+and as for you, you're free to go – а что касается тебя, ты свободен уйти
+to persist – сохраняться
+therefore, as for scientific and technical positions, gender stereotypes persist in many companies – таким образом, что касается (в отношении) научных и технических позиций, гендерные стереотипы сохраняются во многих компаниях
+disadvantages: the same as for solution 1 – недостатки: такие же, как и для решения 1
+fetch – принести; достать; привезти; забрать
+I can fetch some more if you like – я могу принести (достать) немного больше, если ты хочешь
+I asked him to fetch some goods from England – я попросил его привезти немного вещей из Англии
+I've come to fetch you – я пришёл (результат) забрать тебя
+pick up – забрать; взять; подобрать; поднять
+I couldn't pick up my phone – я не мог поднять мой телефон (трубку)
+let me pick up the question of credibility – позвольте мне поднять вопрос доверия
+I have some stuff to pick up anyway – я должен (вынужден) некоторые вещи забрать так или иначе
+I'm here to pick up one girl – я здесь, чтобы забрать одну девушку
+one of you must pick up the knife – один из вас должен взять нож
+It's hard to pick up and leave – трудно взять и уйти (ливнуть)
+I was told to pick up that dude personally – мне было сказано подобрать того чувака лично
+picking – сбор; выбор; собирание; выбирание; собирая; выбирая
+you have carte blanche in picking your squad – ты имеешь карт-бланш в собирании своей команды
+We have spent hours picking a route – мы потратили часы (результат), выбирая маршрут
+It's a fine picking – это хороший выбор
+picking his destination is the right of every person – выбор своего места назначения является правом каждой личности
+agreement – соглашение; согласие
+this format may suffice to encourage and elicit further agreement – этот формат может быть достаточным, чтобы стимулировать и вызвать дальнейшее согласие
+not suffice – недостаточно
+mere recognition of the problems will not suffice – простого признания этих проблем будет недостаточно
+I met a beautiful girl, by the way – я встретил красивую девушку, кстати
+and by the way, the distinction between them is extremely important – и, кстати, различие между ними чрезвычайно важно
+They should refrain, as far as possible, from exercising that functions – им следует воздерживаться, насколько возможно, от осуществления таких функций
+and that in turn had a positive impact on the situation – и это, в свою очередь, имело позитивное влияние на ситуацию
+I'll do anything to please you – я сделаю всё что угодно, чтобы порадовать (доставить удовольствие) тебя
+You should ascertain what measures had been taken in each case – тебе следует выяснить, какие меры были приняты (пассив долго/результат в прошлом) в каждом случае
+We must ascertain what that purpose is – мы должны выяснить, какой эта цель является
+Look forward to meeting you anon – с нетерпением жду встречи с тобой вскоре
+how to control and suppress our anger – как контролировать и подавлять наш гнев
+You can't suppress your life for his convenience – ты не можешь подавлять свою жизнь для его удобства
+It's just a feeling that I can't suppress – это просто эмоция, которую я не могу подавить
+to suppress illegal activities – чтобы пресечь незаконные действия
+We could not yet reach consensus – мы не смогли ещё достичь консенсуса
+I believe we can reach that decision very soon – я верю мы можем достичь такого решения очень скоро
+We hope we can attain more concrete results – мы надеемся, мы можем добиться более конкретных результатов
+We can attain those objectives only if – мы можем достичь тех целей только если
+that is what we can achieve – это то, чего мы можем добиться
+sort out – рассортировать; выяснить; разобраться
+help me sort out these requests – помоги мне рассортировать эти запросы
+I want to help you sort out what you're feeling – я хочу помочь тебе разобраться (выяснить), что ты чувствуешь (процесс)
+We planned it for two days hence – мы планировали это за два дня отсюда (до этого)
+and I nowhere hence shall not leave – и я никуда отсюда не должен (следует) уходить (ливнуть)
+security of persons will hence be restored – безопасность людей будет таким образом (следовательно) восстановлена
+that is to say, I felt a pride in what I have done – иначе говоря, я чувствовал гордость в том, что я сделал (результат)
+to be more exact, this occasion is dedicated to him – чтобы быть более точным, это событие посвящено ему
+I was deeply gratified by the success of this initiative – я был глубоко удовлетворён успехом этой инициативы
+I didn't say we should sleep apart – я не говорил, что нам следует спать отдельно
+I just want to tear you apart – я просто хочу разорвать тебя на части
+You may look at the camera or look away – ты можешь смотреть в камеру или отвернуться
+make no difference – не делать разницу (не имеет значения)
+what I think apparently makes no difference – что я думаю очевидно (по всей видимости) не имеет значения
+I have resources necessary to make a difference – я имею ресурсы, необходимые, чтобы сделать разницу (изменить что-либо)
+We must map out the road ahead – мы должны наметить дорогу вперёд
+We must map out a way forward – мы должны наметить путь вперёд
+I'm not trying to hit on you or anything – я не пытаюсь приударить за тобой или что-то такое
+but, as things turned out, there were other circumstances – но, как оказалось, там были другие обстоятельства
+as things stand now you can't say no to me – при текущем положении дел ты не можешь сказать нет мне
+on behalf of everybody, he congratulated me – от лица (от имени) всех он поздравил меня
+only in behalf of you – только ради тебя
+We must empower them – мы должны оказать поддержку им
+this can empower us to take control of our emotions – это может позволить (дать возможность) нам взять контроль за нашими эмоциями
+He may empower you to act as the official person – он может уполномочить тебя действовать как официальное лицо
+honestly, sometimes I'm at a loss – честно, иногда я в недоумении
+I can't permit it – я не могу разрешить (позволить) это
+the design will permit searching for information by various topics – дизайн будет позволять поиск информации по различным темам
+a special permit is required – специальное разрешение требуется
+engage – участвовать; взаимодействовать; привлекать; вовлекать; задействовать
+You can't engage without engaging me – ты не можешь участвовать без привлечения (вовлечения) меня
+in particular, civil society should engage actively in debates – в частности, гражданскому обществу следует участвовать активно в дебатах
+to make progress – добиться прогресса
+We can make progress if we engage on the issues that concern us – мы можем добиться прогресса, если мы взаимодействуем по вопросам, которые затрагивают (беспокоят, касаются) нас
+He could engage independent and relevant experts – он мог задействовать (привлекать) независимых и релевантных экспертов
+to actively engage people from the community – чтобы активно вовлекать людей из сообщества
+this included engagement in development – это включало участие в разработке
+We need their full engagement – нам нужна их полная вовлечённость
+effective cooperation among them requires continued engagement – эффективное сотрудничество между ними требует постоянного (дальнейшего) взаимодействия
+the engagement of proponents is vital – привлечение (вовлечение) сторонников является жизненно необходимым
+her spontaneous engagement seemed a bit suspicious – её спонтанная помолвка казалась немного подозрительной
+this strategy is based on a firm engagement – эта стратегия основана на твёрдом обязательстве
+It's a very important engagement – это очень важное обязательство
+that means engaging in dialogue with others, often with those who have different views – это означает участие в диалоге с другими, часто с теми, кто имеет отличные взгляды
+We look forward to engaging with all of you – мы рассчитываем на взаимодействие со всеми из вас
+that charge is inconsistent with what in fact occurred – то обвинение является несогласованным с тем, что на самом деле произошло (имело место)
+reasonable charge for supplying the information – разумная плата за предоставление информации
+another charge was discovered and deactivated without causing harm – ещё один заряд был обнаружен и деактивирован без причинения вреда
+very pleasant positive charge – очень приятный позитивный заряд
+then you take charge – тогда ты бери руководство (ответственность)
+I don't want to take charge – я не хочу брать ответственность
+I have enough evidence to charge you – я имею достаточно улик, чтобы обвинить тебя
+They may charge a fee for these services – они могут взимать плату за эти услуги
+but what he wants to charge us? – но что он хочет поручить нам?
+It designed for users who wish to charge their mobile phones – это спроектировано для пользователей, которые желают зарядить свои мобильные телефоны
+the contract involves the supply of a wide range of goods and services – контракт включает поставку (предоставление) широкого круга товаров и услуг

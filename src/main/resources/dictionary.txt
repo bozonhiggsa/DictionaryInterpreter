@@ -1003,7 +1003,7 @@ Suppress – подавлять; пресекать
 Ownership – собственность; владение; имущество
 Win – победа; победить; выиграть
 Sorry, I don't quite understand you - извини, я не совсем понимаю тебя
-Haven't you met yet? - вы ещё не встречались?
+Haven't you met yet? - разве вы не встречались ещё? (результат)
 Your friend is standing over there - твой друг стоит там (процесс)
 I live over there - я живу там
 Glad to meet you - рад встретить тебя
@@ -1074,7 +1074,7 @@ Broadcast – радиовещание; широковещательная рассылка
 Mere – простой; всего лишь
 Regard – внимание; рассмотрение; отношение; касательство; связь
 Regarding – относительно; касательно
-Regarding your proposal – что касается вашего предложения
+Regarding your proposal – касательно вашего предложения
 Lack – недостаток; отсутствие; не хватать; недоставать
 Confusion – смущение; замешательство; путаница; неразбериха
 Obsolete – устарелый; старомодный
@@ -2814,7 +2814,7 @@ crow about – хвастаться
 sick – больной; болеть
 loss – потеря; утрата
 at a loss – в недоумении
-leave – оставлять; покидать; уходить
+leave – оставлять; покидать; уходить; ливнуть
 leave for – отправляться (куда-то)
 favo(u)rite – любимый
 band – группа
@@ -3825,7 +3825,7 @@ We cannot postpone a session or defer it – мы не можем перенести сессию или отср
 And everything else, for that matter – и всё другое, если на то пошло
 We can check out the project – мы можем посмотреть на этот проект
 either way – в любом случае
-Either way, we still have to check out this code – в любом случае, нам всё ещё приходиться проверять этот код
+Either way, we still have to check out this code – в любом случае, нам всё ещё приходится проверять этот код
 I'd better check up – я бы лучше проверил
 You could hardly have let him down more – ты мог вряд ли подвести его больше (результат)
 I don't want to let him down – я не хочу подвести его
@@ -3901,7 +3901,7 @@ set out – изложить; излагать; изложенные; предусмотренные
 Some of the current initiatives are set out below – некоторые эти текущие (настоящие) инициативы изложены ниже
 guidelines – руководящие принципы; инструкции
 provide – представить; предоставить; обеспечить; оказывать; предусматривать
-The guidelines set out in this section provide further details – инструкции, изложенные в этом разделе, представляют (предусматривают) дальнейшие (дополнительные) детали
+guidelines set out in this section provide further details – инструкции, изложенные в этом разделе, представляют (предусматривают) дальнейшие (дополнительные) детали
 have been met – были соблюдены
 provision – положение; предоставление
 all requirements set out in the above-mentioned provisions have been met – все требования, предусмотренные в прежде-упомянутых положениях, были соблюдены (пассив результат)
@@ -4232,3 +4232,4 @@ They may charge a fee for these services – они могут взимать плату за эти услуги
 but what he wants to charge us? – но что он хочет поручить нам?
 It designed for users who wish to charge their mobile phones – это спроектировано для пользователей, которые желают зарядить свои мобильные телефоны
 the contract involves the supply of a wide range of goods and services – контракт включает поставку (предоставление) широкого круга товаров и услуг
+opportunity – возможность; шанс

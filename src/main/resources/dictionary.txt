@@ -336,7 +336,7 @@ or whatever - или что-то ещё
 something tells me - что-то мне подсказывает
 that is to say - иначе говоря
 that's flat - это окончательно (решение)
-that's the way things are going - вот как дела обстоят
+that's the way things are going - вот как дела обстоят (процесс)
 to one's mind - на чей-то взгляд
 to say nothing of - не говоря уж о
 to say the truth - по правде сказать
@@ -913,7 +913,7 @@ Flatten – становиться ровным; выравниваться; успокаиваться
 Do you have a family? - у тебя есть семья?
 Have you got a family? - у тебя есть семья?
 What does she do? – чем она занимается?
-At the moment I'm looking for a job - в данный момент я ищу работу
+At the moment I'm looking for a job - в данный момент я ищу работу (процесс)
 I graduated fifteen years ago with a master's degree in radio electronics - я закончил образование 15 лет назад со степенью магистра в радиоэлектронике
 I graduated from the KNURE fifteen years ago - я закончил ХНУРЭ 15 лет назад
 I have a degree in radio electronics - я имею степень в радиоэлектронике
@@ -958,8 +958,8 @@ I quit my job - я ушёл с работы
 I didn't get a raise at work, so I had to quit - я не получил повышение на работе, поэтому я должен был уйти
 I was fired - я был уволен
 My position became redundant due to the financial crisis - моя позиция стала излишней вследствие финансового кризиса
-What company are you working for? - для какой компании ты работаешь?
-What kind of job are you looking for? - какой вид работы ты ищешь?
+What company are you working for? - для какой компании ты работаешь? (процесс)
+What kind of job are you looking for? - какой вид работы ты ищешь? (процесс)
 Go broke – разориться; обанкротиться
 It went broke – она (компания) разорилась
 I didn't get along with my boss – я не ладил с моим боссом
@@ -1191,7 +1191,7 @@ What's the matter? – что случилось?; в чём проблема?
 Does it matter? – имеет ли это значение?
 Have you lost smth? – ты потерял что-то?
 I'm good at programming – я хорош в программировании
-I was going to say that! – я (как раз) собирался это сказать!
+I was going to say that! – я (как раз) собирался это сказать (процесс в прошлом)!
 I wonder if you want to do it – мне интересно, хочешь ли ты делать это
 It's a good idea to do it – это хорошая идея – делать это
 My time is up – моё время вышло
@@ -1260,7 +1260,7 @@ I wish you were here – я бы хотел, чтобы ты был здесь
 I wish I had smth – я бы хотел, чтобы я имел что-то
 To study – учиться самому (быть в процессе обучения)
 To learn – изучать
-To teach – обучать кого-то
+To teach – обучать (кого-то)
 You have done it all wrong – ты сделал это всё неправильно (результат)
 Now, what do we have here? – итак, что мы имеем здесь?
 Do you like programming on Java? – тебе нравится программирование на Java?
@@ -1318,7 +1318,7 @@ I thought you might like it – я думал, что тебе может понравиться это
 He told us he would come – он сказал нам, что он придёт
 I thought you would do it – я думал, что ты бы сделал это
 Does she know where you are going? – она знает, куда ты собираешься? (процесс)
-We had been married for four years – мы были женаты в течении 4 лет (состояние долго/результат)
+We had been married for four years – мы были женаты в течении 4 лет (состояние долго/результат в прощлом)
 The contract has been signed – контракт был подписан (результат)
 What am I supposed to say to my customer? – и что я теперь должен сказать моему заказчику?
 Will I see you again? – я увижу тебя снова?
@@ -1357,7 +1357,7 @@ Vital – жизненно необходимый; полный жизни
 Relative – родственник; относительный; сравнительный
 Thoroughly – тщательно; основательно; полностью; совершенно
 Is it ok for you if I come at seven? – это нормально для тебя, если я приду в 7?
-I'm dying for you to tell me! – я прям умираю для тебя, чтобы ты рассказал мне!
+I'm dying for you to tell me! – я прям умираю для тебя (процесс), чтобы ты рассказал мне!
 It's for you to decide! – тебе решать!
 Blame – виновность; порицание; осуждение; осуждать; обвинять
 It's not for you to blame me! – не тебе меня судить!
@@ -1580,7 +1580,7 @@ Nobody else understands me – никто другой не понимает меня
 Would you like to drink anything else? – ты бы хотела выпить чего-нибудь ещё?
 Let's go somewhere else – давайте пойдём куда-нибудь ещё
 I've been able to do it – я смог сделать это (результат)
-Have you been able to do it? – ты смог сделать это?
+Have you been able to do it? – ты смог сделать это? (состояние долго/результат)
 He may be late – он возможно опаздает
 I might do it, but I'm not sure for the quality – я мог бы сделать это, но я не уверен за качество
 It's supposed to be so – предположительно это должно быть так

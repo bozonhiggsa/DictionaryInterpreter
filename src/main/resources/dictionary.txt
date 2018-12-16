@@ -468,7 +468,6 @@ Caching - кэширование
 Chattering – болтовня
 Sheepish – глуповатый
 Countryside – сельская местность
-Forsooth – поверь
 Plug – штекер
 Slight – незначительный
 Hassle – стычка
@@ -622,7 +621,7 @@ Prudent – благоразумный; разумный; рассудительный; бережливый
 Stumble – спотыкаться; оступаться
 Marvellous – изумительный; удивительный
 Amusing – забавный; занятный; занимательный
-Peculiar – специфический; особенный; своеобразный; эксцентричный
+Peculiar – специфический; особый; своеобразный; странный
 Boring – надоедливый; скучный
 Dull – тупой; глупый; скучный; занудный
 Rude – грубый; необработанный; резкий; оскорбительный
@@ -1925,13 +1924,11 @@ Stuff – имущество; вещи; хлам
 take credit for – ставить себе в заслугу
 kid – надувать; обманывать; шутить; дурачить
 are you kidding? – ты шутишь?
-Draw – рисунок; ничья; жребий; лотерея; тяга; вытягивание; приманка
-To draw – рисовать; чертить; тянуть; притягивать; привлекать
 Confess – признаваться; сознаваться
 Miss – промах; потеря; отсутствие; упускать
 Stand – стенд; стоянка; остановка; стоять
 Reach – достичь; достигать
-Pull – напряжение; усилие; тяга; натяжение; тянуть
+Pull – напряжение; тяга; натяжение; тянуть; нажать
 Halt – остановка; остановить
 Consonant – согласный; созвучный; совместимый
 Trip – поездка; путешествие
@@ -3631,7 +3628,7 @@ Your story is far more compelling – твоя история намного более убедительна
 This case is indeed compelling – этот случай действительно убедительный
 Chief can obligate an employee – начальник может обязать работника
 I think I heard my car arrive – я думаю, я слышал, как моя машина прибыла
-The entire system could crumble at any second – вся эта система может рухнуть в любую секунду
+The entire system could crumble at any second – вся эта система могла бы рухнуть в любую секунду
 Particular – конкретный; особый; особенный; отдельный
 Children, moreover, remain particularly vulnerable – дети, кроме того, остаются особенно уязвимыми
 She moreover maintains it – она, кроме того, поддерживает это
@@ -3650,7 +3647,7 @@ miserable – несчастный; жалкий
 I was miserable, depressed – я был несчастным, подавленным
 miserable failure – полный провал
 this had been a miserable failure – это был полный провал (результат в прошлом)
-This could be split in a number of specific tasks – это может быть разделено на ряд специфических задач
+This could be split in a number of specific tasks – это могло быть разделено на ряд специфических задач
 support – поддержка; поддерживать
 will support access to meta-data – будет поддерживать доступ к мета-данным
 furthermore, we will support additional steps – кроме того, мы будем поддерживать дополнительные шаги
@@ -3736,7 +3733,7 @@ We have incontrovertible proof that this is so – мы имеем неопровержимое доказат
 sufficient – достаточный; необходимый
 My suggestion is we admit to sufficient facts – моим предложением является, мы признаём достаточные факты
 I must admit I had my doubts about it – я должен признать, я имел мои сомнения об этом
-You just couldn't admit it – ты только не можешь признать это
+You just couldn't admit it – ты только не мог признать это
 He should not support, admit and encourage such acts – он не должен поддерживать, допускать или поощрять такие действия
 exclusion – изоляция; исключение
 mutual exclusion – взаимное исключение
@@ -3836,7 +3833,7 @@ Best to concede defeat and move on – лучше признать поражение и двигаться дальше
 Are you asking me to concede or out on a date? – ты просишь меня уступить или приглашаешь на свидание?
 Maybe you should find out what it is – может быть тебе следует узнать (понять), что это такое
 So I can find out what really happened – так я могу выяснить, что реально произошло
-Moreover, the scheme could scarcely work – кроме того, эта схема сможет вряд ли работать
+Moreover, the scheme could scarcely work – кроме того, эта схема могла вряд ли работать
 You have scarcely spoken to her – ты почти не разговаривал с ней (результат)
 I can't go through with this – я не могу пойти на это
 You have to go through with it – тебе приходится довести до конца это
@@ -3939,7 +3936,7 @@ One argument is that if virtual worlds and simulations get good enough to be ind
 He tried to pass off a forgery for the original – он пытался выдать подделку за оригинал
 case is done, for all I know – дело закрыто, насколько я знаю
 We can leave for Italy tonight – мы можем отправиться в Италию сегодня ночью
-The interesting thing is, they could've overdone this – вот что интересно, так это то, что они, возможно, перестарались в этом (бы результат)
+The interesting thing is, they could've overdone this – вот что интересно, так это то, что они могли перестараться в этом (бы результат)
 You need to get it together right now – тебе нужно взять себя в руки прямо сейчас
 to keep – держать; продолжать; сохранять; оставить
 Ok, keep a watch on the house – Ок, продолжай следить за домом
@@ -3960,7 +3957,7 @@ it means this place doesn't suit me – это значит, что это место не устраивает ме
 I know deep down you care – я знаю, в глубине души тебя заботит (тебе не всё равно)
 affect – влиять на; сказаться на; трогать; задевать; затрагивать
 it certainly must affect willingness to work – это конечно должно влиять на желание (стремление) работать
-underestimating them could affect the depth of the analysis – недооценивание их может сказаться на глубине анализа
+underestimating them could affect the depth of the analysis – недооценивание их могло сказаться на глубине анализа
 it comprises mainly students – он включает в основном студентов
 concern – озабоченность; отношение; беспокойство; касаться; беспокоить; затрагивать
 this concerns principally the maintenance team – это касается, главным образом, команды техобслуживания
@@ -4053,13 +4050,13 @@ but these contacts could definitely be strengthened further – но эти контакты мо
 He further notes that registration is not free – он далее отмечает, что регистрация не является бесплатной
 It was agreed that this issue should be further examined – было согласовано (договорено), что этот вопрос должен (следует) быть далее изучен (проанализирован)
 We agree to follow up and address this issue further – мы договариваемся отслеживать и рассматривать (решать) эту проблему впредь (далее)
-Well, we could always switch – ну, мы сможем всегда поменяться
+Well, we could always switch – ну, мы могли бы всегда поменяться
 life has changed over time – жизнь изменилась со временем (результат)
 but I figure I can learn – но я полагаю (считаю), я могу научиться
 well, I figure we are safe here – ну, я полагаю (считаю), мы в безопасности здесь
 the way I figure it – как я представляю себе это
 burning – сжигание; горящий
-this burning issue could also figure in the road map – этот горящий вопрос может также фигурировать в дорожной карте
+this burning issue could also figure in the road map – этот горящий вопрос мог бы также фигурировать в дорожной карте
 it should not constitute a layer distinct from other layers – он не должен (следует) являться (представлять собой) слоем, отличным от других слоёв
 It's about enjoying the present moment and being content with what we've got as opposed to what we want – это об наслаждении настоящим моментом и довольствовании с тем, что мы имеем (результат) в противоположность к тому, что мы хотим
 substantial – существенный; значительный
@@ -4235,3 +4232,24 @@ the contract involves the supply of a wide range of goods and services – контрак
 opportunity – возможность; шанс
 ultimate – конечный; окончательный
 They both pursue the same ultimate goal – они оба преследуют ту же конечную цель
+pull out – вытащить
+I'll be there to pull you out – я буду там, чтобы вытащить тебя
+She wants to pull that thread until it unravels everything – она хочет тянуть ту ниточку, пока она не распутает всё
+anyone can pull a trigger – кто угодно может нажать триггер
+turn the pull into a push – превратите натяжение в толкание
+You feel this, like, natural pull – ты чувствуешь это как естественное напряжение
+for the sake of that great aim – ради той великой цели
+draw – ничья; жребий; привлечь; тянуть; рисовать; чертить
+I would like to draw your attention to the most recent dangerous incidents – я бы хотел привлечь ваше внимание к наиболее недавним опасным происшествиям
+I wanted to draw your attention to three points – я хотел привлечь ваше внимание к трём аспектам
+well, I suppose we should draw straws – итак, я полагаю нам следует тянуть соломинки
+I could draw you a diagram if you want – я мог бы нарисовать (начертить) вам диаграму, если вы хотите
+I look at this as a draw – я смотрю на это, как на ничью
+It's the luck of the draw, my friend – это удача жребия, мой друг
+bring – принести; привести; привлечь; довести
+bring back – вернуть
+I can bring him back – я могу вернуть его
+I suggest you bring it to the attention of your friends – я предлагаю вам довести это до внимания ваших друзей
+this may bring additional monsters – это может привлечь дополнительных монстров
+You're a little peculiar – ты немного странный (своеобразный)
+perhaps my taste is a little peculiar – возможно мой вкус является немного специфическим

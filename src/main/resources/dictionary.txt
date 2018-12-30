@@ -853,8 +853,8 @@ So, how is it? Ц ну, и как она?
 It pays more than my last job Ц она (работа) платит больше, чем мо€ прошла€ работа
 It's been ages since, I last saw you - это было очень давно, когда € в прошлый раз видел теб€
 It is so good to see you! - так при€тно видеть теб€!
-It's been a long time! How've you been? - это было так давно (когда € видел теб€)!  ак поживаешь?
-I haven't seen you around lately. Where have you been? - € не видел теб€ в последнее врем€. где ты был?
+It's been a long time! How've you been? - это было так давно (когда € видел теб€)!  ак поживаешь? (результат)
+I haven't seen you around lately. Where have you been? - € не видел теб€ в последнее врем€ (результат). где ты был? (результат)
 Gosh! Ц Ѕоже!
 Is that you? Ц ты ли это?
 You look great! - ты выгл€дишь отлично!
@@ -1317,7 +1317,7 @@ I thought you might like it Ц € думал, что тебе может понравитьс€ это
 He told us he would come Ц он сказал нам, что он придЄт
 I thought you would do it Ц € думал, что ты бы сделал это
 Does she know where you are going? Ц она знает, куда ты собираешьс€? (процесс)
-We had been married for four years Ц мы были женаты в течении 4 лет (состо€ние долго/результат в прощлом)
+We had been married for four years Ц мы были женаты в течении 4 лет (состо€ние долго/результат в прошлом)
 The contract has been signed Ц контракт был подписан (результат)
 What am I supposed to say to my customer? Ц и что € теперь должен сказать моему заказчику?
 Will I see you again? Ц € увижу теб€ снова?
@@ -3909,7 +3909,7 @@ There is also one more factor that we should not overlook Ц есть также ещЄ один 
 Maybe we should head for a meeting Ц может быть нам следует направитьс€ на совещание
 Just get behind Ц просто встань позади
 You're not getting by me Ц не приближайс€ ко мне
-I'm afraid I can't speak for her Ц боюсь, € не могу говорить за неЄ
+I'm afraid I can't speak for her Ц € боюсь, € не могу говорить за неЄ
 but, darling, I can't just go off Ц но, дорога€, € не могу просто уйти
 Imagine if you can get rid of it Ц представьте, можете ли вы избавитьс€ от этого?
 Hold up Ц вз€ть и приподн€ть; задерживать; ограбить

@@ -306,7 +306,7 @@ for example - например
 for instance - например
 for one thing - например; первым делом
 for the most part - вообще; по большей части
-I dare say - осмелюсь сказать
+I dare say - я осмелюсь сказать
 I wonder - мне интересно
 if I remember rightly - если я правильно помню
 if I'm not mistaken - если я не ошибаюсь
@@ -836,7 +836,7 @@ I'm fine, thank you! - у меня всё хорошо, спасибо!
 Nothing much – ничего особенного
 How's your wife? - как твоя жена?
 How's Kate? - как Кэти?
-She's been ill lately, but she's getting better now - она была больна недавно, но ей начинает становиться лучше сейчас
+She's been ill lately, but she's getting better now - она была больна недавно (состояние), но ей становится (процесс) лучше сейчас
 Not bad – не плохо
 How's your job? - как твоя работа?
 It's good! Thanks for asking - она (работа) в порядке! спасибо что спрашиваешь
@@ -861,7 +861,7 @@ You look great! - ты выглядишь отлично!
 You haven't changed a bit! – ты не изменился ни чуть! (результат)
 Neither have you! – ты тоже не изменился!
 What's been happening in your life? - что произошло в твоей жизни?
-Not much has been going on – ничего особенного не произошло
+Not much has been going on – ничего особенного не произошло (долго)
 Same old, same old – всё по старому
 I'm in a bit of a rush right now – я немного спешу прямо сейчас
 How about we go out for a drink some night? - как насчёт пойти выпить как-нибудь ночью?
@@ -877,7 +877,7 @@ Where are you from? - откуда ты?
 Is this your first time here? - это твой первый раз здесь?
 How long will you be here? - как долго будешь ты находиться здесь?
 How long will you stay here? - как долго будешь ты находиться здесь?
-Where are you staying? - где ты остановился?
+Where are you staying? - где ты остановился? (процесс)
 What's your name? – как твоё имя?
 What's yours? - а как твоё имя?
 How about you? - как насчёт тебя?
@@ -986,7 +986,7 @@ What do you want to achieve in your career? - чего ты хочешь достичь в своей кар
 Do you have any career ambitions? - у тебя есть какие-нибудь карьерные амбиции?
 To be a java developer would be perfect - быть Java разработчиком было бы идеально
 I sent out letters everywhere – я разослал резюме повсюду
-At the moment I'm considering a few job offers - в данный момент я рассматриваю несколько предложений работы
+At the moment I'm considering a few job offers - в данный момент я рассматриваю (процесс) несколько предложений работы
 If I make enough money, I'll do it next year - если я заработаю достаточно денег, то я сделаю это в следующем году
 Take out a loan – взять кредит
 Revoke – отменять; аннулировать
@@ -1030,12 +1030,12 @@ My friend is very proud of it - мой друг очень гордится этим
 That is a little bit expensive - это немного дороговато
 I would like to see it - я бы хотел увидеть её
 May I come and see it now? - могу я прийти и увидеть её (квартиру) сейчас?
-I'll be waiting for you - я буду ждать тебя
+I'll be waiting for you - я буду ждать тебя (процесс)
 I think we can afford it - я думаю мы можем позволить себе это
 Apply - применять; заниматься; обращаться с просьбой (заявлением)
 I'd like to invite you to apply to my job - я бы хотел пригласить вас заняться моей работой
 Please review the job post and apply if you're available - пожалуйста рассмотрите пост о работе и обращайтесь, если вы доступны
-We are currently looking for a Java developer - мы в настоящее время ищем Java разработчика
+We are currently looking for a Java developer - мы в настоящее время ищем (процесс) Java разработчика
 At least six years of experience - по крайней мере 6 лет опыта
 Curious – любопытный; любознательный; пытливый
 Affinity – сходство; близость; влечение; тяготение
@@ -1202,7 +1202,7 @@ I like this task though – хотя мне нравится это задание
 Stupid – глупый; тупой
 Foolish – глупый; безрассудный
 This is a promising project – это многообещающий проект
-That's what I'm talking about – вот то, о чём я говорю
+That's what I'm talking about – вот то, о чём я говорю (процесс)
 That's what I mean – вот что я имею в виду
 That's why I do it – вот почему я делаю это
 Apart – отдельно; на части
@@ -1305,7 +1305,7 @@ I'm an expert at these things – я эксперт в этих вещах
 I don't know where the password is – я не знаю где пароль
 I don't know why he did it – я не знаю почему он сделал это
 Now, it's my turn – теперь моя очередь
-What is going on? – что происходит?
+What is going on? – что происходит? (процесс)
 Keep up – продолжать; поддерживать; держаться наравне
 Geek – чокнутый; помешанный
 Until – до; пока не; до тех пор, пока не
@@ -1427,7 +1427,7 @@ Dispute – диспут; дебаты; дискуссия; спорить
 If I were clever, I would be rich – если бы я был умным, я был бы богатым
 Everything is in its place – всё на своём месте
 Today was made for me – этот день был сделан для меня
-It's getting cold – становится холодно
+It's getting cold – становится (процесс) холодно
 That is the best film I have ever seen – это лучший фильм, который я когда-либо видел
 It must have been fun – это должно быть было весело (бышечная реальность результат)
 Funny – забавно; смешно
@@ -1528,9 +1528,9 @@ Unacceptable – неприемлемый
 I'm having a business – я занят делом (процесс)
 I just thought – я просто подумал…
 You know, I've been thinking about it – ты знаешь, я тут подумал об этом… (долго)
-What are you thinking about? – о чём ты думаешь?
+What are you thinking about? – о чём ты думаешь? (процесс)
 I've seen this many times before – я видел это много раз прежде (результат)
-I'm seeing my customer tomorrow – я встречаюсь с моим клиентом завтра
+I'm seeing my customer tomorrow – я встречаюсь с моим клиентом завтра (процесс)
 He's always doing this – он всегда делает это (сказано с раздражением)
 I can see – могу представить…
 Just keep it real – просто оставь как есть
@@ -1612,7 +1612,7 @@ She got into debt – она влезла в долги
 Get out – выбираться (откуда-либо)
 Get out of here! – убирайся отсюда!
 We gotta get out of here – нам надо выбираться отсюда
-You're getting on my nerves – ты начинаешь действовать мне на нервы
+You're getting on my nerves – ты начинаешь действовать (процесс) мне на нервы
 He was seen with her – его видели с ней
 Half-done work – наполовину сделанная работа
 Well-known actor – хорошо известный актёр
@@ -1722,7 +1722,7 @@ Fault – вина; проступок; промах; недостаток; объявлять ошибочным
 Outrage – грубое нарушение; акт насилия; возмущение; гнев; оскорбление; совершать насилие; возмущать; оскорблять
 Outrageous – жестокий; возмутительный; оскорбительный; скандальный
 It goes without saying – само собой разумеется
-I can't believe what I'm hearing – не могу поверить, что я выслушиваю
+I can't believe what I'm hearing – не могу поверить, что я выслушиваю (процесс)
 Neither – ни один (из двух), тоже не (с отрицанием)
 Both and – как это, так и это
 Either one is fine – любой из них (из двух) хорош
@@ -1971,7 +1971,7 @@ Head for – направляться на
 Hang out – зависать; тусоваться
 How did you get through it? – как ты справился с этим?
 Cut off - отрубать; отрезать; разъединять
-That's like saying – это как говорить
+That's like saying – это как говорить (процесс)
 Horny – сексуально озабоченный
 Ever since – с тех пор
 Revelation – откровение
@@ -2407,7 +2407,7 @@ Proponents – сторонники
 on the right track – на правильном пути
 even though – даже хотя
 the world as it truly is – мир как он реально есть
-some have even gone as far as – некоторые даже пошли дальше
+some have even gone as far as – некоторые даже пошли (результат) дальше
 only a one in a billion chance – только один шанс из миллиарда
 keep in mind – держите в уме
 because of this – из-за этого
@@ -2882,7 +2882,7 @@ blossom – цветок; цвести
 accident – авария; несчастный случай; происшествие; случайность
 accidentally – случайно; нечаянно
 sequentially – последовательно
-full object status – внутреннее состояние объекта
+full object status – внутреннее состояние объекта (полный статус объекта)
 transparently – открыто; прозрачно
 depending on what – в зависимости от того, что
 bloat – раздувать
@@ -3278,7 +3278,7 @@ assertion – утверждение
 assert – утверждать; заявлять
 sense – смысл; чувство
 Does that make sense? – это понятно?
-Am I making sense to you? – я понятен для вас?
+Am I making sense to you? – я понятен для вас? (процесс)
 I like your sense of humor – мне нравится твоё чувство юмора
 Sensitive – чувствительный
 She is very sensitive to criticism – она очень чувствительна к критике
@@ -3374,7 +3374,7 @@ foot – нога; ступня; фут
 feet – ноги; ступни; футы
 Don't listen to him – не слушай его
 Sleepy – сонный
-you are getting sleepy – ты становишься сонным
+you are getting sleepy – ты становишься (процесс) сонным
 just kidding – просто шучу
 Cutie – милашка
 Act – акт; деяние; действие; поступок; действовать; выступать; поступать
@@ -3606,7 +3606,7 @@ that was a terrific moment – то был потрясающий момент
 you have a terrific chance – ты имеешь отличный (прекрасный) шанс
 that's clearly terrific – это очевидно ужасно
 terrific noise – ужасный шум
-I think it's going terrifically well – я думаю всё идёт замечательно хорошо
+I think it's going terrifically well – я думаю всё идёт (процесс) замечательно хорошо
 It's terrifically painful for him to part with her – это ужасно больно для него расставаться с ней
 That explains why we resemble each other – это объясняет почему мы похожи друг на друга
 it is beyond my control – это за пределами моего контроля
@@ -3908,7 +3908,7 @@ I'll be back in a few hours before you wrap up – я вернусь через несколько часов
 There is also one more factor that we should not overlook – есть также ещё один фактор, который нам не следует игнорировать
 Maybe we should head for a meeting – может быть нам следует направиться на совещание
 Just get behind – просто встань позади
-You're not getting by me – не приближайся ко мне
+You're not getting by me – не приближайся ко мне (процесс)
 I'm afraid I can't speak for her – я боюсь, я не могу говорить за неё
 but, darling, I can't just go off – но, дорогая, я не могу просто уйти
 Imagine if you can get rid of it – представьте, можете ли вы избавиться от этого?

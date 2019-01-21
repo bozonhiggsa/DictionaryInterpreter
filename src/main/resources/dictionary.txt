@@ -860,7 +860,7 @@ Is that you? – ты ли это?
 You look great! - ты выглядишь отлично!
 You haven't changed a bit! – ты не изменился ни чуть! (результат)
 Neither have you! – ты тоже не изменился!
-What's been happening in your life? - что произошло в твоей жизни?
+What's been happening in your life? - что произошло в твоей жизни? (долго)
 Not much has been going on – ничего особенного не произошло (долго)
 Same old, same old – всё по старому
 I'm in a bit of a rush right now – я немного спешу прямо сейчас
@@ -1181,7 +1181,7 @@ Few – мало (исчисляемое)
 A few – немного (но достаточно) (исчисляемое)
 Little – мало (неисчисляемое)
 It includes several issues – это включает несколько вопросов
-I've gone through it – я проходил через это
+I've gone through it – я проходил через это (результат)
 I believe in you – я верю в тебя
 I believe you – я верю тебе
 Abroad – заграница
@@ -1818,7 +1818,7 @@ He is less likely to do it – ему сложнее сделать это
 He is more likely to do it – ему проще сделать это
 He said that he didn't like that – он сказал, что ему не нравится это
 He said he had done it – он сказал, что он сделал это (результат в прош.)
-He said that he was reading a book – он сказал, что он читает книгу
+He said that he was reading a book – он сказал, что он читает книгу (процесс в прошлом)
 He asked if I liked it – он спросил, нравится ли мне это
 He asked whether I liked it – он спросил, нравится ли мне это
 Can't you get it? – неужели ты не можешь понять это?
@@ -2359,7 +2359,7 @@ Based on – на основе; основан на
 Downside – обратная сторона; недостаток
 Justify – оправдать; обосновать
 Scattered – разбросанные
-Leverage – использование; влияние; привлечение
+Leverage – использование; влияние; привлечение; использовать; привлекать
 External – внешний; наружный
 Thank you so much – большое спасибо
 Thank you very much – большое спасибо
@@ -3058,7 +3058,7 @@ Incompatible – несовместимый
 Elusive – неуловимый; недостижимый; иллюзорный
 Alignment – согласование; выравнивание
 Misalignment – несоответствие
-Incongruity – несоответствие; несовместимость
+Incongruity – несоответствие; несовместимость; неуместность
 Reconcile – примирить; совместить; согласовать
 Insulation – изоляция
 Hardening – ужесточение; укрепление
@@ -4253,3 +4253,15 @@ I suggest you to bring it to the attention of your friends – я предлагаю вам дов
 this may bring additional monsters – это может привлечь дополнительных монстров
 You're a little peculiar – ты немного странный (своеобразный)
 perhaps my taste is a little peculiar – возможно мой вкус является немного специфическим
+include – включать; содержать
+They noted the incongruity of such a situation – они заметили неуместность такой ситуации
+should complement each other – должны (следует) дополнять друг друга
+the proposals constituted a vital complement to – эти предложения представляли собой жизненно важное дополнение к
+should supplement those efforts – должны (следует) дополнять те усилия
+I have very little leverage – я имею очень маленькое влияние
+this will leverage significant resources – это привлечёт значительные ресурсы
+leverage additional resources – привлечение дополнительных ресурсов
+this can boost sales – это может повысить (стимулировать, активизировать) продажи
+You need an extra boost – тебе нужен дополнительный стимул
+boost competitiveness – повышение конкурентноспособности
+access was requested but was allegedly denied – доступ был запрошен, но был якобы отказан

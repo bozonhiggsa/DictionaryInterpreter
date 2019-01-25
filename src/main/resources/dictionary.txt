@@ -963,7 +963,7 @@ Go broke Ц разоритьс€; обанкротитьс€
 It went broke Ц она (компани€) разорилась
 I didn't get along with my boss Ц € не ладил с моим боссом
 Waiter Ц официант
-I usually have classes during the day Ц обычно у мен€ зан€ти€ во врем€ дн€
+I usually have classes during the day Ц € обычно имею зан€ти€ во врем€ дн€
 Environment Ц окружение; окружающа€ среда
 Miracle Ц чудо
 stipulation Ц условие; оговорка; соглашение
@@ -1188,7 +1188,7 @@ Abroad Ц заграница
 Would you like to share your secret with me? Ц ты бы не хотел поделитьс€ своим секретом со мной?
 What's the matter? Ц что случилось?; в чЄм проблема?
 Does it matter? Ц имеет ли это значение?
-Have you lost smth? Ц ты потер€л что-то?
+Have you lost smth? Ц ты потер€л что-то? (результат)
 I'm good at programming Ц € хорош в программировании
 I was going to say that! Ц € (как раз) собиралс€ это сказать! (процесс в прошлом)
 I wonder if you want to do it Ц мне интересно, хочешь ли ты делать это
@@ -4265,3 +4265,6 @@ this can boost sales Ц это может повысить (стимулировать, активизировать) продаж
 You need an extra boost Ц тебе нужен дополнительный стимул
 boost competitiveness Ц повышение конкурентноспособности
 access was requested but was allegedly denied Ц доступ был запрошен, но был €кобы отказан
+all to distract me from this Ц всЄ, чтобы отвлечь мен€ от этого
+I appreciate you trying to help distract me Ц € ценю, что ты пытаешьс€ помочь отвлечь мен€
+this is an important issue, but it must not distract us from the implementation priorities that I described earlier Ц это важный вопрос, но он не должен отвлечь нас от реализации приоритетов, которые € описал ранее

@@ -823,7 +823,7 @@ plagiarism - плагиат
 pity – жалость; сожаление; печальный факт
 I'd love to – с удовольствием
 fond – любящий; нежный
-tremendous – жуткий; страшный; ужасный; потрясающий
+tremendous – огромный; громадный; потрясающий
 suspension – прекращение; приостановка
 Hello! - привет!
 Hi! - привет!
@@ -3412,7 +3412,7 @@ comment – комментарий
 root – корень; корни; основа; причина; корневой
 pay attention – уделять внимание; обратить внимание
 existing – существующий; действующий
-putting – создание; постановка; уложение
+putting – создание; постановка; уложение; положить
 force – сила; силы; усилие; насилие; силовой; заставить; вынудить; принуждать; форсировать
 origin – происхождение; принадлежность; истоки; источник
 set up – создать; установить; настроить
@@ -4268,3 +4268,29 @@ access was requested but was allegedly denied – доступ был запрошен, но был якоб
 all to distract me from this – всё, чтобы отвлечь меня от этого
 I appreciate you trying to help distract me – я ценю, что ты пытаешься помочь отвлечь меня
 this is an important issue, but it must not distract us from the implementation priorities that I described earlier – это важный вопрос, но он не должен отвлечь нас от реализации приоритетов, которые я описал ранее
+It focuses on putting conditions and technical resources – он фокусируется на создании условий и технических ресурсов
+to assist in putting an end to such activities – помочь в положении конца таким действиям
+It aims at putting an end to this conflict – она нацелена положить конец этому конфликту
+tremendous potential of such technologies – огромный потенциал таких технологий
+although I have tremendous personal magnetism I also have strength of character – хотя я имею потрясающий личный магнетизм, я также имею силу характера
+I'm so sorry – мне так жаль
+let's talk about – давайте поговорим об этом
+what've you been up to? – как твои дела?
+snub – курносый; пренебрежение; пренебрегать (задирать нос)
+social snub could become motive – социальное пренебрежение могло стать мотивом
+I'll not let you snub her – я не позволю тебе пренебрегать ей
+I've been making a web application – я делал веб приложение (долго)
+how about smth? – как насчёт чего-то?
+sorry, I can't – извини, я не могу
+do you wanna do smth? – ты хочешь делать что-то?
+how do I get to (location)? – как мне добраться до (локация)?
+can I have this iPad, please? – можно мне этот iPad, пожалуйста? (в магазине к продавцу)
+how do I learn English? – как мне учить английский?
+do you have any plans for tomorrow? – у тебя есть какие-нибудь планы на завтра?
+I mean – я имею в виду
+how much is this? – как много стоит это?
+I don't feel so good – мне не очень хорошо
+when are we leaving? – когда мы уходим? (процесс)
+suddenly – неожиданно
+bye for now! – теперь пока!
+I used to work at the university – я раньше работал в университете

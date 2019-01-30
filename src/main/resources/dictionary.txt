@@ -4294,3 +4294,4 @@ when are we leaving? Ц когда мы уходим? (процесс)
 suddenly Ц неожиданно
 bye for now! Ц теперь пока!
 I used to work at the university Ц € раньше работал в университете
+luckily Ц к счастью

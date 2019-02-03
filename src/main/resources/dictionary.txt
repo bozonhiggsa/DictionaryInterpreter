@@ -899,7 +899,7 @@ I'm working for an American company - € работаю дл€ американской компании (проце
 How old are you? - сколько лет тебе?
 What is your profession? - кака€ тво€ професси€?
 Where do you work? - где ты работаешь?
-What are you doing? Ц чем вы занимаетесь?
+What are you doing? Ц чем вы занимаетесь?; что ты делаешь (процесс)
 What do you do professionally? - чем вы занимаетесь (профессионально)?
 What do you do in life anyway? - чем вы занимаетесь по жизни?
 What do you do for a living? Ц как вы зарабатываете на жизнь?
@@ -2090,7 +2090,7 @@ to hold up a shop Ц ограбить магазин
 hold-up Ц ограбление
 venture Ц рискованное предпри€тие; рисковать; отважитьс€; решитьс€
 joint Ц стык; сочленение; соединение; общий; объединЄнный; совместный
-nasty Ц вульгарный; отвратительный; непристойный; непри€тный; скверный
+nasty Ц мерзкий; отвратительный; скверный
 stern Ц строгий; суровый; твЄрдый; решительный
 a stern resolve Ц твЄрдое намерение
 laid-back Ц спокойный; неторопливый
@@ -4295,3 +4295,29 @@ suddenly Ц неожиданно
 bye for now! Ц теперь пока!
 I used to work at the university Ц € раньше работал в университете
 luckily Ц к счастью
+beware Ц остерегатьс€
+but beware of excessive pride Ц но остерегайс€ чрезмерной гордости
+I used to be a tutor Ц € раньше был репетитором
+clean Ц чистый; чистить; убирать
+please help me clean the house Ц пожалуйста, помоги мне почистить (убратьс€) дом
+cleaning Ц уборка; чистка
+cleaning up Ц уборка; чистка; убирать
+You start cleaning up the mess out there Ц ты начинай убирать беспор€док снаружи там
+I usually get up at 9 a.m. in the morning Ц € обычно встаю в 9 утром
+I sometimes go for a run Ц € иногда иду на пробежку
+take a shower Ц принимать душ
+I always brush my teeth in the evening Ц € всегда чищу мои зубы вечером
+awkward Ц неловкий; неуклюжий; неловкость
+this is awkward Ц это неловкость
+I wanted to apologize for being so hard on her Ц € хотел извинитьс€, что был так жесток с ней
+give away Ц отдать; раздать
+He had to give all of them away Ц ему пришлось раздать их все
+straight Ц пр€мо; сразу; пр€мой
+plan was to bring him straight here Ц план был привести его пр€мо сюда
+I skipped college, went straight to work Ц € перепрыгнул колледж, пошЄл сразу работать
+straighten Ц выпр€мить
+smooth Ц плавный; гладкий
+fever Ц лихорадка; жар
+surgery Ц операци€
+brace Ц бандаж; подпорка; подпереть
+salvage Ц спасать; сохран€ть

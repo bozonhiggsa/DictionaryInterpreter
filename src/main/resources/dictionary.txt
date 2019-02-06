@@ -138,7 +138,7 @@ Treatment – обращение; рассмотрение; трактовка
 Mature – зрелый; взрослый; сформировавшийся
 Whereby – посредством чего
 Hence – отсюда; поэтому; следовательно; таким образом
-Assemble – собирать; вызывать
+Assemble – собрать; собирать
 Aforementioned – вышеупомянутый
 Standalone applications – отдельные (автономные) приложения
 Boilerplate – шаблон; стереотип
@@ -405,7 +405,7 @@ Dejected - грустный; печальный; подавленный
 Baseless - беспочвенный; необоснованный
 Wage - зарплата; оклад
 To wage war - вести войну
-Abandon - покидать; оставлять; сдавать
+Abandon - покинуть; оставить; бросить; отказаться от
 Gleeful - весёлый; радостный
 Jealous - ревнивый
 Prodigy - гений; чудо; чудовище
@@ -458,7 +458,7 @@ I'm at your disposal – я в вашем распоряжении
 Timid – робкий
 Sensible - здравомыслящий
 Postponement – откладывание; отсрочка
-Breach – нарушение; разрыв отношений
+Breach – нарушение; брешь; разрыв
 Crow - ворона
 Scarecrow – чучело
 Advertise – рекламировать
@@ -613,7 +613,7 @@ Accountable – подотчётный; ответственный
 Inclusive – включающий
 Fabulous – потрясающий; изумительный; ошеломительный; легендарный
 Outset – начало; начинание
-Solicit – просить; умолять; запрашивать; требовать
+Solicit – просить; запрашивать; требовать
 Bold – отважный; храбрый
 Pivotal – центральный; осевой; основной
 Handsome – красивый; статный; любезный; обходительный
@@ -1446,7 +1446,7 @@ Sorrow – печаль; горе; сожаление
 Sorrowful – печальный; плачевный; несчастный
 To be sorry – сожалеть
 I'm sorry to say he is stupid – к сожалению, должен сказать, что он тупой
-I beg your pardon! – умоляю, извините!
+I beg your pardon! – я прошу вашего прощения!
 I'm terribly sorry – я ужасно огорчён
 I offer my most sincere apologies – приношу мои самые искренние извинения
 How are things? – как дела?
@@ -4321,3 +4321,37 @@ fever – лихорадка; жар
 surgery – операция
 brace – бандаж; подпорка; подпереть
 salvage – спасать; сохранять
+memories – воспоминания
+It doesn't have to be a video – это не обязательно должно быть видео
+curse – проклятие; проклинать
+lovely – прелестный; прелестно
+I have no idea – я не имею идеи (я не знаю)
+I'm begging you – я умоляю тебя (процесс)
+sweetie – милая; сладкая
+You'll be fine – ты будешь в порядке
+tease – дразнить
+I know you only pretend to like her to tease me – я знаю, ты только притворялся, что любишь (нравишься) её, чтобы дразнить меня
+You must love it! – ты должно быть любишь это!
+yes, I really do – да, я реально (ответ на вопрос в Present Simple)
+I'll explain how I became a programmer – я объясню, как я стал программистом
+by the time I am done, you will have experienced that – к тому времени, когда я закончу, ты получишь опыт (результат в будущем) такого
+I have always enjoyed a challenge – я всегда наслаждался вызовом (результат)
+I hadn't thought about it – я не подумал об этом (результат в прошлом)
+in fact, by the time this year is over, I will have been teaching english for several years – на самом деле, к тому времени когда этот год закончится, я буду учить английский в течение нескольких лет (долго в будущем)
+You can't just abandon me here – ты не можешь просто покинуть (бросить) меня здесь
+I could never abandon my goals – я бы не смог никогда отказаться от моих целей
+the preliminary outline was also prepared – предварительный набросок (проект, план) был также подготовлен
+We have already had an opportunity to outline our overall approach during the debate on this item two weeks ago – мы уже имели (результат) возможность изложить наш общий подход во время дебатов по этому вопросу две недели назад
+I will try now to outline our approach – я попытаюсь сейчас изложить наш подход
+please briefly outline steps taken and any problems encountered – пожалуйста кратко изложите шаги принятые и какие-либо проблемы возникшие (с которыми столкнулись)
+conducive climate for negotiations – благоприятный климат для переговоров
+he must solicit information from all relevant sources – он должен запросить информацию из всех релевантных источников
+It took me two hours to memorize this sentence – это заняло у меня два часа, чтобы запомнить это предложение (высказывание)
+the sentence distracted from the primary intent of the paragraph – это предложение отвлекало от главной (первичной, основной) цели параграфа
+the sentence was carried out – этот приговор (осуждение) был осуществлён
+You are nasty, bad girl – ты мерзкая, плохая девочка
+You committed a fundamental breach of contract – ты совершил фундаментальное нарушение контракта
+find out who has the audacity to disturb us – выясни, кто имеет дерзость (наглость) тревожить (беспокоить) нас
+the result should be assembled in an array – результат должен (следует) быть собран в массив
+You need only to collect it from them – тебе нужно только забрать это у них
+to grab – взять; схватить

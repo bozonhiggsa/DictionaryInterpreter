@@ -40,7 +40,7 @@ Unless – если только не; если не; пока не; кроме; за исключением
 Extending a class that implements the interface – расширяя (наследуя) класс, который реализует интерфейс
 Transient – временный; кратковременный; недолговечный
 Brood – размышлять; тяготиться
-Blanket – полный; общий; всеохватывающий
+Blanket – полный; общий; всеохватывающий; одеяло
 Request handling methods – методы обрабатывающие запрос
 Routes to an instance of a servlet – направляет к экземпляру сервлета
 Concurrent requests – одновременные (параллельные) запросы
@@ -937,7 +937,7 @@ What does your company do? - что делает твоя компания?
 I run my own business - я веду мой собственный бизнес
 It's pretty good - это довольно хорошо
 I'm an assistant professor - я доцент
-I teach digital processing at the university - я преподаю цифровую обработку в университете
+I teach programming at the university - я преподаю программирование в университете
 How long have you been doing that? - как долго ты занимаешься этим? (долго)
 How long have you been in this business? - как долго ты в этом бизнесе? (состояние результат/долго)
 Since I graduated - с тех пор как я закончил учёбу
@@ -1804,7 +1804,7 @@ He seems to want it – кажется, что он хочет этого
 He seems to want to say smth to you – кажется, что он хочет сказать что-то тебе
 He turns out to have a work – он, оказывается, имеет работу
 He turned out to be married – он, оказалось, женат
-He doesn't seem to have a soul – кажется, у него нет души
+He doesn't seem to have a soul – он не выглядит имеющим душу (что имеет душу)
 Appear – показываться; появляться; выходить; казаться
 He appears to be tired – он кажется уставшим
 He is known to be a good programmer – известно, что он хороший программист
@@ -3495,7 +3495,7 @@ subscription – подписка
 dream – мечта; мечтать; сниться; грезить
 He only dreamt – он только грезил; ему только снилось
 that means – это означает
-actually – фактически; действительно; в действительности
+actually – в действительности нет
 grant – грант; предоставление; предоставлять; выдавать
 They recently granted – они недавно предоставили
 He had recently stressed – он недавно подчеркнул (результат в прошлом)
@@ -4279,7 +4279,7 @@ what've you been up to? – как твои дела?
 snub – курносый; пренебрежение; пренебрегать (задирать нос)
 social snub could become motive – социальное пренебрежение могло стать мотивом
 I'll not let you snub her – я не позволю тебе пренебрегать ей
-I've been making a web application – я делал веб приложение (долго)
+I've been making a Java application – я делал Java приложение (долго)
 how about smth? – как насчёт чего-то?
 sorry, I can't – извини, я не могу
 do you wanna do smth? – ты хочешь делать что-то?
@@ -4322,7 +4322,7 @@ surgery – операция
 brace – бандаж; подпорка; подпереть
 salvage – спасать; сохранять
 memories – воспоминания
-It doesn't have to be a video – это не обязательно должно быть видео
+It doesn't have to be a shred – это не обязательно должен быть клочок (обрывок)
 curse – проклятие; проклинать
 lovely – прелестный; прелестно
 I have no idea – я не имею идеи (я не знаю)
@@ -4354,4 +4354,14 @@ You committed a fundamental breach of contract – ты совершил фундаментальное нар
 find out who has the audacity to disturb us – выясни, кто имеет дерзость (наглость) тревожить (беспокоить) нас
 the result should be assembled in an array – результат должен (следует) быть собран в массив
 You need only to collect it from them – тебе нужно только забрать это у них
-to grab – взять; схватить
+grab – взять; схватить
+reckon – считать
+I reckon that's so – я считаю, что это так
+one of my absolute favorite memories – одно из моих абсолютно любимых воспоминаний
+I just sort of – я только вроде как
+I just sort of follow my instincts – я только вроде как следую моим инстинктам
+and then I just sort of drifted about – и затем я только вроде как дрейфовал около
+and you know what – и ты знаешь что
+is that right? – это правильно?
+okay, what I was thinking is that – окей, что я думал (процесс в прошлом) это
+how long does it take to acquire a new skill? – как долго это занимает, приобрести (получить) новый скил?

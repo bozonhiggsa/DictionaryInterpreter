@@ -169,7 +169,7 @@ Clash – коллизия; конфликт; столкновение
 Essentially – в основном; преимущественно; главным образом; по существу
 Recipe – рецепт; средство; способ
 Acquire – получать; приобретать
-That is – то есть
+That is – то есть; вот
 Legacy – функции; наследие
 Adhere – придерживаться
 Emergency – крайность; чрезвычайное положение
@@ -334,7 +334,7 @@ one way or another - так или иначе
 or what? - или как?
 or whatever - или что-то ещё
 something tells me - что-то мне подсказывает
-that is to say - иначе говоря
+that is to say - иначе говоря (то есть сказать)
 that's flat - это окончательно (решение)
 that's the way things are going - вот как дела обстоят (процесс)
 to one's mind - на чей-то взгляд
@@ -626,7 +626,7 @@ Boring – надоедливый; скучный
 Dull – тупой; глупый; скучный; занудный
 Rude – грубый; необработанный; резкий; оскорбительный
 Outfit – снаряжение; экипировка; одежда; наряд
-I am gonna – я собираюсь (что то делать)
+I am gonna – я собираюсь (что-то делать)
 Complicate – затруднять; усложнять
 Complicated – сложный; запутанный
 To face – смотреть в лицо; сталкиваться лицом к лицу
@@ -645,7 +645,7 @@ Give it a shot! – попробуй!
 Crack – треск; хруст; трещина; разламывать
 Have a crack! – попробуй!; сделай попытку!
 Have a go! – попробуй!; сделай попытку!
-To have a fight over something – ссориться из-за чего-то
+To have a fight over something – ссориться из-за чего-то (иметь ссору за что-то)
 Connotation – подтекст; скрытый смысл
 Connote – ассоциироваться; подразумевать
 connotate – ассоциироваться; подразумевать
@@ -1027,7 +1027,7 @@ Are you satisfied with your job? - ты удовлетворён своей работой?
 It's hard to say – сложно сказать
 Do you think so? – ты считаешь так?
 My friend is very proud of it - мой друг очень гордится этим
-That is a little bit expensive - это немного дороговато
+That is a little bit expensive - то немного дороговато
 I would like to see it - я бы хотел увидеть её
 May I come and see it now? - могу я прийти и увидеть её (квартиру) сейчас?
 I'll be waiting for you - я буду ждать тебя (процесс)
@@ -1428,7 +1428,7 @@ If I were clever, I would be rich – если бы я был умным, я был бы богатым
 Everything is in its place – всё на своём месте
 Today was made for me – этот день был сделан для меня
 It's getting cold – становится (процесс) холодно
-That is the best film I have ever seen – это лучший фильм, который я когда-либо видел
+That is the best film I have ever seen – то лучший фильм, который я когда-либо видел
 It must have been fun – это должно быть было весело (бышечная реальность результат)
 Funny – забавно; смешно
 Something like that – что-то типа того
@@ -1670,7 +1670,7 @@ Over-time – сверхурочные
 Pay and benefits – зарплата и льготы/премии
 Previous experience – предыдущий опыт
 Head hunter – охотник за головами (рекрутер)
-Job hunting – поиск работы
+Job hunting – поиск работы (охота за работой)
 Detail oriented – ориентированный на детали
 Applicant – заявитель; кандидат; претендент
 Objective – цель; целевой; объективный; реальный
@@ -1991,7 +1991,7 @@ Give me a break! – отстань от меня!
 End up – оказаться; закончить; закончить тем, что
 I don't think so – я не думаю так
 Crash – авария; крушение; падать; валиться; разбиваться
-Are you gonna be ok? – ты будешь в порядке?
+Are you gonna be ok? – ты будешь в порядке? (ты собираешься быть в порядке)
 Split – делить
 Figured – фигурный; образный
 Ask smb out on a date – пригласить кого-то на свидание
@@ -3309,7 +3309,7 @@ grow – расти; выращивать; становиться
 adore – обожать
 stubborn – упрямый
 fancy – модный; причудливый; шикарный; нравиться; представить
-I really fancy – мне реально нравится
+I really fancy – мне реально (очень) нравится
 I don't fancy – я не представляю; мне не нравится; я не желаю
 Acute – острый; серьёзный
 Warn – предупреждать
@@ -4172,7 +4172,7 @@ We could not yet reach consensus – мы не смогли ещё достичь консенсуса
 I believe we can reach that decision very soon – я верю мы можем достичь такого решения очень скоро
 We hope we can attain more concrete results – мы надеемся, мы можем добиться более конкретных результатов
 We can attain those objectives only if – мы можем достичь тех целей только если
-that is what we can achieve – это то, чего мы можем добиться
+that is what we can achieve – вот, чего мы можем добиться
 sort out – рассортировать; выяснить; разобраться
 help me sort out these requests – помоги мне рассортировать эти запросы
 I want to help you sort out what you're feeling – я хочу помочь тебе разобраться (выяснить), что ты чувствуешь (процесс)
@@ -4365,3 +4365,26 @@ and you know what – и ты знаешь что
 is that right? – это правильно?
 okay, what I was thinking is that – окей, что я думал (процесс в прошлом) это
 how long does it take to acquire a new skill? – как долго это занимает, приобрести (получить) новый скил?
+this is what makes employees happy at work – вот что делает работников счастливыми на работе
+my pleasure – пожалуйста
+I like when – мне нравится когда
+smth makes me happy – что-то делает меня счастливым (доставляет мне удовольствие)
+it's super pleasant when someone gives me a compliment – это супер приятно, когда кто-то даёт мне комплимент
+I really like – мне реально (очень) нравится
+no thanks, I'm good – нет спасибо, я в порядке (мне не надо)
+so to speak – так сказать
+make sure – убедиться; удостовериться
+let me get this straight – дай мне понять это прямо (давайте уточним)
+I can't help it – я не могу ничего поделать
+go for it! – действуй!; вперёд!
+can't wait – не могу дождаться
+can't wait to see you again – не могу дождаться увидеть тебя снова
+so be it – так тому и быть
+as you wish – как хочешь (в ответ на отказ от предложения)
+shame on you – позор на тебя (как тебе не стыдно)
+starve – голодать
+I'm starving – я умираю с голода
+I know exactly how you feel – я знаю точно, как ты себя чувствуешь
+I am joking – я шучу
+recall – отзыв; помнить; вспомнить
+sacrifice – жертва; жертвовать

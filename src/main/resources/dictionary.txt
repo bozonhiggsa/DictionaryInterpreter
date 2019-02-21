@@ -586,7 +586,7 @@ Due – должное; должный; надлежащий; ожидаемый
 Crisis mode – кризисный режим; аврал
 Superficial – внешний; поверхностный; кажущийся; мнимый
 One-off – одноразовый
-Obstacle – помеха; преграда; препятствие
+Obstacle – помеха; препятствие
 Imperative – повеление; приказ; распоряжение
 Inspire – вдохновлять; воодушевлять; внушать; побуждать
 Undergo – проходить; подвергаться
@@ -1025,7 +1025,7 @@ I will get there by car - я буду добираться туда на машине
 How long have you been living here? - как долго ты живёшь здесь? (долго)
 Are you satisfied with your job? - ты удовлетворён своей работой?
 It's hard to say – сложно сказать
-Do you think so? – ты считаешь так?
+Do you think so? – ты считаешь (думаешь) так?
 My friend is very proud of it - мой друг очень гордится этим
 That is a little bit expensive - то немного дороговато
 I would like to see it - я бы хотел увидеть её
@@ -1696,8 +1696,8 @@ She must be having an appointment now – она, должно быть, на встрече сейчас (про
 He must be thinking about her – он, должно быть, думает о ней (процесс)
 She must've been doing smth – она, должно быть, делала что-то (долго)
 He may not want to come – он, возможно, не захочет приходить
-He may have done smth – он, возможно, сделал что-то (результат)
-He may not have seen her – он, возможно, не видел её (результат)
+He may have done smth – он, возможно, сделал что-то (бышечный результат)
+He may not have seen her – он, возможно, не видел её (бышечный результат)
 I might as well – я мог бы так же
 Without saying a word – не говоря ни слова
 hear out – выслушать
@@ -1954,7 +1954,7 @@ out loud – вслух
 gorgeous – великолепный; шикарный
 turned on – возбуждённый
 it hit me – меня осенило
-kind of – вроде как
+kind of – вроде как; типа; своего рода
 that wouldn't be an issue – это бы не было проблемой
 well, it matters to me – ну, это имеет значение для меня
 survivor – выживший
@@ -2878,7 +2878,7 @@ jewelry – драгоценности; украшения
 kick – удар; пнуть; ударить
 kick out – выгнать; вышвырнуть
 trash – мусор; отбросы
-blossom – цветок; цвести
+blossom – цветок; цветение; цвести
 accident – авария; несчастный случай; происшествие; случайность
 accidentally – случайно; нечаянно
 sequentially – последовательно
@@ -3174,7 +3174,7 @@ excellence – совершенство; совершенствование
 dear – дорогой; милый; уважаемый
 willingness – готовность; желание; стремление
 vacancy – вакансия
-I've had enough – с меня достаточно
+I've had enough – с меня достаточно (результат)
 For over – в течение более; уже более
 Excess – превышение; избыток; чрезмерный; избыточный
 Fee – сбор; плата; гонорар; вознаграждение
@@ -4383,8 +4383,22 @@ so be it – так тому и быть
 as you wish – как хочешь (в ответ на отказ от предложения)
 shame on you – позор на тебя (как тебе не стыдно)
 starve – голодать
-I'm starving – я умираю с голода
+I'm starving – я умираю с голода (процесс)
 I know exactly how you feel – я знаю точно, как ты себя чувствуешь
-I am joking – я шучу
+I am joking – я шучу (процесс)
 recall – отзыв; помнить; вспомнить
 sacrifice – жертва; жертвовать
+I think it's kind of weird – я думаю это типа странно
+You know, it's kind of a surprise – ты знаешь, это типа сюрприз
+fall asleep – заснуть; засыпать
+world famous actor – всемирно известный актёр
+to save him – чтобы спасти его
+conscious – сознательный
+unconscious – бессознательный; неосознанный
+vivid – яркий
+regain – восстановить
+when he regained his senses – когда он восстановил свои чувства (пришёл в себя)
+temple – храм
+eternal – вечный
+well, that's what I'm trying to say – итак, вот что я пытаюсь сказать
+I don't get to do it – я не стану делать это

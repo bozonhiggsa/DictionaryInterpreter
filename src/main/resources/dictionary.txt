@@ -377,7 +377,7 @@ Impeccable - безупречный
 Undercover - секретный; тайный
 Theft - воровство; грабёж; кража
 Secrecy - тайна; загадка; секрет
-Commission - доверенность; полномочие; указание; поручение
+Commission - комиссия; указание; поручение
 Conjure - молить; заклинать; заниматься колдовством
 Conjure up - наколдовать
 Relent - уступать; сдаваться
@@ -441,7 +441,7 @@ Footprint - след; отпечаток
 Recluse - затворник; отшельник
 Detestable - отвратительный; мерзкий
 Scoundrel - негодяй; мерзавец; подлец
-Vain - напрасный; бесполезный; тщеславный; самодовольный
+Vain - тщеславный; тщетный
 Left to my own devices - предоставленный самому себе
 Flighty - непостоянный; изменчивый; ветренный
 Shrewd - пронизывающий; проницательный; сообразительный
@@ -651,8 +651,8 @@ Connote – ассоциироваться; подразумевать
 connotate – ассоциироваться; подразумевать
 Jerk – резкое движение; толчок; ничтожество; сопляк
 Moron – идиот
-Embarrassment – затруднение; помеха; замешательство; смущение
-Embarrass – затруднять; мешать; сбивать с толку; смущать
+Embarrassment – затруднение; замешательство; смущение
+Embarrass – затруднять; сбивать с толку; смущать
 Uneasy – неудобный; беспокойный; тревожный; неловкий; скованный
 Queer – странный; необычный; чудной
 seem – кажется; выглядит; представляется
@@ -754,7 +754,6 @@ rhythmical - ритмичный; равномерный
 nocturnal - ночной
 forfeit - расплата; штраф; конфискация
 haemorrhage (hemorrhage) - кровотечение; кровоизлияние
-harass - беспокоить; волновать; надоедать; утомлять
 hypocrisy - лживость; лицемерие; фальш
 temperamental - живой; темпераментный; страстный
 dexterity - ловкость; быстрота; сноровка; сообразительность
@@ -766,7 +765,7 @@ condescend - снисходить; удостаивать
 camouflage - камуфляж; маскировка
 criticize - критиковать
 quixotic - донкихотский; идеалистичный
-obscure - тёмный; неясный; затемнять; скрывать
+obscure - тёмный; неясный; затемнять; затмевать; скрывать
 illuminate - освещать; разъяснять
 prevalent - распространённый; общепринятый
 prejudice - предрассудок; предубеждение
@@ -1137,7 +1136,7 @@ Would you do it? – мог бы ты сделать это?
 May I do it? – могу я сделать это? (спрашиваю разрешения)
 Can I do it? – могу я сделать это? (есть ли такая возможность)
 Should I do it? – следует мне сделать это?
-I may wanna try it – возможно я захочу попробовать это
+I may wanna try it – я возможно захочу попробовать это
 I could help you if you like – я мог бы помочь тебе, если ты хочешь
 What would you like? – что бы ты хотел?
 Where would you like to go? – куда бы ты хотел пойти?
@@ -2126,7 +2125,6 @@ morning! – доброе утро!
 See you later – увидимся позже
 Departure – отъезд; уход; отбытие; отправная точка
 watch out – остерегаться; быть начеку
-cute – изящный; привлекательный; прелестный; проницательный; сообразительный; находчивый; умный
 prominent – выступающий; заметный; видный; выдающийся; знаменитый
 so long – пока; до свидания; прощайте
 Pal – друг; приятель; товарищ; дружить
@@ -2721,7 +2719,7 @@ Darling – дорогой; дорогая; милый; милая; дорогуша
 Honey – милый; милая; сладкая; медовая
 For some reason – по некоторой причине
 Elder – старший
-Shine – светить; сиять
+Shine – сияние; светить; сиять
 Let him down – подвести его
 Make up – составлять; помириться
 Be made up of – быть составленным из
@@ -2806,7 +2804,7 @@ bury – захоронить; закопать; зарыть
 upheaval – потрясение
 cohesion – сплочённость; единство
 exhortation – призыв
-exercise – осуществление; реализация; деятельность; упражнение; осуществлять
+exercise – осуществление; реализация; деятельность; упражнение; тренировка; осуществлять; упражняться; тренироваться
 crow about – хвастаться
 sick – больной; болеть
 loss – потеря; утрата
@@ -2991,7 +2989,7 @@ Flesh – плоть
 Brittle – хрупкий
 Shiver – дрожать
 Drag – тащить
-Glow – светить; сиять
+Glow – сияние; светить; сиять
 Clumsy – неуклюжий
 Oblivion – забвение
 Nightmare – кошмар
@@ -3237,7 +3235,7 @@ suitcase – кейс; чемодан
 meal – еда; пища; питание; блюдо
 courtesy – вежливость; любезность
 reduce – сокращать; снижать; уменьшать
-pretty – довольно; достаточно; весьма; вполне
+pretty – довольно; достаточно; весьма; вполне; красивый; милый; хорошенький
 noisy – шумный
 surrender – сдача; капитуляция; сдаваться
 lest – чтобы не; иначе
@@ -3391,7 +3389,7 @@ To work within a team – работать в команде
 advantages of using – преимущества использования
 store – магазин; хранение; склад; хранить; сохранять
 storing – хранение
-restore – восстанавливать
+restore – восстановить
 restoring – восстановление
 back up – назад; обратно; поддержать; подкрепить; возвращаться
 backup – подкрепление; прикрытие; поддержка; подмога; резервная копия
@@ -3677,7 +3675,6 @@ There were added new fields into search query – были добавлены новые поля в поис
 to query specific data – запрашивать специфические данные
 to expose this practice – разоблачить эту практику
 proceed – приступить к; действовать; продолжать
-to proceed with caution – действовать с осторожностью
 proceed urgently with efforts to develop smth – продолжайте срочно усилия, чтобы развивать что-то
 Some side effects are unavoidable, whereas others are avoidable – некоторые побочные эффекты неизбежны, тогда как другие избежны
 You can embrace what you truly are – ты можешь принять, что ты реально являешься
@@ -3835,7 +3832,7 @@ Maybe you should find out what it is – может быть тебе следует узнать (понять), 
 So I can find out what really happened – так я могу выяснить, что реально произошло
 Moreover, the scheme could scarcely work – кроме того, эта схема могла вряд ли работать
 You have scarcely spoken to her – ты почти не разговаривал с ней (результат)
-I can't go through with this – я не могу пойти на это
+I can't go through with it – я не могу пойти на это
 You have to go through with it – тебе приходится довести до конца это
 in accordance with the recommendation – в соответствии с этой рекомендацией
 the choice is arbitrary – этот выбор является произвольным
@@ -4046,7 +4043,7 @@ further – дальнейший; дополнительный; продолжающийся; впредь; далее
 See further and below – смотрите далее и ниже
 He further stressed that such practice occur in many contexts – он далее подчеркнул, что такая практика имеет место во многих контекстах
 several projects already launched deserved further attention – несколько проектов, уже запущенных, заслужили дополнительного внимания
-but these contacts could definitely be strengthened further – но эти контакты могут определённо быть укреплёнными впредь (далее)
+but these contacts can definitely be strengthened further – но эти контакты могут определённо быть укреплёнными впредь (далее)
 He further notes that registration is not free – он далее отмечает, что регистрация не является бесплатной
 It was agreed that this issue should be further examined – было согласовано (договорено), что этот вопрос должен (следует) быть далее изучен (проанализирован)
 We agree to follow up and address this issue further – мы договариваемся отслеживать и рассматривать (решать) эту проблему впредь (далее)
@@ -4132,7 +4129,7 @@ We have serious doubts as to their effectiveness – мы имеем серъёзные сомнения, 
 It lacks precision as to its implementation – ей недостаёт (не хватает) точности, что касается её реализации
 this situation creates uncertainty as to the law applicable to a given contract – эта ситуация создаёт неопределённость в отношении применимости этого закона к данному контракту
 and as for you, you're free to go – а что касается тебя, ты свободен уйти
-to persist – сохраняться
+persist – сохраняться
 therefore, as for scientific and technical positions, gender stereotypes persist in many companies – таким образом, что касается (в отношении) научных и технических позиций, гендерные стереотипы сохраняются во многих компаниях
 disadvantages: the same as for solution 1 – недостатки: такие же, как и для решения 1
 fetch – принести; достать; привезти; забрать
@@ -4402,3 +4399,37 @@ temple – храм
 eternal – вечный
 well, that's what I'm trying to say – итак, вот что я пытаюсь сказать
 I don't get to do it – я не стану делать это
+I should proceed with caution on this matter – мне следует действовать с осторожностью в этом деле
+I can describe it as being surrounded by a strange glow – я могу описать это как окружённое странным сиянием
+all that remains is – всё что остаётся это
+the aggregate decline in resources obscures some good news – совокупный спад (сокращение) в ресурсах затмевает некоторые хорошие новости
+I hope it will continue to decline – я надеюсь, он продолжит снижаться (сокращаться)
+cute – милый; симпатичный; славный
+He's really cute – он реально (очень) милый (симпатичный, славный)
+the exercise of these rights requires permanent measures of protection – осуществление (реализация) этих прав требует постоянных мер защиты
+such an exercise has to be conducted in close cooperation with staff representatives – такая деятельность должна (вынуждена) быть проводимой в тесном сотрудничестве с представителями штата
+this exercise is designed to teach you teamwork – это упражнение разработано, чтобы учить тебя командной работе
+I really should exercise more – мне реально следует упражняться (тренироваться) больше
+it was a training exercise – это была учебная тренировка
+I never said you were vain – я никогда не говорил, что ты тщеславен
+vain hope – тщетная надежда
+He may revoke the corresponding certificate – он может аннулировать соответствующий сертификат
+it is also clear that rebels are frequently implicated in these acts – также ясно, что бунтари часто замешаны (причастны к) в этих действиях
+You don't have to take pity on me – ты не обязан сжалиться надо мной (жалеть меня)
+these discussions served to refine the scope of specific proposals – эти обсуждения послужили уточнить (доработать) границы (рамки) специфических предложений
+I can refine my technique as I go – я смогу усовершенствовать мою технику, когда я пойду (по ходу)
+this commission to me is hard – это поручение для меня является трудным
+this can describe at many levels of granularity – это можно описать на многих уровнях детализации
+I want to work out with you guys – я хочу тренироваться с вами парни
+the director may designate a limited number of well-qualified persons – директор может назначить ограниченное число высококвалифицированных лиц
+harass – беспокоить; притеснять; досаждать
+You have done nothing but harass him – ты не сделал ничего (результат), но притесняешь его
+and you claim I harass you every night – и ты заявляешь, что я досаждаю тебе каждую ночь
+You're really beginning to annoy me – ты реально начинаешь (процесс) раздражать меня
+Don't worry, I won't embarrass you – не переживай, я не буду смущать тебя
+I don't mean to embarrass you – я не предназначен (не хочу) смущать тебя
+skinny – тощий; худенькая
+no wonder you're so skinny – не удивительно, что ты такой тощий
+you're so pretty and skinny – ты такая миленькая и худенькая
+do push-ups – отжиматься
+do a pull-up – подтягиваться

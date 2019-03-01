@@ -140,7 +140,7 @@ Whereby Ц посредством чего
 Hence Ц отсюда; поэтому; следовательно; таким образом
 Assemble Ц собрать; собирать
 Aforementioned Ц вышеупом€нутый
-Standalone applications Ц отдельные (автономные) приложени€
+Stand-alone applications Ц отдельные (автономные) приложени€
 Boilerplate Ц шаблон; стереотип
 Suffice Ц быть достаточным
 Keystroke Ц нажатие клавиши
@@ -820,7 +820,6 @@ devious - удалЄнный; уединЄнный; заблудший
 fictitious - выдуманный; нереальный; поддельный; фальшивый
 plagiarism - плагиат
 pity Ц жалость; сожаление; печальный факт
-I'd love to Ц с удовольствием
 fond Ц люб€щий; нежный
 tremendous Ц огромный; громадный; потр€сающий
 suspension Ц прекращение; приостановка
@@ -1095,7 +1094,7 @@ Let it go! Ц отпусти это!; позволь этому случитьс€!
 Let it happen! Ц пусть это случитс€!
 Forgive me Ц прости мен€
 Forget about it Ц забудь об этом
-Clever Ц остроумный; сообразительный; хитрый
+Clever Ц остроумный; умный; хитрый
 I'm stuck in a rut Ц € застр€л в рутине
 I'd like some more coffee Ц € бы хотел ещЄ немного кофе
 Let's find some more money Ц давай найдЄм ещЄ немного денег
@@ -1959,7 +1958,7 @@ well, it matters to me Ц ну, это имеет значение дл€ мен€
 survivor Ц выживший
 it sucks Ц это отстой
 you got screwed Ц теб€ поимели
-I'm all better Ц € чувствую себ€ лучше
+I'm all better Ц мне лучше (€ чувствую себ€ лучше)
 This is for the best Ц это к лучшему
 Be away Ц отлучитьс€
 Hit on Ц заигрывать; приударить за
@@ -3670,7 +3669,7 @@ rather than Ц вместо того, чтобы; а не
 Use an explicit implementation rather than an interface Ц используйте €вную (конкретную) реализацию, а не интерфейс
 implicit or explicit choice of a model Ц не€вный или €вный выбор модели
 We will respond to your email query within one working day Ц мы ответим на ваш e-mail запрос в течение одного рабочего дн€
-specifies whether to group the query Ц указывает, группировать ли запрос
+It specifies whether to group the query Ц он указывает, группировать ли запрос
 There were added new fields into search query Ц были добавлены новые пол€ в поисковый запрос
 to query specific data Ц запрашивать специфические данные
 to expose this practice Ц разоблачить эту практику
@@ -4433,3 +4432,8 @@ no wonder you're so skinny Ц не удивительно, что ты такой тощий
 you're so pretty and skinny Ц ты така€ миленька€ и худенька€
 do push-ups Ц отжиматьс€
 do a pull-up Ц подт€гиватьс€
+stand-alone Ц отдельный; автономный
+It's definitely food for thought Ц это определЄнно пища дл€ размышлений
+I'd love to do it Ц € бы с удовольствием сделал это
+clever trick Ц хитрый трюк
+until the end Ц до конца

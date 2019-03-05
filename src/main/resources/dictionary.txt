@@ -664,7 +664,7 @@ Aesthetic – эстетичный
 Thrill – возбуждение; нервная дрожь; трепет
 Thrilled – взволнованный; возбуждённый
 Let's take a look at – давайте посмотрим на
-A tiny bit – чуть-чуть
+A tiny bit – немного; чуть-чуть
 Just a little – только чуть-чуть
 Substantially – существенно; значительно
 Overuse – чрезмерное использование; злоупотребление
@@ -682,7 +682,7 @@ Ambiguity – двусмысленность; неопределённость
 Rely – полагаться; надеяться; зависеть
 Enhance – увеличивать; усиливать; улучшать
 Versatile – многосторонний; многоцелевой; универсальный
-Incur – подвергаться; навлекать на себя; влезать
+Incur – подвергаться; навлекать на себя; нести; понести
 Drawback – недостаток; препятствие
 Mingle – смешиваться
 Recognize – распознавать; узнавать; осознавать; постигать
@@ -1659,7 +1659,7 @@ Full-time employment – полная занятость
 Part-time employment – частичная занятость
 Temporary employment – временная работа
 Self-employment – работа на себя
-Job market – рынок труда
+Job market – рынок работы
 Job requirements – требования работы
 Job opening – вакансия
 Immediate opening – срочная вакансия
@@ -3970,7 +3970,7 @@ He took the decision to refuse to issue certificate – он принял решение отказать
 may issue their own magazines – могут издавать свои собственные журналы
 whatsoever – какой бы то ни было; никакой
 There are no statistics whatsoever – нет статистики какой бы то ни было (никакой)
-We assume that such changes are possible at least in theory – мы допускаем (предполагаем), что такие изменения возможны, по крайней мере в теории
+I assume that such changes are possible at least in theory – я допускаю (предполагаю), что такие изменения возможны, по крайней мере в теории
 cooperation between them may assume a variety of forms – сотрудничество между ними может принимать (предполагать) разнообразие форм
 these obligations may also assume a dynamic character according to the evolving situation – эти обязательства могут также принимать динамический характер согласно к развитию ситуации
 no one else can assume that responsibility – никто другой не может взять на себя такую ответственность
@@ -4307,7 +4307,7 @@ awkward – неловкий; неуклюжий; неловкость
 this is awkward – это неловкость
 I wanted to apologize for being so hard on her – я хотел извиниться, что был так жесток с ней
 give away – отдать; раздать
-He had to give all of them away – ему пришлось раздать их все
+I had to give all of them away – мне пришлось раздать их все
 straight – прямо; сразу; прямой
 plan was to bring him straight here – план был привести его прямо сюда
 I skipped college, went straight to work – я перепрыгнул колледж, пошёл сразу работать
@@ -4437,3 +4437,12 @@ It's definitely food for thought – это определённо пища для размышлений
 I'd love to do it – я бы с удовольствием сделал это
 clever trick – хитрый трюк
 until the end – до конца
+He doesn't seem to have a clear answer – он не выглядит, имеющим чёткий ответ
+I can't assume that responsibility – я не могу взять на себя такую ответственность
+liability – ответственность
+considerable – значительный; существенный
+considerably – значительно; существенно
+I would incur considerable expenses for training – я бы понёс значительные расходы на обучение
+to incur liability – нести ответственность
+labour – труд
+labour market – рынок труда

@@ -882,7 +882,7 @@ How about you? - как насчЄт теб€?
 I've been there once - € был там однажды (результат)
 I've been here a couple of times - € был здесь пару раз (результат)
 It was nice chatting with you Ц было при€тно поболтать с тобой (процесс в прошлом)
-I've got to get going now Ц мне пора идти сейчас
+I've got to get going now Ц мне пора идти сейчас (результат)
 I like it a lot - мне это очень нравитс€
 I like it very much - мне это нравитс€ очень сильно
 Are you here by yourself? - ты здесь одна?

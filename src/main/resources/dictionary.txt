@@ -1529,7 +1529,7 @@ You know, I've been thinking about it Ц ты знаешь, € тут подумал об этомЕ (долго
 What are you thinking about? Ц о чЄм ты думаешь? (процесс)
 I've seen this many times before Ц € видел это много раз прежде (результат)
 I'm seeing my customer tomorrow Ц € встречаюсь с моим клиентом завтра (процесс)
-He's always doing this Ц он всегда делает это (сказано с раздражением)
+He's always doing this Ц он всегда делает это (процесс, сказано с раздражением)
 I can see Ц могу представитьЕ
 Just keep it real Ц просто оставь как есть
 When it's official, we'll talk again Ц когда это будет подтверждено, мы поговорим снова
@@ -4287,7 +4287,7 @@ I mean Ц € имею в виду
 how much is this? Ц как много стоит это?
 I don't feel so good Ц мне не очень хорошо
 when are we leaving? Ц когда мы уходим? (процесс)
-suddenly Ц неожиданно
+suddenly Ц неожиданно; внезапно
 bye for now! Ц теперь пока!
 I used to work at the university Ц € раньше работал в университете
 luckily Ц к счастью
@@ -4467,6 +4467,7 @@ I was accustomed to heat Ц € привык к жаре
 I owe you nothing Ц € должен тебе ничего (€ ничего тебе не должен)
 trap Ц ловушка
 You know this is probably a trap Ц ты же знаешь, это возможно ловушка
+selfish Ц эгоист; эгоистичный
 He is not selfish Ц он не эгоист
 I outsmarted him Ц € перехитрил его
 pray Ц молитва; молитьс€
@@ -4477,3 +4478,35 @@ I hit the target Ц € ударил в цель (€ попал в цель)
 He took advantage of the opportunity Ц он воспользовалс€ этой возможностью
 orchard Ц сад
 It is out of fashion Ц это не модно
+I quit smoking Ц € бросил курить
+We've been asked to leave Ц нас попросили уйти (состо€ние результат)
+There's no reason to worry Ц нет причины, чтобы беспокоитьс€
+hold your tongue Ц придержи свой €зык
+somehow, he knew Ц как-то он узнал
+expendable Ц расходный; расходный материал
+hug Ц объ€тие; обн€ть; обнимать
+It's good to hug you again Ц хорошо обн€ть теб€ снова
+destroy Ц уничтожить; разрушить
+You're very observant Ц ты очень наблюдательный
+everything is done by hand Ц всЄ сделано вручную
+prices dropped suddenly Ц цены упали внезапно
+thank you for listening Ц спасибо тебе за слушание (спасибо за внимание)
+dwell Ц останавливатьс€; зацикливатьс€
+don't dwell on your past failures Ц не останавливайс€ (зацикливайс€) на своих прошлых ошибках
+reckless Ц безрассудный
+He is a reckless driver Ц он безрассудный водитель
+keep looking Ц продолжай смотреть
+it's forbidden Ц это запрещено
+extinction Ц вымирание; исчезновение
+He needs to be stopped Ц его нужно остановить
+He made that intentionally Ц он сделал это намеренно
+I think I'm beginning to understand Ц € думаю € начинаю понимать
+that isn't fair Ц так не честно
+poison Ц €д
+that comes in handy Ц это удобно
+I'm not that stupid Ц € не такой тупой
+I'm here because of you Ц € здесь из-за теб€
+I got it for nothing Ц € получил это ни за что
+I have run out of questions Ц у мен€ закончились вопросы (результат)
+it's against the rules Ц это против правил
+I'll get my car Ц € возьму мою машину

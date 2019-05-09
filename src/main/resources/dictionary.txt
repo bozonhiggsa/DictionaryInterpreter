@@ -635,7 +635,7 @@ Errant Ц рассе€нный; блуждающий; заблудившийс€
 Run errants Ц бегать по делам
 Jam Ц сжатие; зажатие; давка; пробка; джем
 Mood Ц настроение; расположение духа
-If I'm still Ok with this, we'll do that Ц если € буду в пор€дке, мы сделаем это
+If I'm still Ok with this, we'll do that Ц если € буду в пор€дке (с этим), мы сделаем это
 Break a leg! Ц ни пуха ни пера!
 Humiliation Ц унижение
 Journey Ц путешествие; поездка
@@ -1324,7 +1324,7 @@ If I may ask Ц если мне можно спросить; если не секрет
 Make into Ц превратить в
 Don't worry! Ц не переживай!
 That's it! Ц вот так!
-Easy as pie! Ц проще простого!
+Easy as pie! Ц проще простого! (просто как пирог)
 a bit Ц немного; чуть-чуть
 That's because Ц это потому-что Е
 Talking of Ц кстати, говор€ о Е
@@ -3608,7 +3608,7 @@ It's terrifically painful for him to part with her Ц это ужасно больно дл€ него 
 That explains why we resemble each other Ц это объ€сн€ет почему мы похожи друг на друга
 it is beyond my control Ц это за пределами моего контрол€
 beyond the community Ц за пределами сообщества
-He proved beyond doubt Ц он доказал, вне вс€ких сомнений
+He proved beyond doubt Ц он доказал, вне вс€кого сомнени€
 work must continue beyond 2020 Ц работа должна продолжатьс€ после 2020
 I want to be supportive, not intrusive Ц € хочу быть поддерживающим, не нав€зчивым
 You're obsessive Ц ты одержимый (нав€зчивый)
@@ -4333,7 +4333,7 @@ I'll explain how I became a programmer Ц € объ€сню, как € стал программистом
 by the time I am done, you will have experienced that Ц к тому времени, когда € закончу, ты получишь опыт (результат в будущем) такого
 I have always enjoyed a challenge Ц € всегда наслаждалс€ вызовом (результат)
 I hadn't thought about it Ц € не подумал об этом (результат в прошлом)
-in fact, by the time this year is over, I will have been teaching english for several years Ц на самом деле, к тому времени когда этот год закончитс€, € буду учить английский в течение нескольких лет (долго в будущем)
+in fact, by the time this year is over, I will have been studying english for several years Ц на самом деле, к тому времени когда этот год закончитс€, € буду учить английский в течение нескольких лет (долго в будущем)
 You can't just abandon me here Ц ты не можешь просто покинуть (бросить) мен€ здесь
 I could never abandon my goals Ц € бы не смог никогда отказатьс€ от моих целей
 the preliminary outline was also prepared Ц предварительный набросок (проект, план) был также подготовлен
@@ -4500,7 +4500,7 @@ it's forbidden Ц это запрещено
 extinction Ц вымирание; исчезновение
 He needs to be stopped Ц его нужно остановить
 He made that intentionally Ц он сделал это намеренно
-I think I'm beginning to understand Ц € думаю € начинаю понимать
+I think I'm beginning to understand Ц € думаю € начинаю (процесс) понимать
 that isn't fair Ц так не честно
 poison Ц €д
 that comes in handy Ц это удобно

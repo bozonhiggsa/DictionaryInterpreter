@@ -19,14 +19,16 @@ import java.util.TreeSet;
  */
 public class Main {
 
+    private static final String ENCODING = "UTF-8";
+
     public static void main(String[] args) {
 
         ApplicationContext context = new ClassPathXmlApplicationContext("spring-context.xml");
-        TreeSet<String> set = new TreeSet<String>();
+        TreeSet<String> set = new TreeSet<>();
         Path path = Paths.get("src/main/resources/dictionary.txt");
         try {
-            List<String> strings = Files.readAllLines(path, Charset.forName("UTF-8"));
-            for (String s: strings) {
+            List<String> lines = Files.readAllLines(path, Charset.forName(ENCODING));
+            for (String s: lines) {
                 set.add(s.toLowerCase());
             }
             new SendDictionaryToBdImpl().sendToBd(set, context);

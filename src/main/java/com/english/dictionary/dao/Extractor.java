@@ -15,7 +15,7 @@ import java.util.TreeMap;
 public class Extractor {
 
     private static Extractor instance;
-    private static TreeMap<WordRus, WordRus> buffer = new TreeMap<WordRus, WordRus>();
+    private static TreeMap<WordRus, WordRus> buffer = new TreeMap<>();
 
     private Extractor(){}
 
@@ -38,7 +38,7 @@ public class Extractor {
     public LinkedHashSet<WordRus> extractWordsRus(LinkedHashSet<String> words, WordEng wordEng){
 
         words.remove(wordEng.getWord());
-        LinkedHashSet<WordRus> wordsRus = new LinkedHashSet<WordRus>();
+        LinkedHashSet<WordRus> wordsRus = new LinkedHashSet<>();
         for (String s: words) {
             WordRus tempWordRus = new WordRus(s);
             buffer.putIfAbsent(tempWordRus, tempWordRus);

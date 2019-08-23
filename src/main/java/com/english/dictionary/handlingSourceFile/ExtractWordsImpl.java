@@ -11,7 +11,7 @@ public class ExtractWordsImpl implements ExtractWords {
 
     public LinkedHashSet<String> extractWords(String s) {
 
-        LinkedHashSet<String> setWords = new LinkedHashSet<String>();
+        LinkedHashSet<String> setWords = new LinkedHashSet<>();
         int index = s.indexOf(" – "); // shorter char
         if(index == -1){
             index = s.indexOf(" - "); // longer char

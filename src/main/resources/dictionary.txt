@@ -186,7 +186,7 @@ Tough – жёсткий; крепкий; трудный; несгибаемый
 Sought after – востребованный; популярный
 Draft – чек; счёт; набросок; эскиз; отбирать; делать набросок
 Wake – разбудить; проснуться; последствие
-In the wake of smth - в результате чего-то
+In the wake of something - в результате чего-то
 To sack you – уволить тебя
 Scare – испуг; паника; пугать
 We can scare up – мы можем отыскать
@@ -753,7 +753,7 @@ connoisseur - знаток; специалист; эксперт; ценитель
 rhythmical - ритмичный; равномерный
 nocturnal - ночной
 forfeit - расплата; штраф; конфискация
-haemorrhage (hemorrhage) - кровотечение; кровоизлияние
+haemorrhage - кровотечение; кровоизлияние
 hypocrisy - лживость; лицемерие; фальш
 temperamental - живой; темпераментный; страстный
 dexterity - ловкость; быстрота; сноровка; сообразительность
@@ -1186,7 +1186,7 @@ Abroad – заграница
 Would you like to share your secret with me? – ты бы не хотел поделиться своим секретом со мной?
 What's the matter? – что случилось?; в чём проблема?
 Does it matter? – имеет ли это значение?
-Have you lost smth? – ты потерял что-то? (результат)
+Have you lost something? – ты потерял что-то? (результат)
 I'm good at programming – я хорош в программировании
 I was going to say that! – я (как раз) собирался это сказать! (процесс в прошлом)
 I wonder if you want to do it – мне интересно, хочешь ли ты делать это
@@ -1220,7 +1220,7 @@ Square deal – прозрачная (честная) сделка
 Tear – слеза [tia]; рвать [tea]
 What exactly did you do? – что именно ты делал?
 I decided to do it – я решил сделать это
-I called to ask smth – я звонил, чтобы спросить что-то
+I called to ask something – я звонил, чтобы спросить что-то
 He said that to amuse you – он сказал это, чтобы позабавить тебя
 I did it so you create high quality application – я сделал это так чтобы ты создала высококачественное приложение
 I want you to be happy – я хочу, чтобы ты была счастлива
@@ -1254,7 +1254,7 @@ I'm looking forward to hearing from you – я с нетерпением жду (процесс) ответа о
 I'm too busy to talk to you right now – я слишком занят, чтобы разговаривать с тобой прямо сейчас
 I'm too smart to make such mistakes – я слишком умный, чтобы делать такие ошибки
 I wish you were here – я бы хотел, чтобы ты был здесь
-I wish I had smth – я бы хотел, чтобы я имел что-то
+I wish I had something – я бы хотел, чтобы я имел что-то
 To study – учиться самому (быть в процессе обучения)
 To learn – изучать
 To teach – обучать (кого-то)
@@ -1331,7 +1331,7 @@ Talking of – кстати, говоря о …
 Speaking of – кстати, говоря о …
 Splendid – роскошный; выдающийся; знаменитый; великолепный
 Nearly – близко; почти
-Listen to smth! – послушайте что-то!
+Listen to something! – послушайте что-то!
 What does it mean? – что это значит?
 Neither do I – как и я (с отрицанием)
 Never mind! – не берите в голову!
@@ -1340,7 +1340,7 @@ What a beautiful girl! – какая красивая девушка!
 I would prefer to work by myself – я бы предпочёл работать сам
 What would you rather do? – что бы ты предпочёл сделать?
 What would you prefer to do? – что бы ты предпочёл сделать?
-I'd sooner do smth – я бы скорее сделал что-то
+I'd sooner do something – я бы скорее сделал что-то
 It's too difficult for you to understand – это слишком трудно для тебя, чтобы понять
 Is it hard for you to understand? – это сложно для тебя, чтобы понять?
 It's very important for me to manage my time – это очень важно для меня, управлять моим временем
@@ -1391,7 +1391,7 @@ This work must be finished as soon as possible – эта работа должна быть закончен
 Sell – продавать
 Invent – изобретать; создавать; выдумывать
 Behaviour – манеры; поведение
-I wish I didn't have smth – я бы хотел, чтобы я не имел чего-то
+I wish I didn't have something – я бы хотел, чтобы я не имел чего-то
 You're really very good at it – ты реально очень хорош в этом
 A third is not given! – третьего не дано!
 Well begun is half done! – хорошо начатое – наполовину сделанное!
@@ -1692,9 +1692,9 @@ Appointment – назначение; должность; свидание; встреча
 Hold an appointment – занимать должность
 She must be having an appointment now – она, должно быть, на встрече сейчас (процесс)
 He must be thinking about her – он, должно быть, думает о ней (процесс)
-She must've been doing smth – она, должно быть, делала что-то (долго)
+She must've been doing something – она, должно быть, делала что-то (долго)
 He may not want to come – он, возможно, не захочет приходить
-He may have done smth – он, возможно, сделал что-то (бышечный результат)
+He may have done something – он, возможно, сделал что-то (бышечный результат)
 He may not have seen her – он, возможно, не видел её (бышечный результат)
 I might as well – я мог бы так же
 Without saying a word – не говоря ни слова
@@ -1780,8 +1780,8 @@ Cheat – жулик; обманщик; мошенник; мошенничество; мошенничать; обманывать; надув
 Regret – сожаление; огорчение; сожалеть
 I regret doing it – я сожалею, что сделал это
 I regret to say it – я сожалею, что говорю это
-It's a good chance to do smth – это хороший шанс сделать что-то
-It's a good chance of doing smth – это хороший шанс сделать что-то
+It's a good chance to do something – это хороший шанс сделать что-то
+It's a good chance of doing something – это хороший шанс сделать что-то
 He is considered to be a good specialist – он считается хорошим специалистом
 He allowed me not to come – он разрешил мне не приходить
 He ordered him to remake – он приказал ему переделать
@@ -1799,7 +1799,7 @@ I understand her being like that – я понимаю, почему она ведёт себя подобным обр
 Commit – совершать; вверять; поручать; фиксировать
 I'm sorry for interrupting you – прошу прощения, что перебил вас
 He seems to want it – кажется, что он хочет этого
-He seems to want to say smth to you – кажется, что он хочет сказать что-то тебе
+He seems to want to say something to you – кажется, что он хочет сказать что-то тебе
 He turns out to have a work – он, оказывается, имеет работу
 He turned out to be married – он, оказалось, женат
 He doesn't seem to have a soul – он не выглядит имеющим душу (что имеет душу)
@@ -1837,7 +1837,7 @@ it doesn't matter where – где бы то ни было; неважно куда; неважно где
 I will do it whatever you'll tell me – я сделаю это, что бы ты ни говорил мне
 No matter what people think I will do it – неважно что люди думают, я сделаю это
 It doesn't matter what people think I will do it anyway – неважно что люди думают, я сделаю это, так или иначе
-No matter how hard you do smth – неважно как упорно ты делаешь что-то
+No matter how hard you do something – неважно как упорно ты делаешь что-то
 astonish – изумлять; поражать; удивлять
 astonishing – изумительный; ошеломительный; удивительный
 I don't care whether you believe it or not – мне всё равно, веришь ли ты этому или нет
@@ -1861,18 +1861,18 @@ I wanna know how much you want it – я хочу знать, насколько сильно ты хочешь это
 Offer – предложение; предлагать
 I wanna know for whom you do it – я хочу знать, для кого ты делаешь это
 I wanna know who you do it for – я хочу знать, для кого ты делаешь это
-There's smth you should know – есть кое-что, что тебе следует знать
+There's something you should know – есть кое-что, что тебе следует знать
 There's nothing you have to do – нет ничего, что ты обязан делать
 There's one thing I want to tell you – есть одна вещь, которую я хочу рассказать тебе
 There are many ideas you may use – есть много идей, которые ты можешь использовать
 There are so much to tell you – есть так много, чтобы рассказать тебе
-I have smth interesting to show you – у меня есть кое-что интересное, что мне нужно показать тебе
+I have something interesting to show you – у меня есть кое-что интересное, что мне нужно показать тебе
 The thing he is trying to say – то, что он пытается сказать (процесс)
 I like the thing you're doing – мне нравится то, что ты делаешь (процесс)
 I like the way you do it – мне нравится, как ты делаешь это (вообще)
 I like the way he is doing his work – мне нравится, как он делает свою работу (процесс)
-In a way to do smth – так, чтобы сделать что-то
-In a way that does smth – таким образом, который сделает что-то
+In a way to do something – так, чтобы сделать что-то
+In a way that does something – таким образом, который сделает что-то
 Do it in a way to earn some money – сделай это так, чтобы заработать немного денег
 Do it in a way that brings money – сделай это таким образом, который принесёт деньги
 That's the very film I told you about – вот тот самый фильм, о котором я тебе рассказывал
@@ -1902,7 +1902,7 @@ Endorsement – подтверждение; одобрение; поддержка
 Customize – переделывать; подгонять
 You behave as if you didn't know it – ты ведёшь себя так, как если бы ты не знал этого
 You behaved as though you didn't know it – ты вёл себя так, как будто бы ты не знал этого
-I would rather do smth – я бы лучше предпочёл сделать что-то
+I would rather do something – я бы лучше предпочёл сделать что-то
 I'd rather not do it – я бы лучше предпочёл не делать этого
 I'd rather you did it – я бы лучше предпочёл, чтобы ты сделал это
 I'd better not do it – я бы лучше не делал этого
@@ -1962,7 +1962,7 @@ I'm all better – мне лучше (я чувствую себя лучше)
 This is for the best – это к лучшему
 Be away – отлучиться
 Hit on – заигрывать; приударить за
-Like there's a smth – как будто есть что-то
+Like there's a something – как будто есть что-то
 Horrible – ужасный; страшный; отвратительный
 Be supposed to – быть должным (сделать что-либо)
 Head for – направляться на
@@ -1992,7 +1992,7 @@ Crash – авария; крушение; падать; валиться; разбиваться
 Are you gonna be ok? – ты будешь в порядке? (ты собираешься быть в порядке)
 Split – делить
 Figured – фигурный; образный
-Ask smb out on a date – пригласить кого-то на свидание
+Ask somebody out on a date – пригласить кого-то на свидание
 Do you think it would be ok if? – ты думаешь это будет нормально, если?
 Go out – выходить; ходить на свидание
 Clarification – пояснение
@@ -2234,7 +2234,7 @@ Firm – фирма; крепкий; твёрдый
 The same as if – то же самое, как если бы; такой же, как если бы
 Note that if – замечу, что если …
 While – время; пока; хотя; тогда как; при
-While doing smth – при делании чего-то
+While doing something – при делании чего-то
 Negotiation – переговоры; обсуждение; согласование
 Negotiate – вести переговоры; договариваться
 Also known as – также известен как
@@ -2340,7 +2340,7 @@ Struck a chord – задело
 One by one – один за одним
 By mistake – по ошибке
 The time had come to say goodbye – пришло время сказать прощай (результат в прошлом)
-And then smth happened – и затем кое-что произошло
+And then something happened – и затем кое-что произошло
 All of this – всё это
 All of these – все эти
 All of them – все они
@@ -2810,7 +2810,7 @@ loss – потеря; утрата
 at a loss – в недоумении
 leave – оставлять; покидать; уходить; ливнуть
 leave for – отправляться (куда-то)
-favo(u)rite – любимый
+favourite – любимый
 band – группа
 serve – служить; обслуживать
 former – бывший; прежний; первый
@@ -3674,7 +3674,7 @@ There were added new fields into search query – были добавлены новые поля в поис
 to query specific data – запрашивать специфические данные
 to expose this practice – разоблачить эту практику
 proceed – приступить к; действовать; продолжать
-proceed urgently with efforts to develop smth – продолжайте срочно усилия, чтобы развивать что-то
+proceed urgently with efforts to develop something – продолжайте срочно усилия, чтобы развивать что-то
 Some side effects are unavoidable, whereas others are avoidable – некоторые побочные эффекты неизбежны, тогда как другие избежны
 You can embrace what you truly are – ты можешь принять, что ты реально являешься
 I want to embrace you – я хочу обнять тебя
@@ -3822,7 +3822,7 @@ Either way, we still have to check out this code – в любом случае, нам всё ещё п
 I'd better check up – я бы лучше проверил
 You could hardly have let him down more – ты мог вряд ли подвести его больше (результат)
 I don't want to let him down – я не хочу подвести его
-I probably misunderstood smth, so I won't insist – я, вероятно, не понял что-то, поэтому я не буду настаивать
+I probably misunderstood something, so I won't insist – я, вероятно, не понял что-то, поэтому я не буду настаивать
 I insist that I'm innocent – я настаиваю, что я невиновен
 I would like to plead guilty – я бы хотел признать вину
 Best to concede defeat and move on – лучше признать поражение и двигаться дальше
@@ -3991,7 +3991,7 @@ that's something that's passed on from person to person – это что-то, что переда
 this programm contains three sub-goals namely training, staffing and motivation – эта программа содержит три под-цели, а именно обучение, набор штата и мотивацию
 three viewpoints emerged, as follows – три точки зрения проявились, а именно
 perhaps we can settle the issue as follows – возможно мы можем урегулировать (уладить) проблему следующим образом
- the report was therefore interesting, but somewhat brief – доклад был таким образом интересен, но довольно краток
+the report was therefore interesting, but somewhat brief – доклад был таким образом интересен, но довольно краток
 now, the proceedings may be somewhat dramatic, but they are necessary – итак, эти действия могут быть отчасти (в некоторой степени) драматичными, но они являются необходимыми
 I chose one that wouldn't stand out – я выбрал такое, что не будет выделяться
 in any way – никоим образом
@@ -4276,9 +4276,9 @@ snub – курносый; пренебрежение; пренебрегать (задирать нос)
 social snub could become motive – социальное пренебрежение могло стать мотивом
 I'll not let you snub her – я не позволю тебе пренебрегать ей
 I've been making a Java application – я делал Java приложение (долго)
-how about smth? – как насчёт чего-то?
+how about something? – как насчёт чего-то?
 sorry, I can't – извини, я не могу
-do you wanna do smth? – ты хочешь делать что-то?
+do you wanna do something? – ты хочешь делать что-то?
 how do I get to (location)? – как мне добраться до (локация)?
 can I have this iPad, please? – можно мне этот iPad, пожалуйста? (в магазине к продавцу)
 how do I learn English? – как мне учить английский?
@@ -4364,7 +4364,7 @@ how long does it take to acquire a new skill? – как долго это занимает, приобрес
 this is what makes employees happy at work – вот что делает работников счастливыми на работе
 my pleasure – пожалуйста
 I like when – мне нравится когда
-smth makes me happy – что-то делает меня счастливым (доставляет мне удовольствие)
+something makes me happy – что-то делает меня счастливым (доставляет мне удовольствие)
 it's super pleasant when someone gives me a compliment – это супер приятно, когда кто-то даёт мне комплимент
 I really like – мне реально (очень) нравится
 no thanks, I'm good – нет спасибо, я в порядке (мне не надо)
@@ -4552,3 +4552,6 @@ cage – клетка
 write down – записать
 let me write down the information for you – позвольте мне записать информацию для вас
 dump – бросить; выбросить; свалка
+alien – чужой; пришелец; иностранец
+treasure – сокровище
+bridge – мост

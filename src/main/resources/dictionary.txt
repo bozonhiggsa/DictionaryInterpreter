@@ -746,7 +746,7 @@ congratulate - поздравл€ть
 amnesty - амнисти€; помилование
 plague - мор; чума; досаждать; изводить; надоедать
 perpetual - бесконечный; вечный; бессрочный
-willful (wilful) - упр€мый; своевольный; сознательный; умышленный
+willful - упр€мый; своевольный; сознательный; умышленный
 whine - жалоба; хныканье; скулить; жаловатьс€
 cachet - печать
 connoisseur - знаток; специалист; эксперт; ценитель
@@ -810,7 +810,8 @@ indispensable - об€зательный; важный; необходимый
 irresponsible - безответственный; несосто€тельный
 disappointing - неутешительный; разочаровывающий
 disappoint - разочаровывать; расстраивать планы
-maneuver (manoeuvre) - манЄвр
+maneuver - манЄвр
+manoeuvre - манЄвр
 susceptable - чувствительный
 spontaneous - спонтанный; самопроизвольный
 supersede - замен€ть; вытесн€ть
@@ -4285,7 +4286,7 @@ how do I learn English? Ц как мне учить английский?
 do you have any plans for tomorrow? Ц у теб€ есть какие-нибудь планы на завтра?
 I mean Ц € имею в виду
 how much is this? Ц как много стоит это?
-I don't feel so good Ц мне не очень хорошо
+I don't feel so good Ц мне не очень хорошо (€ не чувствую себ€ так хорошо)
 when are we leaving? Ц когда мы уходим? (процесс)
 suddenly Ц неожиданно; внезапно
 bye for now! Ц теперь пока!
@@ -4534,7 +4535,7 @@ What'll you have? Ц что будешь?
 We're just hanging out Ц мы просто тусуемс€ (процесс)
 What'll happen? Ц что случитс€?
 I've just changed my mind Ц € только-что изменил (результат) моЄ мнение (передумал)
-chose the lesser of two evils Ц выбирай меньшее из двух зол
+chose the lesser of two evils Ц выбрал меньшее из двух зол
 I've made a decision Ц € прин€л решение (результат)
 What's this about? Ц о чЄм это?
 It is of great use Ц это крайне полезно

@@ -746,7 +746,7 @@ congratulate - поздравлять
 amnesty - амнистия; помилование
 plague - мор; чума; досаждать; изводить; надоедать
 perpetual - бесконечный; вечный; бессрочный
-willful (wilful) - упрямый; своевольный; сознательный; умышленный
+willful - упрямый; своевольный; сознательный; умышленный
 whine - жалоба; хныканье; скулить; жаловаться
 cachet - печать
 connoisseur - знаток; специалист; эксперт; ценитель
@@ -810,7 +810,8 @@ indispensable - обязательный; важный; необходимый
 irresponsible - безответственный; несостоятельный
 disappointing - неутешительный; разочаровывающий
 disappoint - разочаровывать; расстраивать планы
-maneuver (manoeuvre) - манёвр
+maneuver - манёвр
+manoeuvre - манёвр
 susceptable - чувствительный
 spontaneous - спонтанный; самопроизвольный
 supersede - заменять; вытеснять
@@ -4285,7 +4286,7 @@ how do I learn English? – как мне учить английский?
 do you have any plans for tomorrow? – у тебя есть какие-нибудь планы на завтра?
 I mean – я имею в виду
 how much is this? – как много стоит это?
-I don't feel so good – мне не очень хорошо
+I don't feel so good – мне не очень хорошо (я не чувствую себя так хорошо)
 when are we leaving? – когда мы уходим? (процесс)
 suddenly – неожиданно; внезапно
 bye for now! – теперь пока!
@@ -4534,7 +4535,7 @@ What'll you have? – что будешь?
 We're just hanging out – мы просто тусуемся (процесс)
 What'll happen? – что случится?
 I've just changed my mind – я только-что изменил (результат) моё мнение (передумал)
-chose the lesser of two evils – выбирай меньшее из двух зол
+chose the lesser of two evils – выбрал меньшее из двух зол
 I've made a decision – я принял решение (результат)
 What's this about? – о чём это?
 It is of great use – это крайне полезно

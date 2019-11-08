@@ -336,7 +336,7 @@ or whatever - или что-то ещё
 something tells me - что-то мне подсказывает
 that is to say - иначе говоря (то есть сказать)
 that's flat - это окончательно (решение)
-that's the way things are going - вот как дела обстоят (процесс)
+that's the way things are going - вот то, как дела обстоят (процесс)
 to one's mind - на чей-то взгляд
 to say nothing of - не говоря уж о
 to say the truth - по правде сказать
@@ -1489,7 +1489,7 @@ You know, there's a problem – вы знаете, есть одна проблема
 It is difficult to be a boss – трудно быть начальником
 It isn't easy to answer this question – нелегко ответить на этот вопрос
 It's hard to understand what she is talking about – трудно понять, о чём она говорит (процесс)
-Way – путь; дорога; расстояние; сторона; направление; отношение; образ; манера; способ
+Way – путь; сторона; направление; отношение; образ; способ; значительно
 We lost our way – мы сбились с пути
 I can see no way out for us – я не могу увидеть выход для нас
 He has come a long way in his work – он далеко продвинулся в своей работе (результат)
@@ -1502,7 +1502,7 @@ In what way can I get this information? – каким образом я могу раздобыть эту инф
 This is the way to do it! – это способ, чтобы сделать это!
 Do it any way you like – делайте это любым способом как вам нравится
 Have it your way – пусть будет по вашему
-That's the way it works! – вот как это работает!
+That's the way it works! – вот то, как это работает!
 That's the way it goes – вот так уж повелось
 Just the other way around! – как раз наоборот!
 To have a way with – уметь обращаться с
@@ -1870,16 +1870,16 @@ There are so much to tell you – есть так много, чтобы рассказать тебе
 I have something interesting to show you – у меня есть кое-что интересное, что мне нужно показать тебе
 The thing he is trying to say – то, что он пытается сказать (процесс)
 I like the thing you're doing – мне нравится то, что ты делаешь (процесс)
-I like the way you do it – мне нравится, как ты делаешь это (вообще)
-I like the way he is doing his work – мне нравится, как он делает свою работу (процесс)
+I like the way you do it – мне нравится то, как ты делаешь это (вообще)
+I like the way he is doing his work – мне нравится то, как он делает свою работу (процесс)
 In a way to do something – так, чтобы сделать что-то
 In a way that does something – таким образом, который сделает что-то
 Do it in a way to earn some money – сделай это так, чтобы заработать немного денег
 Do it in a way that brings money – сделай это таким образом, который принесёт деньги
 That's the very film I told you about – вот тот самый фильм, о котором я тебе рассказывал
 This film is the one I told you about – этот фильм тот самый, о котором я тебе рассказывал
-The thing I like about her is the way she dresses – то, что мне нравится в ней, это как она одевается
-What I like about her is the way she dresses – что мне нравится в ней, это как она одевается
+The thing I like about her is the way she dresses – то, что мне нравится в ней, это то, как она одевается
+What I like about her is the way she dresses – что мне нравится в ней, это то, как она одевается
 It doesn't make you happier – это не делает тебя счастливее
 It doesn't make it easier to do – это не делает это легче сделать
 Masterly – мастерский; мастерски; виртуозно
@@ -4051,7 +4051,7 @@ Well, we could always switch – ну, мы могли бы всегда поменяться
 life has changed over time – жизнь изменилась со временем (результат)
 but I figure I can learn – но я полагаю (считаю), я могу научиться
 well, I figure we are safe here – ну, я полагаю (считаю), мы в безопасности здесь
-the way I figure it – как я представляю себе это
+the way I figure it – то, как я представляю себе это
 burning – сжигание; горящий
 this burning issue could also figure in the road map – этот горящий вопрос мог бы также фигурировать в дорожной карте
 it should not constitute a layer distinct from other layers – он не должен (следует) являться (представлять собой) слоем, отличным от других слоёв
@@ -4556,3 +4556,10 @@ dump – бросить; выбросить; свалка
 alien – чужой; пришелец; иностранец
 treasure – сокровище
 bridge – мост
+She had way more chances than me – она имела значительно больше шансов, чем я
+to vanish – исчезнуть; исчезать
+to squeeze – сжать; сжимать
+inception – начало; создание; основание
+since its inception – с момента своего создания
+residual – остаточный
+empty – пустой

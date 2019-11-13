@@ -2329,7 +2329,7 @@ Mimic Ц имитировать
 Robust Ц надЄжный; активный; устойчивый
 Facilitate Ц способствовать; содействовать
 Validate Ц валидировать; проверить; подтвердить; подтверждать
-Revalidate Ц подтвердить; подтверждать
+Revalidate Ц перепроверить
 Disable Ц отключить; отключать
 Exchange Ц обмен
 He came to a similar conclusion Ц он пришЄл к подобному заключению
@@ -3848,7 +3848,7 @@ They couldn't cope, I guess Ц они не могли справитьс€, € полагаю
 Don't imply anything was your fault Ц не предполагай, что всЄ было твоей виной
 Let's converse exchange opinions, debate Ц давайте общатьс€, чтобы обмениватьс€ мнени€ми, спорить
 The converse is also true in full measure Ц обратное также верно в полной мере
-to revalidate and refresh last year's results Ц чтобы подтвердить и обновить прошлогодние результаты
+to revalidate and refresh last year's results Ц чтобы перепроверить и обновить прошлогодние результаты
 supposition Ц предположение
 I can't corroborate your supposition Ц € не могу подтвердить ваше предположение
 You can also validate the filter output Ц вы можете также валидировать (проверить) выход фильтра
@@ -4546,7 +4546,7 @@ entertainment Ц развлечение
 right away Ц пр€мо сразу
 occasionally Ц иногда; врем€ от времени
 grocery store Ц гастроном; продуктовый магазин
-to wash the dishes Ц мыть тарелки
+wash the dishes Ц мыть тарелки
 scenery Ц пейзаж; декорации
 stove Ц плита; печка
 cage Ц клетка
@@ -4557,9 +4557,13 @@ alien Ц чужой; пришелец; иностранец
 treasure Ц сокровище
 bridge Ц мост
 She had way more chances than me Ц она имела значительно больше шансов, чем €
-to vanish Ц исчезнуть; исчезать
-to squeeze Ц сжать; сжимать
+vanish Ц исчезнуть; исчезать
+squeeze Ц сжать; сжимать
 inception Ц начало; создание; основание
 since its inception Ц с момента своего создани€
 residual Ц остаточный
 empty Ц пустой
+interlocutor Ц собеседник
+companion Ц компаньон; спутник; товарищ
+closure date Ц дата закрыти€
+disclosure of information Ц раскрытие информации

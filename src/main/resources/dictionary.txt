@@ -2329,7 +2329,7 @@ Mimic – имитировать
 Robust – надёжный; активный; устойчивый
 Facilitate – способствовать; содействовать
 Validate – валидировать; проверить; подтвердить; подтверждать
-Revalidate – подтвердить; подтверждать
+Revalidate – перепроверить
 Disable – отключить; отключать
 Exchange – обмен
 He came to a similar conclusion – он пришёл к подобному заключению
@@ -3848,7 +3848,7 @@ They couldn't cope, I guess – они не могли справиться, я 
 Don't imply anything was your fault – не предполагай, что всё было твоей виной
 Let's converse exchange opinions, debate – давайте общаться, чтобы обмениваться мнениями, спорить
 The converse is also true in full measure – обратное также верно в полной мере
-to revalidate and refresh last year's results – чтобы подтвердить и обновить прошлогодние результаты
+to revalidate and refresh last year's results – чтобы перепроверить и обновить прошлогодние результаты
 supposition – предположение
 I can't corroborate your supposition – я не могу подтвердить ваше предположение
 You can also validate the filter output – вы можете также валидировать (проверить) выход фильтра
@@ -4546,7 +4546,7 @@ entertainment – развлечение
 right away – прямо сразу
 occasionally – иногда; время от времени
 grocery store – гастроном; продуктовый магазин
-to wash the dishes – мыть тарелки
+wash the dishes – мыть тарелки
 scenery – пейзаж; декорации
 stove – плита; печка
 cage – клетка
@@ -4557,9 +4557,13 @@ alien – чужой; пришелец; иностранец
 treasure – сокровище
 bridge – мост
 She had way more chances than me – она имела значительно больше шансов, чем я
-to vanish – исчезнуть; исчезать
-to squeeze – сжать; сжимать
+vanish – исчезнуть; исчезать
+squeeze – сжать; сжимать
 inception – начало; создание; основание
 since its inception – с момента своего создания
 residual – остаточный
 empty – пустой
+interlocutor – собеседник
+companion – компаньон; спутник; товарищ
+closure date – дата закрытия
+disclosure of information – раскрытие информации

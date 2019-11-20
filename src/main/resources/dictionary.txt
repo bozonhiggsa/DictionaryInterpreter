@@ -180,7 +180,7 @@ Subsequently Ц впоследствии; позже
 Ancestor Ц предок
 Parlance Ц €зык; манера говорить
 Coherent Ц св€занный; гармоничный; согласованный
-Clue Ц клубок ниток; нить; ход мыслей; раскрыть секрет; информировать
+Clue Ц подсказка; зацепка; путеводна€ нить
 Wrap Ц завЄртывать; охватывать; погружать
 Tough Ц жЄсткий; крепкий; трудный; несгибаемый
 Sought after Ц востребованный; попул€рный
@@ -1427,7 +1427,7 @@ If I were clever, I would be rich Ц если бы € был умным, € был бы богатым
 Everything is in its place Ц всЄ на своЄм месте
 Today was made for me Ц этот день был сделан дл€ мен€
 It's getting cold Ц становитс€ (процесс) холодно
-That is the best film I have ever seen Ц то лучший фильм, который € когда-либо видел
+That is the best film I have ever seen Ц то лучший фильм, который € когда-либо видел (результат)
 It must have been fun Ц это должно быть было весело (бышечна€ реальность результат)
 Funny Ц забавно; смешно
 Something like that Ц что-то типа того
@@ -4567,3 +4567,9 @@ interlocutor Ц собеседник
 companion Ц компаньон; спутник; товарищ
 closure date Ц дата закрыти€
 disclosure of information Ц раскрытие информации
+respectfully, I have no clue Ц при всЄм уважении, € пон€ти€ не имею (не имею зацепки)
+It's a real clue to who you are Ц это реальна€ подсказка к тому, кто ты есть
+to interpose an objection Ц вставл€ть возражение (возражать)
+I will interpose no obstacle to that deployment Ц я не буду вставл€ть (чинить) преп€тствие данному развЄртыванию
+I'm not here to bargain Ц € здесь не целью торговатьс€
+like I said, a bargain is a bargain Ц как € сказал, сделка есть сделка

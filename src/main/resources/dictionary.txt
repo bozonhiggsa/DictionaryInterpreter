@@ -44,7 +44,6 @@ Blanket – полный; общий; всеохватывающий; одеяло
 Request handling methods – методы обрабатывающие запрос
 Routes to an instance of a servlet – направляет к экземпляру сервлета
 Concurrent requests – одновременные (параллельные) запросы
-Only concern himself with – сам имеет дело (касается, затрагивает) только с
 Very familiar with – очень хорошо знакомым с
 That employ these features – которые используют (применяют) эти фичи
 Produced by the doGet method – произведённый методом doGet
@@ -2080,7 +2079,7 @@ Get up! – вставай!
 Warm up – разогреть
 Heat up – нагреть
 Speak up! – говори громче!
-Go up – двигаться вверх; возрастать
+Go up – двигаться вверх; подниматься; возрастать
 Grow up – вырастать (по отношению к людям)
 Grown-up – выросший
 Count up to five – досчитайте до пяти
@@ -3413,7 +3412,7 @@ existing – существующий; действующий
 putting – создание; постановка; уложение; положить
 force – сила; силы; усилие; насилие; силовой; заставить; вынудить; принуждать; форсировать
 origin – происхождение; принадлежность; истоки; источник
-set up – создать; установить; настроить
+set up – создать; установить; настроить; организовать
 setup – установка; настройка
 stun – оглушить; ошеломить
 rapid – быстрый; оперативный; стремительный; скорейший
@@ -4573,3 +4572,102 @@ to interpose an objection – вставлять возражение (возражать)
 I will interpose no obstacle to that deployment – Я не буду вставлять (чинить) препятствие данному развёртыванию
 I'm not here to bargain – я здесь не целью торговаться
 like I said, a bargain is a bargain – как я сказал, сделка есть сделка
+single responsibility principle – принцип единственной ответственности
+open-closed principle – принцип открытости-закрытости
+interface segregation – разделение интерфейса
+dependency inversion – инверсия зависимостей
+He only concerns himself with his trainee – он сам имеет дело (занимается) только со своим стажёром
+I could tell at a glance that something was wrong – я мог сказать с первого взгляда, что что-то было неправильно
+boot camp – учебный лагерь
+buzz – кайф; гудение; гудеть
+tackle – устранение; устранить
+realm – реальность; мир
+boil – сварить; вскипятить; кипеть
+boils down to – сводится к
+pour – налить
+exhaust – исчерпать
+exhausted – истощённый; измученный; исчерпаны
+stay tuned – оставайтесь на нашей волне
+visual similarity – визуальное подобие
+linearly separable data – линейно разделимые данные
+elaborate – разработать
+aspire – стремиться
+method of trial and error – метод проб и ошибок
+converge – сходиться
+convergence – сближение; сходимость
+arrow – стрела; стрелка
+combine – объединить; совместить
+let's combine them in one matrix – давайте объединим их в одну матрицу
+augment – увеличить; расширить
+tailor – портной; адаптировать; сшивать
+versatility – универсальность
+brackets – скобки
+to be precise – чтобы быть точным
+outlier – аномалия; выброс
+stick around – остаться; втыкать вокруг
+I'm just glad you decided to stick around – я просто рад, что ты решил остаться
+upbringing – воспитание
+since – поскольку; со времени; начиная с
+peek – взгдяд; взглянуть
+irritate – раздражать
+let's wrap it up here – давай закончим с этим здесь
+shuffle – тасовать; переставлять
+homogeneous – однородный
+drastic – резкий; радикальный
+drastically – резко; радикально
+fiddle – скрипка; играть
+evenly – равномерно
+tweak – настроить; подправить
+as a rule of thumb – как правило
+It should be noted that – следует заметить, что
+cart – корзина; тележка
+toy – игрушка
+make haste – поспешить; поторопиться
+but for now, we must make haste – но сейчас мы должны поспешить
+more often than not – чаще всего
+on and off – время от времени
+See, I check it on and off – видите, я проверяю это время от времени
+on and on – снова и снова
+on the spot – на месте; без промедления; сразу
+He was on the spot in less than five minutes – он был на месте менее, чем через 5 мин
+once and for all – раз и навсегда
+out of date – устаревший
+It was out of date 5 years ago – это устарело 5 лет назад
+play for time – тянуть время
+round the clock – круглые сутки
+run out of time – время истекло
+I think you have run out of time – я думаю ваше время истекло
+take time – занимать время
+override – обойти; взломать; переопределить
+I can override, but it will take time – я могу обойти (трабл), но это займёт время
+take your time – не спеши
+all year round – круглый год
+there is no hurry – нет спешки (спешить некуда)
+time after time – раз за разом
+time out – перерыв
+time will tell – время покажет
+stand up – вставать
+take out – убрать; взять; вынимать; вытаскивать
+turn around – оборачиваться
+get off – убираться с; выходить; покидать
+We have to get off at the next station – нам придётся выйти на следующей станции
+hold on! – держитесь!
+put on – надевать; одевать; включать
+we can set up a meeting – мы можем организовать встречу
+go over – пройтись по; обсудить; подойти
+We should go over it again – нам следует пройтись по этому (обсудить это) снова
+get away – удрать; ускользнуть
+walk away – уходить
+come out – выходить
+come in – входить
+come up – появляться; возникать
+look down – смотреть вниз; смотреть свысока
+velocity – скорость
+cargo – груз
+leash – поводок
+unleashed – развязанная; неконтролируемая
+bulk – большая часть; масса
+merchant – торговец
+eliminate – устранить; ликвидировать
+demise – гибель
+fry – жарить

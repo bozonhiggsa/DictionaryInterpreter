@@ -72,7 +72,7 @@ Look up – поиск; просмотр; искать; смотреть вверх
 Conventional – условный; оговоренный; удовлетворяющий техническим условиям
 Eager – интенсивный; активный
 Query – спрашивать; запрашивать; вопрос; запрос
-Expose – подвергать действию (опасности); разоблачать
+Expose – подвергать действию (опасности); разоблачать; раскрывать
 Scope – масштаб; границы; рамки; дисплей; область видимости
 Advice – сообщение; уведомление; совет; рекомендация
 Closure – закрытие; смыкание; застёжка
@@ -967,7 +967,7 @@ Miracle – чудо
 stipulation – условие; оговорка; соглашение
 tradeoff – компромисс
 retrofit – модифицировать
-accommodate – подгонять; приспосабливать
+accommodate – подгонять; приспосабливать; разместить
 anonymous – анонимный
 What kind of education do you have? - какое образование у тебя?
 What education do you have? - какое образование у тебя?
@@ -2614,7 +2614,7 @@ Wiring – проводка
 Hard-wiring – жёсткое связывание
 can be configured dynamically – могут быть сконфигурированы динамически
 simplify – упростить
-successor – преемник
+successor – преемник; наследник
 entrance – вход
 entry – вступление; ввод; доступ; вход
 entry point – отправной пункт; точка входа
@@ -3159,7 +3159,7 @@ check out – проверить; посмотреть на; заценить
 take over – взять на себя; захватить; занять место
 offence – преступление; правонарушение; нарушение
 hesitate – колебаться; стесняться; сомневаться
-intership – стажировка
+internship – стажировка
 with a proven track record – с подтверждённым послужным списком
 featuring – характеризующийся
 liaise – поддерживать связь; контактировать
@@ -3322,7 +3322,7 @@ Vertex – вершина
 Inside – внутрь; изнутри; внутренний
 Outside – снаружи; внешний; наружный
 Superclass – суперкласс
-Subclass – субкласс
+Subclass – субкласс; наследник
 Dismiss – увольнять; отклонять; отвергать
 Bookmark – закладка
 Craft – судно; корабль; ремесло; ремесленный
@@ -4586,7 +4586,7 @@ boil – сварить; вскипятить; кипеть
 boils down to – сводится к
 pour – налить
 exhaust – исчерпать
-exhausted – истощённый; измученный; исчерпаны
+exhausted – истощённый; измученный
 stay tuned – оставайтесь на нашей волне
 visual similarity – визуальное подобие
 linearly separable data – линейно разделимые данные
@@ -4671,3 +4671,39 @@ merchant – торговец
 eliminate – устранить; ликвидировать
 demise – гибель
 fry – жарить
+infer – предположить; сделать вывод
+generally speaking – вообще говоря
+consumption – потребление
+resource consumption – потребление ресурсов
+chunk – кусок
+interrogate – допрашивать
+interrogation – допрос
+it is highly desirable – это крайне желательно
+it is extremely desirable – это крайне желательно
+inheritor – наследник
+as with any compromise – как и при любом компромиссе
+transfer – передать
+to hand off – передать
+it is permissible – это допустимо
+to approach – подходить; приближаться
+carried away – занесло (увлекло)
+maybe I got carried away, I didn't think – возможно меня занесло, я не подумал
+phony – фальшивый
+magician – фокусник; волшебник
+to bend – согнуть
+debunker – разоблачитель
+through – через; при помощи; сквозь
+managing – управление
+in doing so – поступая таким образом; при этом
+is located – расположен; находится
+continuation – продолжение
+spectacular show – захватывающее шоу
+charitable donations – благотворительные пожертвования
+attentive – внимательный
+addressee – адресат
+ascending – восходящий
+colon – двоеточие
+expansion – расширение
+accommodation – размещение; жильё
+arise – возникать
+the problems arise when – эти проблемы возникают, когда

@@ -178,7 +178,7 @@ Comprehend – понимать; включать в себя
 Subsequently – впоследствии; позже
 Ancestor – предок
 Parlance – язык; манера говорить
-Coherent – связанный; гармоничный; согласованный
+Coherent – когерентный; согласованный
 Clue – подсказка; зацепка; путеводная нить
 Wrap – завёртывать; охватывать; погружать
 Tough – жёсткий; крепкий; трудный; несгибаемый
@@ -361,7 +361,7 @@ without doubt - без сомнения
 so - так; итак
 they say - говорят
 to be more exact - чтобы быть более точным (точнее говоря)
-to begin with - начнем с
+to begin with - начать с
 well - ну; итак
 you see - понимаете...
 Blank - белый; пустой; чистый
@@ -467,7 +467,7 @@ Caching - кэширование
 Chattering – болтовня
 Sheepish – глуповатый
 Countryside – сельская местность
-Plug – штекер
+Plug – штекер; подключить
 Slight – незначительный
 Hassle – стычка
 Rebel – бунтарь; воспротивиться
@@ -809,9 +809,7 @@ indispensable - обязательный; важный; необходимый
 irresponsible - безответственный; несостоятельный
 disappointing - неутешительный; разочаровывающий
 disappoint - разочаровывать; расстраивать планы
-maneuver - манёвр
-manoeuvre - манёвр
-susceptable - чувствительный
+maneuver (manoeuvre) - манёвр
 spontaneous - спонтанный; самопроизвольный
 supersede - заменять; вытеснять
 sophomore - второкурсник
@@ -1193,7 +1191,7 @@ I wonder if you want to do it – мне интересно, хочешь ли ты делать это
 It's a good idea to do it – это хорошая идея – делать это
 My time is up – моё время вышло
 Have you ever been abroad? – вы когда-нибудь были за границей? (состояние результат)
-No, I've never been abroad, but I'm going to – нет, я никогда не был за границей, но я собираюсь туда
+No, I've never been abroad, but I'm going to – нет, я никогда не был (состояние результат) за границей, но я собираюсь туда
 Why don't you do it? – почему бы тебе не сделать это?
 Why don't you go there? – почему бы тебе не пойти туда?
 I like this task though – хотя мне нравится это задание
@@ -1384,8 +1382,8 @@ Weren't you invited? – разве ты не приглашён?
 Will it be done tomorrow? – будет ли это сделано завтра?
 I'm gonna be told – скорее всего мне расскажут
 Is it gonna be done soon? – будет ли это сделано вскоре?
-This book is being written – эта книга сейчас пишется (пассив процесс)
-It's being discussed – это сейчас обсуждается (пассив процесс)
+This book is being written – эта книга (сейчас) пишется (пассив процесс)
+It's being discussed – это (сейчас) обсуждается (пассив процесс)
 Explain – объяснять
 This work must be finished as soon as possible – эта работа должна быть закончена так скоро, как возможно
 Sell – продавать
@@ -2064,7 +2062,7 @@ Choke – удушье; удушение; душить
 Bloody – кровавый; чёртов
 Ruddy – чёртов
 Adjust – корректировать; подгонять; приспосабливать
-Mate – приятель; напарник; спариваться
+Mate – приятель; спариваться
 Confirm – подтверждать
 Resemble – быть похожим; походить на
 In the light of this – в свете этого
@@ -2474,7 +2472,7 @@ Indirection – уклончивость; косвенная адресация
 Wholesale – оптом
 Pervasive – повсеместный; широко распространённый
 Encapsulation – инкапсуляция; сокрытие
-Derived – производный; вытекающий
+Derived – полученный; производный
 Map out – наметить; начертать
 Retire – уволиться; удалиться
 Competition – конкуренция; конкурс; соревнование
@@ -2602,7 +2600,7 @@ Coupling – сцепление; соединение; связывание
 Chain – цепь; цепочка; приковывать; соединять в цепь
 Sender – отправитель
 Damage – ущерб; повреждение; вред; повредить
-Pipeline – канал; трубопровод
+Pipeline – канал; трубопровод; конвейер
 Pipeline mode – конвейерный режим
 Pipeline architecture – конвейерная архитектура
 Contain – содержать; включать
@@ -2672,7 +2670,7 @@ Haven't you forgotten anything? – вы ничего не забыли? (результат)
 Look out for – присматривать
 quickly – быстро
 alone – один; одна; одну
-by far – намного; безусловно
+by far – безусловно
 wrap up – закончить
 season – сезон
 temper – характер; самообладание; нрав; темперамент; терпение
@@ -2777,7 +2775,7 @@ convert – конвертировать; преобразовывать
 glory – слава
 glorious – славный; великолепный
 circumstance – обстоятельство
-blow – удар; взорваться; взрывать; дуть; отсасывать
+blow – удар; дуть; отсасывать
 to one another – друг другу
 robbery – ограбление
 robber – грабитель
@@ -2818,7 +2816,7 @@ In the former case – в первом случае
 Latter – последний; второй
 In the latter case – в последнем случае
 Subway – метро; подземка
-Gut – чутьё; интуиция; нутро
+gut – чутьё; интуиция; нутро
 to some degree – в некоторой степени
 differ – различаться
 minority – меньшинство
@@ -2851,7 +2849,7 @@ swing – качели; размах; свинг; качаться
 naughty – непослушный; озорной; шаловливый
 compel – заставить; вынудить
 compelled – вынужден
-penalty – наказание; штраф; пенальти
+penalty – наказание; штраф; штрафной; санкция; пенальти
 negligible – незначительный
 wonder – чудо; удивление; удивляться
 ruse – уловка
@@ -3087,7 +3085,7 @@ civil – гражданский
 servant – слуга; служащий
 were twice as likely – были в 2 раза вероятней
 detrimental – ущерб; пагубный
-common sense – здравый смысл
+common sense – здравый (общий) смысл
 overall – общий; всеобщий; целый; совокупный
 advocate – адвокат; защитник; сторонник; выступать за; отстаивать; поддерживать
 oracle – оракул; пророк
@@ -3181,7 +3179,7 @@ Fluffy – пушистый
 In the way of – в плане (чего-то)
 Lesion – повреждение
 Tumor – опухоль
-Flat rate – фиксированная оплата
+Flat rate – фиксированная ставка
 on time – вовремя
 thanks for reaching out – спасибо, что обратились
 confluence – сочетание; слияние
@@ -3557,7 +3555,7 @@ Delete all references wherever they appear – удаляйте все ссылки, где бы они ни 
 motion – движение; предложение
 we focused on motion capture – мы сфокусировались на захвате движения
 I photograph them and capture the moment – я фотографирую их и улавливаю момент
-I understand you have a motion – как я понимаю ты имеешь предложение
+I understand you have a motion – (как) я понимаю ты имеешь предложение
 I just ask that you don't agitate him – я только прошу, чтобы вы не волновали его
 I didn't want to agitate her by telling her – я не хотел взволновать её разговаривая с ней
 apart from Germany, they also visited Italy and Austria – наряду с Германией они также посетили Италию и Австрию
@@ -3781,7 +3779,7 @@ To bring out the best in us – чтобы выявить лучшее в нас
 And bring out new solutions to our tasks – и выявить новые решения для наших задач
 Okay, designers, let's bring out your models – хорошо, дизайнеры, давайте показывайте ваши модели
 This is, by far, the largest enterprise – это, безусловно, наибольшая инициатива
-This story is by far more interesting than that one – эта история намного более интересней, чем та
+This story is by far more interesting than that one – эта история безусловно более интересней, чем та
 will make up at least 30 percent – будут составлять по крайней мере 30 процентов
 now shake hands and make up – теперь пожмите руки и помиритесь
 I'll show up to my classes this time – я заявлюсь (покажусь) на мои занятия в этот раз
@@ -3947,7 +3945,7 @@ if this suit goes to trial – если этот иск дойдёт до суда
 assignment – назначение; задание
 any assignments shall suit boys as well as girls – любые задания должны (следуют) подходить парням так же как девушкам
 taste – вкус; попробовать
-this may not suit your taste – это не может соответствовать вашему вкусу
+this may not suit your taste – это может не соответствовать вашему вкусу
 it might best suit the needs of the situation – это может лучше всего подходить потребностям ситуации
 it means this place doesn't suit me – это значит, что это место не устраивает меня
 I know deep down you care – я знаю, в глубине души тебя заботит (тебе не всё равно)
@@ -4576,12 +4574,12 @@ single responsibility principle – принцип единственной ответственности
 open-closed principle – принцип открытости-закрытости
 interface segregation – разделение интерфейса
 dependency inversion – инверсия зависимостей
-He only concerns himself with his trainee – он сам имеет дело (занимается) только со своим стажёром
+He only concerns himself with his trainee – он только имеет дело (занимается) со своим стажёром
 I could tell at a glance that something was wrong – я мог сказать с первого взгляда, что что-то было неправильно
 boot camp – учебный лагерь
 buzz – кайф; гудение; гудеть
 tackle – устранение; устранить
-realm – реальность; мир
+realm – сфера; королевство; область; мир
 boil – сварить; вскипятить; кипеть
 boils down to – сводится к
 pour – налить
@@ -4608,7 +4606,7 @@ stick around – остаться; втыкать вокруг
 I'm just glad you decided to stick around – я просто рад, что ты решил остаться
 upbringing – воспитание
 since – поскольку; со времени; начиная с
-peek – взгдяд; взглянуть
+peek – взгляд; взглянуть
 irritate – раздражать
 let's wrap it up here – давай закончим с этим здесь
 shuffle – тасовать; переставлять
@@ -4616,7 +4614,6 @@ homogeneous – однородный
 drastic – резкий; радикальный
 drastically – резко; радикально
 fiddle – скрипка; играть
-evenly – равномерно
 tweak – настроить; подправить
 as a rule of thumb – как правило
 It should be noted that – следует заметить, что
@@ -4633,10 +4630,10 @@ He was on the spot in less than five minutes – он был на месте менее, чем через 
 once and for all – раз и навсегда
 out of date – устаревший
 It was out of date 5 years ago – это устарело 5 лет назад
-play for time – тянуть время
+play for time – тянуть время (играть в течение веремени)
 round the clock – круглые сутки
 run out of time – время истекло
-I think you have run out of time – я думаю ваше время истекло
+I think you have run out of time – я думаю ваше время истекло (результат)
 take time – занимать время
 override – обойти; взломать; переопределить
 I can override, but it will take time – я могу обойти (трабл), но это займёт время
@@ -4645,7 +4642,7 @@ all year round – круглый год
 there is no hurry – нет спешки (спешить некуда)
 time after time – раз за разом
 time out – перерыв
-time will tell – время покажет
+time will tell – время покажет (подскажет)
 stand up – вставать
 take out – убрать; взять; вынимать; вытаскивать
 turn around – оборачиваться
@@ -4707,3 +4704,156 @@ expansion – расширение
 accommodation – размещение; жильё
 arise – возникать
 the problems arise when – эти проблемы возникают, когда
+derive - получать; проистекать
+pale - бледный
+tan - загар, загорелый
+tanned - загорелый
+evenly - равномерно
+array of evenly spaced values - массив равномерно распределённых значений
+outperform - превосходить
+sophisticated - сложный; изощрённый
+penalty term - штрафная мера
+bear - медведь; нести; иметь
+the eigenvectors with the lowest eigenvalues bear the least information about the distribution of the data - собственные вектора с наименьшими собственными значениями несут наименьшую информацию о распределении данных
+obsession - одержимость; зацикленность
+obedient - послушный; покорный
+obedience - послушание; покорность
+ensemble - ансамбль
+shake up - встряхнуть
+inference - вывод; умозаключение
+disclose - раскрывать; разглашать
+deem - счесть; считать
+trait - черта; признак; особенность
+regardless of what the value is used for - независимо от того, для чего значение использовано
+minor - незначительный; мелкий; небольшой
+cleanup - очистка; уборка
+hold out - продержаться; придерживать
+stratification - расслоение
+stratify - расслаивать; разделять на слои
+polished - отполированный
+preserve - сохранение; сохранять
+leak - утечка; слить; сливать
+leakage - утечка
+tile - плитка; квадратик
+sift - просеивать
+enthusiast - энтузиаст
+Comma-Separated Values (CSV) - значения, разделённые запятыми
+augmentation - расширение; увеличение
+scattering - рассеяние; рассеивание
+scatter - рассеивать
+lascivious - похотливый
+candid - откровенный
+misleading - заблуждение
+model would be misleading - модель будет ошибаться
+offset - смещение; компенсировать
+skewness - перекос; асимметрия
+slope - склон; наклон
+odds - шансы
+wager - ставка
+this can be seen as - это может быть рассмотрено как
+induce - побудить; вызвать; индуцировать
+translation - перевод; преобразование
+jitter - дрожание; джиттер
+boundary - граница
+now you have been given the following data - теперь тебе даны следующие данные (пассив результат)
+rigid - твёрдый; жёсткий
+convex - выпуклый
+overwatch - хранитель; наблюдатель
+spouse - супруг
+ordinal - порядковый
+redeem - искупить; выкупить
+admission - признание; принятие
+here we go - вот так; поехали; мы начинаем
+loyalty - лояльность; преданность
+rainbow - радуга
+roam - бродить; скитаться
+roamer - странник
+actionable steps - действенные шаги
+raffle - лотерея
+gradually - постепенно
+what on earth are we talking about - о чём вообще мы говорим
+shed - пролить; проливать
+let us shed some ligth - давайте прольём немного света
+buzzword - модное слово
+henceforth - отныне; впредь
+nicely - вежливо; красиво
+qualitative analitics - качественная аналитика
+quantitative analitics - количественная аналитика
+intuition and experience in conjunction with the analysis - интуиция и опыт в сопряжении с анализом
+drilling - бурение; сверление
+Key Performance Indicator (KPI) - ключевой индикатор качества
+term - термин; понятие
+causal - причинный
+dummy - манекен; тупица; болван
+indent - абзац; отступ
+just bear in mind - только имей в мыслях
+sparse - редкий; разреженный
+kernel - ядро
+recast - пересмотреть; изменить формулировку
+recasting - изменение формулировки
+recap - напомнить; резюмировать
+feasible - возможный; осуществимый
+percentage - процент; процентное отношение
+variability - вариативность; изменчивость
+to intend - намерен; собираюсь
+intended - предназначенный
+compulsory - обязательный
+ridge - (горный) хребет; гребень; гряда
+gamble - играть; рисковать
+gambling - игровой; игорный
+holy - святой
+manifold - многообразие; множество
+brute - грубый
+lift - лифт; подъёмник; поднять; снять; отменить
+I can lift the lock down - я могу снять блокировку
+lifting - подъём; снятие; отмена
+lifting the limit on maximum amount - снятие (отмена) ограничения на максимальную сумму
+acquaint - знакомить; ознакомить
+forego - отказаться от
+breakthrough - прорыв; достижение; успех
+most notably - особенно; прежде всего
+perceive - воспринимать
+profound - глубокий; серъёзный
+roll-out - внедрение; развёртывание
+notation - нотация; обозначение; запись
+enroll - поступить; записаться
+compromised - скомпрометирован
+hack - взломать
+uneven - неравномерный; неодинаковый
+toss - бросить; выбросить
+y can take on only two values - y может принимать только два значения
+take on - взять на себя; брать на себя
+blow up - взорвать; взрываться
+slightly - несколько; немного; слегка
+diminish - уменьшить; уменьшать
+resurgence - возрождение; возобновление
+susceptible - подверженный; чувствительный; восприимчивый
+combat - бой; пресечение; бороться с; пресекать
+get started - начать
+well-suited - хорошо подходящий
+envelope - конверт; оболочка
+directly - непосредственно; прямо
+roll - ролл; рулет; свернуть
+unroll - развернуть
+steer - направить; руководить
+steering - управление; руководство
+subscript - нижний индекс
+superscript - верхний индекс
+fruitful - плодотворный; полезный
+versus - против
+landmark - ориентир; достопримечательность
+proximity - близость
+pertain - относиться; касаться
+embody - воплощать; воплотить
+diverge - расходиться
+esoteric - эзотерический
+vague - расплывчатый; туманный
+suspect - подозревать; подозреваемый
+distortion - искажение
+downstream - вниз по течению
+acquisition - приобретение; поглощение; усвоение
+amount - сумма; объём; размер; количество
+lock down - блокировка; заблокировать
+aptitude - способность; пригодность
+redundant - излишний; избыточный
+redundancy - избыточность

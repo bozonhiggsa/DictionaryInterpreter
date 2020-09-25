@@ -158,7 +158,7 @@ Solely – единственно (исключительно)
 Introspection – самоанализ
 Autowiring – автоподключение
 Container that hosts bean – контейнер, который хостит бин
-Can be considered aliases – могут быть рассмотрены (считаться) псевдонимами
+Can be considered aliases – могут быть рассмотрены (учтены) псевдонимами
 Enforced – принуждённый
 Alphanumeric – буквенно-цифровой
 Desirable – желательный; желанный
@@ -233,8 +233,8 @@ Stub - заглушка; пень
 Mock - подделка
 Sorority - женский клуб (общество)
 Preposterous - абсурдный; нелепый
-Consider the following - рассмотрим следующее
-In the immediate vicinity - в непосредственной близости
+Consider the following - рассмотрим (учтём) следующее
+In the immediate vicinity - в непосредственной близости (окрестности)
 Conceivably - вероятно
 Commotion - беспорядки; суматоха
 Cautionary Tale - предостерегающий (поучительный) рассказ
@@ -306,7 +306,7 @@ for the most part - по большей части
 I dare say - я осмелюсь сказать
 I wonder - мне интересно
 if I remember rightly - если я помню правильно
-if I'm not mistaken - если я не ошибаюсь
+if I'm not mistaken - если я не являюсь ошибившимся
 in a nutshell - вкратце
 in all probability - по всей вероятности
 in all likelihood - по всей вероятности
@@ -332,7 +332,7 @@ or what? - или как?
 or whatever - или что угодно ещё
 something tells me - что-то рассказывает (подсказывает) мне 
 that is to say - иначе говоря (то есть сказать)
-that's flat - то фиксированно (окончательное решение)
+that's flat - то является фиксированным (окончательное решение)
 that's the way things are going - вот как дела идут (процесс)
 to one's mind - на чьё-то мнение
 to say nothing of - не говоря уж о (чтобы сказать ничего о)
@@ -340,7 +340,7 @@ to say the truth - чтобы сказать правду (по правде сказать)
 to sum it up - чтобы просумировать это (подводя итог)
 what's more - что более
 as is known - как известно
-as you know - как вам известно
+as you know - как ты знаешь
 as was pointed - как было отмечено
 besides - помимо того; помимо
 evidently - доказательно (очевидно)
@@ -1010,7 +1010,7 @@ I think it is a very interesting and profitable business - я думаю это очень инт
 It corresponds to my profession and work experience - она соответствует моей профессии и опыту работы
 I like the job you have offered me - мне нравится работа, которую ты предлагаешь мне (результат)
 I accept your offer - я принимаю твоё предложение
-I'm tired of it - я устал от этого
+I'm tired of it - я уставший этим (от этого)
 I will get there by car - я буду добираться туда на машине
 How long have you been living here? - как долго ты живёшь здесь? (долго)
 Are you satisfied with your job? - ты удовлетворён со своей работой?
@@ -1034,7 +1034,7 @@ Reply to questions – отвечать на вопросы
 Troubleshoot – искать неприятности
 Troubleshoot problems with our software - искать проблемы с нашим софтом
 Relevant professional experience – значимый профессиональный опыт
-Self-motivated and comfortable working independently - который сам себя мотивирует и которому комфортно работать независимо
+Self-motivated and comfortable working independently - самомотивирующий и комфортно работающий независимо
 Headset – головной телефон
 This job requires – эта работа требует
 Deploy – развёртывание; развёртывать
@@ -1263,7 +1263,7 @@ Customer – заказчик; клиент
 Employer – наниматель; работодатель
 Employee – служащий; наёмный работник
 He isn't anywhere – его нет нигде
-This work is very hard to do – эту работу очень сложно сделать
+This work is very hard to do – эта работа является очень сложной чтобы сделать
 Courage – бесстрашие; отвага
 Seek – искать; стремиться
 Totally, it's exactly what I wanted – тотально (абсолютно), это точно то что я хотел
@@ -1277,7 +1277,7 @@ What exactly is he doing? – что точно (конкретно) он делает? (процесс)
 Disturb – беспокоить; тревожить 
 I have a lot of work to do today – я имею много работы, чтобы сделать сегодня
 Can I watch you do it? – могу я посмотреть как ты делаешь это?
-I love to watch them work – я люблю смотреть их работу (как они работаю)
+I love to watch them work – я люблю смотреть их работу (как они работают)
 We can do it later – мы можем сделать это позже
 Touch – касание; трогание; трогать
 Either – любой (из двух); тоже (с отрицанием)
@@ -1339,7 +1339,7 @@ Necessary – необходимый; нужный
 Delivery – поставка; доставка
 Delivered – доставленный
 It's hard for me to say if he is right – это сложно для меня, сказать, прав ли он
-pass that exam – сдать тот экзамен
+pass that exam – пройти тот экзамен
 Vital – жизненно необходимый; полный жизни
 Relative – родственник; относительный; сравнительный
 Thoroughly – тщательно; исчерпывающе
@@ -1377,7 +1377,7 @@ Is it gonna be done soon? – будет это сделанным вскоре?
 This book is being written – эта книга (сейчас) пишется (пассив процесс)
 It's being discussed – это (сейчас) обсуждается (пассив процесс)
 Explain – объяснять
-This work must be finished as soon as possible – эта работа должна быть закончена так скоро, как возможно
+This work must be finished as soon as possible – эта работа должна быть законченной так скоро, как возможно
 Sell – продавать
 Invent – изобретать; выдумывать
 Behaviour – манеры; поведение
@@ -1391,7 +1391,7 @@ The only thing – единственное
 My work is the only thing I can think about – моя работа это единственное, о чём я могу думать
 Explore – исследовать (изучить)
 Exploration – исследование (изучение)
-Discover – обнаруживать; узнавать; делать открытие
+Discover – обнаруживать; узнавать (делать открытие)
 Appearance – появление; внешность
 Deceive – обманывать; вводить в заблуждение
 Appearances can be deceiving – внешность может быть обманчивой
@@ -1404,7 +1404,7 @@ It will take all day – это заберёт весь день
 I'm not gonna have to explain anything – мне скорее всего не придётся объяснять ничего
 Perhaps – возможно; наверно
 He could have done it himself, but he didn't – он мог бы сделать это сам (бышечная реальность результат), но не сделал
-She couldn't have said that! – не могла она сказать такого! (бышечная реальность результат)
+She couldn't have said that! – она не могла (не может этого быть) сказать такое! (бышечная реальность результат)
 She must have been about twenty then – ей, должно быть, было около 20 тогда (бышечная реальность результат)
 He must have failed to get that job – он, должно быть, провалился получить ту работу (бышечная реальность результат)
 It has to be ready by the end of the week – это должно быть готово к концу недели
@@ -1417,7 +1417,7 @@ Everything is in its place – всё на своём месте
 Today was made for me – этот день был сделан для меня
 It's getting cold – это становится (процесс) холодно
 That is the best film I have ever seen – то лучший фильм, который я когда-либо видел (результат)
-It must have been fun – это должно быть было весело (бышечная реальность результат)
+It must have been fun – это должно быть было веселым (бышечная реальность результат)
 Funny – забавно; смешно
 Something like that – что-то типа того
 Take care! – возьми заботу! (береги себя!)
@@ -1652,7 +1652,7 @@ Self-employment – самозанятость
 Job market – рынок работы
 Job requirements – требования работы
 Job opening – вакансия
-Immediate opening – срочная вакансия
+Immediate opening – немедленная (срочная) вакансия
 Entry level position – должность вводного уровня (стартовая должность)
 Over-time – сверхурочные
 Pay and benefits – плата и льготы/премии
@@ -1669,7 +1669,7 @@ Coverage – покрытие; освещение (в медиа)
 Confidence – доверие; уверенность; конфиденциальность
 Strengths and weaknesses – сильные и слабые стороны
 Polite – вежливый
-When will you make your decision? – когда вы примете ваше решение?
+When will you make your decision? – когда вы сделаете (примете) ваше решение?
 Chief – начальник; шеф
 Company headquaters – главный офис компании
 Vacation – оставление; отпуск
@@ -1713,16 +1713,16 @@ It goes without saying – это идёт без говорения (само собой разумеется)
 I can't believe what I'm hearing – я не могу поверить, что я выслушиваю (процесс)
 Neither – ни один (из двух), тоже не (с отрицанием)
 Both and – как это, так и это
-Either one is fine – любой из них (из двух) хорош
+Either one is fine – любой такой (из двух) хорош
 Mary likes music, and so do I – Мэри любит музыку, и я тоже
-I like both of these pictures – мне нравятся оба этих изображения
+I like both of these pictures – мне нравятся оба эти изображения
 Choice – выбор
 Indeed – действительно (несомненно)
 Will you allow me to do it? – ты позволишь мне сделать это?
 Be careful! – будь осторожным!
 Retard – задержка; запаздывание; замедлять
 Trick – обман; трюк; обманывать
-Abuse – злоупотребление; надругательство; насилие
+Abuse – надругательство; насилие
 Forbid – запрещать
 If I'm invited, I will come – если я приглашён, я приду
 If there's something interesting, I'll go there – если там (будет) что-то интересное, я пойду туда
@@ -1741,7 +1741,7 @@ I would have to do it – мне бы пришлось сделать это
 There would be more possibilities – было бы больше возможностей
 There would be less problems – было бы меньше проблем
 I would go crazy – я бы с ума сошёл
-Without any thinking – не думая
+Without any thinking – без какого-либо думания (не думая)
 If I were you, I would think about that – если бы я был ты, я бы задумался о том (бышечная реальность)
 I wish I were richer – я бы хотел (чтобы) я был богаче
 I wish I had more money – я бы хотел (чтобы) я имел больше денег
@@ -1772,7 +1772,7 @@ I regret doing it – я сожалею, что сделал это
 I regret to say it – я сожалею, что говорю это
 It's a good chance to do something – это хороший шанс чтобы сделать что-то
 It's a good chance of doing something – это хороший шанс (для) делания чего-то
-He is considered to be a good specialist – он рассмотрен быть хорошим специалистом
+He is considered to be a good specialist – он рассмотрен (учтён) быть хорошим специалистом
 He allowed me not to come – он разрешил мне не приходить
 He ordered him to remake – он приказал ему переделать
 Get away with it – ускользнуть с этим (уйти безнаказанным)
@@ -1805,7 +1805,7 @@ Surely – наверняка
 He is less likely to do it – он менее вероятный сделать это (ему сложнее сделать это)
 He is more likely to do it – он более вероятный сделать это (ему проще сделать это)
 He said that he didn't like that – он сказал, что ему не нравится то
-He said he had done it – он сказал, что он сделал это (результат в прош.)
+He said he had done it – он сказал, (что) он сделал это (результат в прош.)
 He said that he was reading a book – он сказал, что он читает книгу (процесс в прошлом)
 He asked if I liked it – он спросил, нравится ли мне это
 He asked whether I liked it – он спросил, нравится ли мне это
@@ -1846,7 +1846,7 @@ I wanna know what in the world you want – я хочу знать, что в мире ты хочешь (чт
 I wanna know for what you need it – я хочу знать, для чего тебе это нужно
 I wanna know what you need it for – я хочу знать, для чего тебе это нужно
 I wanna know which of these applications is yours – я хочу знать, какое из этих приложений является твоим
-I wanna know how serious your offer is – я хочу знать, как серъёзно ваше предложение
+I wanna know how serious your offer is – я хочу знать, каким серъёзным ваше предложение является
 I wanna know how much you want it – я хочу знать, как сильно ты хочешь этого
 Offer – предложение; предлагать
 I wanna know for whom you do it – я хочу знать, для кого ты делаешь это
@@ -1933,7 +1933,7 @@ I'll be there for you – я помогу тебе (я буду там для тебя)
 I'll be there for you, cause you're there for me too – я помогу тебе, потому что ты помогаешь мне тоже
 I'll be there for you, like I've been there before – я помогу тебе, как я помогал тебе раньше (результат)
 Come on! – да брось!; давай! (вперёд!)
-Instead of – вместо
+Instead of smth – вместо чего-то
 That's right! – вот именно!
 All of a sudden – неожиданно
 It turns out – это оказывается
@@ -1958,7 +1958,7 @@ Be supposed to – быть предположенным (должным) (сделать что-либо)
 Head for – направляться на
 Hang out – зависать; тусоваться
 How did you get through it? – как ты справился с этим?
-Cut off - отрубать; отрезать; разъединять
+Cut off - отрубить; отрезать
 That's like saying – то как говорить (процесс)
 Horny – сексуально озабоченный
 Ever since – с тех пор
@@ -2039,7 +2039,7 @@ Attendants – обслуживающий персонал
 Affected – затронутый
 Undue – чрезмерный; неоправданный
 Ease – лёгкость; простота
-Omit – пропускать; не включать; упускать
+Omit – исключить; не включать
 Exertion – напряжение (усилие)
 Consume – потреблять
 Consumed – потребляемый
@@ -2121,7 +2121,7 @@ Alert – тревога
 Altitude – высота (возвышенность); высокое положение
 Patch – клочок; обрывок; латать
 Booze – спиртное; бухло
-Troop – стадо; отряд; войска
+Troop – отряд; войска
 Suit – костюм; иск
 Silly – глупый
 What the hell? – какого чёрта?
@@ -2167,7 +2167,7 @@ Build – конструкция; строить
 Build on – основываться на; надстраивать
 Web framework built on the Servlet API – веб фреймворк, основанный на Servlet API
 From the very beginning – с самого начала
-Commonly known – общеизвестен
+Commonly known – общеизвестный
 Also based on – также основан на
 cover – покрывать; охватывать
 This section covers Spring Web MVC – этот раздел охватывает Spring Web MVC
@@ -2297,9 +2297,9 @@ Deprecated – не рекомендуется
 Desperate – отчаянный; отчаявшийся
 Corresponding – соответствующий
 I missed you – я скучал по тебе
-Consider – рассматривать
+Consider – рассматривать; учитывать
 Rough – грубый; приблизительный
-As soon as – как только
+As soon as – так скоро как (как только)
 But these weren't the only things that made him great – но это не были единственные вещи, которые сделали его великим
 He wasn't discouraged by failure – его не обескураживала неудача
 He knew that failure was just another chance for him to improve – он знал, что неудача была лишь ещё одним шансом для него, чтобы усовершенствоваться
@@ -2452,7 +2452,7 @@ Occurring – происходящие; возникающие
 Speed up – ускорить
 Proven – проверенный; доказанный
 Ad-hoc – специальный
-Over time – со временем
+Over time – со временем (через время)
 Intent – намерение
 Intention – намерение
 Related objects – связанные объекты
@@ -2527,7 +2527,7 @@ respond – ответить; отреагировать
 complement – дополнение; дополнять
 supplement – дополнение; дополнять
 addition – дополнение; добавление
-predict – предсказать (предсказывать)
+predict – предсказать
 prediction – предсказание (прогнозирование)
 predicate – сказанное, заявленное (утверждение); основные
 expertise – экспертиза (опыт)
@@ -3056,7 +3056,7 @@ Embellish – украшать; приукрасить
 Topic – тема; признак
 Be fond of – быть в восторге от; любить
 Refuse – отказаться; отказать
-Uniformly – единообразно; одинаково; равномерно
+Uniformly – единообразно (одинаково); равномерно
 Across – через; среди (между)
 across all primitive objects – среди всех примитивных объектов
 safety – безопасность; охрана
@@ -3141,7 +3141,7 @@ away – подальше; прочь
 what is done cannot be undone – что сделано, не может быть разделано
 apart from – кроме
 plenty of time – достаточно (много) времени
-expressly – прямо (чётко)
+expressly – прямо (чётко, выразительно)
 after – после
 descent – происхождение; спуск
 check out – проверить; посмотреть на (заценить)
@@ -3206,7 +3206,7 @@ arse – задница
 spank – шлёпать
 spanking – порка
 pinch – щипок; ущипнуть
-I'm convinced of it – я убеждён в этом
+I'm convinced of it – я убеждённый этим
 endless – бесконечный; нескончаемый
 percussion – ударные
 repercussions – последствия
@@ -3613,7 +3613,7 @@ regardless their convictions – независимо от их убеждений
 Your story is far more compelling – твоя история намного более убедительна
 This case is indeed compelling – этот случай действительно убедительный
 Chief can obligate an employee – начальник может обязать работника
-I think I heard my car arrive – я думаю я слышал, моя машина прибыла
+I think I heard my car arrive – я думаю я слышал, моя машина прибывает
 The entire system could crumble at any second – вся эта система могла рухнуть в любую секунду
 Particular – частный; особенный
 Children, moreover, remain particularly vulnerable – дети, кроме того, остаются особенно уязвимыми
@@ -3708,7 +3708,7 @@ He may withdraw his consent anytime – он может отозвать своё согласие в любое вр
 You can ponder its meaning – ты можешь обдумать их значение
 You may ponder over your offence – ты можешь обдумать над своим нарушением
 written consent merely can serve as evidence – письменное согласие только может служить как доказательство
-I'm well aware of that – я хорошо осведомлён о том
+I'm well aware of that – я хорошо осведомлённый тем (о том)
 and what perplexes me – и что озадачивает меня
 I cannot complain, and I was pleasantly surprised – я не могу жаловаться, и я был приятно удивлён
 Could be better, but we can't complain – могло быть лучше, но мы не можем жаловаться
@@ -3722,11 +3722,11 @@ You just couldn't admit it – ты только не мог признать это
 He should not support, admit and encourage such acts – он не должен поддерживать, признавать или поощрять такие действия
 exclusion – изоляция; исключение
 mutual exclusion – взаимное исключение
-this exclusion was considered necessary – это исключение было рассмотрено (сочтено) необходимым
+this exclusion was considered necessary – это исключение было рассмотрено (учтено) необходимым
 I realized that he and I belonged to different worlds – я осознал, что он и я принадлежали разным мирам
 the club belongs to just one person – этот клуб принадлежит только одному человеку
 although they were rich, they just didn't belong – хотя они были богаты, они просто не подходили (не соответствовали)
-I don't belong here – я не подхожу этому месту
+I don't belong here – я не подхожу сюда (этому месту)
 Even more perplexing, why in almost every photo is she posed like this? – даже более озадачивающее, почему в почти каждом фото она является позирующей подобно этому?
 perplexing challenges – озадачивающие (трудные) вызовы (задачи)
 violence – насилие; жестокость
@@ -3752,7 +3752,7 @@ You'll never guess – ты никогда не угадаешь
 judging by the delay in implementation – судя по задержке в реализации
 Obviously – очевидно
 Obviously, we also cannot completely rule out the possibility of some effects – очевидно, мы также не можем полностью исключать возможность некоторых эффектов
-Obviously, the circumstances have changed – очевидно, данные обстоятельства изменились (результат)
+Obviously, the circumstances have changed – очевидно, эти обстоятельства изменились (результат)
 That was actually while to tell difficultly – то что было действительно (на самом деле) пока рассказать трудно
 Let's hope it's for good – давай надеяться, что это навсегда
 We get on well with each other – мы ладим друг с другом
@@ -3835,7 +3835,7 @@ We face difficulties that we must overcome – мы сталкиваемся с трудностями, кото
 They couldn't cope, I guess – они не могли справиться, я полагаю
 Don't imply anything was your fault – не предполагай, что всё было твоей виной
 Let's converse exchange opinions, debate – давайте общаться, обмениваться мнениями, спорить
-converse is also true in full measure – обратное также верно в полной мере
+converse is also true in full measure – обратное является также верным в полной мере
 to revalidate and refresh last year's results – чтобы перепроверить и обновить прошлогодние результаты
 supposition – предположение
 I can't corroborate your supposition – я не могу подтвердить ваше предположение
@@ -3850,7 +3850,7 @@ essential – существенный
 Let me highlight two essential issues – позвольте мне подчеркнуть (высветить) два существенных (важных) вопроса
 It may sound like a bizarre question – это может звучать, как странный вопрос
 I can hold on as long as you like – я могу продержаться так долго как вы хотите
-He recognized their value and held on to them – он распознал их ценность и придержал их
+He recognized their value and held on to them – он распознал их ценность и придержал для них
 We must accommodate and reconcile their interests – мы должны подогнать и примирить (согласовать) их интересы
 calm and humble life will bring more happiness than the pursuit of success and the constant restlessness that comes with it – спокойная и скромная жизнь принесёт больше счастья, чем достижение успеха и постоянное беспокойство, которое приходит с ним
 Utter – полный
@@ -3878,7 +3878,7 @@ It's the same as if you did say it – это то же самое, как если бы ты сказал это
 I will look out for you – я буду присматривать за тобой
 resorting – прибегание к
 will prevent former employees from resorting to illegal activities – будет предотвращать бывших работников от прибегания к незаконным активностям (действиям)
-Either can hand over authority to the other – каждый может передать полномочия другому
+Either can hand over authority to the other – любой (каждый) может передать полномочия другому
 set out – изложить; излагать; изложенные
 Some of the current initiatives are set out below – некоторые эти текущие (настоящие) инициативы изложены ниже
 guidelines – руководящие принципы; инструкции
@@ -3896,7 +3896,7 @@ Just get behind – просто встань позади
 You're not getting by me – не приближайся ко мне (процесс)
 I'm afraid I can't speak for her – я боюсь, я не могу говорить за неё
 but, darling, I can't just go off – но, милая, я не могу просто уйти
-Imagine if you can get rid of it – представьте, можете ли вы избавиться от этого?
+Imagine if you can get rid of it – представьте, можете ли вы избавиться (от) этого?
 Hold up – держать вверху; придерживать; ограбить
 I will not hold up my trip – я не буду придерживать мою поездку
 this activity continued throughout the period – эта деятельность продолжалась на протяжении всего периода
@@ -3994,7 +3994,7 @@ You stay here lest you frighten him – ты стой здесь, чтобы ты не напугал его
 We must be careful lest we lose this opportunity – мы должны быть осторожными, иначе мы потеряем эту возможность
 by creating a wider pool of human and financial resources – создавая более широкий резерв (пул) человеческих и финансовых ресурсов
 We need to pool our resources and our experience – нам надо объединить наши ресурсы и наш опыт
-instead, be as deliberate with your downtime as you are with your work – вместо этого будьте так сознательны (преднамеренны) с вашим свободным временем, как вы являетесь с вашей работой
+instead, be as deliberate with your downtime as you are with your work – вместо (этого) будьте так сознательны (преднамеренны) с вашим свободным временем, как вы являетесь с вашей работой
 rather than deliberate unrealistic scenarios – лучше чем обсуждать нереалистичные сценарии
 party – сторона (участник); партия; вечеринка
 another suggestion was that the court might suspend the enforcement proceedings until all parties had been properly notified – другим предложением было то, что суд может приостановить принудительное исполнение действий, до тех пор пока все стороны не будут корректно уведомлены (пассив долго/результат в прошлом)
@@ -4009,13 +4009,13 @@ so essentially it sounds quite brave – так что по существу это звучит довольно с
 We come essentially to admire the art – мы приходим, по существу, восторгаться произведениями искусства
 figure – показатель; рисунок; фигура
 These figures have not changed substantially – эти показатели не изменились (результат) существенно
-especially considering nobody expected me to – особенно рассматривая (учитывая), никто не ожидал от меня
+especially considering nobody expected me to – особенно учитывая, никто не ожидал от меня
 especially if they're tears of joy – особенно если это слёзы радости
 especially someone as special as you – особенно кто-то такой особенный, как ты
 They rarely complete elementary school, let alone secondary school – они редко заканчивают начальную школу, не говоря уж о средней школе
 to say nothing of other important matters – не говоря о (чтобы говорить ничего о) других важных вопросах
 I found it best to say nothing about the matter – я нашёл это лучшим, не говорить ничего об этом деле
-Similarly, additional criteria and guidelines should be considered – подобным образом дополнительные критерии и инструкции должны (следует) быть рассмотреными
+Similarly, additional criteria and guidelines should be considered – подобным образом дополнительные критерии и инструкции должны (следует) быть рассмотреными (учтёнными)
 concrete movement towards integration must now occur – конкретное движение в направлении интеграции должно теперь происходить
 We believe this could occur today – мы верим, это может произойти сегодня
 otherwise, more crises would occur – иначе больше кризисов будет возникать (согласование с прошедшим)
@@ -4058,7 +4058,7 @@ well, you might at least have a go – ну, ты мог по крайней мере сделать попытку
 I think I should have a go – я думаю мне следует сделать попытку
 this claim comprises two separate items – эта претензия (иск) содержит два отдельных пункта
 claim described at paragraph involves several contracts – требование, описанное в параграфе, включает несколько контрактов
-such a claim can also be considered separately – такое требование (заявление) может также быть рассмотренным отдельно
+such a claim can also be considered separately – такое требование (заявление) может также быть рассмотренным (учтённым) отдельно
 this claim therefore does not appear to be credible – это заявление поэтому не кажется вероятным (заслуживающим доверия)
 It would be absurd to claim it – это было бы абсурдно заявлять это
 the same person cannot claim this right more than once – та же персона не может заявлять это право более, чем один раз
@@ -4125,7 +4125,7 @@ I can fetch some more if you like – я могу принести (достать) немного больше, ес
 I asked him to fetch some goods from England – я попросил его привезти немного вещей из Англии
 I've come to fetch you – я пришёл (результат) забрать тебя
 pick up – забрать; взять; поднять
-I couldn't pick up my phone – я не мог поднять мой телефон (трубку)
+I couldn't pick up my phone – я не мог поднять мой телефон
 let me pick up the question of credibility – позвольте мне поднять вопрос доверия
 I have some stuff to pick up anyway – я должен (вынужден) некоторые вещи забрать так или иначе
 I'm here to pick up one girl – я здесь, чтобы забрать одну девушку
@@ -4251,10 +4251,10 @@ You need an extra boost – тебе нужно дополнительное стимулирование
 boost competitiveness – повышение конкурентности
 access was requested but was allegedly denied – доступ был запрошен, но был якобы отказан
 all to distract me from this – всё, чтобы отвлечь меня от этого
-I appreciate you trying to help distract me – я ценю, что ты пытаешься помочь отвлечь меня
+I appreciate you trying to help distract me – я ценю, (что) ты пытаешься помочь отвлечь меня
 this is an important issue, but it must not distract us from the implementation priorities that I described earlier – это важный вопрос, но он не должен отвлечь нас от реализации приоритетов, которые я описал ранее
 It focuses on putting conditions and technical resources – он фокусируется на уложении (создании) условий и технических ресурсов
-to assist in putting an end to such activities – помочь в положении конца таким активностям (действиям)
+assist in putting an end to such activities – помочь в положении конца таким активностям (действиям)
 It aims at putting an end to this conflict – она целится (имеет цель) в положение конца этому конфликту
 tremendous potential of such technologies – огромный потенциал таких технологий
 although I have tremendous personal magnetism I also have strength of character – хотя я имею огромный персональный (личный) магнетизм, я также имею силу (крепость) характера
@@ -4412,7 +4412,7 @@ I want to work out with you guys – я хочу тренироваться с вами парни
 director may designate a limited number of well-qualified persons – директор может назначить ограниченное число высококвалифицированных персон (лиц)
 harass – притеснять; досаждать
 You have done nothing but harass him – ты не сделал ничего (результат), но притесняешь его
-and you claim I harass you every night – и ты заявляешь, что я досаждаю тебе каждую ночь
+and you claim I harass you every night – и ты заявляешь, (что) я досаждаю тебе каждую ночь
 You're really beginning to annoy me – ты реально начинаешь (процесс) раздражать меня
 Don't worry, I won't embarrass you – не переживай, я не буду смущать тебя
 I don't mean to embarrass you – я не предназначен (не хочу) смущать тебя
@@ -4438,9 +4438,9 @@ labour market – рынок труда
 implementation of that option may entail some consequences – реализация такого варианта может повлечь за собой некоторые последствия
 mysterious – таинственный; загадочный
 You're cheating me – ты обманываешь меня (процесс)
-It was delicious – это было вкусно (восхитительно)
+It was delicious – это было вкусным (восхитительным)
 I'll take it – я возьму это
-I'm finished – я закончил
+I'm finished – я законченный (мне конец)
 My fate is in my hands – моя судьба в моих руках
 take us home – забери нас домой
 He is hard up for money – он нуждается в деньгах
@@ -4487,7 +4487,7 @@ He is a reckless driver – он безрассудный водитель
 keep looking – сохраняй (продолжай) смотрение
 it's forbidden – это запрещено
 extinction – вымирание; исчезновение
-He needs to be stopped – его нужно остановить
+He needs to be stopped – он нуждается быть остановленным (его нужно остановить)
 He made that intentionally – он сделал то намеренно
 I think I'm beginning to understand – я думаю я начинаю (процесс) понимать
 that isn't fair – так не честно
@@ -4526,7 +4526,7 @@ I've just changed my mind – я только-что изменил (результат) моё мнение (передум
 chose the lesser of two evils – выбрал меньшее из двух зол
 I've made a decision – я сделал (принял) решение (результат)
 What's this about? – о чём это?
-It is of great use – это крайне полезно
+It is of great use – это является огромно полезным (это крайне полезно)
 I guess the cold is kind of annoying – я полагаю, холод это типа досаждающее
 laundry – стирка; стирать
 I ride my bike – я езжу на моём мотоцикле (или велосипеде)
@@ -4623,8 +4623,8 @@ out of date – устаревший
 It was out of date 5 years ago – это устарело 5 лет назад
 play for time – тянуть время (играть в течение веремени)
 round the clock – круг часов (круглые сутки)
-run out of time – время кончилось (сбежало)
-I think you have run out of time – я думаю ваше время кончилось (сбежало) (результат)
+run out of time – кончилось время
+I think you have run out of time – я думаю вы закончили время (ваше время закончилось) (результат)
 take time – забирать время
 override – обойти; взломать; переопределить
 I can override, but it will take time – я могу обойти (трабл), но это заберёт время
@@ -4638,7 +4638,7 @@ stand up – вставать
 take out – убрать; вынимать; вытаскивать
 turn around – оборачиваться (повернуться вокруг)
 get off – убираться с; выходить; покидать
-We have to get off at the next station – нам придётся выйти на следующей станции
+We have to get off at the next station – нам приходиться выходить на следующей станции
 hold on! – держитесь!
 put on – надевать; одевать; включать
 we can set up a meeting – мы можем организовать встречу
@@ -4666,8 +4666,8 @@ resource consumption – потребление ресурсов
 chunk – кусок
 interrogate – допрашивать
 interrogation – допрос
-it is highly desirable – это высоко (крайне) желательно
-it is extremely desirable – это экстремально (крайне) желательно
+it is highly desirable – это является высоко (крайне) желательным
+it is extremely desirable – это является экстремально (крайне) желательным
 inheritor – наследник
 as with any compromise – как и при любом компромиссе
 transfer – передать
@@ -4983,3 +4983,10 @@ fail - провалиться (потерпеть неудачу)
 to wake – будить; проснуться
 to exact – требовать
 to rack – напрягать (истощать)
+enormous - огромный
+celebrity - знаменитость
+offend - обидеть; оскорбить
+offender - правонарушитель
+harassment - домогательство; притеснение
+immediate - немедленный; непосредственный
+vicinity - окрестности

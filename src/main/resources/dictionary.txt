@@ -41,7 +41,7 @@ Extending a class that implements the interface – расширяя (наследуя) класс, кот
 Transient – переходный; временный
 Brood – размышлять; тяготиться
 Blanket – всеохватывающий; одеяло
-Request handling methods – методы обрабатывающие запрос
+Request handling methods – запрос обрабатывающие методы
 Routes to an instance of a servlet – направляет к экземпляру сервлета
 Concurrent requests – одновременные (параллельные) запросы
 Very familiar with – очень знакомым с
@@ -148,7 +148,7 @@ Reside – пребывать; находиться
 Shortage of oversight - нехватка надзора
 Preceding – предшествующий
 Convey – выражать (передавать идеи, чувства)
-Domain – домен; область
+Domain – домен (область)
 Fine-grain – мелко зернистый
 Qualified – квалифицированный
 Qualified class name – квалифицированное (полное) имя класса
@@ -167,7 +167,7 @@ Essentially – по существу
 Recipe – рецепт; средство
 Acquire – приобретать
 That is – то есть; вот
-Legacy – функции; наследие
+Legacy – наследие; унаследованные
 Adhere – придерживаться
 Emergency – крайность (чрезвычайное положение)
 Sombre – мрачный
@@ -181,7 +181,7 @@ Clue – зацепка (подсказка)
 Wrap – охватывать
 Tough – жёсткий; крепкий
 Sought after – востребованный (которого ищут после)
-Draft – эскиз (набросок); делать набросок
+Draft – набросок (эскиз); делать набросок
 Wake – последствие
 In the wake of something - в результате чего-то
 to sack you – чтобы уволить тебя
@@ -204,7 +204,7 @@ Hilarious – весёлый; шумный
 Pivot - центровой; осевой; вращаться вокруг оси
 Insane - безумный
 Casual - случайный; повседневный
-Flattery - лесть; подхалимство
+Flattery - лесть (подхалимство)
 Thereby - тем самым
 Feverishly - лихорадочно
 Consciousness - осознание; осознанность
@@ -240,7 +240,7 @@ Commotion - беспорядки; суматоха
 Cautionary Tale - предостерегающий (поучительный) рассказ
 Betray - изменять; предавать
 Gospel - евангелие; наставление
-Were castigated by name - были разнесены (раскритикованы) поимённо
+it were castigated by name - они были разнесены (раскритикованы) поимённо
 Neglect - пренебрежение (игнорирование); пренебрегать (игнорировать)
 Suggestion - предложение; предположение
 Deplorable situation - плачевная ситуация
@@ -535,7 +535,7 @@ Thereafter – впоследствии
 Currently – ныне
 Nearby – ближний; ближайший
 Polling – голосование; опрашивание
-Fiction - фантастика; вымысел
+Fiction - вымысел (фантастика)
 Science fiction – научная фантастика
 Stunning – оглушающий; ошеломляющий
 Tasty - вкусный
@@ -572,7 +572,7 @@ Energizing – энергизирование (активация)
 Exhilarate – веселить; подбадривать
 Awaken – пробудить
 Practicing – практикующий
-Practice – практика; привычка
+Practice – практика (привычка)
 Awesome – круто; крутой
 Lay off – увольнять; отложить
 Drain – сток; вытекание; вытекать
@@ -584,7 +584,7 @@ Crisis mode – кризисный режим
 Superficial – поверхностный
 One-off – одноразовый
 Obstacle – препятствие; помеха
-Imperative – повеление; приказ
+Imperative – императив (повеление, приказ)
 Inspire – вдохновлять
 Undergo – проходить (подвергаться)
 Powerful – мощный
@@ -627,7 +627,7 @@ Complicated – сложный; запутанный
 To face – смотреть в лицо; сталкиваться лицом к лицу
 Chores – ежедневные обязанности
 Errant – блуждающий
-Run errands – бегать по делам (поручениям)
+Run errands – бегать по поручениям (бегать по делам)
 Jam – зажатие (давка, пробка); джем
 Mood – настроение
 If I'm still Ok with this, we'll do that – если я всё ещё в порядке с этим, мы сделаем то
@@ -641,7 +641,7 @@ Crack – хруст; трещина; расколоть
 Have a crack! – сделай попытку!
 Have a go! – сделай попытку!
 have a fight over something – иметь ссору через что-то
-Connotation – подтекст
+Connotation – коннотация (подтекст)
 Connote – коннотировать (вызывать ассоциации, подразумевать)
 connotate – коннотировать (вызывать ассоциации, подразумевать)
 Jerk – придурок
@@ -653,7 +653,7 @@ Queer – странный; чудной
 seem – казаться (выглядеть)
 Scarcely – почти не; вряд ли
 Adorable – обожаемый
-Worship – поклонение; культ
+Worship – поклонение (культ); поклоняться
 Spatial – пространственный
 Aesthetic – эстетичный
 Thrill – трепет (нервная дрожь, возбуждение)
@@ -672,7 +672,7 @@ Consistency – согласованность (непротиворечивость)
 Pop-up – всплывающий; выскакивающий
 Obey – подчиняться; повиноваться
 Placeholder – местозаполнитель (местодержатель)
-Underscore – акцентировать; подчёркивать
+Underscore – подчёркивать (акцентировать)
 Ambiguity – двусмысленность; неопределённость
 Rely on – полагаться на
 Enhance – усиливать; улучшать
@@ -1001,7 +1001,7 @@ Let me introduce my colleague - позвольте мне представить моего коллегу
 I would like to improve my english - я бы хотел усовершенствовать мой английский
 I wanted to improve my knowledge and skills - я хотел усовершенствовать мои знания и скилы
 You will speak english fluently - ты будешь говорить на английском бегло
-I attended english courses - я посещал курсы английского
+I attended english courses - я посещал английского курсы
 For how long? - как долго?
 I understand almost everything, but speak badly - я понимаю почти всё, но говорю плохо
 I was invited for an interview - я был приглашён для интервью
@@ -1031,7 +1031,7 @@ Curious – любопытный
 Affinity – сходство; близость
 Thirst – жажда
 Reply to questions – отвечать на вопросы
-Troubleshoot – искать неприятности
+Troubleshoot – искать проблемы (неприятности)
 Troubleshoot problems with our software - искать проблемы с нашим софтом
 Relevant professional experience – релевантный (значимый) профессиональный опыт
 Self-motivated and comfortable working independently - самомотивирующий и комфортно работающий независимо
@@ -1313,7 +1313,7 @@ You're very likely to – ты есть очень вероятно к (ты скорее всего)
 If I may ask – если мне можно спросить (если не секрет)
 Make into – превратить в
 Don't worry! – не переживай!
-That's it! – вот так!
+That's it! – вот так!; вот и всё!
 Easy as pie! – проще простого! (просто как пирог)
 a bit – немного; чуть-чуть
 That's because – то потому что
@@ -1397,7 +1397,7 @@ Deceive – обманывать; вводить в заблуждение
 Appearances can be deceiving – внешность может быть обманчивой
 Punish – наказывать
 Will you be quiet, please? – можешь быть тише, пожалуйста?
-Rules are made to be broken – правила сделаны, чтобы быть нарушенными
+Rules are made to be broken – правила сделаны, чтобы быть сломанными (нарушенными)
 It's good to be here! – это хорошо быть здесь!
 How long will it take? – как долго это заберёт?
 It will take all day – это заберёт весь день
@@ -1407,7 +1407,7 @@ He could have done it himself, but he didn't – он мог бы сделать это сам (бышечн
 She couldn't have said that! – она не могла (не может этого быть) сказать такое! (бышечная реальность результат)
 She must have been about twenty then – ей, должно быть, было около 20 тогда (бышечная реальность результат)
 He must have failed to get that job – он, должно быть, провалился получить ту работу (бышечная реальность результат)
-It has to be ready by the end of the week – это должно быть готово к концу недели
+It has to be ready by the end of the week – это приходится (должно) быть готовым к концу недели
 You won't get paid – ты не получишь оплату
 Forget – забывать
 We shouldn't have disputed – нам не следовало спорить (бышечная реальность результат)
@@ -1454,7 +1454,7 @@ Well done! – хорошо сделано!
 Go ahead! – иди вперёд! (пожалуйста!); иди вперёд! (вперёд, начинай!)
 Don't even think about it! – даже не думай об этом!
 Cause – причина; послужить причиной/поводом; потому что
-I don't like bothering people – я не люблю напряжение (надоедание) людей
+I don't like bothering people – я не люблю беспокоение людей
 Fix the problems – фиксить эти проблемы
 Anyway – во всяком случае; так или иначе; вообще
 I haven't done it yet – я не сделал этого ещё (результат)
@@ -1509,7 +1509,7 @@ Inevitable – неизбежный
 Impossible – невозможный
 dislike – не любить
 You misunderstood me – вы неправильно меня поняли
-It's just a misunderstanding – это просто недоразумение
+It's just a misunderstanding – это просто непонимание (недоразумение)
 Workable – осуществимый; годный для обработки
 Unreliable – ненадёжный
 Unacceptable – неприемлемый
@@ -1549,7 +1549,7 @@ Have you done it already? – ты сделал это уже? (результат)
 I've already told him about it – я уже рассказал ему об этом (результат)
 He is already here – он уже здесь
 Yet – ещё не; уже
-He is not here yet – он ещё не здесь
+He is not here yet – он не здесь ещё
 Are you ready? – вы готовы?
 Not yet – ещё нет
 Are you ready yet? – вы готовы уже?
@@ -1594,8 +1594,8 @@ I got you! – я поймал тебя!
 I gotcha! – я поймал тебя!
 Get along – ладить
 Get into – попасть в
-He got into trouble – он попал в неприятную историю
-He got her into trouble – он втянул её в неприятную историю
+He got into trouble – он попал в трабл (в неприятную историю)
+He got her into trouble – он втянул её в трабл (в неприятную историю)
 She got into debt – она влезла в долги
 Get out – выбираться (откуда-либо)
 Get out of here! – убирайся отсюда!
@@ -1609,7 +1609,7 @@ Praise – похвала; хвалить
 He was praised for his work – он был похваленным за его работу
 I'm so excited about it – я так взволнован об этом
 Your idea is interesting, but I'm not interested in this job – ваша идея интересна, но я не заинтересован в этой работе
-Not at all – вообще нет
+Not at all – вообще не
 Are you interested in this proposal? – вы заинтересованы в этом предложении?
 speak – произносить слова; говорить
 say – говорить; сказать
@@ -1989,7 +1989,7 @@ Clarification – пояснение
 Obligation – обязательство
 Subject matter – предмет вопроса (изучения)
 Pass off – выдавать
-Unravel – разгадывать; распутывать
+Unravel – распутывать (разгадывать)
 Go away – уходить (идти прочь)
 Break up – разбиться (разбить отношения)
 For good – навсегда
@@ -2096,7 +2096,7 @@ Pattern – паттерн (образец, шаблон, узор)
 Frame – рамка; кадр
 lay-out – планировка; разметка (макет)
 vintage – старинный; классический
-blur – блюр
+blur – блюр (размытие)
 blurry – смазанный
 blurred – смазанный
 palette – палитра (цветовая гамма)
@@ -2127,14 +2127,14 @@ Silly – глупый
 What the hell? – какого чёрта?
 Mess – беспорядок
 get into a mess – попасть в беспорядок (беду)
-mess up – портить
+mess up – портить; облажаться
 don't mess with me – не валяй дурака со мной	
 favour (favor) – поддержка (благосклонность); одолжение
 do me a favour – сделай мне одолжение
 footage – запись (длина плёнки в футах)
 explode – взрывать
 exploded – разобранный
-rendering – рендеринг; предоставление
+rendering – рендеринг (предоставление)
 am I right? – я прав?
 Let me handle this – давай я управлюсь с этим
 Associate – помощник; партнёр
@@ -2258,7 +2258,7 @@ Capture – захват; улавливание
 Over and over again – снова и снова
 Of all time – за всё время
 Regularly – регулярно
-Grace – грация; изящество
+Grace – грация (изящество)
 Unmatched – несравненный; непревзойдённый
 Failure – неудача; провал
 Discourage – обескураживать; сдерживать (препятствовать)
@@ -2276,7 +2276,7 @@ This attitude of seeing failure as a learning experience helped me persevere – т
 Perversion – извращение
 Pervert – извращенец; извращать
 Deprave – развращать
-Depraved – развращённый; порочный
+Depraved – развращённый (порочный)
 Good luck! – удачи!
 Method is worth special attention – метод является стоящим специального внимания
 In particular – в частности
@@ -2289,7 +2289,7 @@ As mentioned before – как упомянуто ранее
 Let's start with – давайте начнём с
 Merge – объединить; сливаться
 Concise – краткий
-Simply put – просто излагая; проще говоря
+Simply put – просто излагая (проще говоря)
 Rest – отдых; остаток; отдыхать
 Almost – почти
 Otherwise – иначе
@@ -2301,7 +2301,7 @@ Consider – рассматривать; учитывать
 Rough – грубый; приблизительный
 As soon as – так скоро как (как только)
 But these weren't the only things that made him great – но это не были единственные вещи, которые сделали его великим
-He wasn't discouraged by failure – его не обескураживала неудача
+He wasn't discouraged by failure – он не обескураживался неудачей
 He knew that failure was just another chance for him to improve – он знал, что неудача была лишь ещё одним шансом для него, чтобы усовершенствоваться
 There was always a problem – всегда была проблема
 There were always problems – всегда были проблемы
@@ -2324,11 +2324,11 @@ He came to a similar conclusion – он пришёл к подобному заключению
 After trying to find – после пробования найти
 Executive – исполнительный (руководитель)
 Asset – актив; ресурс
-Chord – струна; аккорд
+Chord – аккорд (струна)
 Struck a chord – задело струну
 One by one – один за одним
 By mistake – по ошибке
-time had come to say goodbye – время пришло сказать прощай (результат в прошлом)
+the time had come to say goodbye – время пришло сказать прощай (результат в прошлом)
 And then something happened – и затем кое-что произошло
 All of this – всё это
 All of these – все эти
@@ -2405,7 +2405,7 @@ citizen – гражданин
 citizenship – гражданство
 punch – удар; пунш; ударить
 pleased as punch – доволен как пунш
-upset the apple cart – создавать сложности (расстраивать корзину яблок)
+upset the apple cart – расстраивать яблок корзину (создавать сложности)
 hacking – взлом
 life hacking – взлом жизни (хитрость жизни)
 overcome – преодолеть
@@ -2559,7 +2559,7 @@ levy – налог; сбор; взимать
 scale – масштаб; шкала; масштабировать
 graph – граф; график
 monitoring – мониторинг
-optional – опциональный; необязательный
+optional – опциональный (необязательный)
 observers register themselves – наблюдатели регистрируют себя сами
 discretion – усмотрение
 left to the discretion of the designer – оставлены на усмотрение дизайнера
@@ -2583,7 +2583,7 @@ out of envy – из зависти
 steal – красть
 struggle – борьба; усилия; бороться
 are you in a hurry? – ты в спешке?
-Meeting – совещание; встреча
+Meeting – митинг (совещание, встреча)
 Hint – подсказка (намёк)
 Rare – редкий
 Greet – приветствовать
@@ -2591,7 +2591,7 @@ Coupling – спарывание (связывание)
 Chain – цепь; цепочка
 Sender – отправитель
 Damage – дамаг (ущерб)
-Pipeline – канал; трубопровод; конвейер
+Pipeline – трубопровод (канал, конвейер)
 Pipeline mode – конвейерный режим
 Pipeline architecture – конвейерная архитектура
 Contain – содержать (включать в себя)
@@ -2653,7 +2653,7 @@ Identify – идентифицировать
 Benefit – пособие; льгота; выгода
 vice versa – наоборот
 arbitrary – произвольный
-generalization – обобщение
+generalization – генерализация (обобщение)
 specialization – специализация
 superior – превосходящий
 patience – терпение
@@ -2762,7 +2762,7 @@ dissect – вскрывать; препарировать
 deadlock – тупик; затор
 brave – храбрый; смелый
 bravely – храбро; смело
-convert – конвертировать; преобразовывать
+convert – конвертировать (преобразовывать)
 glory – слава
 glorious – славный
 circumstance – обстоятельство
@@ -2806,8 +2806,8 @@ former – прежний
 In the former case – в прежнем (первом) случае
 Latter – последний; второй
 In the latter case – в последнем случае
-Subway – метро; подземка
-gut – чутьё; нутро
+Subway – подземка (метро)
+gut – нутро (чутьё)
 to some degree – в некоторой степени
 differ – различаться
 minority – меньшинство
@@ -2835,7 +2835,7 @@ tampering – вмешательство (фальсификация)
 evidence – доказательство(а)
 evidence tampering – фальсификация доказательств
 put a hold on – взять (поставить) задержку на
-controversy – спор; противоречие
+controversy – противоречие (спор)
 swing – качели; удар с размаху; качаться
 naughty – непослушный; озорной
 compel – заставить; вынудить
@@ -2889,7 +2889,7 @@ premise – предпосылка
 confusing – сконфуженный (запутанный)
 illogical – нелогичный
 dial – набор; набрать номер
-reception – приём; стойка регистрации
+reception – ресепшен (приём, стойка регистрации)
 tune – мелодия; настроить
 tuned channel – настроенный канал
 internal – внутренний
@@ -2969,7 +2969,7 @@ Behind – позади; сзади
 Puncture – прокол; прокалывать
 Escape – бегство; сбежать
 Futile – бесполезный; тщетный
-Overlook – упускать из виду; игнорировать
+Overlook – упускать из виду (игнорировать)
 Exasperate – сердить; раздражать
 Grim – мрачный
 Mortal – смертный; смертельный
@@ -3061,7 +3061,7 @@ Across – через; среди (между)
 across all primitive objects – среди всех примитивных объектов
 safety – безопасность; охрана
 heuristic – эвристический
-assembly – ассамблея; сбор (собрание); сборка
+assembly – ассамблея (сбор, собрание, сборка)
 embellishment – приукрашивание
 alternative – альтернатива; альтернативный
 assault – нападение; посягательство
@@ -3079,7 +3079,7 @@ detrimental – ущерб; пагубный
 common sense – общий (здравый) смысл
 overall – общий; всеобщий
 advocate – адвокат; отстаивать
-oracle – оракул; пророк
+oracle – оракул (пророк)
 tame – приручить; укротить
 billing – выставление счетов
 condition – условие; состояние
@@ -3088,7 +3088,7 @@ decent – достойный; приличный
 decadence – упадок
 check up – проверять; контролировать
 nag – пилить; ворчать
-surrogate – суррогатный; замещающий
+surrogate – суррогатный (замещающий)
 instigate – провоцировать; подстрекать
 instigating – провоцирующий; подстрекающий
 interpose – вставлять
@@ -3115,7 +3115,7 @@ fairly – довольно
 strenuous – напряжённый
 lazy – ленивый
 society – общество; общественность
-productivity – продуктивность; производительность
+productivity – продуктивность (производительность)
 obsess – зацикливаться
 obsessed – зацикленный; одержимый
 glove – перчатка
@@ -3244,7 +3244,7 @@ pitch – поле (подача, презентация)
 by accident – случайно
 He is always very thorough in his work – он всегда очень тщателен в своей работе
 plead guilty – признать вину
-speech – речь; выступление
+speech – речь (выступление)
 verify – верифицировать (проверить, подтвердить)
 verified – верифицированный (проверенный, подтверждённый)
 delusive – обманчивый
@@ -3252,7 +3252,7 @@ hike – поход
 occurrence – возникновение (явление); происшествие
 event – эвент (событие, мероприятие)
 occasion – случай; событие; повод
-incident – инцидент; происшествие
+incident – инцидент (происшествие)
 case – случай; кейс (дело)
 simplification – упрощение
 spend – тратить; расходовать; проводить
@@ -3327,7 +3327,7 @@ Cycle – цикл; велосипед
 Lifecycle – жизненный цикл
 Bicycle – велосипед
 Cycling – круговорот; езда на велосипеде
-Artist – художник; артист
+Artist – артист (художник)
 most of all – больше всего
 best of all – лучше всего; больше всего
 swimming – плавание
@@ -3552,7 +3552,7 @@ apart from Germany, they also visited Italy and Austria – кроме Германии они так
 I like all topics apart from the web design – мне нравятся все темы кроме веб дизайна
 I like all co-workers except for chief – мне нравятся все сослуживцы кроме начальника
 I need to lay it on the line – мне надо сказать начистоту
-I'm sincerely sorry for your troubles – я искренне извиняюсь за ваши неприятности
+I'm sincerely sorry for your troubles – я искренне извиняюсь за ваши проблемы (неприятности)
 I sincerely appreciate the interest that they have taken in this important matter – я искренне ценю интерес, который они взяли (проявили) в этом важном вопросе (результат)
 It was a masterly performance – это было виртуозное исполнение
 that's when it hit me – вот тогда это ударило меня (меня осенило)
@@ -3574,7 +3574,7 @@ it seems realistic – это кажется (выглядит) реалистичным
 ad-hoc initiatives may seem an attractive option – специальные инициативы могут казаться (выглядеть) привлекательным вариантом
 attract – привлечь; привлекать
 attractive – привлекательный
-option – опция; вариант
+option – опция (вариант)
 I can take over part of the responsibility – я могу взять на себя часть ответственности
 eventually, it would take over her mind altogether – в конце концов это бы захватило её мысли всецело
 how could they take over my kingdom? – как смогли они захватить моё королевство?
@@ -3621,7 +3621,7 @@ These strange occurrences moreover are ongoing – эти странные происшествия (явле
 He continued to maintain liaison with her – он продолжил поддерживать связь с ней
 possession of dangerous explosives is prohibited – владение опасными взрывчатыми является запрещенным
 private ownership – частная собственность
-restore property ownership – восстановить владение собственностью
+restore property ownership – восстановить собственностью владение
 even though their goals differ – даже хотя их цели различаются
 fictional – вымышленный
 Even though the movie is fictional – даже хотя это кино является вымышленным
@@ -3634,7 +3634,7 @@ miserable failure – полный (жалкий) провал
 this had been a miserable failure – это был полный (жалкий) провал (результат в прошлом)
 This could be split in a number of specific tasks – это могло быть разделено на ряд специфических задач
 support – поддержка; поддерживать
-will support access to meta-data – будет поддерживать доступ к мета-данным
+it will support access to meta-data – он будет поддерживать доступ к мета-данным
 furthermore, we will support additional steps – дальше больше, мы будем поддерживать дополнительные шаги
 you can't put a hold on the future – ты не можешь взять (поставить) задержку на (отложить) будущее
 Can I insure my vehicle? – могу я застраховать мой автомобиль?
@@ -3661,8 +3661,8 @@ It specifies whether to group the query – он специфицирует (указывает), группиро
 There were added new fields into search query – были добавлены новые поля в поисковый запрос
 query specific data – запрашивать специфические данные
 expose this practice – разоблачить эту практику
-proceed – действовать
-proceed urgently with efforts to develop something – действуйте срочно с усилиями, чтобы развивать что-то
+proceed – продолжать (действовать)
+proceed urgently with efforts to develop something – продолжайте (действуйте) срочно с усилиями, чтобы развивать что-то
 Some side effects are unavoidable, whereas others are avoidable – некоторые побочные эффекты неизбежны, тогда как другие избежны
 You can embrace what you truly are – ты можешь объять (принять), что ты реально являешься
 I want to embrace you – я хочу объять тебя
@@ -3670,7 +3670,7 @@ He's opinionated, and he's smart – он самоуверенный, и он умный
 several attempts have been made to codify this principle – несколько попыток было сделано, чтобы кодифицировать (систематизировать) этот принцип (пассив долго/результат)
 pose – позировать; представлять; формулировать
 experts may pose follow-up questions – эксперты могут представлять (формулировать) последующие вопросы
-pose security challenges – представлять челинджи (проблемы) безопасности
+pose security challenges – представлять безопасности челинджи (проблемы)
 must pose a real threat – должна представлять реальную угрозу
 She offered to pose for me – она предложила позировать для меня
 totally – тотально (абсолютно)
@@ -3770,7 +3770,7 @@ And bring out new solutions to our tasks – и вытащить наружу (выявить) новые реш
 Okay, designers, let's bring out your models – хорошо, дизайнеры, давайте вытаскивайте наружу (показывайте) ваши модели
 This is, by far, the largest enterprise – это, безусловно, наибольшая предприимчивость
 This story is by far more interesting than that one – эта история безусловно более интересней, чем та
-will make up at least 30 percent – будут составлять по крайней мере 30 процентов
+it will make up at least 30 percent – они будут составлять по крайней мере 30 процентов
 now shake hands and make up – теперь пожмите руки и помиритесь
 I'll show up to my classes this time – я заявлюсь (покажусь) на мои занятия в этот раз
 impose obligations – возлагать обязательства
@@ -3788,9 +3788,9 @@ Awesome. I wish I had this – круто! Я бы хотел (чтобы) я имел это
 Awesome strategy – крутая стратегия
 Perhaps because he knows it's futile – возможно потому что он знает, что это бесполезно
 All applicants must undergo a test – все кандидаты (претенденты) должны проходить тест
-will undergo a more thorough review – будет проходить (подвергаться) более тщательное рассмотрение
+it will undergo a more thorough review – он будет проходить (подвергаться) более тщательное рассмотрение
 They spend far too much time – они проводят (тратят) слишком много времени
-was clearly the most appropriate tool for that purpose – был, ясно (очевидно), наиболее подходящим инструментом для такой цели
+it was clearly the most appropriate tool for that purpose – это был, ясно (очевидно), наиболее подходящий инструмент для такой цели
 to appropriate the right to decide – присваивать право решать
 nevertheless, it is now important to search for common position – тем не менее, сейчас важно искать общую позицию
 wake up – просыпаться
@@ -3831,7 +3831,7 @@ several replies had been received by the time this report was written – нескольк
 he's well-connected – он хорошо соединённый (у него хорошие связи)
 But two obstacles must be overcome – но два препятствия должны быть преодолены
 We face difficulties that we must overcome – мы сталкиваемся с трудностями, которые мы должны преодолеть
-They couldn't cope, I guess – они не могли справиться, я полагаю
+They couldn't cope, I guess – они не смогли справиться, я полагаю
 Don't imply anything was your fault – не предполагай, (что) всё было твоей виной
 Let's converse exchange opinions, debate – давайте общаться, обмениваться мнениями, спорить
 converse is also true in full measure – обратное является также верным в полной мере
@@ -3876,7 +3876,7 @@ Whenever his mind drifted toward negativity – всякий раз когда его мысли дрейфов
 It's the same as if you did say it – это то же самое, как если бы ты сказал это
 I will look out for you – я буду присматривать за тобой
 resorting – прибегание (к)
-will prevent former employees from resorting to illegal activities – будет предотвращать прежних работников от прибегания к незаконным активностям (действиям)
+it will prevent former employees from resorting to illegal activities – это будет предотвращать прежних работников от прибегания к незаконным активностям (действиям)
 Either can hand over authority to the other – любой (каждый) может передать полномочия другому
 set out – изложить; излагать; изложенные
 Some of the current initiatives are set out below – некоторые эти текущие (настоящие) инициативы изложены ниже
@@ -3889,7 +3889,7 @@ all requirements set out in the above-mentioned provisions have been met – все т
 provision of financial resources – предоставление финансовых ресурсов
 We were able to accomplish what we set out to do – мы смогли добиться того, что мы изложили (предусматривали) сделать
 I'll be back in a few hours before you wrap up – я вернусь через несколько часов, прежде чем ты закончишь
-There is also one more factor that we should not overlook – есть также ещё один фактор, который нам не следует игнорировать
+There is also one more factor that we should not overlook – есть также ещё один фактор, который нам не следует упускать из виду (игнорировать)
 Maybe we should head for a meeting – может быть нам следует направиться на совещание
 Just get behind – просто встань позади
 You're not getting by me – не приближайся ко мне (процесс)
@@ -3956,7 +3956,7 @@ issue – вопрос; проблема; публикация; издавать
 fourth issue is scheduled to be published soon – четвёртая публикация запланирована быть опубликованной вскоре (пассив)
 He took the decision to refuse to issue certificate – он принял решение отказаться издавать (выдавать) сертификат
 may issue their own magazines – могут издавать свои собственные журналы
-whatsoever – какой бы то ни было; никакой
+whatsoever – какой бы то ни было; никакой; вообще не
 There are no statistics whatsoever – нет статистик каких бы то ни было (никаких)
 I assume that such changes are possible at least in theory – я допускаю, что такие изменения возможны, по крайней мере в теории
 cooperation between them may assume a variety of forms – сотрудничество между ними может допускать разнообразие форм
@@ -4281,7 +4281,7 @@ I used to work at the university – я раньше работал в университете
 luckily – к счастью
 beware – остерегаться
 but beware of excessive pride – но остерегайся чрезмерной гордости
-I used to be a tutor – я раньше был репетитором
+I used to be a tutor – я раньше был тьютором (репетитором)
 clean – чистый; чистить; убирать
 please help me clean the house – пожалуйста, помоги мне почистить (убрать) дом
 cleaning – уборка; чистка; убирание
@@ -4359,7 +4359,7 @@ no thanks, I'm good – нет спасибо, я в порядке (мне не надо)
 so to speak – так сказать
 make sure – убедиться
 let me get this straight – дай мне понять это прямо (давайте уточним)
-I can't help it – я не могу ничего поделать (я не могу помочь с этим)
+I can't help it – я не могу помочь с этим (я не могу ничего поделать)
 go for it! – иди за этим! (действуй!, вперёд!)
 can't wait – не могу ждать (не могу дождаться)
 can't wait to see you again – не могу дождаться увидеть тебя снова
@@ -4367,7 +4367,7 @@ so be it – так быть этому (так тому и быть)
 as you wish – как вы желаете (в ответ на отказ от предложения)
 shame on you! – позор на тебя! (как тебе не стыдно)
 starve – голодать
-I'm starving – я умираю с голода (процесс)
+I'm starving – я голодаю (процесс)
 I know exactly how you feel – я знаю точно, как ты себя чувствуешь
 I am joking – я шучу (процесс)
 recall – отзыв; вспомнить
@@ -4386,7 +4386,7 @@ temple – храм
 eternal – вечный
 well, that's what I'm trying to say – итак, вот что я пытаюсь сказать
 I don't get to do it – я не стану делать это
-I should proceed with caution on this matter – мне следует действовать с осторожностью в этом деле
+I should proceed with caution on this matter – мне следует продолжать (действовать) с осторожностью в этом деле
 I can describe it as being surrounded by a strange glow – я могу описать это как будучи окружённым странным сиянием
 all that remains is – всё что остаётся это
 aggregate decline in resources obscures some good news – совокупное сокращение в ресурсах затмевает некоторые хорошие новости
@@ -4546,7 +4546,7 @@ bridge – мост
 She had way more chances than me – она имела значительно больше шансов, чем я
 vanish – исчезать
 squeeze – сжать; сжимать
-inception – начало; основание
+inception – начало; основание (создание)
 since its inception – со времени своего основания
 residual – остаточный
 empty – пустой
@@ -4652,7 +4652,7 @@ look down – смотреть вниз; смотреть свысока
 velocity – скорость
 cargo – груз
 leash – поводок
-unleashed – развязанная; неконтролируемая
+unleashed – развязанная (неконтролируемая)
 bulk – большая часть; масса
 merchant – торговец
 eliminate – устранить; ликвидировать
@@ -4780,7 +4780,7 @@ sparse - редкий; разреженный
 kernel - ядро
 recast - пересмотреть (изменить формулировку)
 recasting - пересмотр (изменение формулировки)
-recap - напомнить; резюмировать
+recap - резюмировать (напомнить)
 feasible - возможный; осуществимый
 percentage - процентное отношение
 variability - изменчивость
@@ -4804,7 +4804,7 @@ most notably - наиболее особенно
 perceive - воспринимать
 profound - глубокий (серъёзный)
 roll-out - развёртывание
-notation - нотация; обозначение; запись
+notation - нотация (обозначение, запись)
 enroll - поступить; записаться
 compromised - скомпрометирован
 hack - взломать
@@ -4830,7 +4830,7 @@ subscript - нижний индекс
 superscript - верхний индекс
 fruitful - плодотворный (полезный)
 versus - против
-landmark - ориентир; достопримечательность
+landmark - ориентир (достопримечательность)
 proximity - близость
 pertain - относиться; касаться
 embody - воплощать; воплотить
@@ -4929,7 +4929,7 @@ exceptional - исключительный
 to claim – заявлять; требовать
 to tear - рвать [tea]
 overdone it - перестараться с этим
-base - база; основа
+base - база (основа)
 continue - продолжать
 arrange - организовать
 to capture – захватить; улавливать
@@ -5023,3 +5023,26 @@ on the verge of extinction - на грани исчезновения
 You can only supersede your own articles - вы можете только заменять ваши собственные статьи
 let's have a look at - давайте поимеем взгляд на (посмотрим на)
 howdy! - привет!
+sure - конечно
+miss me yet? - скучаешь по мне уже?
+proprietary - проприетарный; патентованный
+debunk - разоблачать
+devotion - преданность
+drill - дрель (сверло)
+so good - так хорошо
+so well - так хорошо
+the truth is - правдой является
+bother - беспокоить
+it doesn't bother me whatsoever - это не беспокоит меня вообще
+do I mess up? - я лажаю?
+in disguise as - переодевшись (замаскировавшись) как
+ordinary - обычный
+nonetheless - тем не менее
+the results will not keep you waiting - эти результаты не будут держать тебя ждущим (не заставят себя ждать)
+huge - огромный
+gaining - получение (приобретение)
+habitual - привычный
+chase - погоня; преследование
+just make it your habit - просто сделай это своей привычкой
+it's not that bad - это не так плохо
+for sure - наверняка

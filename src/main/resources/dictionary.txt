@@ -1,4 +1,4 @@
-﻿Only upon the condition – только при условии
+Only upon the condition – только при условии
 Oracle is willing to license – Oracle желает (готов) лицензировать (процесс)
 Terms and conditions – термины и условия
 Limited license grants – ограниченная лицензия предоставляет
@@ -496,7 +496,7 @@ Scalding – обжигающий
 Slightest – малейшее
 Prompt – подсказка; подсказывать
 Carry out – осуществлять
-Along the way – по пути (вдоль пути)
+Along the way – вдоль пути (по пути)
 Proper – правильный
 Assure – уверять
 Possession – владение
@@ -659,7 +659,8 @@ Aesthetic – эстетичный
 Thrill – трепет (нервная дрожь, возбуждение)
 Thrilled – взволнованный; возбуждённый
 Let's take a look at – давайте возьмём взгляд на (посмотрим на)
-A tiny bit – немного; чуть-чуть
+A tiny bit – чуть-чуть
+A little bit – чуть-чуть
 Just a little – только чуть-чуть
 Substantially – существенно
 Overuse – переиспользование
@@ -2568,7 +2569,7 @@ on the other hand – на другую руку (с другой стороны
 undo – отменить
 queue – очередь; стоять в очереди
 receiver – приёмник; получатель
-separation – разделение
+separation – сепарация (разделение)
 signature – подпись; сигнатура
 opaque – непрозрачный
 consort – супруга
@@ -3999,7 +4000,7 @@ party – сторона (участник); партия; вечеринка
 another suggestion was that the court might suspend the enforcement proceedings until all parties had been properly notified – ещё одним предложением было то, что суд может приостановить принудительное исполнение действий, до тех пор пока все стороны не будут корректно уведомлены (пассив долго/результат в прошлом)
 these figures, while old, are still valid – эти показатели, хотя старые, являются всё ещё валидными
 but while it is important to remember the past, we must also prepare for the future – но, хотя, важно помнить прошлое, мы должны также подготавливаться для будущего
-It was deplorable that he stuck stubbornly to its position while their position was dynamic – это было плачевно, что он застрял упёрто в своей позиции, пока их позиция была динамичной
+It was deplorable that he stuck stubbornly to its position while their position was dynamic – это было плачевно, что он застрял упрямо в своей позиции, пока их позиция была динамичной
 elicit – вызвать; извлечь
 in an attempt to elicit a response – в попытке извлечь (получить) ответ
 to elicit emotion – чтобы вызвать (извлечь) эмоцию
@@ -5046,3 +5047,14 @@ chase - погоня; преследование
 just make it your habit - просто сделай это своей привычкой
 it's not that bad - это не так плохо
 for sure - наверняка
+as it's supposed to be – как это предположено (должно) быть
+beneficial - выгодный (полезный)
+helpful - полезный
+to spot - заметить (определить, обнаружить)
+easier to spot - легче заметить
+first off - во-первых
+stubbornness - упрямство
+conversationalist - собеседник
+as much as possible – так много как возможно
+attach - придавать; приложить
+attached - прилагаемый

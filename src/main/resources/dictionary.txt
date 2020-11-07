@@ -35,7 +35,7 @@ Response is properly flushed – ответ является корректно 
 Proprietary server extensions – патентованные серверные расширения
 Must meet additional requirements – должны отвечать дополнительным требованиям
 Only affected – только затронуло
-Notion – понятие
+Notion – понятие (идея)
 Unless – если только не
 Extending a class that implements the interface – расширяя (наследуя) класс, который реализует интерфейс
 Transient – переходный; временный
@@ -584,7 +584,7 @@ Crisis mode – кризисный режим
 Superficial – поверхностный
 One-off – одноразовый
 Obstacle – препятствие; помеха
-Imperative – императив (повеление, приказ)
+Imperative – императив (повеление, приказ); необходимость
 Inspire – вдохновлять
 Undergo – проходить (подвергаться)
 Powerful – мощный
@@ -1452,7 +1452,7 @@ Not so well – не так хорошо
 Kind of lousy – вроде как паршиво
 Lousy – паршивый
 Well done! – хорошо сделано!
-Go ahead! – иди вперёд! (пожалуйста!); иди вперёд! (вперёд, начинай!)
+Go ahead! – иди вперёд! (пожалуйста!, вперёд, начинай!)
 Don't even think about it! – даже не думай об этом!
 Cause – причина; послужить причиной/поводом; потому что
 I don't like bothering people – я не люблю беспокоение людей
@@ -1760,7 +1760,7 @@ Addiction – склонность; вредная привычка
 Grateful – благодарный; признательный
 Destiny – рок (судьба)
 Farewell – прощание; прощальный; добрый путь!
-Fate – судьба (фатум); предназначать
+Fate – судьба (участь)
 Being inspired you can do everything – будучи вдохновлённым ты можешь сделать всё (пассив процесс)
 I like being respected – мне нравится бытие уважаемым (пассив процесс)
 I like being listened – мне нравится бытие слушаемым (пассив процесс)
@@ -2020,7 +2020,7 @@ Until recently – до недавнего времени
 Bring to mind – привести к мысли (напомнить)
 Anyhow – так или иначе
 a number of – некоторое количество
-I'm really not familiar enough with – я действительно недостаточно знаком с 
+I'm really not familiar enough with – я реально недостаточно знаком с 
 Figure out – разобраться
 For a while – некоторое время (в течении времени)
 The point is – дело в том, что
@@ -2500,7 +2500,7 @@ Agility – ловкость
 Agile – ловкий; проворный
 Property – свойство; собственность
 Feature – характеристика; фича
-Character – характер; персонаж
+Character – характер (персонаж)
 Warrior – воин
 Wizard – чародей; волшебник
 Warlock – колдун; чернокнижник
@@ -3778,7 +3778,7 @@ impose obligations – возлагать обязательства
 They cannot be imposed by force – они не могут быть возложены (навязаны) силой
 I can only hope that his appeal will be heard – я могу только надеяться, что его призыв будет услышан
 It's a very appealing picture – это очень призывающая (привлекательная) картина
-to rip away the delusive belief – чтобы разрушить это обманчивое убеждение
+to rip away the delusive belief – чтобы разрушить это обманчивое убеждение (веру)
 What does not exist cannot proliferate – что не существует, не может распространяться
 I also remember such a thing as courtesy – я также помню такую вещь, как вежливость (любезность)
 The consequences are devastating – эти последствия являются разрушительными
@@ -5026,7 +5026,7 @@ let's have a look at - давайте поимеем взгляд на (посм
 howdy! - привет!
 sure - конечно
 miss me yet? - скучаешь по мне уже?
-proprietary - проприетарный; патентованный
+proprietary - проприетарный (патентованный)
 debunk - разоблачать
 devotion - преданность
 drill - дрель (сверло)
@@ -5058,3 +5058,154 @@ conversationalist - собеседник
 as much as possible – так много как возможно
 attach - придавать; приложить
 attached - прилагаемый
+asshole - дырка в жопе (засранец)
+friends with benefits - друзья с выгодой (с сексом)
+token - токен (символ); символический
+it feels so good - это чувствуется так хорошо (это так приятно)
+whimper - скулить; хныкать
+sob - рыдать
+sobbing - рыдание; всхлипывание
+gross - грубый; мерзкий
+posture - поза; позиция
+bitchiness - сучесть (стервозность)
+fat - толстый; жирный
+thick - толстый
+proclaim - провозгласить
+helplessly - беспомощно
+film - фильм; снимать (на плёнку)
+rape - изнасилование; насиловать
+sass - дерзость
+nowadays - сегодня (сейчас); в настоящие дни
+pathetic - патетический (жалкий, ничтожный)
+pimping - сутенёрство
+whore - шлюха
+slut - шлюшка
+in charge - в ответственности (за главного)
+struggling - борьба
+pointless - бессмысленный
+smelly - вонючий
+sticky - липкий
+jizz - сперма
+filthy - грязный; похотливый
+penetrate - проникнуть в
+suffering - страдание
+spineless - бесхребетный
+cunt - пизда
+sleazy - скользкий (подлый)
+on the inside - внутри
+on the outside - снаружи
+seductively - соблазнительно
+hooker - проститутка
+from now on - отныне
+brutally - брутально
+pound - колотить (стучать)
+orifice - отверстие; щель
+knees - колени
+kneel - стоять на коленях
+demean - унижать
+commodity - сырьё; товар
+servile - рабский (подневольный)
+weak-willed - слабовольный
+lowly - ничтожный (скромный)
+seed - семя
+faith - вера
+degrade - деградировать (унизить)
+squirt - обрызгать
+liberate - освободить
+liberation - освобождение
+esteem - уважение; уважать
+self-esteem - самоуважение
+caption - надпись; заголовок
+merciless - беспощадный
+plow - вспахивать
+curvy - кривой; фигуристая (пышная)
+freaky - чокнутый
+a bossy lady - властная леди
+twat - пизда
+bratty - вздорный (своевольный)
+underrate - недооценивать
+blind date - вслепую свидание
+blindfold - вслепую; с закрытыми глазами
+collar - ошейник
+cut to the chase - обрезать погоню (перейти к делу)
+genuine - подлинный
+genuinely - подлинно (действительно)
+supposedly - предположительно
+get used - привыкнуть
+fellow - парень (товарищ); коллега
+bull - бык
+shit - дерьмо
+bullshit - херня
+holistic - целостный (комплексный)
+holistic approach - целостный подход
+adult - взрослый
+for lack of a better - за нехваткой лучшего
+oftentimes - зачастую
+they've gotten used to that system - они привыкли к той системе (результат)
+to each his own - каждому своё (вольному воля)
+point out - отметить (указать)
+with that being said - с (тем) как было сказано (с учётом сказанного)
+you do you - будь собой
+gang - банда
+bandit - бандит
+it's doable - это является выполнимым
+to communicate freely - чтобы коммуницировать (общаться) свободно
+You're not gonna make it - ты не сможешь (собираешься) сделать это
+it's not even worth trying - (это) даже не стоит пытаться
+picky - разборчивый (придирчивый)
+judgmental - осуждающий
+God forbid - упаси бог
+unsubstantiated - необоснованный
+courtesan - куртизанка
+courteous - вежливый; учтивый
+wound - рана
+wound up - оказаться
+marble - мрамор; шарик
+talent - талант
+bless - благословить
+figuratively - фигурально (образно)
+alternatively - альтернативно
+beat up - избить
+don't beat yourself up - не избивай себя (не вини себя)
+little by little - мало помалу
+get ready - приготовиться
+mindless - бессмысленный (безмозглый)
+slide - слайд; скольжение; скользить
+hips - бёдра
+butt - задница
+there you go - там вы идёте (вот держи, вот так)
+inferior - низший
+inferiority - неполноценность
+anxiety - тревога; беспокойство
+abundance - изобилие (избыток)
+speaking up - высказаться; выступление
+reflect on - подумать над
+biases - отклонения (предубеждения)
+trustworthy - стоящий доверия
+unworthy - недостойный
+get ahead - продвинуться вперёд (преуспеть)
+hinder – препятствовать; мешать
+prove - доказать
+livid - лютый
+was livid - был в ярости
+lust - похоть
+listen up - послушайте
+listen up closely - послушайте внимательно
+I'm getting to  - я добираюсь до (я подхожу к)
+succeed - добиться успеха
+adequacy - адекватность
+inadequacy - неадекватность
+abandonment - отказ
+fear of not being good enough - страх не быть хорошим достаточно
+not going after - не пойдём за
+reject - отвергать; отказаться от
+rejection - отклонение; отказ
+people are gonna wanna be around me - люди будут (собираются) хотеть быть около меня
+clarity - ясность
+a lot less - намного меньше
+nuance - нюанс
+makeup - макияж; состав
+hunch - догадка (предчувствие)
+authentic - аутентичный (подлинный)
+I've listed - я составил список (я перечислил) (результат)
+achievement - достижение

@@ -120,7 +120,7 @@ Concatenate – объединять; соединять
 Milestone – веха
 Mandatory – обязательный
 Third-party – сторонняя (третья сторона)
-Third-party applications support – поддержка сторонних приложений
+Third-party applications support – сторонних приложений поддержка
 Against – против; напротив
 Reverse – обратное; противоположное
 Notably – особенно
@@ -240,7 +240,7 @@ Commotion - беспорядки; суматоха
 Cautionary Tale - предостерегающий (поучительный) рассказ
 Betray - изменять; предавать
 Gospel - евангелие; наставление
-it were castigated by name - они были разнесены (раскритикованы) поимённо
+they were castigated by name - они были разнесены (раскритикованы) поимённо
 Neglect - пренебрежение (игнорирование); пренебрегать (игнорировать)
 Suggestion - предложение; предположение
 Deplorable situation - плачевная ситуация
@@ -301,7 +301,6 @@ first of all - прежде всего
 for all that - за всё, что
 for example - для примера
 for instance - для примера
-for one thing - для одного дела (первым делом)
 for the most part - по большей части
 I dare say - я осмелюсь сказать
 I wonder - мне интересно
@@ -374,7 +373,7 @@ Impeccable - безупречный
 Undercover - подковёрный (тайный)
 Theft - кража
 Secrecy - секретность
-Commission - комиссия; поручение
+Commission - комиссия; поручение; поручать
 Conjure - заклинать
 Conjure up - наколдовать
 Relent - уступать
@@ -502,7 +501,7 @@ Assure – уверять
 Possession – владение
 Possessions – пожитки
 Relapse – рецидив
-Stuck – застрял
+Stuck – застрял; застрявший
 Come over! – Присоединяйся!
 object – объект
 Furtive – вороватый
@@ -561,7 +560,7 @@ Clause – оговорка; пункт
 Implicit – неявный
 Prohibition – запрет
 Exhibit – экспонат; выставка; выставлять
-Afterward – позже
+Afterwards – позже
 Nerd – зануда; ботаник
 Disruption – разрушение
 Rescue – спасение; спасать
@@ -708,7 +707,7 @@ Income – доход
 Expense – расход (затраты)
 Ignition – прожиг; зажигание
 Responsibility - ответственность
-Prospective - будущий (возможный)
+Prospective - перспективный
 Obligate - обязывать
 On behalf of - от лица; от имени кого-то
 In behalf of - ради; в пользу; в защиту кого-то
@@ -833,7 +832,7 @@ Not bad – не плохо
 How's your job? - как твоя работа?
 It's good! Thanks for asking - она (работа) в порядке! спасибо что спрашиваешь
 What's new? – что нового?
-I've got news for you - у меня есть новости для тебя (результат)
+I've got news for you - я заполучил новости для тебя (результат)
 I've just got a new job - я только-что получил новую работу (результат)
 That's great! - то отлично!
 I just got a promotion at work - я только-что получил продвижение на работе
@@ -901,7 +900,7 @@ What do you do for fun? - что ты делаешь для веселья (как отдыхаешь)?
 Are you happy with your job? - ты счастлив со своей работой?
 Flatten – расплющить
 Do you have a family? - ты имеешь семью?
-Have you got a family? - ты имеешь семью?
+Have you got a family? - ты заполучил семью?
 What does she do? – что она делает (чем занимается)?
 At the moment I'm looking for a job - в данный момент я ищу работу (процесс)
 I graduated fifteen years ago with a master's degree in radio electronics - я закончил образование 15 лет назад со степенью магистра в радиоэлектронике
@@ -1087,7 +1086,7 @@ Let it happen! – пусть это случится!
 Forgive me – прости меня
 Forget about it – забудь об этом
 Clever – умный; хитрый
-I'm stuck in a rut – я застрял в колее (рутине)
+I'm stuck in a rut – я являюсь застрявшим в колее (рутине)
 I'd like some more coffee – я бы хотел ещё немного кофе
 Let's find some more money – давай найдём ещё немного денег
 We are having fun – мы имеем веселье (мы веселимся) (процесс)
@@ -1265,7 +1264,7 @@ Employer – наниматель; работодатель
 Employee – служащий; наёмный работник
 He isn't anywhere – его нет нигде
 This work is very hard to do – эта работа является очень сложной чтобы сделать
-Courage – отвага
+Courage – кураж (отвага)
 Seek – искать; стремиться
 Totally, it's exactly what I wanted – тотально (абсолютно), это точно то что я хотел
 So that – так чтобы
@@ -1392,7 +1391,7 @@ The only thing – единственное
 My work is the only thing I can think about – моя работа это единственное, о чём я могу думать
 Explore – исследовать (изучить)
 Exploration – исследование (изучение)
-Discover – обнаруживать; узнавать (делать открытие)
+Discover – раскрывать (обнаруживать, узнавать, делать открытие)
 Appearance – появление; внешность
 Deceive – обманывать; вводить в заблуждение
 Appearances can be deceiving – внешность может быть обманчивой
@@ -1654,7 +1653,7 @@ Job market – рынок работы
 Job requirements – требования работы
 Job opening – вакансия
 Immediate opening – немедленная (срочная) вакансия
-Entry level position – должность вводного уровня (стартовая должность)
+Entry level position – вводного уровня позиция (стартовая должность)
 Over-time – сверхурочные
 Pay and benefits – плата и льготы/премии
 Previous experience – предыдущий опыт
@@ -1782,7 +1781,7 @@ He made her do it – он заставил её сделать это
 Gratitude – благодарность; признательность
 Fright – страх; испуг
 Frighten – пугать
-Frightened – испуганный
+Frightened – испуганный; боящийся
 Envious – завистливый
 I understand her doing it – я понимаю её делание это
 I understand her being upset – я понимаю её бытие расстроенной
@@ -1847,7 +1846,7 @@ I wanna know what in the world you want – я хочу знать, что в мире ты хочешь (чт
 I wanna know for what you need it – я хочу знать, для чего тебе это нужно
 I wanna know what you need it for – я хочу знать, для чего тебе это нужно
 I wanna know which of these applications is yours – я хочу знать, какое из этих приложений является твоим
-I wanna know how serious your offer is – я хочу знать, каким серъёзным ваше предложение является
+I wanna know how serious your offer is – я хочу знать, каким серьёзным ваше предложение является
 I wanna know how much you want it – я хочу знать, как сильно ты хочешь этого
 Offer – предложение; предлагать
 I wanna know for whom you do it – я хочу знать, для кого ты делаешь это
@@ -2082,7 +2081,7 @@ joint – соединение; совместный
 nasty – мерзкий; противный
 stern – строгий; твёрдый
 stern resolve – твёрдое намерение
-laid-back – спокойный
+laid-back – лежащий на спине (спокойный)
 zero tolerance policy – политика нулевой терпимости
 vindictive – мстительный
 let off – отпускать; выпускать
@@ -2216,7 +2215,7 @@ Against a background of – напротив фона (на фоне) (чего-то)
 Subject areas – предметные области
 Schedule – график (план работы); планировать
 Activity – активность (действие, деятельность)
-Guidance – методические указания
+Guidance – руководство (рекомендации)
 Methodological guidelines – методические указания
 Laboratory – лаборатория; лабораторный
 As follows – следующим образом; а именно
@@ -2262,7 +2261,7 @@ Regularly – регулярно
 Grace – грация (изящество)
 Unmatched – несравненный; непревзойдённый
 Failure – неудача; провал
-Discourage – обескураживать; сдерживать (препятствовать)
+Discourage – обескураживать (сдерживать, препятствовать)
 Another – ещё один (другой)
 Invention – изобретение
 Eventually – в конце концов
@@ -2318,7 +2317,7 @@ Mimic – имитировать
 Robust – надёжный; устойчивый
 Facilitate – содействовать
 Validate – валидировать (проверить, подтвердить)
-Revalidate – перепроверить
+Revalidate – ревалидировать (перепроверить)
 Disable – отключить; отключать
 Exchange – обмен
 He came to a similar conclusion – он пришёл к подобному заключению
@@ -2499,7 +2498,7 @@ Representation – представление; представительство
 Agility – ловкость
 Agile – ловкий; проворный
 Property – свойство; собственность
-Feature – характеристика; фича
+Feature – фича (характеристика)
 Character – характер (персонаж)
 Warrior – воин
 Wizard – чародей; волшебник
@@ -2689,8 +2688,8 @@ Due to – по причине; благодаря (за счёт)
 next goal is – следующей целью является
 Modern – современный
 Often – часто
-purpose of this activity is – цель этой деятельности, это
-objective of this paper is – цель этой статьи, это
+the purpose of this activity is – цель этой деятельности, это
+the objective of this paper is – цель этой статьи, это
 This work is aimed at – эта работа нацелена на
 aim was – цель была
 Aim – цель; целиться
@@ -2780,7 +2779,7 @@ in front of – перед
 in front of him – перед ним
 hardly – с трудом; вряд ли
 crush – раздавить
-perfume – аромат
+perfume – парфюм (аромат)
 smell – запах; пахнуть; нюхать
 stink – вонь; вонять
 at one time – в один раз (однажды); за один раз
@@ -2816,7 +2815,6 @@ frustration – фрустрация (разочарование)
 pounce – наброситься; атаковать
 charming – очаровательный
 notorious – пресловутый (печально известный)
-well-connected – хорошо соединённый (с хорошими связями)
 corroborate – подтвердить
 verge – грань
 on the verge – на грани
@@ -2873,7 +2871,7 @@ full object status – внутреннее состояние объекта (полный статус объекта)
 transparently – прозрачно (открыто)
 depending on what – в зависимости от того, что
 bloat – раздувать
-key idea – ключевая идея
+the key idea – ключевая идея
 Permutation – перестановка (случайная перемена)
 Blast – взрыв; взорвать
 Nemesis – заклятый враг
@@ -2941,7 +2939,7 @@ play an active part – играть активное участие (роль)
 ugly – уродливый
 creature – создание; существо
 scream – крик; кричать
-stay up – оставаться стоять; не спать
+stay up – оставаться стоять (не спать)
 stay up working – оставаться работающим
 wallet – бумажник
 all day long – весь день
@@ -3151,7 +3149,6 @@ offence – правонарушение; нарушение
 hesitate – сомневаться; стесняться
 internship – стажировка
 with a proven track record – с проверенной записью пути (послужным списком)
-featuring – характеризующийся
 liaise – поддерживать связь (контактировать)
 prioritize – приоритизировать (расставлять приоритеты)
 gratified – удовлетворённый
@@ -3387,7 +3384,7 @@ branching – разветвление
 distribute – распространять; распределять
 distributed – распределённый
 centralized – централизованный
-lightweight – лёгкий; легковесный
+lightweight – легковесный (лёгкий)
 remote – отдалённый; удалённый
 detach – отсоединить; отделить
 detached – отдельный (отсоединённый)
@@ -3795,7 +3792,7 @@ it was clearly the most appropriate tool for that purpose – это был, ясно (очеви
 to appropriate the right to decide – присваивать право решать
 nevertheless, it is now important to search for common position – тем не менее, сейчас важно искать общую позицию
 wake up – просыпаться
-When I woke up afterward, 12 hours were missing – когда я проснулся позже, 12 часов были упущены
+When I woke up afterwards, 12 hours were missing – когда я проснулся позже, 12 часов были упущены
 I don't want to wake her – я не хочу будить её
 It's always better to wake at home, isn't it? – это всегда лучше проснуться дома, не так ли?
 You have to surprise her, awaken your senses – ты вынужден удивить её, пробудить ваши чувства
@@ -3836,7 +3833,7 @@ They couldn't cope, I guess – они не смогли справиться, я полагаю
 Don't imply anything was your fault – не предполагай, (что) всё было твоей виной
 Let's converse exchange opinions, debate – давайте общаться, обмениваться мнениями, спорить
 converse is also true in full measure – обратное является также верным в полной мере
-to revalidate and refresh last year's results – чтобы перепроверить и обновить прошлогодние результаты
+to revalidate and refresh last year's results – чтобы ревалидировать (перепроверить) и обновить прошлогодние результаты
 supposition – предположение
 I can't corroborate your supposition – я не могу подтвердить ваше предположение
 You can also validate the filter output – вы можете также валидировать (проверить) выход фильтра
@@ -3881,7 +3878,7 @@ it will prevent former employees from resorting to illegal activities – это буде
 Either can hand over authority to the other – любой (каждый) может передать полномочия другому
 set out – изложить; излагать; изложенные
 Some of the current initiatives are set out below – некоторые эти текущие (настоящие) инициативы изложены ниже
-guidelines – руководящие принципы; инструкции
+guidelines – руководящие принципы; инструкции (указания)
 provide – предоставить
 guidelines set out in this section provide further details – инструкции, изложенные в этом разделе, предоставляют дальнейшие детали
 have been met – были отвечены (соблюдены) (пассив результат)
@@ -4113,7 +4110,7 @@ initially, this will involve the exchange of information – первоначально это буд
 We must involve the community in this process at an early stage – мы должны вовлекать сообщество в этот процесс на ранней стадии
 process must be initiated, albeit cautiously – процесс должен быть инициирован, хотя и осторожно
 current progress, albeit slow, is encouraging – текущий прогресс, хотя и медленный, является подбадривающим
-We have serious doubts as to their effectiveness – мы имеем серъёзные сомнения, как для (что касается) их эффективности
+We have serious doubts as to their effectiveness – мы имеем серьёзные сомнения, как для (что касается) их эффективности
 It lacks precision as to its implementation – ей не хватает точности, как для (что касается) её реализации
 this situation creates uncertainty as to the law applicable to a given contract – эта ситуация создаёт неопределённость как для (что касается) применимости этого закона к данному контракту
 and as for you, you're free to go – а как для (что касается) тебя, ты свободен уйти
@@ -4499,7 +4496,7 @@ I got it for nothing – я получил это ни за что
 I have run out of questions – я закончил вопросы (у меня закончились вопросы) (результат)
 it's against the rules – это против правил
 I'll get my car – я возьму мою машину
-live up – жить на должном уровне; соответствовать ожиданиям
+live up – жить на должном уровне (соответствовать ожиданиям)
 I'm sorry I couldn't live up to your expectations – я извиняюсь, я не смог соответствовать твоим ожиданиям
 bring up – вытащить наверх (привести на должный уровень)
 His aunt brought him up – его тётка вытащила его на должный уровень (воспитала на должном уровне)
@@ -5037,7 +5034,7 @@ bother - беспокоить
 it doesn't bother me whatsoever - это не беспокоит меня вообще
 do I mess up? - я лажаю?
 in disguise as - переодевшись (замаскировавшись) как
-ordinary - обычный
+ordinary - ординарный (обычный)
 nonetheless - тем не менее
 the results will not keep you waiting - эти результаты не будут держать тебя ждущим (не заставят себя ждать)
 huge - огромный
@@ -5209,3 +5206,127 @@ hunch - догадка (предчувствие)
 authentic - аутентичный (подлинный)
 I've listed - я составил список (я перечислил) (результат)
 achievement - достижение
+recently – недавно (в последнее время)
+usual – обычный
+whisper - шёпот; шептать
+whiskers - усы
+mustache - усы
+crave - жаждать
+sequence - последовательность
+sequential - последовательный
+cuddle - обниматься
+binding - связывание; привязка; связывающий (обязывающий)
+monk - монах
+trail - след; тропа
+sting - жало; ужалить
+impudence - наглость; дерзость
+impudent - наглый
+get stuck - застрять (стать застрявшим)
+even more - даже больше (даже более)
+crap - дерьмо
+flashlight - фонарик (фонарь)
+ability – способность
+mind you - учтите
+imposter syndrome - самозванца синдром
+every now and then - время от времени
+nice to have - приятно иметь
+subconscious - подсознательный
+how come - почему (как так вышло)
+playful - игривый
+hierarchy - иерархия
+constant - постоянный
+constantly - постоянно
+memo - записка (памятка)
+accessible - доступный
+inquisitive - любопытный (любознательный)
+shove - засунуть; запихнуть
+a few times - несколько раз
+I need to think about it - мне нужно подумать об этом
+muscle - мускул (мышца)
+meaningless - бессмысленный
+I wouldn't wanna wish - я бы не хотел пожелать (я бы не пожелал)
+continuously - непрерывно (постоянно)
+slap - шлёпнуть (ударить)
+spit - плевать
+necessarily - обязательно (необходимо)
+at the time - в то время
+damn - чертовский (проклятый, дурацкий)
+curiosity - любопытство
+fill - заполнять (наполнять)
+fill out - заполнить
+goofy - глупый
+dissociate - диссоциироваться (отмежеваться)
+prospect - перспектива
+perspective - перспектива; перспективный
+stifle - душить; задушить
+stifling - удушение; удушающий
+fondness - любовь; нежность
+ride - поездка; ездить; подвезти; прокатиться
+adverse - неблагоприятный
+clear-cut - чёткий
+imagining - воображение; воображая
+author - автор (писатель)
+primarily - преимущественно
+distant - далёкий; отдалённый
+dumb - тупой
+it's not going to work - это не будет (собирается) работать
+hook up - подцепить (замутить)
+featuring - содержащий (включающий)
+participle - причастие
+past participle - прошедшего (времени) причастие
+tense - напряжённый; время
+past tense - прошедшее время
+it freaks me out - это меня пугает
+proactive - проактивный (инициативный)
+repetitive - повторяющийся
+repetition - повторение
+don't let it be your excuse - не позволяй этому быть твоим извинением (оправданием)
+from time to time - время от времени
+recommend - рекомендовать
+isn't that right? - не правда ли? (не так ли?)
+for one thing - для одного дела (с одной стороны, во-первых)
+adventure - приключение
+discouragement - обескураживание (разочарование)
+hunger - голод
+unshakable - непоколебимый
+any moment now - в любой момент
+catch up - догнать (настичь)
+They caught up with me - они догнали (настигли) меня
+envisage - предусматривать
+conspire - сговориться
+relieve - облегчить; освободить
+transpose - транспонировать
+song - песня
+singer - певец
+unique - уникальный
+for so many - для так многих
+friendship - дружба
+all the other - все другие
+this is what you should do - вот что тебе следует делать
+serious - серьёзный
+I'm serious - я серьёзный (серьёзно)
+familiar - знакомый
+for the way - за то, как (за тем, как)
+hone - оттачивать (совершенствовать)
+series - серия (ряд, последовательность)
+I don't know what your schedule is like - я не знаю какого твой график типа
+if you are lucky enough - если ты везучий достаточно
+very embarrassing - очень неловко (смущающе)
+captioning - субтитры
+just a moment - только момент (секундочку)
+resist - сопротивляться
+handful - горстка (пригоршня)
+my bad - моя вина (виноват)
+check it out - проверим это (посмотрим это)
+clothes - одежда
+You're walking down the street - ты идёшь по улице (процесс)
+naked - голый
+masquerade - маскарад
+hit - хит (удар); ударить
+unite - объединить
+expensive - дорогой (дорогостоящий)
+that comes to mind - который приходит на ум
+agree to disagree - согласиться не соглашаться (остаться при своём мнении)
+fulfilled - выполненный; реализованный
+mix - микс (сочетание, смесь); смешивать
+mix up - перепутать; перемешать

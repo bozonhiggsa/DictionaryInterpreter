@@ -67,7 +67,7 @@ This will our bus – это наверное наш автобус
 Accidents will happen – происшествия могут случаться
 Will you tell me the time? – можете вы рассказать (подсказать) мне время?
 Retrieve – извлечь; восстановить
-Whatever – что бы ни; что угодно; по любому
+Whatever – что бы ни; что угодно (всё); по любому
 Look up – посмотреть; смотреть вверх
 Conventional – традиционный
 Eager – интенсивный
@@ -178,7 +178,7 @@ Ancestor – предок
 Parlance – язык; манера говорить
 Coherent – когерентный
 Clue – зацепка (подсказка)
-Wrap – охватывать
+Wrap – охватывать (завернуть, обернуть)
 Tough – жёсткий; крепкий
 Sought after – востребованный (которого ищут после)
 Draft – набросок (эскиз); делать набросок
@@ -226,11 +226,10 @@ Run away from - убежать от (избегать)
 Run out - кончаться
 She never runs out of ideas - она никогда не заканчивается идеями
 Go by - проходить мимо
-Go on - продолжать
+Go on - продолжать (вперёд!, давай!)
 Retention - удерживание; сохранение в памяти
 Policy - политика (линия поведения)
 Stub - заглушка; пень
-Mock - подделка
 Sorority - женский клуб (общество)
 Preposterous - абсурдный; нелепый
 Consider the following - рассмотрим (учтём) следующее
@@ -417,7 +416,7 @@ Consequence - последствие; результат
 Lonely - одинокий
 Lodging - жильё; сдаваемая комната
 Quarters - жильё; квартира
-Modest - сдержанный (скромный)
+Modest - скромный (небольшой)
 Hallway - коридор
 Caretaker - смотритель (взявший заботу)
 Cupboard - буфет
@@ -1257,7 +1256,7 @@ Permit – разрешение (позволение); разрешать (позволять)
 Enchant – очаровывать
 HR (human resources) – эйчар; отдел кадров
 Admit – признать
-Reward – награда
+Reward – награда; вознаградить
 Award – присуждение (награды, премии); награждать
 Customer – заказчик; клиент
 Employer – наниматель; работодатель
@@ -1451,7 +1450,7 @@ Not so well – не так хорошо
 Kind of lousy – вроде как паршиво
 Lousy – паршивый
 Well done! – хорошо сделано!
-Go ahead! – иди вперёд! (пожалуйста!, вперёд, начинай!)
+Go ahead! – иди вперёд! (пожалуйста!, давай вперёд!)
 Don't even think about it! – даже не думай об этом!
 Cause – причина; послужить причиной/поводом; потому что
 I don't like bothering people – я не люблю беспокоение людей
@@ -1628,7 +1627,7 @@ She told me about it – она рассказала мне об этом
 What did she say? – что она сказала?
 What did she tell you? – что она рассказала тебе?
 tell the truth – говорить правду
-tell a lie – говорить неправду
+tell a lie – говорить ложь
 I told you so! – я же говорил тебе так!
 It's just talk! – это только разговор!
 Stop talking! – прекратите говорение!
@@ -1960,7 +1959,7 @@ Hang out – зависать; тусоваться
 How did you get through it? – как ты справился с этим?
 Cut off - отрубить; отрезать
 That's like saying – то как говорить (процесс)
-Horny – сексуально озабоченный
+Horny – сексуально озабоченный (похотливый)
 Ever since – с тех пор
 Revelation – откровение
 Date – дата; свидание
@@ -2021,7 +2020,7 @@ Anyhow – так или иначе
 a number of – некоторое количество
 I'm really not familiar enough with – я реально недостаточно знаком с 
 Figure out – разобраться
-For a while – некоторое время (в течении времени)
+For a while – на время (на некоторое время)
 The point is – дело в том, что
 In a good way – в хорошем смысле
 Attempt – попытка
@@ -2437,7 +2436,7 @@ Fool – дурак; одурачить
 Conversation – разговор; общение
 Identity – идентичность (индивидуальность)
 Technique – техника (методика)
-Squash – раздавить
+Squash – раздавить; сквош; тыква
 Get good enough – становятся хороши достаточно
 Neither can they possess – не могут они обладать и
 Over the next three years – за следующие три года
@@ -2988,7 +2987,7 @@ rip away – разрушить
 back – обратно; назад; спина; поддержать
 rival – соперник; соперничать
 howl – вой; выть
-pride – гордость
+pride – гордость; прайд
 shame – стыд (позор)
 dash – тире
 prone – склонный (подверженный)
@@ -3082,7 +3081,7 @@ oracle – оракул (пророк)
 tame – приручить; укротить
 billing – выставление счетов
 condition – условие; состояние
-reserve – резерв
+reserve – резерв; резервировать
 decent – достойный; приличный
 decadence – упадок
 check up – проверять; контролировать
@@ -3148,7 +3147,7 @@ take over – взять на себя; захватить; занять место
 offence – правонарушение; нарушение
 hesitate – сомневаться; стесняться
 internship – стажировка
-with a proven track record – с проверенной записью пути (послужным списком)
+with a proven track record – с проверенной путевой записью (послужным списком)
 liaise – поддерживать связь (контактировать)
 prioritize – приоритизировать (расставлять приоритеты)
 gratified – удовлетворённый
@@ -3225,7 +3224,7 @@ noisy – шумный
 surrender – капитуляция
 lest – чтобы не; иначе
 bloom – цветение; цвести
-dare – сметь; посметь
+dare – вызов; сметь (посметь)
 by rote – механически (наизусть)
 travel – поездка; путешествие; путешествовать
 below – ниже
@@ -3508,7 +3507,7 @@ hazard – риск
 dismissal – увольнение
 bluff – блеф; блефовать
 break out – сбежать; вырваться
-arouse – вызывать
+arouse – вызывать (пробуждать)
 they may arouse concern – они могут вызывать беспокойство
 denote – обозначать
 tighten – ужесточить
@@ -3900,8 +3899,8 @@ this activity continued throughout the period – эта деятельность продолжалась на
 throughout Europe – повсюду в Европе
 follow me, this way! – следуй за мной, сюда!
 to break us out of the game – чтобы сбежать (вырваться) нас из игры
-at any time – в любое время (в любой момент)
-Yes, they say it might break out at any time – да, говорят, она может вырваться (разразиться) в любое время (в любой момент)
+at any time – в любое время
+Yes, they say it might break out at any time – да, говорят, она может вырваться (разразиться) в любое время
 However, progress so far has been slow and insufficient – однако прогресс до сих пор был медленным и недостаточным (состояние результат)
 I think we should break up – я думаю, нам следует разбиться (разбить отношения)
 You can break up the material, for example, into short units, each of which represents a coherent concept – Ты можешь разбить материал, для примера, на короткие юниты, каждый из которых представляет когерентный (согласованный) концепт
@@ -3993,7 +3992,7 @@ by creating a wider pool of human and financial resources – создавая более широк
 We need to pool our resources and our experience – нам надо объединить наши ресурсы и наш опыт
 instead, be as deliberate with your downtime as you are with your work – вместо (этого) будьте так сознательны (преднамеренны) с вашим свободным временем, как вы являетесь с вашей работой
 rather than deliberate unrealistic scenarios – лучше чем обсуждать нереалистичные сценарии
-party – сторона (участник); партия; вечеринка
+party – сторона (участник); партия; вечеринка; повеселиться (на пати)
 another suggestion was that the court might suspend the enforcement proceedings until all parties had been properly notified – ещё одним предложением было то, что суд может приостановить принудительное исполнение действий, до тех пор пока все стороны не будут корректно уведомлены (пассив долго/результат в прошлом)
 these figures, while old, are still valid – эти показатели, хотя старые, являются всё ещё валидными
 but while it is important to remember the past, we must also prepare for the future – но, хотя, важно помнить прошлое, мы должны также подготавливаться для будущего
@@ -4459,7 +4458,7 @@ I outsmarted him – я перехитрил его
 pray – молитва; молиться
 comprehension – понимание
 It's beyond my comprehension – это вне моего понимания
-Do whatever you want – делай что угодно, что ты хочешь
+Do whatever you want – делай что угодно (всё), что ты хочешь
 I hit the target – я ударил в цель (я попал в цель)
 He took advantage of the opportunity – он взял преимущество из (воспользовался) этой возможности
 orchard – сад
@@ -4819,7 +4818,7 @@ combat - бой; пресечение; бороться с; пресекать
 get started - начать
 well-suited - хорошо подходящий
 envelope - конверт; оболочка
-directly - непосредственно; прямо
+directly - прямо (непосредственно)
 roll - ролл; рулет; свернуть
 unroll - развернуть
 steer - направить; руководить
@@ -4834,7 +4833,7 @@ pertain - относиться; касаться
 embody - воплощать; воплотить
 diverge - расходиться
 esoteric - эзотерический
-vague - расплывчатый
+vague - расплывчатый; смутный
 suspect - подозревать; подозреваемый
 distortion - искажение
 downstream - вниз по течению
@@ -5276,7 +5275,7 @@ participle - причастие
 past participle - прошедшего (времени) причастие
 tense - напряжённый; время
 past tense - прошедшее время
-it freaks me out - это меня пугает
+it freaks me out - это пугает меня
 proactive - проактивный (инициативный)
 repetitive - повторяющийся
 repetition - повторение
@@ -5293,10 +5292,12 @@ any moment now - в любой момент
 catch up - догнать (настичь)
 They caught up with me - они догнали (настигли) меня
 envisage - предусматривать
+envisaged - предусмотренный
 conspire - сговориться
 relieve - облегчить; освободить
 transpose - транспонировать
 song - песня
+sing - петь
 singer - певец
 unique - уникальный
 for so many - для так многих
@@ -5328,5 +5329,458 @@ expensive - дорогой (дорогостоящий)
 that comes to mind - который приходит на ум
 agree to disagree - согласиться не соглашаться (остаться при своём мнении)
 fulfilled - выполненный; реализованный
-mix - микс (сочетание, смесь); смешивать
+mix - микс (сочетание, смесь); миксовать (смешивать)
 mix up - перепутать; перемешать
+safe - безопасный
+softhearted - мягкосердечный
+tied up - связанный
+Oh, that's a good one! - оо, отличная шутка!; оо, это то, что надо!
+cliff - скала
+insightful - проницательный (полный понимания)
+perceptive - проницательный; восприимчивый; воспринимающий
+dread - страх; ужас
+what you're getting into - во что ты ввязываешься
+outgoing - исходящий; уходящий
+incoming or outgoing traffic - входящий или исходящий трафик
+somehow - как-то
+relate - касаться; относиться
+related - соответствующий; связанный
+assertive - напористый
+I'd like to further - я бы хотел продолжить
+this is a doozy! - это просто нечто!
+lie - ложь; лгать
+lying - ложь; враньё
+this one - вот этот
+on this one - на этот раз
+direct - прямой (непосредственный); направлять (руководить)
+I've gotten this far - я зашёл так далеко (результат)
+dedicated - посвящённый (специальный, преданный)
+pounding - долбёжка
+as a result - как результат
+for this purpose - для этой цели
+due to the fact that - по причине того факта, что
+this means that - это означает, что
+so then - так затем (а потом)
+to summarize - чтобы резюмировать (суммировать)
+in conclusion - в заключение
+quite often - довольно часто
+on the one hand – на одну руку (с одной стороны)
+chuckle - смеяться; усмехаться
+as I said - как я сказал
+bimbo - тупая девка
+intelligent - интеллектуальный (умный)
+smart - умный
+quiz - тест (опрос, викторина)
+quizzes - тесты (опросы, викторины)
+renown - известность
+renowned - известный (знаменитый)
+world-renowned - всемирно известный
+statistician - статистик
+it starts off by talking about - это начинается с говорения о
+causation - причинность (причинная связь)
+macabre - жуткий
+serial - серийный
+prolific - плодовитый (плодотворный)
+death - смерть; смертный
+oh my God! - о боже!
+my godness me! - боже мой!
+have we met? - мы встречались? (результат)
+you look vaguely familiar - ты выглядишь смутно знакомым
+defense - оборона; защита
+defenseless - беззащитный
+shade - тень; оттенок
+shades of blue - оттенки синего
+what's the deal with you? - что за дело с тобой? (что не так с тобой?)
+pick out - выбрать
+kinda – вроде как; типа; своего рода
+lineup - линейка (состав, модельный ряд)
+spill - пролить; разлить
+steady - устойчивый (постоянный, стабильный)
+wedding - свадьба
+fucking - блять; ёбанный
+prick - хер
+let me guess - дай мне угадать
+corpse - труп
+anniversary - юбилей
+close friend - близкий друг
+holy shit - срань господня
+that's not good - (э)то не хорошо
+bleed - кровотечение; кровоточить
+knot - узел
+skull - череп
+contusion - контузия (ушиб)
+breed - порода
+breeding - разведение (селекция)
+dick - член; хер
+cock - член; хуй; петух
+crate - ящик; клеть
+shelter - жильё (кров, приют)
+reclaim - востребовать (вернуть)
+nut - орех; псих
+toe - палец ноги
+hoodie - толстовка
+wrist - запястье
+excuse me? - прошу прощения? (не понял)
+nah - неа
+yep - ага
+aroused - пробуждённый (возбуждённый)
+of any kind - любого вида
+I made it a point of honor - я считал это делом чести
+lateness - опоздание
+rub - тереть; втирать
+rubbing - трение; растирание
+horn - рог; гудок
+squish - раздавить
+thin - тонкий; худой
+what the fuck - какого хера
+why the fuck - на кой хер
+travesty - пародия
+persecute - преследовать
+persecution - преследование
+condo - квартира
+stain - пятно
+stained - запятнаный
+record - запись; записывать
+deterrent - сдерживание (сдерживающий фактор)
+that's my business - (э)то моё дело (тебя не касается)
+twist - твист (поворот); крутить
+nipples - соски
+nip - пресечь
+bud - приятель (дружище)
+buddy - приятель (дружище)
+bowl - миска (чаша)
+shoes - туфли; ботинки
+shelf - полка
+welfare - благосостояние (благополучие)
+shovel - лопата
+shoveling - разгребать
+sunset - закат
+womb - матка; утроба
+pen - ручка
+pencil - карандаш
+collection - коллекция (собрание); сбор
+blood - кровь; кровный
+cheek - щека
+take it easy - успокоиться (расслабиться); успокойся! (расслабься!)
+heel - пятка (каблук)
+come to heel! - к ноге!
+paw - лапа
+nice-looking - приятной наружности (симпатичный)
+good-looking - хорошо выглядящий (красивый, симпатичный)
+drop - капля; падение; бросить; падать
+bang - трах (взрыв, бабах); трахнуть
+I'm in a mad rush today - я в бешенной спешке сегодня
+cellar - подвал (погреб)
+me too - я тоже (мне тоже, меня тоже)
+doll - кукла
+fuck off - отъебись
+shy - стеснительная
+don't be shy - не стесняйся
+bum - бомж (бродяга)
+don't tell me it bothers you - не говори мне (что) это беспокоит тебя
+cab - такси
+baby - малыш; крошка; детка
+babe - малыш; крошка; детка
+escort - эскорт; сопровождать
+flatter - льстить
+don't flatter yourself - не льсти себе
+milkshake - молочный коктейль
+that's none of your business - (э)то не твоё дело
+for fuck's sake - да ну нахуй
+loony - псих
+I'll do anything you like - я сделаю что-угодно (что) ты захочешь
+cocksucker - хуесоска
+beauties - красавицы; красоты (прелести)
+get the fuck out of here - съебнуть отсюда
+lick - лизать
+fuck yeah - блять да (охуеть)
+anytime - в любое время
+cum - сперма; кончить
+let me take a few pictures baby - дай мне сделать несколько кадров (изображений) детка
+that's all - вот и всё
+You won't be disappointed - ты не будешь разочарован
+whatever you like - всё что ты захочешь
+handcuff - приковывать
+handcuffs - наручники
+cuffs - наручники
+cuff her - надеть наручники на неё
+lap - круг (заезд); колени
+trim - отделка; обрезка
+understood? - понял?
+underwear - нижнее бельё
+daddy - папочка
+what's wrong with you? - да что не так с тобой?
+phew - фух
+neighbourhood - соседство (квартал)
+juice - сок
+juicy - сочный (пикантный)
+hide - скрывать; спрятать
+hideout - убежище
+sit - сидеть
+seat - сиденье (место)
+don't stand like that, have a seat - не стой так, присаживайся
+take a seat - присаживаться
+have a seat - присаживаться
+jacket - жакет (куртка, пиджак)
+take your jacket off - снимай свой жакет
+may I have some? - можно я возьму немного?
+it depends on how nice can you be - это зависит от того какой милой можешь ты быть
+keep going - продолжать (продолжай!)
+just don't stop - только не останавливайся
+sniff - нюхать
+finest - лучший
+breath - дыхание; дышать
+all the way - всю дорогу (до конца)
+load - нагрузка (загрузка); загружать
+mind-blowing - взрывающий мозг (сногсшибательный)
+greed - жадность
+greedy - жадный
+salty - солёный
+giggle - хихикать
+gagged - заткнутый рот
+masculine - мужественный
+masculinity - мужественность
+feral - дикий
+babysit - нянчить
+babysitter - нянька
+slip - листок; клочок
+to slip - проскользнуть; поскользнуться
+slip of paper - клочок бумаги
+peel - пилинг; кожура; чистить
+direction - направление (руководство)
+dumpster - мусорка
+garbage - мусор
+jerk off - дрочить
+torch - факел; поджигать
+wrapping - упаковка (обёртывание, заворачивание)
+I'm sorry about that - я извиняюсь о том (я сожалею об этом)
+stitch - шов; сшивание; зашивать
+stab - заколоть; зарезать
+He's fucked in the squash - он выебанный в тыкву (ебанутый)
+balls deep - по самые яйца
+some fucking day - какой-то херовый день
+bone - кость
+disappearance - исчезновение
+come by - зайти
+insinuation - инсинуация (намёк)
+insinuate - намекать
+fling - интрижка (роман)
+dry - сухой; сушить
+die - смерть; умереть
+dying - смерть; умирание
+dead - мёртвый
+snitch - стукач
+He doesn't strike me - он не поражает меня (он не кажется мне)
+He doesn't strike me as the trustworthy type - он не кажется мне как стоящий доверия тип
+name - имя (название); называть
+named - названный (по имени)
+kill - убить; убивать
+jump - прыжок; прыгать
+why are you jumping on me like that? - почему ты прыгаешь на меня (прикалываешься с меня) так? (процесс)
+crew - команда; банда; бригада
+back in the day - возвращаясь в тот день (когда-то)
+square - площадь; квадрат; квадратный; честный
+area - область; площадь; территория
+region - регион; область
+territory - территория
+snack - закуска (перекус)
+snake - змея
+motherfucker - уёбок
+ache - боль; болеть
+saliva - слюна
+drool - слюна; слюнявить
+bastard - ублюдок
+inch - дюйм
+spear - копьё (гарпун)
+stiff - жёсткий
+plunge - ввергнуть; погрузиться
+slump - спад
+butter - масло
+stretch - растяжка; размять; растянуть
+thanks for seeing me - спасибо за видение меня (спасибо что встречаешься со мной)
+beat out - выбить
+that count? - (э)то считается?
+I felt bad about it - мне было неудобно (стыдно) за это
+grand - грандиозный (великий)
+ten grand - 10 штук (тысяч)
+by tomorrow morning - к завтрашнему утру
+redo - переделать
+blink - моргать
+it's been over for a while now - это кончено уже давно (уже давно всё кончено)
+section - секция; раздел
+sect - секта; раздел
+cult - культ (секта); культовый
+clan - клан
+tribe - племя
+head - голова
+body - тело
+hand - рука
+arm - рука (от плеча); подразделение
+arms - оружие (вооружение)
+forehead - лоб
+finger - палец
+palm - ладонь
+jaw - челюсть
+shoulder - плечо
+stomach - живот (желудок)
+tummy - животик
+shin - голень
+tibia - голень
+slam - хлопнуть
+clap - хлопать в ладоши; аплодировать
+applaud - аплодировать
+should we go? - пойдём?
+two more - ещё два
+shark - акула
+shitload of money - дохрена денег
+roughed up - избил
+stash - тайник (заначка)
+viable - жизнеспособный (реальный)
+you see where this is going? - ты понимаешь куда это идёт? (к чему я клоню?)
+ripped off - оторвали; обокрали
+despicable - презренный; подлый
+harmless - безвредный (безобидный)
+ward - палата; отделение
+huh - ха
+duh - пфф (ясен пень)
+tooth - зуб
+teeth - зубы
+throat - горло (глотка)
+granny - бабуля
+She's always like this - она всегда типа такая
+pile - куча; груда
+be ashamed - стыдиться
+intense - интенсивный
+tension - напряжение (напряжённость)
+nervous - нервный
+I feel very nervous inside - я чувствую себя очень нервным внутри
+pants - штаны (брюки)
+panties - трусы
+i wasn't going to - я (и) не собирался
+spread your legs - расправь (раздвинь) свои ноги
+detention - задержание (арест)
+spirit - дух; настроение
+spirits - дух; настроение
+christmas - рождество
+positivity - позитивность
+magic - магия; магический (волшебный)
+bright - яркий
+brighten up - скрасить
+emotional - эмоциональный
+mugger - грабитель
+murder - убийство; убить
+murderer - убийца
+quiet - тихий; спокойный
+casually - случайно; небрежно
+dorm - общежитие
+syllable - слог
+secondary - средний; второстепенный
+subtitles - субтитры
+rural - сельский
+as - как; так как
+busty - грудастая
+voice - голос
+tone of voice - тон голоса
+kind - вид (род); добрый (любезный)
+hat - шляпа
+hang - висеть; вешать; повесить
+I'll hang onto that - я буду висеть на этом (я буду держаться за это)
+leaving it up hanging - оставляя это вверху висящим (в подвешенном состоянии)
+harsh - суровый; жёсткий
+soft - мягкий
+softness - мягкость
+excite - волновать; возбуждать
+excited - взволнованный (радый)
+indifferent - безразличный
+fake - поддельный (фальшивый); подделывать
+chest - грудь
+can I get a cup of coffee? - можно мне (получить) чашку кофе?
+demanding - требовательный
+tool - инструмент (средство)
+nun - монашка
+maid - горничная
+viral - вирусный
+condescending - снисходительный (высокомерный)
+it's not acting - это не работает (не действует) (процесс)
+upset - расстроить; расстраиваться
+repel - отталкивать; отражать
+check in - связаться; отметиться (зарегистрироваться)
+bark - кора; лай; лаять
+land - земля (участок); земельный; наземный; приземлиться
+spy - шпион; шпионить
+sneak - пробраться (проникнуть)
+sneaky - подлый
+gift - подарок
+cheeks - щёчки; ягодицы
+buttocks - ягодицы
+passionate - страстный
+sultry - страстный (знойный)
+goodness - добро (доброта)
+get acquainted - познакомиться (ознакомиться)
+ruined - разрушенный (испорченный)
+slug - пуля; слизняк
+sluggish - вялый (медленный)
+lag - лаг (задержка); отставать
+blush - краснеть (покраснеть)
+freckles - веснушки
+tail - хвост; садиться на хвост (следить за)
+someone tail me - кто-то следит за мной
+all alone - совсем один
+what are you doing all alone? - что ты делаешь совсем одна?
+i'll see you around - ещё увидимся
+rouse - разбудить
+rousing game - зажигательная игра
+legit - законный
+immense - огромный (колоссальный)
+girly - девчачий
+hell - ад
+beverage - напиток
+carry on - продолжать
+basement - подвал (цокольный этаж)
+litter - мусор ; мусорить
+liquid - жидкость; жидкий
+flash - вспышка; засветить (показать)
+flashing - мигающий; засвечивая
+groan - стон; стонать (охать)
+mock - подделка; подделывать (высмеивать)
+lame - отстой; отстойный
+wave - волна; махать
+shrug - пожимать плечами
+mope - хандрить
+flustered - взволнованный (смущённый)
+stutter - заикаться (запинаться)
+reassure - заверить (обнадёжить)
+bite - кусочек; укус; укусить; кусаться
+I won't bite - я не укушу
+mischievous - озорной
+grin - ухмылка
+mischievous grin - озорная ухмылка
+smirk - ухмылка; ухмыляться
+frisk - обыск; обыскать
+frisky - игривый
+occupy - оккупировать (занимать)
+that's all right - всё в порядке
+arrangement - соглашение (договорённость)
+stick out - торчать (высовываться)
+stick out your tongue - высуни свой язык
+trust - доверие; доверять
+trust me - поверь мне
+screw up - облажаться (проебать)
+rowdy - шумный (буйный)
+gasp - вздох; вздыхать
+gossip - сплетня; сплетничать
+relish - наслаждаться
+privacy - приватность
+unleash - развязать (высвободить)
+priest - священник (жрец)
+stockings - чулки
+tights - колготки
+pantyhose - колготки
+loner - одиночка (замкнутый)
+solitary - одиночный; одиночка
+short-tempered - вспыльчивый (с коротким терпением)
+grumpy - сварливый (ворчливый)
+stingy - скупой
+reserved - зарезервированный; сдержанный (замкнутый)
+I keep myself to myself - я держу себя в себе (замкнутый)
+

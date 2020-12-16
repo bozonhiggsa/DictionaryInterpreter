@@ -482,7 +482,7 @@ Conversely – наоборот
 Furthermore - дальше больше
 Moreover - кроме того
 Therefore - из-за этого; поэтому
-Consequently - в результате
+Consequently - следовательно (в результате)
 Thus - таким образом; соответственно
 Thereupon - на этой основе
 Submit - подчинять(ся); представить на рассмотрение; утверждать
@@ -942,7 +942,7 @@ What's your professional background? - каков твой профессиональный опыт?
 I'm out of work at the moment - я вне работы в данный момент
 I lost my job - я потерял свою работу
 I left my job - я покинул свою работу
-I quit my job - я ушёл с работы
+I quit my job - я ушёл с моей работы
 I didn't get a raise at work, so I had to quit - я не получил повышение на работе, поэтому я должен был уйти
 I was fired - я был уволен
 My position became redundant due to the financial crisis - моя позиция стала избыточной по причине финансового кризиса
@@ -1297,8 +1297,8 @@ Keep up – сохранять вверху (поддерживать на уровне); держаться наравне
 Geek – чокнутый
 Until – до; до тех пор пока не
 Maybe you can do it by yourself? – может быть ты сможешь сделать это сам?
-He is like – и он такой говорит: «прямая речь»
-He was like – и он такой сказал: «прямая речь»
+He is like – и он такой говорит (он типа такой)
+He was like – и он такой сказал (и он типа был такой)
 He said I might use his code – он сказал, я могу использовать его код
 I thought you might like it – я думал, тебе может понравиться это
 He told us he would come – он сказал нам, он придёт
@@ -1525,7 +1525,7 @@ When it's official, we'll talk again – когда это (будет) официально, мы поговори
 It's gonna have to be done – это скорее всего придётся сделать
 Cost – стоимость; стоить
 be in pain – быть в боли (испытывать боль)
-Hurt – навредить; ранить
+Hurt – больно; навредить; ранить; болеть
 I didn't want to hurt you – я не хотел навредить тебе
 Treat – обращаться с; лечить; угостить
 heal – излечивать (раны)
@@ -2018,7 +2018,7 @@ Until recently – до недавнего времени
 Bring to mind – привести к мысли (напомнить)
 Anyhow – так или иначе
 a number of – некоторое количество
-I'm really not familiar enough with – я реально недостаточно знаком с 
+I'm really not familiar enough with – я реально не знаком достаточно с 
 Figure out – разобраться
 For a while – на время (на некоторое время)
 The point is – дело в том, что
@@ -3066,7 +3066,7 @@ assault – нападение; посягательство
 accurate – точный
 silence – молчание; тишина
 silent – молчаливый; тихий
-devastate – опустошать; разрушать
+devastate – опустошать (разорять)
 devastating – опустошительный; разрушительный
 seldom – редко
 race – раса; гонка
@@ -3224,7 +3224,7 @@ noisy – шумный
 surrender – капитуляция
 lest – чтобы не; иначе
 bloom – цветение; цвести
-dare – вызов; сметь (посметь)
+dare – вызов (осмеливание); сметь (посметь)
 by rote – механически (наизусть)
 travel – поездка; путешествие; путешествовать
 below – ниже
@@ -4337,7 +4337,7 @@ result should be assembled in an array – результат должен (следует) быть собран 
 You need only to collect it from them – тебе нужно только забрать это у них
 grab – схватить
 reckon – считать
-I reckon that's so – я считаю, то так
+I reckon that's so – я считаю, что это так
 one of my absolute favorite memories – одно из моих абсолютно любимых воспоминаний
 I just sort of – я только вроде как
 I just sort of follow my instincts – я только вроде как следую моим инстинктам
@@ -4781,7 +4781,7 @@ recap - резюмировать (напомнить)
 feasible - возможный; осуществимый
 percentage - процентное отношение
 variability - изменчивость
-intend - намерен; собираюсь
+intend - намереваться; собираться
 intended - преднамеренный (предназначенный)
 compulsory - обязательный
 ridge - гребень; гряда
@@ -5004,7 +5004,7 @@ relevant – релевантный (значимый)
 custom - обычай; пользовательский
 facility - фонд
 facilities - средства
-send - отправить
+send - отправить; прислать
 immerse - погрузиться
 immersion - погружение
 witch - ведьма
@@ -5087,7 +5087,7 @@ penetrate - проникнуть в
 suffering - страдание
 spineless - бесхребетный
 cunt - пизда
-sleazy - скользкий (подлый)
+sleazy - скользкий; подлый
 on the inside - внутри
 on the outside - снаружи
 seductively - соблазнительно
@@ -5131,7 +5131,7 @@ get used - привыкнуть
 fellow - парень (товарищ); коллега
 bull - бык
 shit - дерьмо
-bullshit - херня
+bullshit - херня (бычье дерьмо)
 holistic - целостный (комплексный)
 holistic approach - целостный подход
 adult - взрослый
@@ -5382,7 +5382,7 @@ macabre - жуткий
 serial - серийный
 prolific - плодовитый (плодотворный)
 death - смерть; смертный
-oh my God! - о боже!
+oh my God! - о мой бог!
 my godness me! - боже мой!
 have we met? - мы встречались? (результат)
 you look vaguely familiar - ты выглядишь смутно знакомым
@@ -5531,7 +5531,7 @@ sniff - нюхать
 finest - лучший
 breath - дыхание; дышать
 all the way - всю дорогу (до конца)
-load - нагрузка (загрузка); загружать
+load - загрузка (нагрузка); загружать
 mind-blowing - взрывающий мозг (сногсшибательный)
 greed - жадность
 greedy - жадный
@@ -5783,10 +5783,62 @@ grumpy - сварливый (ворчливый)
 stingy - скупой
 reserved - зарезервированный; сдержанный (замкнутый)
 I keep myself to myself - я держу себя в себе (замкнутый)
-get cocky - зазнаваться (дерзить)
+get cocky - петушиться (зазнаваться, дерзить)
 potion - зелье
 leaking - утечка
 toggle - переключить
 dice - кости
 dizzy - головокружение
-
+fangs - клыки
+spike - всплеск (пик); шип
+spikes - шипы
+claw - коготь
+sneakers - кеды (кроссовки)
+elastic - эластичный (упругий)
+holey - дырявый
+talkative - разговорчивый
+love it - обожаю это
+letter - письмо; буква
+corrupt - коррумпировать (развращать, портить); коррумпированный
+nope - нет
+cough - кашель; кашлять
+ravage - опустошать (разорять)
+weep - плакать; рыдать
+grope - лапать
+decide - решать
+decision - решение
+solution - решение
+bride - невеста
+gentle - нежный (мягкий)
+quote - цитата; цитировать
+quotes - цитаты; кавычки; котировки
+parentheses - скобки
+I enclose a copy of his letter - я прилагаю копию его письма
+You should enclose the message in double quotes - тебе следует заключить (это) сообщение в двойные кавычки
+I can lend you one - я могу одолжить тебе один
+air - воздух (атмосфера); воздушный
+mystery - тайна (таинственность)
+sad - грустный (печальный)
+He's just trying to lend an air of mystery to his sad story - он просто пытается (процесс) придать атмосферу таинственности своей печальной истории
+investigate - расследовать
+investigation - расследование
+but it does lend weight to a certain line of investigation - но это (действительно) придаёт вес определённой линии расследования
+sleeve - рукав
+subject - вопрос; тема; предмет
+We must attach priority to this subject - мы должны придавать приоритет (приоритетное значение) этому вопросу
+drawing - рисование (рисунок, чертёж) 
+please attach drawing if necessary - пожалуйста приложите чертежи если необходимо
+wrath - гнев
+ambush - засада
+ambushed - подстерёг (напал из засады)
+bash - вечеринка; ударить
+slurp - чавкать
+She may hold an exchange of views - она может провести обмен взглядами (мнениями)
+He likes the risk, the dare - ему нравится риск, вызов (осмеливание)
+alarm clock - будильник
+snooze - будильник; вздремнуть
+accent - акцент
+spine - позвоночник (хребет)
+hare - заяц
+fox - лиса
+wolf - волк

@@ -1,6 +1,6 @@
 Only upon the condition – только при условии
 Oracle is willing to license – Oracle желает (готов) лицензировать (процесс)
-Terms and conditions – термины и условия
+Terms and conditions – определения и условия
 Limited license grants – ограниченная лицензия предоставляет
 License for evaluation purposes – лицензия для оценивания целей
 Excerpting brief portions of the specification – выборка (цитирование) кратких частей спецификации
@@ -292,9 +292,8 @@ as for - как для (что касается)
 at a glance - с взгляда
 at any rate - во всяком случае
 at first - во-первых
-at least - по крайней мере
+at least - по крайней мере; хотя бы
 believe it or not - веришь этому или нет
-by the way - кстати
 deep down - глубоко внизу (в глубине души)
 first of all - прежде всего
 for all that - за всё, что
@@ -304,7 +303,7 @@ for the most part - по большей части
 I dare say - я осмелюсь сказать
 I wonder - мне интересно
 if I remember rightly - если я помню правильно
-if I'm not mistaken - если я не являюсь ошибившимся
+if I'm not mistaken - если я не ошибившийся
 in a nutshell - вкратце
 in all probability - по всей вероятности
 in all likelihood - по всей вероятности
@@ -330,7 +329,7 @@ or what? - или как?
 or whatever - или что угодно ещё
 something tells me - что-то рассказывает (подсказывает) мне 
 that is to say - иначе говоря (то есть сказать)
-that's flat - то является фиксированным (окончательное решение)
+that's flat - то фиксированное (окончательное решение)
 that's the way things are going - вот как дела идут (процесс)
 to one's mind - на чьё-то мнение (на чей-то взгляд)
 to say nothing of - не говоря уж о (чтобы сказать ничего о)
@@ -879,7 +878,7 @@ I like it a lot - мне это очень нравится
 I like it very much - мне это нравится очень сильно
 Are you here by yourself? - ты здесь одна?
 Are you here alone? - ты здесь одна?
-Resort – прибежище; курорт
+Resort – курорт
 Where did you learn it? - где ты изучил это?
 book tickets – заказать билеты
 Have a good time! - имей хорошее время! (хорошо провести время!)
@@ -1085,7 +1084,7 @@ Let it happen! – пусть это случится!
 Forgive me – прости меня
 Forget about it – забудь об этом
 Clever – умный; хитрый
-I'm stuck in a rut – я являюсь застрявшим в колее (рутине)
+I'm stuck in a rut – я застрявший в колее (рутине)
 I'd like some more coffee – я бы хотел ещё немного кофе
 Let's find some more money – давай найдём ещё немного денег
 We are having fun – мы имеем веселье (мы веселимся) (процесс)
@@ -1137,7 +1136,7 @@ Do you have to do it? – тебе обязательно делать это?
 You don't have to go there, do you? – тебе ведь не обязательно идти туда, не так ли?
 Notice – извещение; уведомление; заметить
 If you want, you will do it – если ты хочешь, ты сделаешь это
-This issue is worth discussing – этот вопрос является стоящим обсуждения
+This issue is worth discussing – этот вопрос стоящий обсуждения
 Erroneous – ошибочный
 Enjoy – наслаждаться
 I enjoy programming on Java – я наслаждаюсь программированием на Java
@@ -1262,7 +1261,7 @@ Customer – заказчик; клиент
 Employer – наниматель; работодатель
 Employee – служащий; наёмный работник
 He isn't anywhere – его нет нигде
-This work is very hard to do – эта работа является очень сложной чтобы сделать
+This work is very hard to do – эта работа очень сложная чтобы сделать
 Courage – кураж (отвага)
 Seek – искать; стремиться
 Totally, it's exactly what I wanted – тотально (абсолютно), это точно то что я хотел
@@ -1484,12 +1483,12 @@ He has come a long way in his work – он далеко продвинулся 
 Which way are you going? – в какую сторону вы идёте? (процесс)
 In a way, you are right – в (каком-то) смысле вы правы
 This was wrong in every way – это было неправильно во всех отношениях
-No way! – нет способа! (ни за что!, так не пойдёт!)
+No way! – нет способа! (ни за что!, без вариантов!)
 There is no other way to do it – нет другого способа сделать это
 In what way can I get this information? – в какой способ могу я раздобыть эту информацию?
 This is the way to do it! – это способ, чтобы сделать это!
 Do it any way you like – делайте это любым способом как вам нравится
-Have it your way – имей это в свой способ (пусть будет по твоему)
+Have it your way – имей это своим способом (пусть будет по твоему)
 That's the way it works! – вот как это работает!
 That's the way it goes – вот как это идёт (вот так уж повелось)
 Just the other way around! – только другой путь вокруг! (как раз наоборот!)
@@ -1785,7 +1784,6 @@ Envious – завистливый
 I understand her doing it – я понимаю её делание это
 I understand her being upset – я понимаю её бытие расстроенной
 I understand her being like that – я понимаю её бытие подобным образом
-Commit – совершать
 I'm sorry for interrupting you – я извиняюсь за прерывание вас
 He seems to want it – он, кажется, хочет этого
 He seems to want to say something to you – он, кажется, хочет сказать что-то тебе
@@ -1907,7 +1905,7 @@ Customizable – кастомизируемый (настраиваемый)
 first draft – первый (черновой) набросок
 Cookie – печенье
 Flavor – вкус
-Stuff – вещи; хлам
+Stuff – вещи (штуковины); хлам
 take credit for – взять кредит за (поставить себе в заслугу)
 kid – ребёнок
 are you kidding? – ты шутишь? (процесс)
@@ -1984,7 +1982,6 @@ Figured – фигурный (образный)
 Ask somebody out on a date – пригласить кого-то на свидание
 Do you think it would be ok if? – ты думаешь это будет нормально, если?
 Go out – выходить; ходить на свидание
-Clarification – пояснение
 Obligation – обязательство
 Subject matter – предмет вопроса (изучения)
 Pass off – выдавать
@@ -2007,7 +2004,7 @@ Violate – нарушать
 Make out – разобрать (понять); целоваться
 Imply – предполагать; подразумевать
 Implied – предполагаемый; подразумеваемый
-Make point – донести точку зрения
+Make point – донести точку зрения (смысл)
 Beyond repair – вне ремонта (не подлежащий восстановлению)
 Far more – намного более
 Compelling – убедительный
@@ -2021,7 +2018,7 @@ a number of – некоторое количество
 I'm really not familiar enough with – я реально не знаком достаточно с 
 Figure out – разобраться
 For a while – на время (на некоторое время)
-The point is – дело в том, что
+The point is – смысл в том, что
 In a good way – в хорошем смысле
 Attempt – попытка
 I don't get the point – я не понимаю смысла
@@ -2065,7 +2062,7 @@ Depiction – изображение; описание
 Suggestive – предполагающий (непристойное)
 Folk – люди; народный
 Get up! – вставай!
-Warm up – разогреть
+Warm up – разогреть (согреть)
 Heat up – нагреть
 Speak up! – говори громче!
 Go up – подниматься; возрастать
@@ -2257,7 +2254,7 @@ Capture – захват; улавливание
 Over and over again – снова и снова
 Of all time – за всё время
 Regularly – регулярно
-Grace – грация (изящество)
+Grace – грация (изящество, милость)
 Unmatched – несравненный; непревзойдённый
 Failure – неудача; провал
 Discourage – обескураживать (сдерживать, препятствовать)
@@ -2471,7 +2468,7 @@ Contest – конкурс; соревнование
 Profitable – прибыльный
 start out – начинаться с (из)
 evolve – эволюционировать (развиваться)
-exposure – воздействие; подверженность
+exposure – экспозиция; воздействие; подверженность
 defer – отложить (отсрочить)
 outstanding – остающийся (нерешённый); выдающийся
 outstanding contributions – остающиеся (невыплаченные) взносы
@@ -2571,7 +2568,7 @@ separation – сепарация (разделение)
 signature – подпись; сигнатура
 opaque – непрозрачный
 consort – супруга
-she is worth listening to – она является стоящей к слушанию (к ней стоит прислушиваться)
+she is worth listening to – она стоящая к слушанию (к ней стоит прислушиваться)
 crop – урожай
 help out – выручать
 take pity on – брать жалость на (сжалиться над)
@@ -2605,7 +2602,7 @@ simplify – упростить
 successor – преемник (наследник)
 entrance – вход
 entry – вступление; ввод; вход
-entry point – отправной пункт; точка входа
+entry point – точка входа (отправной пункт)
 careful – осторожный; внимательный
 is passed on – передан
 usually – обычно
@@ -2799,7 +2796,6 @@ at a loss – в недоумении
 leave – ливнуть (оставить, покинуть)
 leave for – покинуть для (отправляться куда-то)
 favourite – любимый
-band – группа
 serve – служить; обслуживать
 former – прежний
 In the former case – в прежнем (первом) случае
@@ -3683,7 +3679,7 @@ ensure a more consistent approach – обеспечивать более сог
 adopt a consistent common approach – принять согласованный общий подход
 They provide a consistent and user-friendly interface – они предоставляют согласованный и дружелюбный пользовательский интерфейс
 These activities will comprise seminars, advisory services and thematic workshops – эти активности будут содержать семинары, консультативные услуги и тематические воркшопы
-foremost among them are short-term projects – передовыми среди них являются краткосрочные (с коротким термином) проекты
+foremost among them are short-term projects – передовыми среди них являются краткосрочные проекты
 whereby variables were entered into the system – посредством чего переменные были введены в систему
 and thereby improving its effectiveness – и тем самым повышая её эффективность
 conceivably, it's guilt over his own behavior – вероятно это вина (чувство вины) за его собственное поведение
@@ -4222,7 +4218,7 @@ You feel this, like, natural pull – ты чувствуешь это как е
 for the sake of that great aim – ради той великой цели
 draw – ничья; жребий
 I would like to draw your attention to the most recent dangerous incidents – я бы хотел притянуть (привлечь) ваше внимание к наиболее недавним опасным происшествиям
-I wanted to draw your attention to three points – я хотел притянуть (привлечь) ваше внимание к трём аспектам
+I wanted to draw your attention to three points – я хотел притянуть (привлечь) ваше внимание к трём аспектам (точкам)
 well, I suppose we should draw straws – итак, я предполагаю нам следует тянуть соломинки
 I could draw you a diagram if you want – я мог бы нарисовать вам диаграму, если вы хотите
 I look at this as a draw – я смотрю на это, как на ничью
@@ -4295,7 +4291,7 @@ give away – отдать; раздать
 I had to give all of them away – мне пришлось раздать их все
 straight – прямой; прямо
 plan was to bring him straight here – план был привести его прямо сюда
-I skipped college, went straight to work – я перепрыгнул колледж, пошёл прямо (сразу) работать
+I skipped college, went straight to work – я пропустил колледж, пошёл прямо (сразу) работать
 straighten – выпрямить
 smooth – плавный; гладкий
 fever – лихорадка (жар)
@@ -4336,7 +4332,7 @@ find out who has the audacity to disturb us – выясни, кто имеет 
 result should be assembled in an array – результат должен (следует) быть собран в массив
 You need only to collect it from them – тебе нужно только забрать это у них
 grab – схватить
-reckon – считать
+reckon – считать (полагать)
 I reckon that's so – я считаю, что это так
 one of my absolute favorite memories – одно из моих абсолютно любимых воспоминаний
 I just sort of – я только вроде как
@@ -4698,7 +4694,7 @@ evenly - равномерно
 array of evenly spaced values - массив равномерно распределённых значений
 outperform - превосходить
 sophisticated - изощрённый (усложнённый)
-penalty term - штрафной термин
+penalty term - штрафной термин (определение штрафа)
 bear - медведь; нести; иметь
 the eigenvectors with the lowest eigenvalues bear the least information about the distribution of the data - эти собственные вектора с наименьшими собственными значениями несут наименьшую информацию о распределении данных
 obsession - одержимость; зацикленность
@@ -4708,7 +4704,7 @@ ensemble - ансамбль
 shake up - встряхнуть
 inference - умозаключение (вывод)
 disclose - раскрывать; разглашать
-deem - счесть; считать
+deem - счесть (считать)
 trait - черта; особенность
 regardless of what the value is used for - независимо от, для чего это значение использовано
 minor - малый; незначительный
@@ -4768,7 +4764,7 @@ quantitative analitics - количественная аналитика
 intuition and experience in conjunction with the analysis - интуиция и опыт в соединении с анализом
 drilling - бурение; сверление
 Key Performance Indicator (KPI) - ключевой перфоманса индикатор (KPI)
-term - термин
+term - термин (срок, определение)
 causal - причинный
 dummy - манекен; болван
 indent - абзац; отступ
@@ -4781,7 +4777,7 @@ recap - резюмировать (напомнить)
 feasible - возможный; осуществимый
 percentage - процентное отношение
 variability - изменчивость
-intend - намереваться; собираться
+intend - намереваться (собираться)
 intended - преднамеренный (предназначенный)
 compulsory - обязательный
 ridge - гребень; гряда
@@ -4883,7 +4879,7 @@ variable - переменная
 extend - продлить; расширить
 came into force - вступило в силу
 wind - ветер
-fly - лететь
+fly - лететь; муха
 flight - полёт
 with regard  - в связи (в касательстве)
 along - вдоль
@@ -5164,7 +5160,7 @@ alternatively - альтернативно
 beat up - избить
 don't beat yourself up - не избивай себя (не вини себя)
 little by little - мало помалу
-get ready - приготовиться
+get ready! - приготовиться!
 mindless - бессмысленный (безмозглый)
 slide - слайд; скольжение; скользить
 hips - бёдра
@@ -5361,7 +5357,7 @@ for this purpose - для этой цели
 due to the fact that - по причине того факта, что
 this means that - это означает, что
 so then - так затем (а потом)
-to summarize - чтобы резюмировать (суммировать)
+to summarize - чтобы суммировать (резюмировать)
 in conclusion - в заключение
 quite often - довольно часто
 on the one hand – на одну руку (с одной стороны)
@@ -5505,7 +5501,7 @@ handcuffs - наручники
 cuffs - наручники
 cuff her - надеть наручники на неё
 lap - круг (заезд); колени
-trim - отделка; обрезка
+trim - отделка; обрезка; обрезать (подстригать)
 understood? - понял?
 underwear - нижнее бельё
 daddy - папочка
@@ -5654,7 +5650,7 @@ intense - интенсивный
 tension - напряжение (напряжённость)
 nervous - нервный
 I feel very nervous inside - я чувствую себя очень нервным внутри
-pants - штаны (брюки)
+pants - штаны; брюки
 panties - трусы
 i wasn't going to - я (и) не собирался
 spread your legs - расправь (раздвинь) свои ноги
@@ -5787,7 +5783,7 @@ get cocky - петушиться (зазнаваться, дерзить)
 potion - зелье
 leaking - утечка
 toggle - переключить
-dice - кости
+dice - игральные кости
 dizzy - головокружение
 fangs - клыки
 spike - всплеск (пик); шип
@@ -5842,3 +5838,405 @@ spine - позвоночник (хребет)
 hare - заяц
 fox - лиса
 wolf - волк
+homage - дань уважения
+large - большой
+at large - в целом
+They can pounce at any time - они могут наброситься в любое время
+You should preserve its own unique identity - тебе следует сохранять свою собственную уникальную идентичность
+assist - ассистировать (помогать, содействовать)
+assistance - помощь (содействие)
+satisfied - довольный; удовлетворённый
+I deem necessary to mention - я считаю необходимым отметить (упомянуть)
+mention - упоминание; упомянуть (отметить)
+I can redeem anything I did - я могу искупить всё, (что) я сделал
+can I redeem this? - могу я выкупить это?
+chat - чат; поболтать (поговорить)
+harness - аркан; упряжь; обуздать (использовать)
+to fully harness that tremendous potential - чтобы полностью обуздать (использовать) (э)тот огромный потенциал
+top - верх; верхний (лучший)
+bottom - низ (дно); нижний
+prey - добыча (жертва)
+hibernate - впадать в спячку (зимовать)
+feminine - женская (женственная)
+femininity - женственность
+slim - стройная
+prosecutor - прокурор (обвинитель)
+prosecute - обвинять (в судебном порядке)
+target - цель; целевой
+targets to which we can aspire - цели, к которым мы можем стремиться
+vault - хранилище
+hands-on - практический
+pork - свинина
+lead - лидер; вести; привести
+philosophy - философия
+philosophic - философский
+clarification - прояснение; уточнение
+clarifying - прояснение; уточнение
+clarify - прояснить; уточнить
+storytelling - рассказывание историй (повествование)
+sitcom - сериал (комедия положений)
+relationship - отношение (связь, взаимоотношение)
+formerly - прежде; раньше
+banish - изгнать
+mercenary - наёмник
+immortal - бессмертный
+purify - очищать; очистить
+ageless - вечный
+fierce - ожесточённый (свирепый)
+considerate - тактичный (деликатный)
+mostly - в основном; главным образом
+carefree - беззаботный
+easygoing - беззаботный
+lighthearted - беззаботный
+exclusive - эксклюзивный (исключительный)
+flip - переворот; перевернуть
+chop - рубить; разрубить
+raw data - сырые (необработанные) данные
+some sort of feature construction - некоторого рода характеристик конструирование
+construction - конструкция (строительство, конструирование)
+break down - ломать; разрушать; разбивать
+that you started with - с которыми ты начинал
+hybrid - гибрид; гибридный
+mine - мой; мина; шахта; добывать
+predictive model - предсказательная модель
+unseen data - невиденные (неизвестные) данные
+descriptive statistics - описательные статистики
+calculus - исчисление (мат анализ)
+introduction - введение (вступление)
+dense - плотный (густой)
+density - плотность (густота)
+probability destiny function - функция плотности вероятности
+hypothesis - гипотеза
+a lot of what - многое из того, что
+superb - превосходный
+it's superb - это превосходно
+for those of you - для тех из вас
+lecture - лекция
+field - область; поле
+doddle - пустяк
+brat - ребёнок; мальчишка
+come to terms - смириться (прийти к  определениям, соглашению)
+I came to terms with it - я смирился с этим
+brevity - краткость
+serpent - змея
+wild boar - дикий кабан
+sweet - сладкий
+boobs - сиськи
+tits - сиськи
+hot - горячий (сексуальный)
+classy - классный (шикарный)
+sexy - сексуальный
+chatty - болтливый
+submissive - сабмиссивный (покорный)
+open-minded - открытых (широких) взглядов
+wish - желание; желать
+I wanna help you with that - я хочу помочь тебе с тем
+virtual - виртуальный
+virtual environment - виртуальное окружение
+beginner - новичок; начинающий
+behold - узреть (созерцать)
+compatible - совместимый
+incidentally - кстати; случайно; между прочим
+folder - папка
+that will take a little while - (э)то займёт немного времени
+executable - исполнимый
+plaything - игрушка
+tree - дерево
+site - сайт; место (местоположение)
+package - пакет (упаковка)
+running - бег; запуск (функционирование)
+interactive - интерактивный
+headache - головная боль
+whoops - упс
+physicist - физик
+greetings - приветствия (поздравления)
+ideally - идеально (в идеале)
+comfort - комфорт; утешение; утешить; успокоить
+comfortable - комфортный
+everything counts - всё считается
+simple - простой
+merry - весёлый
+something else - что-то ещё (что-то другое)
+bliss - блаженство
+abundant - обильный (богатый)
+happiness - счастье
+goodwill - добрая воля (доброжелательность)
+holiday - праздник; праздничный
+movie - кино (фильм)
+cinema - кино (кинотеатр)
+ahead of you - впереди тебя (перед тобой)
+fulfill - выполнить; реализовать
+upcoming - предстоящий (наступающий)
+upcoming year - предстоящий (наступающий) год
+cheer - подбодрить; развеселить
+warmth - теплота
+warm - тёплый
+heat - тепло; жара
+hero - герой
+all the best - всё наилучшее; всего наилучшего
+prosperous - процветающий (благополучный)
+health - здоровье (здравоохранение); медицинский
+healthy - здоровый
+one more way - ещё один способ (путь)
+at the end - в конце
+best wishes - лучшие пожелания
+warmest wishes - теплейшие пожелания
+classic - классический
+joyous - радостный
+trousers - брюки
+custody - заключение (хранение, опека)
+kidnapping - похищение (людей, детей)
+warehouse - склад; хранилище
+back-story - предистория
+legend - легенда
+fidelity - верность (преданность, точность)
+hidden - скрытый (спрятанный)
+jingle - джингл (песенка, заставка); звон; звенеть
+jolly - весёлый
+out of sight - вне поля зрения (с глаз долой)
+tide - прилив (волна)
+tidings - вести (новости)
+kin - родственник (родня)
+anthem - гимн
+hymn - гимн
+carol - гимн
+upside - верх (плюс, преимущество)
+it turned upside down - он перевернулся вверх дном
+resilience - устойчивость; сопротивляемость
+resilient - устойчивый (жизнеспособный)
+You may focus your energy on achieving your goals - ты можешь фокусировать свою энергию на достижении своих целей
+rich - богатый
+long for - жаждать
+discovery - открытие (обнаружение)
+uncover - раскрыть
+resourceful - находчивый; изобретательный
+uncover your resourceful potential - раскрыть свой изобретательный потенциал
+joyful - радостный
+over the years - за годы
+explosion - взрыв
+data scientist - data scientist
+data analyst - аналитик данных
+gem - жемчужина (драгоценный камень)
+pearl - перл (жемчужина)
+jewel - жемчужина (драгоценность)
+commit – совершать; выделять; фиксировать
+You want to commit time and resources - ты хочешь выделить время и ресурсы
+camp - лагерь
+accrue - накапливать
+accrue points by doing that - накапливать пойнты (очки) делая то
+settings - условия (ситуации); настройки
+mining - майнинг (добыча)
+spark - искра
+hiring - найм (нанимание)
+opposition - оппозиция (противодействие); противоположность
+barrier - барьер
+landing - посадка; приземление
+showcase - демонстрация (витрина); демонстрировать
+that's all fine - всё хорошо
+depth - глубина
+consideration - рассмотрение
+take into consideration - принять во внимание (в рассмотрение)
+artistic - художественный (творческий)
+nowhere near - никуда не близко (далеко от, далеко не)
+competent - компетентный
+to frame - подставить (обвинить); сформулировать
+you can frame me - ты можешь подставить меня
+ability to frame a question - способность сформулировать вопрос
+tidy - аккуратный
+cushy job - непыльная работа
+proficiency - профессиональность (мастерство, знание)
+analogy - аналогия
+scrape - скрести (наскрести, соскребать)
+ring - кольцо; ринг; звонок; звонить
+chic - шикарный
+chick - цыпочка
+point - точка; пойнт (очко); смысл; точка зрения
+drive - водить; ехать
+driving - вождение; езда
+file - файл; подавать (представлять)
+just file what you're doing - просто подай (представь) что ты делаешь (процесс)
+armed - вооружённый
+shut down - отключить; закрыть (прикрыть)
+artisan - ремесленник; ремесленный
+sail - парус; плыть
+sailing - плавание
+sailor - моряк
+conserve - сохранение; сохранять
+terminate - прекратить
+smug - самодовольный
+workshop - практикум; мастерская
+egg - яйцо
+spoon - ложка
+cut out - вырезать; отрезать
+archive - архив; архивный; архивировать
+fade - исчезать (ослабевать)
+deceased - умерший (покойный)
+burial - захоронение
+deputy - депутат; заместитель; помощник
+deputize - замещать
+sovereign - суверенный
+incursion - вторжение
+everything you can think of - всё, о чём ты можешь подумать
+what it's used for - для чего это используется
+data analysis - анализ данных
+analyze - анализировать
+revolve - вращаться
+it all revolves around smth - это всё вращается вокруг чего-то
+board - борт; доска; совет (правление)
+passenger - пассажир; пассажирский
+just over - немногим более
+cell - ячейка (клетка)
+neuron - нейрон
+neural network - нейронная сеть
+quartile - квартиль
+fare - тариф (стоимость проезда)
+bar - бар; планка; панель
+traveler - путешественник
+stock - запас (фонд, склад); биржевой
+plot - сюжет; заговор; участок; график
+land plot - земельный участок
+to plot - планировать; чертить
+rolling average - скользящее среднее
+volatile - волатильный (летучий, нестабильный)
+surface - поверхность; поверхностный
+whet your appetite - подогреть твой аппетит
+curative - лечение; лечебный
+curator - куратор
+curated - курируемый
+knowing - знание; зная
+make yourself comfortable - устраивайся поудобней
+mathematics - математика
+maths - математика
+substantive - основной; существенный
+with all that in mind - со всем тем в мыслях
+sequel - продолжение
+supplementary - дополнительный
+essence - существо (суть)
+solid - прочный; сплошной
+trauma - травма
+reversible - обратимый
+prototype - прототип
+rebuild - перестраивать (восстанавливать)
+process - процесс
+processing - обработка
+puppy - щенок
+by the way - кстати; между прочим; по тому как (по способу как)
+numb - подавлять (чувства, эмоции); онемевший
+fabricate - сфабриковать (изготовить)
+tiered - многоуровневый
+template - шаблон
+developing - разработка; развитие
+at most - в большинстве; самое большее
+snore - храп; храпеть
+bay - залив; бухта; отсек
+recharge - подзарядка; перезарядить
+assessor - оценщик (эксперт)
+band – группа; банда; полоса (диапазон)
+circular - циркуляр (инструкция)
+escalation - эскалация
+escalate - эскалировать (обострять, нагнетать)
+procedure - процедура
+resident - житель
+residential - жилой
+reset - сброс; перезагрузка; сбросить; перезагрузить
+abort - прервать; отменить
+comply - соответствовать (подчиняться)
+I can't comply without knowing why - я не могу подчиниться без знания почему
+firstly - во-первых
+secondly - во-вторых
+strictly speaking - строго говоря
+fluke - счастливая случайность
+pin - булавка; значок; приколоть; прикрепить
+infringement - нарушение
+patent infringement - нарушение патента
+confidential - конфиденциальный
+what's the difference? - какая разница?
+indices - индексы
+summation - суммирование
+unable - неспособный
+recording - запись (медиа запись)
+finite - конечный
+infinite - бесконечный
+ton - тонна
+ton of stuff - тонна (куча) штуковин
+influence - влияние; влиять на
+syntax - синтаксис
+skip - пропуск; пропускать
+once - раз (поскольку)
+trapped - пойманный в ловушку
+shave - бриться
+let's take a closer look - давайте возьмём более близкий (пристальный) взгляд
+append - добавить
+appendices - добавления (приложения)
+visual - визуальный
+visualize - визуализировать
+It's broken down into small sections - она разбита на маленькие разделы
+It takes you through - это проводит тебя через
+dimension - измерение; размерность
+dimensionality - размерность
+precision - точность; точный
+It doesn't go into enough theory - она не заводит в достаточную теорию
+library - библиотека
+imminent - неизбежный
+shutdown - закрытие (отключение)
+You scared me - ты напугал меня
+kindly - любезно
+presence - присутствие
+bearer - носитель
+protect - защищать
+protection - защита
+protector - защитник
+stand by - приготовиться!; поддерживать
+stand aside - стоять в стороне
+stand back - отойти назад (стать сзади)
+pregnant - беременная
+synchronization - синхронизация
+engineering - инженерия; инженерный
+transmit - передавать
+transmission - трансмиссия (передача, трансляция)
+expire - истекать
+overwrite - переписать
+update - апдейт (обновление); обновить
+I never stood a chance - у меня никогда не было шанса (не было шанса устоять)
+It wouldn't have made any difference - это бы не сделало никакой разницы (бышечная реальность результат)
+beast - зверь (чудовище)
+slender - стройный; тонкий
+media can influence values and attitudes - медиа могут влиять на ценности и позиции
+You must stand by my side - ты должна поддерживать мою сторону
+quite a lot - довольно много
+supervisor - супервайзер (начальник, контролёр, надзиратель)
+guarantee - гарантия; гарантировать
+caveat - оговорка
+there is a little caveat to this - есть небольшая оговорка к этому
+spring - весна; весенний; пружина; родник
+placement - размещение; трудоустройство
+belt - пояс
+knowledgeable - знающий; осведомлённый
+dedication - преданность; приверженность
+oblique - косой; косвенный
+go down - спускаться
+route - маршрут; маршрутизировать (направлять)
+put off - отложить; оттолкнуть
+put you off - оттолкнуть тебя
+shortly - вскоре; кратко
+master - мастер; освоить; овладеть
+of some use - несколько полезный
+I hope that was of some use - я надеюсь то было несколько полезным
+stick with it to the end - придерживайся этого до конца
+cool - крутой (клёвый); прохладный
+cooler - холодильник; охладитель
+chilly - холодно; прохладно
+gloom - мрак; уныние
+sunny - солнечный
+icebreaker - ледокол; начало разговора
+hop - прыгать; запрыгнуть
+hop in the car - запрыгнуть в машину
+theatre - театр; театральный
+theater - театр; театральный
+willing - желание; готовый; желающий
+willingly - добровольно; охотно
+recreation - отдых; досуг; восстановление сил
+well-rounded - всесторонний
+paradise - рай
+discord - разногласие
+temporary - временный

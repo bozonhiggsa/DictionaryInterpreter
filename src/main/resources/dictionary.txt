@@ -6014,7 +6014,7 @@ uncover your resourceful potential - раскрыть свой изобретательный потенциал
 joyful - радостный
 over the years - за годы
 explosion - взрыв
-data scientist - data scientist
+data scientist - учёный данных
 data analyst - аналитик данных
 gem - жемчужина (драгоценный камень)
 pearl - перл (жемчужина)
@@ -6028,7 +6028,7 @@ settings - условия (ситуации); настройки
 mining - майнинг (добыча)
 spark - искра
 hiring - найм (нанимание)
-opposition - оппозиция (противодействие); противоположность
+opposition - оппозиция (противодействие, противоположность)
 barrier - барьер
 landing - посадка; приземление
 showcase - демонстрация (витрина); демонстрировать

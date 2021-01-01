@@ -396,7 +396,7 @@ Incontrovertible - неопровержимый
 Massacre - бойня
 Chasing - погоня; преследование
 Dejected - подавленный (печальный)
-Baseless - необоснованный (без основы)
+Baseless - необоснованный
 Wage - зарплата
 wage war - вести войну
 Abandon - покинуть; отказаться от
@@ -566,7 +566,7 @@ Weird – странный; странноватый
 Training – обучение; тренировка
 Empower – уполномочить; дать силы
 Energizing – энергизирование (активация)
-Exhilarate – веселить; подбадривать
+Exhilarate – подбадривать; веселить
 Awaken – пробудить
 Practicing – практикующий
 Practice – практика (привычка)
@@ -865,8 +865,8 @@ Resolve – намерение; разрешение; разрешать
 Where are you from? - откуда ты?
 Is this your first time here? - это твой первый раз здесь?
 How long will you be here? - как долго будешь ты находиться здесь?
-How long will you stay here? - как долго будешь ты находиться здесь?
-Where are you staying? - где ты остановился? (процесс)
+How long will you stay here? - как долго будешь ты оставаться здесь?
+Where are you staying? - где ты пребываешь (находишься)? (процесс)
 What's your name? – как твоё имя?
 What's yours? - а как твоё имя?
 How about you? - как о (насчёт) тебе?
@@ -964,7 +964,7 @@ What education do you have? - какое образование ты имеешь?
 Did you go to college? - ты ходил в колледж?
 What did you study? - что ты изучал?
 Where did you study? - где ты учился?
-I took two years of college and then dropped out - я провёл 2 года в колледже и затем бросил
+I took two years of college and then dropped out - я взял 2 года колледжа и затем бросил
 I went for two years and then I dropped out - я ходил в течение двух лет, а затем я бросил
 What was your major at the university? - какая была твоя специализация в университете?
 What's your major? - какая твоя специализация?
@@ -1572,7 +1572,7 @@ It's supposed to be so – это предположено (должно) быть так
 I've had to do it – мне пришлось сделать это (результат)
 No one says like that – никто не говорит так
 Could you call me later? – не могли бы вы позвонить мне позже?
-get – получать; раздобыть; достать; принести; поймать; понимать; добираться; становиться; начинаться
+get – получать; раздобыть; достать; принести; поймать; понимать; добираться; становиться; начинаться; забрать
 get to – сделать так, чтобы сделалось; заставить (уговорить, повлиять)
 You got what you deserved – ты получил то, что заслужил
 I never got your letter – я так и не получил ваше письмо
@@ -2148,7 +2148,6 @@ Chill – холод; холодный; охлаждать
 Chill out – охлаждаться (успокаиваться)
 Caution – осторожность; предостережение; предостерегать
 Advance – продвижение; продвигать
-Impact – влияние; повлиять
 Bound – граница; связанный
 Obtain – добывать; добиться
 Take it out of here – забери это отсюда
@@ -2354,7 +2353,7 @@ pros and cons – плюсы и минусы; преимущества и недостатки
 forgery – подделка
 boost – повышение; стимулирование
 blueprint – план; проект
-networking – сеть; сетевой; создание сетей; налаживание связей
+networking – сетевое взаимодействие; налаживание связей
 to follow up – отслеживать
 approve – утвердить; одобрить
 approval – утверждение; одобрение
@@ -3147,7 +3146,7 @@ with a proven track record – с проверенной путевой записью (послужным списком)
 liaise – поддерживать связь (контактировать)
 prioritize – приоритизировать (расставлять приоритеты)
 gratified – удовлетворённый
-enclose – прилагать; включать
+enclose – прилагать; заключить
 continued – продолжительный
 excellence – совершенство
 dear – дорогой; уважаемый
@@ -3189,7 +3188,7 @@ tongue – язык
 someone – человек; кто-то
 worthwhile – стоящий (времени)
 ghost – дух; призрак
-take off – снимать; уходить
+take off – снимать; уходить; взлетать
 belief – вера
 naive – наивный
 estimate – оценка; оценивать
@@ -3233,7 +3232,7 @@ within 5 days – в течение 5 дней
 conference – конференция
 international – международный
 scientific and technical – научно-технический
-pitch – поле (подача, презентация)
+pitch – поле (подача, презентация); подавать
 by accident – случайно
 He is always very thorough in his work – он всегда очень тщателен в своей работе
 plead guilty – признать вину
@@ -4046,7 +4045,7 @@ Alright, let me have a crack – ладно, дайте мне сделать попытку
 let me have a crack at it – дайте мне сделать попытку с этим
 worry – беспокоиться; переживать
 if you're worried I could have a go – если ты обеспокоен, я могу сделать попытку
-well, you might at least have a go – ну, ты мог по крайней мере сделать попытку
+well, you might at least have a go – ну, ты мог хотя бы сделать попытку
 I think I should have a go – я думаю мне следует сделать попытку
 this claim comprises two separate items – эта претензия (иск) содержит два отдельных пункта
 claim described at paragraph involves several contracts – требование, описанное в параграфе, включает несколько контрактов
@@ -4490,7 +4489,7 @@ I'm here because of you – я здесь из-за тебя
 I got it for nothing – я получил это ни за что
 I have run out of questions – я закончил вопросы (у меня закончились вопросы) (результат)
 it's against the rules – это против правил
-I'll get my car – я возьму мою машину
+I'll get my car – я заберу мою машину
 live up – жить на должном уровне (соответствовать ожиданиям)
 I'm sorry I couldn't live up to your expectations – я извиняюсь, я не смог соответствовать твоим ожиданиям
 bring up – вытащить наверх (привести на должный уровень)
@@ -4561,7 +4560,7 @@ He only concerns himself with his trainee – он только беспокоит себя (занимается
 I could tell at a glance that something was wrong – я мог рассказать со взгляда, что что-то было неправильно
 boot camp – учебный лагерь
 buzz – кайф; гудение; гудеть
-tackle – устранение; устранить
+tackle – устранение (решение проблемы); устранить
 realm – сфера; королевство; мир
 boil – сварить; вскипятить; кипеть
 boils down to – сводится к
@@ -4662,7 +4661,7 @@ it is highly desirable – это является высоко (крайне) желательным
 it is extremely desirable – это является экстремально (крайне) желательным
 inheritor – наследник
 as with any compromise – как и при любом компромиссе
-transfer – передать
+transfer – передавать
 hand off – передать
 it is permissible – это является позволительным (допустимым)
 carried away – занесло (увлекло)
@@ -4704,7 +4703,7 @@ ensemble - ансамбль
 shake up - встряхнуть
 inference - умозаключение (вывод)
 disclose - раскрывать; разглашать
-deem - счесть (считать)
+deem - счесть; считать
 trait - черта; особенность
 regardless of what the value is used for - независимо от, для чего это значение использовано
 minor - малый; незначительный
@@ -5363,7 +5362,7 @@ quite often - довольно часто
 on the one hand – на одну руку (с одной стороны)
 chuckle - смеяться; усмехаться
 as I said - как я сказал
-bimbo - тупая девка
+bimbo - тупая девка (надутая кукла)
 intelligent - интеллектуальный (умный)
 smart - умный
 quiz - тест (опрос, викторина)
@@ -5435,7 +5434,7 @@ persecute - преследовать
 persecution - преследование
 condo - квартира
 stain - пятно
-stained - запятнаный
+stained - запятнанный
 record - запись; записывать
 deterrent - сдерживание (сдерживающий фактор)
 that's my business - (э)то моё дело (тебя не касается)
@@ -5968,7 +5967,7 @@ ahead of you - впереди тебя (перед тобой)
 fulfill - выполнить; реализовать
 upcoming - предстоящий (наступающий)
 upcoming year - предстоящий (наступающий) год
-cheer - подбодрить; развеселить
+cheer - подбадривать; веселить
 warmth - теплота
 warm - тёплый
 heat - тепло; жара
@@ -6084,7 +6083,7 @@ revolve - вращаться
 it all revolves around smth - это всё вращается вокруг чего-то
 board - борт; доска; совет (правление)
 passenger - пассажир; пассажирский
-just over - немногим более
+just over - чуть больше
 cell - ячейка (клетка)
 neuron - нейрон
 neural network - нейронная сеть
@@ -6166,6 +6165,7 @@ once - раз (поскольку)
 trapped - пойманный в ловушку
 shave - бриться
 let's take a closer look - давайте возьмём более близкий (пристальный) взгляд
+let's have a closer look - давайте поимеем более близкий (пристальный) взгляд
 append - добавить
 appendices - добавления (приложения)
 visual - визуальный
@@ -6221,6 +6221,7 @@ put you off - оттолкнуть тебя
 shortly - вскоре; кратко
 master - мастер; освоить; овладеть
 of some use - несколько полезный
+of great use - огромно полезный
 I hope that was of some use - я надеюсь то было несколько полезным
 stick with it to the end - придерживайся этого до конца
 cool - крутой (клёвый); прохладный
@@ -6240,3 +6241,155 @@ well-rounded - всесторонний
 paradise - рай
 discord - разногласие
 temporary - временный
+to cast - кастовать (наложить, бросить)
+cast a spell - наложить заклинание
+cast a vote - бросить голос (проголосовать)
+truck - грузовик
+headline - заголовок
+interstellar - межзвёздный
+fart - пердёж; пердеть
+solar system - солнечная система
+singular - сингулярный; единственный
+skyscraper - небоскрёб
+guest - гость; гостевой
+jet - реактивный самолёт; струя
+heck - чёрт (блин)
+wine - вино; винный
+bun - булочка
+mustard - горчица
+spicy - острый; пряный
+plane - самолёт; плоскость
+splash - всплеск
+military - армия; военный
+dispersion - дисперсия; рассеяние
+disperse - разогнать; рассеять
+dispersive - дисперсионный
+impact – влияние; отдача (результат); удар; повлиять
+disturbing - тревожный
+clearance - расчистка; разрешение (допуск)
+pack - стая; пачка; пакет; паковать; паковаться (собираться)
+fridge - холодильник
+just under - чуть меньше
+indescribable - неописуемый
+coward - трус
+globe - глобус; земной шар
+spin - вращение; вращаться
+withholding - удержание; сокрытие
+causing - причина; причинение
+mass hysteria - массовая истерия
+collapse - коллапс (крах)
+highway - шоссе (автомагистраль)
+suck - отстой; сосать
+suck up - подлизываться
+suck it up - смирись с этим (проглоти это)
+push through - пройти через
+let's say - скажем
+let's just say - скажем так
+gate - ворота
+belonging - принадлежность; принадлежащий
+flagged - помеченный (под флагом)
+pump - насос
+cram - засунуть; запихнуть
+illness - болезнь
+lottery - лотерея
+wretch - негодяй; бедолага
+grudge - обида
+meetup - встреча
+meet up - встретиться
+goddamn - чёртов; проклятый
+fellas - парни
+pull over - тормозить (остановиться)
+rubber - резиновый
+load of shit - куча дерьма
+safely - безопасно
+government - правительство
+cake - торт; пирог
+pancake - блин
+medication - медикамент (лекарство)
+medicine - медицина (лекарство)
+medical - медицинский
+sophistication - сложность; изощрённость
+fallout - последствия
+self-sufficient - самодостаточный
+self-contained - автономный; самодостаточный
+marry - жениться на
+marriage - брак
+forgiveness - прощение
+booster - ускоритель; усилитель
+makeshift - временный (самодельный)
+cross - кросс; пересечение; пересекать
+stay - стоять; оставаться; пребывать
+clear - ясный; чистый; очистить
+rail - железная дорога; рельс; перила
+railway - железная дорога
+molten - расплавленный
+debris - мусор; обломок
+trump - козырь
+trumpet - труба (муз инструмент)
+blaze - пламя; пожар; полыхать
+trigger - триггер; запустить (вызвать, спровоцировать)
+dinosaur - динозавр
+runway - подиум; взлётная полоса
+luggage - багаж
+bump - шишка; кочка; удар
+idle - праздный; пустой; бездействовать
+feather - перо
+lever - рычаг
+fuel - топливо
+valve - клапан; вентиль
+pinpoint - определить; выявить
+ash - пепел
+overflow - переполнение
+esier than ever - легче чем когда-либо
+He seeks to identify and tackle problems at an early stage - он стремится идентифицировать и устранить проблемы на ранней стадии
+anticipation - ожидание (предвкушение, предвидение)
+with anticipation - с нетерпением
+meat - мясо
+lingerie - нижнее бельё
+natural - натуральный (природный, естественный)
+mixed feelings - смешанные чувства
+twilight - сумерки; сумеречный
+siege - осада
+coat - пальто
+rally - ралли; митинг (собрание); сплотить (мобилизовать)
+sew - шить; зашить; пришить
+sewer - канализация
+defuse - разрядить; обезвредить
+tax - налог; налоговый; облагать налогом
+redemption - искупление
+disposal - удаление; распоряжение
+responsibility for their disposal - ответственность за их удаление
+candle - свеча
+obvious - очевидный (явный)
+misconception - заблуждение
+script - скрипт (сценарий); писать сценарий
+correctly - корректно
+market - рынок; продавать
+refer - ссылаться; относиться; касаться; направлять
+word of mouth - из уст в уста (сарафанное радио)
+concept - концепт (концепция)
+advanced - продвинутый (передовой)
+more advanced concepts - более продвинутые концепции
+display - дисплей; отображение; отображать (демонстрировать)
+turtle - черепаха
+some kind of - некоторого рода (какой-то)
+countless - бессчётные
+lucrative - прибыльный; выгодный
+that's all really is - (э)то всё реально есть
+crappy - дерьмовый
+immediately - немедленно
+whip - кнут; хлыст; хлыстать
+whip up - стряпать (на скорую руку)
+manual - руководство; ручной
+manually - вручную
+indistinctly - неразличимо; невнятно
+rotten - гнилой; тухлый
+dime - монетка
+sweat - пот; потеть
+gum - жвачка
+gummy - липкий
+worm - червяк
+towel - полотенце
+net - сеть; чистый
+social networking - социальная сеть (социальное сетевое взаимодействие)
+nature - натура (природа, характер)

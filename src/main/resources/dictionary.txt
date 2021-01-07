@@ -159,7 +159,6 @@ Introspection – самоанализ
 Autowiring – автоподключение
 Container that hosts bean – контейнер, который хостит бин
 Can be considered aliases – могут быть рассмотрены (учтены) псевдонимами
-Enforced – принуждённый
 Alphanumeric – буквенно-цифровой
 Desirable – желательный; желанный
 Clash – столкновение (конфликт)
@@ -219,8 +218,6 @@ Be up - случаться; происходить
 What's up? - что случилось? (что нового?)
 Be up for - быть готовым для
 I'm always up for new things - я всегда готов для новых вещей
-Be up to - собираться (намереваться) (сделать что-либо)
-He's up to something - он собирается (намеревается) сделать что-то
 Run into - вбежать в (налететь)
 Run away from - убежать от (избегать)
 Run out - кончаться
@@ -864,9 +861,9 @@ Conjunction – соединение
 Resolve – намерение; разрешение; разрешать
 Where are you from? - откуда ты?
 Is this your first time here? - это твой первый раз здесь?
-How long will you be here? - как долго будешь ты находиться здесь?
-How long will you stay here? - как долго будешь ты оставаться здесь?
-Where are you staying? - где ты пребываешь (находишься)? (процесс)
+How long will you be here? - как долго будешь ты находиться (быть) здесь?
+How long will you stay here? - как долго будешь ты оставаться (пребывать) здесь?
+Where are you staying? - где ты пребываешь (остановился)? (процесс)
 What's your name? – как твоё имя?
 What's yours? - а как твоё имя?
 How about you? - как о (насчёт) тебе?
@@ -905,7 +902,7 @@ I graduated fifteen years ago with a master's degree in radio electronics - я за
 I graduated from the KNURE fifteen years ago - я закончил образование из ХНУРЭ 15 лет назад
 I have a degree in radio electronics - я имею степень в радиоэлектронике
 Do you have a degree in marketing? - ты имеешь степень в маркетинге?
-Do you ever go to Europe? – вы иногда ездите в Европу?
+Did you ever go to Europe? – вы когда-нибудь ездили в Европу?
 Every once in a while – время от времени
 I go back every once in a while - я возвращаюсь время от времени
 Spare – запасной; лишний
@@ -942,7 +939,7 @@ I'm out of work at the moment - я вне работы в данный момент
 I lost my job - я потерял свою работу
 I left my job - я покинул свою работу
 I quit my job - я ушёл с моей работы
-I didn't get a raise at work, so I had to quit - я не получил повышение на работе, поэтому я должен был уйти
+I didn't get a raise at work, so I had to quit - я не получил повышение на работе, поэтому мне пришлось уйти
 I was fired - я был уволен
 My position became redundant due to the financial crisis - моя позиция стала избыточной по причине финансового кризиса
 What company are you working for? - для какой компании ты работаешь? (процесс)
@@ -2378,7 +2375,7 @@ Expectation – ожидание
 Strive – стремиться
 Striving – стремление
 Content – контент (содержание); довольный
-As opposed to – в противоположность к; а не
+As opposed to – в отличие от; в противоположность к; а не
 Harvest – урожай; собирать
 Influential – влиятельный
 Distinguish – различать
@@ -2752,7 +2749,7 @@ closer – ближе; близкий
 fabled – легендарный
 trophy – трофей
 settle – уладить (урегулировать); обосноваться
-sparkling – сверкающий
+sparkling – сверкающий (искрящийся)
 dissect – вскрывать; препарировать
 deadlock – тупик; затор
 brave – храбрый; смелый
@@ -2825,7 +2822,7 @@ crumble – рушиться; рассыпаться
 cry – плач; плакать; воскликнуть
 remorse – раскаяние
 tampering – вмешательство (фальсификация)
-evidence – доказательство(а)
+evidence – доказательство(а); очевидность
 evidence tampering – фальсификация доказательств
 put a hold on – взять (поставить) задержку на
 controversy – противоречие (спор)
@@ -3104,7 +3101,7 @@ midday – полдень; полуденный
 nap – дрёма
 take a nap – взять дрёму (вздремнуть)
 all in all – в целом; в общем
-fairly – довольно
+fairly – довольно; честно
 strenuous – напряжённый
 lazy – ленивый
 society – общество; общественность
@@ -4206,7 +4203,7 @@ but what he wants to charge us? – но что он хочет поручить нам?
 It designed for users who wish to charge their mobile phones – это спроектировано для пользователей, которые желают зарядить свои мобильные телефоны
 contract involves the supply of a wide range of goods and services – контракт включает поставку (предоставление) широкого круга товаров и услуг
 opportunity – возможность; шанс
-ultimate – конечный (окончательный)
+ultimate – конечный; окончательный
 They both pursue the same ultimate goal – они оба преследуют ту же конечную цель
 pull out – вытащить
 I'll be there to pull you out – я буду там, чтобы вытащить тебя
@@ -4251,7 +4248,7 @@ tremendous potential of such technologies – огромный потенциал таких технологий
 although I have tremendous personal magnetism I also have strength of character – хотя я имею огромный персональный (личный) магнетизм, я также имею силу (крепость) характера
 I'm so sorry – я так извиняюсь (мне так жаль)
 let's talk about – давайте поговорим об
-what've you been up to? – чем ты занимался?
+what've you been up to? – чем ты занимался? (что ты задумывал?)
 snub – курносый; пренебрежение; пренебрегать (задирать нос)
 social snub could become motive – социальное пренебрежение могло стать мотивом
 I'll not let you snub her – я не позволю тебе пренебрегать ей
@@ -4724,8 +4721,8 @@ scattering - рассеяние; рассеивание
 scatter - рассеивать
 lascivious - похотливый
 candid - откровенный
-misleading - заблуждение
-model would be misleading - модель будет ошибаться
+misleading - заблуждение; вводящий в заблуждение
+as I said, model would be misleading - как я сказал, модель будет ошибаться (будет вводящей в заблуждение)
 offset - смещение; компенсировать
 skewness - перекос; асимметрия
 slope - склон; наклон
@@ -5242,7 +5239,7 @@ I wouldn't wanna wish - я бы не хотел пожелать (я бы не пожелал)
 continuously - непрерывно (постоянно)
 slap - шлёпнуть (ударить)
 spit - плевать
-necessarily - обязательно (необходимо)
+necessarily - обязательно (непременно, необходимо)
 at the time - в то время
 damn - чертовский (проклятый, дурацкий)
 curiosity - любопытство
@@ -5389,7 +5386,7 @@ what's the deal with you? - что за дело с тобой? (что не так с тобой?)
 pick out - выбрать
 kinda – вроде как; типа; своего рода
 lineup - линейка (состав, модельный ряд)
-spill - пролить; разлить
+spill - разлив (утечка); пролить; разлить
 steady - устойчивый (постоянный, стабильный)
 wedding - свадьба
 fucking - блять; ёбанный
@@ -5492,7 +5489,7 @@ fuck yeah - блять да (охуеть)
 anytime - в любое время
 cum - сперма; кончить
 let me take a few pictures baby - дай мне сделать несколько кадров (изображений) детка
-that's all - вот и всё
+that's all! - вот и всё!
 You won't be disappointed - ты не будешь разочарован
 whatever you like - всё что ты захочешь
 handcuff - приковывать
@@ -6393,3 +6390,39 @@ towel - полотенце
 net - сеть; чистый
 social networking - социальная сеть (социальное сетевое взаимодействие)
 nature - натура (природа, характер)
+vice - заместитель; порок
+mislead - вводить в заблуждение
+He's up to - он задумал
+be up to - задумать (намереваться сделать что-либо)
+He's up to something - он задумал (намеревается сделать) кое-что
+dive - нырять; погрузиться
+delve - углубиться; погрузиться
+psyched - взволнованный (в восторге)
+I have a love for technology - я имею любовь к технологии
+I have a love of food - я имею любовь к еде
+peach - персик
+peasant - крестьянин
+forcible - принудительный (насильственный)
+enforced – принудительный (вынужденный)
+useful - полезный
+weather - погода; погодный
+post-graduate - аспирант
+post-graduate studies - аспирпантура
+18 degrees celsius - 18 градусов цельсия
+temperature - температура
+sweater - свитер
+I'm boiling in the summer heat - я варюсь (процесс) в летнюю жару
+there is actually nothing I can do - на самом деле ничего не могу сделать
+I feel just great - я чувствую себя просто отлично
+I feel just awful - я чувствую себя просто ужасно
+downpour - ливень
+climate - климат
+than it used to be - чем это было раньше
+hunt - охота; охотиться
+hunting - охота; охотничий
+completion - завершение
+evidential - доказательный; очевидный
+I express myself well in writing, as opposed to him - я выражаю себя хорошо в писании, в отличие от него
+inhabitant - житель
+I like programming unlike some people - мне нравится программирование в отличие от некоторых людей
+because unlike you, I'm trustworthy - потому что в отличие от тебя я стоящий доверия

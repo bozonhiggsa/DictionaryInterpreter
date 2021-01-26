@@ -103,7 +103,7 @@ Explanatory – поясняющий
 Well-intentioned – благонамеренный
 Sophisticated implementation – изощрённая (усложнённая) реализация
 Decouple – развязывать (разъединять)
-Resource bundles – связывание ресурсов
+Resource bundles – ресурсов связывание (связки)
 Focal point – фокальная (центральная) точка
 Retrieval – извлечение
 Alliance – союз
@@ -578,7 +578,7 @@ Crisis mode – кризисный режим
 Superficial – поверхностный
 One-off – одноразовый
 Obstacle – препятствие; помеха
-Imperative – императив (повеление, приказ); необходимость
+Imperative – императив (повеление, требование); необходимость
 Inspire – вдохновлять
 Undergo – проходить (подвергаться)
 Powerful – мощный
@@ -692,7 +692,7 @@ Erasure – стирание; уничтожение
 Vulnerable – уязвимый; ранимый
 Preliminary – подготовительное мероприятие
 Wildcard – групповой символ
-Tuple – запись
+Tuple – запись; кортеж
 Cardinality – количество элементов множества
 Invoice – счёт
 Is everything OK? – всё в порядке?
@@ -765,7 +765,7 @@ hurl - бросать; швырять
 insult - инсульт; оскорблять
 vicious - порочный; злой
 vengeance - месть
-legitimate - легитимный (законный)
+legitimate - легитимный; законный
 definitely - определённо
 heinous - гнусный
 youthful - молодой (юный, юношеский)
@@ -845,7 +845,7 @@ Gosh! – Боже!
 Is that you? – ты ли то?
 You look great! - ты выглядишь отлично!
 You haven't changed a bit! – ты не изменился ни чуть! (результат)
-Neither have you! – ты тоже не изменился!
+Neither have you! – ты тоже не (изменился)!
 What's been happening in your life? - что произошло в твоей жизни? (долго)
 Not much has been going on – ничего особенного не произошло (долго)
 Same old, same old – всё по старому
@@ -1060,7 +1060,7 @@ Regarding – касательно
 Regarding your proposal – касательно вашего предложения
 Lack – нехватка; не хватать
 Confusion – конфуз (путаница, замешательство)
-Obsolete – устарелый (старомодный)
+Obsolete – устарелый; старомодный
 Receipt – рецепт (квитанция)
 Remaining – остальной; остающийся
 exploit – эксплуатировать (использовать)
@@ -1141,7 +1141,6 @@ Danger – опасность
 Objection – возражение
 Soldier – солдат
 Chess – шахматы
-Ditch – яма; бросить (избавиться от)
 Choose – выбирать
 Between – между двумя
 Among – среди многих
@@ -1240,7 +1239,7 @@ I'm too busy to talk to you right now – я слишком занят, чтоб
 I'm too smart to make such mistakes – я слишком умный, чтобы делать такие ошибки
 I wish you were here – хотел бы я (чтобы) ты был здесь
 I wish I had something – хотел бы я (чтобы) я имел что-то
-teach – обучать (кого-то)
+teach – обучать (кого-то); преподавать
 You have done it all wrong – ты сделал это всё неправильно (результат)
 Now, what do we have here? – итак, что мы имеем здесь?
 Do you like programming on Java? – тебе нравится программирование на Java?
@@ -1525,15 +1524,15 @@ Treat – обращаться с; лечить; угостить
 heal – излечивать (раны)
 Cure – лечение; лекарство; излечивать (болезнь)
 You can learn both Java and Python – ты можешь изучать как Java, так и Python
-Either or – или …, или
-Neither nor – ни …, ни
+Either or – или ... или
+Neither nor – ни ... ни
 He is either sick or drunk – он или болен, или пьян
 Either come in or go out – или входите, или выходите
 She speaks neither German nor French – она не говорит ни по-немецки, ни по-французски
 I don't like ice-cream either – я не люблю мороженое тоже
 Either of them can do it – любой из них может сделать это
-I don't know the answer, and neither does he – я не знаю ответа, и он тоже не знает
-I don't know the answer, and he doesn't, either – я не знаю ответа, и он не знает тоже
+I don't know the answer, and neither does he – я не знаю ответа, и он тоже не (знает)
+I don't know the answer, and he doesn't, either – я не знаю ответа, и он не (знает) тоже
 Still – всё ещё
 He is still busy – он всё ещё занят
 I'm still waiting for your reply – я всё ещё жду вашего ответа (процесс)
@@ -2428,7 +2427,7 @@ Identity – идентичность (индивидуальность)
 Technique – техника (методика)
 Squash – раздавить; сквош; тыква
 Get good enough – становятся хороши достаточно
-Neither can they possess – не могут они обладать и
+Neither can they possess – тоже не могут они обладать
 Over the next three years – за следующие три года
 On my part – на мою часть (с моей стороны)
 It's just a misunderstanding on my part – это просто непонимание с моей стороны (на мою часть)
@@ -2436,7 +2435,7 @@ Stage – стадия; сцена
 Outline – набросок; изложить (наметить)
 Scenario – сценарий
 Occur – происходить; возникать
-is occurring – происходит
+is occurring – происходит (процесс)
 Occurring – происходящие; возникающие
 Speed up – ускорить
 Proven – проверенный; доказанный
@@ -3908,7 +3907,7 @@ interesting thing is, they could've overdone this – вот что интере
 You need to get it together right now – тебе нужно взять себя в руки прямо сейчас
 keep – сохранять (держать, продолжать)
 Ok, keep a watch on the house – Ок, сохраняй (продолжай) смотрение на (следить за) дом
-by the same token, neither can they possess such emotions as empathy or compassion – к тому же, не могут они обладать такими эмоциями, как эмпатия или сострадание
+by the same token, neither can they possess such emotions as empathy or compassion – к тому же, тоже не могут они обладать такими эмоциями, как эмпатия или сострадание
 committee thereupon formally adopted the document – комитет, на этой основе, формально принял документ
 trial – суд; испытание; пробный
 it seems this trial was too easy – это кажется, это испытание было слишком лёгким
@@ -4359,7 +4358,7 @@ sacrifice – жертва; жертвовать
 I think it's kind of weird – я думаю это типа странно
 You know, it's kind of a surprise – ты знаешь, это типа сюрприз
 fall asleep – падать в сон (засыпать)
-world famous actor – всемирно известный актёр
+world famous – всемирно известный
 to save him – чтобы спасти его
 conscious – осознанный
 unconscious – неосознанный
@@ -4446,7 +4445,7 @@ pray – молиться
 comprehension – понимание
 It's beyond my comprehension – это вне моего понимания
 Do whatever you want – делай что угодно (всё), что ты хочешь
-I hit the target – я ударил в цель (я попал в цель)
+I hit the target – я ударил цель (я поразил цель)
 He took advantage of the opportunity – он взял преимущество из (воспользовался) этой возможности
 orchard – сад
 It is out of fashion – это вне моды (не модно)
@@ -4756,7 +4755,7 @@ intuition and experience in conjunction with the analysis - интуиция и 
 drilling - бурение; сверление
 Key Performance Indicator (KPI) - ключевой перфоманса индикатор (KPI)
 term - термин (срок, определение)
-causal - причинный
+causal - каузальный (причинный)
 dummy - манекен; болван
 indent - абзац; отступ
 just bear in mind - только имей в мыслях
@@ -4781,7 +4780,7 @@ lift - лифт; поднять; снять (отменить)
 I can lift the lock down - я могу снять (отменить) блокировку
 lifting - подъём; снятие (отмена)
 lifting the limit on maximum amount - снятие (отмена) лимита на максимальную сумму
-acquaint - знакомить; ознакомить
+acquaint - познакомиться; ознакомиться
 forego - отказаться от
 breakthrough - прорыв; достижение; успех
 most notably - наиболее особенно
@@ -5202,7 +5201,7 @@ crave - жаждать
 sequence - последовательность
 sequential - последовательный
 cuddle - обниматься
-binding - связывание; привязка; связывающий (обязывающий)
+binding - связывание; привязка; связывающий (обязывающий, обязательный)
 monk - монах
 trail - след; тропа
 sting - жало; ужалить
@@ -5224,7 +5223,7 @@ constant - постоянный
 constantly - постоянно
 memo - записка (памятка)
 accessible - доступный
-inquisitive - любопытный (любознательный)
+inquisitive - любопытный; любознательный
 shove - засунуть; запихнуть
 a few times - несколько раз
 I need to think about it - мне нужно подумать об этом
@@ -5294,7 +5293,7 @@ this is what you should do - вот что тебе следует делать
 serious - серьёзный
 I'm serious - я серьёзный (серьёзно)
 familiar - знакомый
-for the way - за то, как (за тем, как)
+for the way - за то, как
 hone - оттачивать (совершенствовать)
 series - серия (ряд, последовательность)
 I don't know what your schedule is like - я не знаю какого твой график типа
@@ -5360,7 +5359,7 @@ smart - умный
 quiz - тест (опрос, викторина)
 quizzes - тесты (опросы, викторины)
 renown - известность
-renowned - известный (знаменитый)
+renowned - известный; знаменитый
 world-renowned - всемирно известный
 statistician - статистик
 it starts off by talking about - это начинается с говорения о
@@ -5370,7 +5369,7 @@ serial - серийный
 prolific - плодовитый (плодотворный)
 death - смерть; смертный
 oh my God! - о мой бог!
-my godness me! - боже мой!
+my goodness me! - боже мой!
 have we met? - мы встречались? (результат)
 you look vaguely familiar - ты выглядишь смутно знакомым
 defense - оборона; защита
@@ -5701,8 +5700,8 @@ cheeks - щёчки; ягодицы
 buttocks - ягодицы
 passionate - страстный
 sultry - страстный (знойный)
-goodness - добро (доброта)
-get acquainted - познакомиться (ознакомиться)
+goodness - добро; доброта
+get acquainted - познакомиться; ознакомиться
 ruined - разрушенный (испорченный)
 slug - пуля; слизняк
 sluggish - вялый (медленный)
@@ -5716,7 +5715,7 @@ what are you doing all alone? - что ты делаешь совсем одна
 i'll see you around - ещё увидимся
 rouse - разбудить
 rousing game - зажигательная игра
-legit - законный
+legit - легитимный; законный
 immense - огромный (колоссальный)
 girly - девчачий
 hell - ад
@@ -5895,7 +5894,7 @@ calculus - исчисление (мат анализ)
 introduction - введение (вступление)
 dense - плотный (густой)
 density - плотность (густота)
-probability destiny function - функция плотности вероятности
+probability density function - функция плотности вероятности
 hypothesis - гипотеза
 a lot of what - многое из того, что
 superb - превосходный
@@ -6269,7 +6268,7 @@ withholding - удержание; сокрытие
 causing - причина; причинение
 mass hysteria - массовая истерия
 collapse - коллапс (крах)
-highway - шоссе (автомагистраль)
+highway - шоссе; автострада
 suck - отстой; сосать
 suck up - подлизываться
 suck it up - смирись с этим (проглоти это)
@@ -6531,7 +6530,7 @@ riddle - загадка
 weapon - оружие (вооружение)
 be certain - быть уверенным
 We need be certain - нам нужно быть уверенными
-infiltrate - проникнуть в (внедриться в)
+infiltrate - проникнуть в; внедриться в
 refugee - беженец
 detachment - подразделение; отряд
 discreet - осторожный; незаметный
@@ -6680,7 +6679,7 @@ but that will pass - но (э)то пройдёт
 dust - пыль
 fuzzy - нечёткий
 binary - бинарный (двоичный)
-He either succeeds totaly or he doesn't - он или добивается успеха тотально или нет
+He either succeeds totally or he doesn't - он или добивается успеха тотально или нет
 glum - мрачный
 wrinkle - морщинка
 inquisition - инквизиция (расследование, допрос)
@@ -6755,3 +6754,29 @@ resurrection - возрождение; воскресение
 and look who she turned out to be - и посмотри кто она оказалась быть (кем они оказалась)
 disobedience - непокорность
 blow off - сдуваться; выпускать пар
+pass through - пройти через
+determine - определять
+this is an imperative rule binding on all participants - это императивное правило, обязательное для всех участников
+further exploration of existing and new concepts has become imperative - дальнейшее исследование существующих и новых концепций стало необходимостью
+ditch – яма; бросить (избавиться от)
+You shouldn't have gotten in the way - тебе не следовало становиться (бышечная реальность результат) (у меня) на пути
+I apologize for the way they treated you - я извиняюсь за то, как они обращались с тобой
+famous - известный; знаменитый
+at the moment - в данный момент
+advertising - реклама; рекламирование
+advertising is added into searching results, depending on what customer is seeking at the moment - реклама добавляется в поисковые результаты в зависимости от того, что клиент ищет (процесс) в данный момент
+I don't think I'll ever get used to it - я не думаю (что) я когда-нибудь привыкну к этому
+I could get used to this - я мог привыкнуть к этому
+volunteer - волонтёр (доброволец)
+voluntary - добровольный
+replace - заменять
+replacement - замена
+strip - полоса; раздевание; раздеваться
+begin - начинать
+disregard - пренебрежение (игнорирование); пренебрегать (игнорировать)
+pickle - огурец
+pickling - маринование
+reflect - отражать; рефлексировать (подумать)
+bundling - связывание; группирование (объединение)
+honk - сигналить
+roll over - переворачиваться

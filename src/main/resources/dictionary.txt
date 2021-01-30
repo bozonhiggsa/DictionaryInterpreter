@@ -5148,7 +5148,7 @@ talent - талант
 bless - благословить
 figuratively - фигурально (образно)
 alternatively - альтернативно
-beat up - избить
+beat up - избивать
 don't beat yourself up - не избивай себя (не вини себя)
 little by little - мало помалу
 get ready! - приготовиться!
@@ -6638,7 +6638,7 @@ adapted - адаптированный (приспособленный)
 I still don't know - я всё ещё не знаю (я так и не узнал)
 I still don't understand - я всё ещё не понимаю (я так и не понял)
 controversial - спорный; противоречивый
-it's not controversial - (э)то не противоречиво
+it's not controversial - это не противоречиво
 encrypt - шифровать
 encryption - шифрование
 map - карта; отображение; отображать
@@ -6780,3 +6780,18 @@ reflect - отражать; рефлексировать (подумать)
 bundling - связывание; группирование (объединение)
 honk - сигналить
 roll over - переворачиваться
+I won't deny - я не буду отрицать
+She can't deny me anything - она не может отказать мне ни в чём
+I see no reason to deny her - я не вижу причины отказать ей
+it can negate efforts undertaken in this matter - это может отрицать (свести на нет) усилия, предпринятые в этом деле
+probability distribution - распределение вероятностей
+shuffling - перетасовка; перемешивание
+original - оригинал; оригинальный; исходный
+decay - распад; разложение
+vertical - вертикаль; вертикальный
+horizontal - горизонталь; горизонтальный
+axis - ось
+splitting - разделение; расщепление; разбивка
+copying - копирование
+utility - утилита; полезность
+permute - переставлять

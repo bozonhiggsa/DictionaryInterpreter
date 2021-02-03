@@ -5709,7 +5709,7 @@ lag - лаг (задержка); отставать
 blush - краснеть (покраснеть)
 freckles - веснушки
 tail - хвост; садиться на хвост (следить за)
-someone tail me - кто-то следит за мной
+someone is tailing me - кто-то следит за мной (процесс)
 all alone - совсем один
 what are you doing all alone? - что ты делаешь совсем одна? (процесс)
 i'll see you around - ещё увидимся
@@ -6795,3 +6795,17 @@ splitting - разделение; расщепление; разбивка
 copying - копирование
 utility - утилита; полезность
 permute - переставлять
+understanding - понимание
+your grasp of structure - твоё понимание структуры
+I know it's difficult to grasp - я знаю, это трудно понять
+consist - состоять
+test consists of 10 questions - тест состоит из 10 вопросов
+narrow - узкий
+wide - ширина; широкий
+consensual - консенсусный (согласованный)
+tendency - тенденция (склонность)
+formulate - формулировать; сформулировать
+formulation - формулировка; формулирование; разработка
+fuss - суета; суетиться
+don't fuss, all will be well - не суетись, всё будет хорошо
+chew - жевать

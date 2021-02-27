@@ -737,7 +737,7 @@ amnesty - амнисти€
 plague - мор; чума
 perpetual - вечный
 willful - упр€мый; умышленный
-whine - скулить; жаловатьс€
+whine - ныть; скулить; жаловатьс€
 cachet - печать
 connoisseur - знаток
 rhythmical - ритмичный
@@ -3608,7 +3608,7 @@ restore property ownership Ц восстановить собственностью владение
 even though their goals differ Ц даже хот€ их цели различаютс€
 fictional Ц вымышленный
 Even though the movie is fictional Ц даже хот€ это кино €вл€етс€ вымышленным
-I will adjust my behaviour accordingly Ц € буду корректировать моЄ поведение согласно
+I will adjust my behaviour accordingly Ц € буду корректировать моЄ поведение согласно (соответственно)
 I'm gonna adjust my activities Ц € собираюсь скорректировать мои активности (действи€)
 He was fined Ц он был оштрафован
 miserable Ц несчастный; жалкий
@@ -4531,7 +4531,7 @@ vanish Ц исчезать
 squeeze Ц сжать; сжимать
 inception Ц начало; основание (создание)
 since its inception Ц со времени своего основани€
-residual Ц остаточный
+residual Ц остаток; остаточный
 empty Ц пустой
 interlocutor Ц собеседник
 companion Ц компаньон (товарищ)
@@ -5160,7 +5160,7 @@ there you go - там вы идЄте (вот держи, вот так)
 inferior - низший
 inferiority - неполноценность
 anxiety - тревога; беспокойство
-abundance - изобилие (избыток)
+abundance - изобилие; избыток
 speaking up - высказатьс€; выступление
 reflect on - подумать над
 biases - отклонени€ (предубеждени€)
@@ -6831,3 +6831,25 @@ shoplifter - магазинный вор
 truncation - усечение; укорочение
 truncated - усечЄнный
 slice - кусочек; ломтик; срез; отрезать; нарезать; разрезать
+accordingly - согласно; соответственно
+hover - зависать
+hover the mouse over something - зависни мышкой над чем-то
+lure - заманивать
+sentiment - настроение; отношение
+tuning - тюнинг; настройка
+engineered - сконструированный
+ingest - глотать; поглощать
+ingestion - проглатывание; поглощение
+endpoint - конечна€ точка
+parental - родительский
+sage - мудрец
+etcetera - и так далее
+interleaving - чередование
+linearity - линейность
+normality - нормальность
+variance - разница; дисперси€
+inflation - инфл€ци€
+inflate - надувать
+generative - порождающий
+sanity - здравомыслие
+notification - нотификаци€ (уведомление)

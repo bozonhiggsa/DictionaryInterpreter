@@ -737,7 +737,7 @@ amnesty - амнистия
 plague - мор; чума
 perpetual - вечный
 willful - упрямый; умышленный
-whine - скулить; жаловаться
+whine - ныть; скулить; жаловаться
 cachet - печать
 connoisseur - знаток
 rhythmical - ритмичный
@@ -3608,7 +3608,7 @@ restore property ownership – восстановить собственност
 even though their goals differ – даже хотя их цели различаются
 fictional – вымышленный
 Even though the movie is fictional – даже хотя это кино является вымышленным
-I will adjust my behaviour accordingly – я буду корректировать моё поведение согласно
+I will adjust my behaviour accordingly – я буду корректировать моё поведение согласно (соответственно)
 I'm gonna adjust my activities – я собираюсь скорректировать мои активности (действия)
 He was fined – он был оштрафован
 miserable – несчастный; жалкий
@@ -4531,7 +4531,7 @@ vanish – исчезать
 squeeze – сжать; сжимать
 inception – начало; основание (создание)
 since its inception – со времени своего основания
-residual – остаточный
+residual – остаток; остаточный
 empty – пустой
 interlocutor – собеседник
 companion – компаньон (товарищ)
@@ -5160,7 +5160,7 @@ there you go - там вы идёте (вот держи, вот так)
 inferior - низший
 inferiority - неполноценность
 anxiety - тревога; беспокойство
-abundance - изобилие (избыток)
+abundance - изобилие; избыток
 speaking up - высказаться; выступление
 reflect on - подумать над
 biases - отклонения (предубеждения)
@@ -6831,3 +6831,25 @@ shoplifter - магазинный вор
 truncation - усечение; укорочение
 truncated - усечённый
 slice - кусочек; ломтик; срез; отрезать; нарезать; разрезать
+accordingly - согласно; соответственно
+hover - зависать
+hover the mouse over something - зависни мышкой над чем-то
+lure - заманивать
+sentiment - настроение; отношение
+tuning - тюнинг; настройка
+engineered - сконструированный
+ingest - глотать; поглощать
+ingestion - проглатывание; поглощение
+endpoint - конечная точка
+parental - родительский
+sage - мудрец
+etcetera - и так далее
+interleaving - чередование
+linearity - линейность
+normality - нормальность
+variance - разница; дисперсия
+inflation - инфляция
+inflate - надувать
+generative - порождающий
+sanity - здравомыслие
+notification - нотификация (уведомление)

@@ -1014,7 +1014,7 @@ My friend is very proud of it - мой друг очень гордый этим
 That is a little bit expensive - то немного дороговато
 I would like to see it - я бы хотел увидеть её
 May I come and see it now? - могу я прийти и увидеть её (квартиру) сейчас?
-I'll be waiting for you - я буду ждать тебя (процесс)
+I'll be waiting for you - я буду ждать тебя (процесс будущее)
 I think we can afford it - я думаю мы можем позволить себе это
 Apply - применять; обращаться (с просьбой, заявлением)
 I'd like to invite you to apply to my job - я бы хотел пригласить вас примениться к моей работе
@@ -2857,7 +2857,7 @@ sequentially – последовательно
 full object status – внутреннее состояние объекта (полный статус объекта)
 transparently – прозрачно (открыто)
 depending on what – в зависимости от того, что
-bloat – раздувать
+bloat – раздуваться
 the key idea – ключевая идея
 Permutation – перестановка (случайная перемена)
 Blast – взрыв; взорвать
@@ -6849,7 +6849,24 @@ linearity - линейность
 normality - нормальность
 variance - разница; дисперсия
 inflation - инфляция
-inflate - надувать
+inflate - надувать; раздувать
 generative - порождающий
 sanity - здравомыслие
 notification - нотификация (уведомление)
+predator - хищник
+outcast - изгой
+mind your business - занимайся своим делом (не лезь не в своё дела)
+speak for yourself - говори за себя
+visualization - визуализация
+estimator - оцениватель
+dataset - датасет
+if I were in your place, I would think about that – если бы я был на твоём месте, я бы задумался о том (бышечная реальность)
+simplicity - простота
+along with - вместе с
+likelihood - вероятность; правдоподобие
+probability - вероятность
+overcast - пасмурный
+relevance - релевантность (значимость)
+imbalance - дисбаланс
+smoothing - сглаживание
+smoothing techniques - техники сглаживания

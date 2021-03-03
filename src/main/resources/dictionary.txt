@@ -1014,7 +1014,7 @@ My friend is very proud of it - мой друг очень гордый этим
 That is a little bit expensive - то немного дороговато
 I would like to see it - € бы хотел увидеть еЄ
 May I come and see it now? - могу € прийти и увидеть еЄ (квартиру) сейчас?
-I'll be waiting for you - € буду ждать теб€ (процесс)
+I'll be waiting for you - € буду ждать теб€ (процесс будущее)
 I think we can afford it - € думаю мы можем позволить себе это
 Apply - примен€ть; обращатьс€ (с просьбой, за€влением)
 I'd like to invite you to apply to my job - € бы хотел пригласить вас применитьс€ к моей работе
@@ -2857,7 +2857,7 @@ sequentially Ц последовательно
 full object status Ц внутреннее состо€ние объекта (полный статус объекта)
 transparently Ц прозрачно (открыто)
 depending on what Ц в зависимости от того, что
-bloat Ц раздувать
+bloat Ц раздуватьс€
 the key idea Ц ключева€ иде€
 Permutation Ц перестановка (случайна€ перемена)
 Blast Ц взрыв; взорвать
@@ -6849,7 +6849,24 @@ linearity - линейность
 normality - нормальность
 variance - разница; дисперси€
 inflation - инфл€ци€
-inflate - надувать
+inflate - надувать; раздувать
 generative - порождающий
 sanity - здравомыслие
 notification - нотификаци€ (уведомление)
+predator - хищник
+outcast - изгой
+mind your business - занимайс€ своим делом (не лезь не в своЄ дела)
+speak for yourself - говори за себ€
+visualization - визуализаци€
+estimator - оцениватель
+dataset - датасет
+if I were in your place, I would think about that Ц если бы € был на твоЄм месте, € бы задумалс€ о том (бышечна€ реальность)
+simplicity - простота
+along with - вместе с
+likelihood - веро€тность; правдоподобие
+probability - веро€тность
+overcast - пасмурный
+relevance - релевантность (значимость)
+imbalance - дисбаланс
+smoothing - сглаживание
+smoothing techniques - техники сглаживани€

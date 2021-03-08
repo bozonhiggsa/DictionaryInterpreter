@@ -6869,3 +6869,6 @@ relevance - релевантность (значимость)
 imbalance - дисбаланс
 smoothing - сглаживание
 smoothing techniques - техники сглаживания
+echo - эхо; повторять
+permission - разрешение; позволение
+sniffing - разнюхивание

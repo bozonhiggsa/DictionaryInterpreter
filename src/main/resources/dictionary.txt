@@ -521,7 +521,7 @@ Authority – полномочия; авторитет
 Nevertheless – тем не менее
 Even so – даже так (даже при этих условиях)
 At the same time – в тот же раз
-Though – хотя; если бы
+Though – хотя; хотя и
 Meanwhile – тем временем
 Meantime – тем временем
 In the mean time – тем временем
@@ -815,7 +815,7 @@ Hello! - привет!
 Hi! - привет!
 Hey! - привет!
 How are you? - как дела?; как ты?
-How are you doing? - как твои дела?
+How are you doing? - как твои дела? (процесс)
 Hi, there! - привет там!
 I'm good, thanks! Yourself? - я в порядке, спасибо! как сам?
 I'm fine, thank you! - у меня всё хорошо, спасибо тебе!
@@ -1381,7 +1381,7 @@ It was done with his permission – это было сделано с его разрешения
 I'm very much taken with this idea – я очень сильно взят (увлечён) этой идеей
 The only thing – единственное
 My work is the only thing I can think about – моя работа это единственное, о чём я могу думать
-Explore – исследовать (изучить)
+Explore – исследовать (изучать)
 Exploration – исследование (изучение)
 Discover – раскрывать (обнаруживать, узнавать, делать открытие)
 Appearance – появление; внешность
@@ -1882,7 +1882,6 @@ Endorse – одобрять; поддерживать
 Endorsement – одобрение; поддержка
 Customize – кастомизировать (настраивать под клиента)
 You behave as if you didn't know it – ты ведёшь себя как если бы ты не знал этого
-You behave as though you didn't know it – ты ведёшь себя как если бы ты не знал этого
 I would rather do something – я бы лучше сделал что-то
 I'd rather not do it – я бы лучше не делал этого
 I'd rather you did it – мне бы лучше, (чтобы) ты сделал это
@@ -2199,7 +2198,7 @@ In various areas – в разных областях
 In various ways – по разным направлениям
 In different directions – по разным направлениям
 I elaborated algorithms for a noise immunity increase – я разработал алгоритмы для возрастания помехозащищённости
-Increase – возрастание; возрастать
+Increase – рост; возрастание; возрастать
 Against a background of – напротив фона (на фоне) (чего-то)
 Subject areas – предметные области
 Schedule – график (план работы); планировать
@@ -2718,7 +2717,7 @@ Affectionate – любящий; нежный
 Affectionately – нежно; с любовью
 Label – метка
 Labelled – размеченный
-Examine – изучить (проанализировать)
+Examine – изучать (анализировать)
 Shell – корпус; оболочка
 Type – тип; ввести (впечатать)
 Universe – вселенная
@@ -4807,7 +4806,7 @@ envelope - конверт; оболочка
 directly - прямо (непосредственно)
 roll - ролл; рулет; свернуть
 unroll - развернуть
-steer - направить; руководить
+steer - направлять; руководить
 steering - управление; руководство
 subscript - нижний индекс
 superscript - верхний индекс
@@ -5338,7 +5337,7 @@ lie - ложь; лгать
 lying - ложь; враньё
 this one - вот этот
 on this one - на этот раз
-direct - прямой (непосредственный); направлять (руководить)
+direct - прямой (непосредственный); направлять; руководить
 I've gotten this far - я зашёл так далеко (результат)
 dedicated - посвящённый (специальный, преданный)
 pounding - долбёжка
@@ -6467,7 +6466,7 @@ for newly recruited staff members - для вновь (недавно) набранных сотрудников (ш
 for the first time - в первый раз (впервые)
 rising from a prone position - поднятие из лежачего (склонного) положения
 criminal - криминальный (уголовный)
-He is prone to commit criminal offences - он подвержен (склонен) к совершению уголовных правонарушений
+He is prone to commit criminal offences - он подвержен (склонен) совершать уголовные правонарушения
 disaster - катастрофа (бедствие)
 company is engaged in software development - компания занимается (задействована в) разработкой софта
 however, other factors left no place for undue optimism - однако другие факторы не оставили места для чрезмерного оптимизма
@@ -6821,7 +6820,7 @@ bond - облигация (залог); связь (узы)
 emotional bond - эмоциональная связь
 immunity - иммунитет; помехоустойчивость (невосприимчивость)
 noise - шум
-rise - рост; подъём; возрастать; подниматься
+rise - рост; подъём; возрастание; возрастать; подниматься
 rising - рост; возрастание; поднимание
 ruthless - безжалостный; беспощадный
 raise - повышение; повышать; поднимать; вырастать
@@ -6855,7 +6854,7 @@ sanity - здравомыслие
 notification - нотификация (уведомление)
 predator - хищник
 outcast - изгой
-mind your business - занимайся своим делом (не лезь не в своё дела)
+mind your business - занимайся своим делом (не лезь не в своё дело)
 speak for yourself - говори за себя
 visualization - визуализация
 estimator - оцениватель
@@ -6870,3 +6869,6 @@ relevance - релевантность (значимость)
 imbalance - дисбаланс
 smoothing - сглаживание
 smoothing techniques - техники сглаживания
+echo - эхо; повторять
+permission - разрешение; позволение
+sniffing - разнюхивание

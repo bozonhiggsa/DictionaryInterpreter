@@ -6872,3 +6872,10 @@ smoothing techniques - техники сглаживания
 echo - эхо; повторять
 permission - разрешение; позволение
 sniffing - разнюхивание
+I can't take it anymore - я не могу выносить это больше
+thanks for your understanding - спасибо за ваше понимание
+take whatever you want - бери всё что хочешь
+mind if i join you? - не возражаете, если я присоединюсь к вам?
+We've been arguing about - мы спорили о
+dress up - наряжаться
+suit yourself - смотри сам (соответствуй себе)

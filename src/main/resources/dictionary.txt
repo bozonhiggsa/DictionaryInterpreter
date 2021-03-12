@@ -6808,7 +6808,7 @@ fuss - суета; суетиться
 don't fuss, all will be well - не суетись, всё будет хорошо
 chew - жевать
 epoch - эпоха
-elapse - проходить (истекать)
+elapse - проходить; истекать
 10 epochs elapsed - 10 эпох прошло (истекло)
 immersive - иммерсивный (захватывающий, погружающий)
 disclaim - отрицать; отказываться
@@ -6872,10 +6872,19 @@ smoothing techniques - техники сглаживания
 echo - эхо; повторять
 permission - разрешение; позволение
 sniffing - разнюхивание
-I can't take it anymore - я не могу выносить это больше
-thanks for your understanding - спасибо за ваше понимание
+I can't take it anymore - я не могу выносить этого больше
+thanks for your understanding! - спасибо за ваше понимание!
 take whatever you want - бери всё что хочешь
 mind if i join you? - не возражаете, если я присоединюсь к вам?
-We've been arguing about - мы спорили о
+We've been arguing about - мы спорили о (долго)
 dress up - наряжаться
-suit yourself - смотри сам (соответствуй себе)
+suit yourself! - смотри сам! (соответствуй себе!)
+you shouldn't have - не надо было (тебе не следовало)
+look who's here! - посмотрите кто здесь!
+same as usual - так же как обычно
+I'll keep in touch with you - я буду держаться на связи с тобой
+that's what friends are for! - вот для чего друзья!
+it totally slipped my mind - это абсолютно проскользнуло мои мысли (вылетело из головы)
+homogeneity - однородность
+but this is by far - но это безусловно
+but this is by far the most difficult thing - но это безусловно самая сложная вещь

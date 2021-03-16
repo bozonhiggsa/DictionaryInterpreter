@@ -1302,7 +1302,7 @@ contract has been signed Ц контракт был подписан (результат)
 What am I supposed to say to my customer? Ц что € теперь предположен (должен) сказать моему заказчику?
 Will I see you again? Ц € увижу теб€ снова?
 You're very likely to Ц ты есть очень веро€тно к (ты скорее всего)
-If I may ask Ц если мне можно спросить (если не секрет)
+If I may ask? Ц можно ли мне спросить? (если не секрет)
 Make into Ц превратить в
 Don't worry! Ц не переживай!
 That's it! Ц вот так!; вот и всЄ!
@@ -6888,3 +6888,14 @@ it totally slipped my mind - это абсолютно проскользнуло мои мысли (вылетело из 
 homogeneity - однородность
 but this is by far - но это безусловно
 but this is by far the most difficult thing - но это безусловно сама€ сложна€ вещь
+it could demolish everything - это могло разрушить всЄ
+what he writes isn't necessarily true - что он пишет не €вл€етс€ об€зательно (непременно) правдой
+it was apparently a prosperous time - это было по всей видимости процветающее (благополучное) врем€
+to dispel doubts - чтобы разве€ть (устранить) сомнени€
+panting - одышка (т€жЄлое дыхание)
+bounce - отскакивать
+malleable - податливый
+grid - сетка; решЄтка
+refill - наполнить
+eject - извлекать
+grunting - ворчание; хрипение

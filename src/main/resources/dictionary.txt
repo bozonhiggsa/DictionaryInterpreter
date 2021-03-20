@@ -1360,7 +1360,7 @@ Especially – особенно
 Get the sense – уловить смысл
 Are you done? – ты закончил?
 Is it done? – это сделано?
-Isn't it done? – это не сделано?
+Isn't it done? – разве это не сделано?
 Why isn't it done? – почему это не сделано?
 Weren't you invited? – ты не был приглашён?
 Will it be done tomorrow? – будет это сделанным завтра?
@@ -6899,3 +6899,17 @@ grid - сетка; решётка
 refill - наполнить
 eject - извлекать
 grunting - ворчание; хрипение
+substitute - замена; заменять; замещать
+persuasion - убеждение
+persuasion is often better than compulsion - убеждение часто лучше чем принуждение
+long-term - долгосрочный
+adverse long-term effect - неблагоприятный долгосрочный эффект
+You must prove your allegiance - ты должен доказать свою преданность 
+is it ok if I join you? – это нормально, если я присоединюсь к тебе?
+don't be angry - не сердись
+don't be a jerk - не будь придурком
+isn't it nice? - разве это не мило?
+do you mind if i ask you smth? - вы не возражаете, если я спрошу вас кое-что?
+granular - гранулированный; детализированный
+agenda - повестка дня; программа
+pruning - обрезка

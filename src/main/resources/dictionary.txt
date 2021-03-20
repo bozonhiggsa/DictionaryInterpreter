@@ -1360,7 +1360,7 @@ Especially Ц особенно
 Get the sense Ц уловить смысл
 Are you done? Ц ты закончил?
 Is it done? Ц это сделано?
-Isn't it done? Ц это не сделано?
+Isn't it done? Ц разве это не сделано?
 Why isn't it done? Ц почему это не сделано?
 Weren't you invited? Ц ты не был приглашЄн?
 Will it be done tomorrow? Ц будет это сделанным завтра?
@@ -6899,3 +6899,17 @@ grid - сетка; решЄтка
 refill - наполнить
 eject - извлекать
 grunting - ворчание; хрипение
+substitute - замена; замен€ть; замещать
+persuasion - убеждение
+persuasion is often better than compulsion - убеждение часто лучше чем принуждение
+long-term - долгосрочный
+adverse long-term effect - неблагопри€тный долгосрочный эффект
+You must prove your allegiance - ты должен доказать свою преданность 
+is it ok if I join you? Ц это нормально, если € присоединюсь к тебе?
+don't be angry - не сердись
+don't be a jerk - не будь придурком
+isn't it nice? - разве это не мило?
+do you mind if i ask you smth? - вы не возражаете, если € спрошу вас кое-что?
+granular - гранулированный; детализированный
+agenda - повестка дн€; программа
+pruning - обрезка

@@ -5493,7 +5493,7 @@ trim - отделка; обрезка; обрезать (подстригать)
 understood? - понял?
 underwear - нижнее бельё
 daddy - папочка
-what's wrong with you? - да что не так с тобой?
+what's wrong with you? - да что не так с тобой? (что неправильно с тобой?)
 phew - фух
 neighbourhood - соседство (квартал)
 juice - сок
@@ -5879,7 +5879,7 @@ exclusive - эксклюзивный (исключительный)
 flip - переворот; перевернуть
 chop - рубить; разрубить
 raw data - сырые (необработанные) данные
-some sort of feature construction - некоторого рода характеристик конструирование
+some sort of features construction - некоторого рода характеристик конструирование
 construction - конструкция (строительство, конструирование)
 break down - ломать; разрушать; разбивать
 that you started with - с которыми ты начинал
@@ -6913,3 +6913,14 @@ do you mind if i ask you smth? - вы не возражаете, если я спрошу вас кое-что?
 granular - гранулированный; детализированный
 agenda - повестка дня; программа
 pruning - обрезка
+consequences - последствия
+implications - последствия
+if the overlay covers a large area - если наложение покрывает большую площадь
+honest - честный
+debate - дебаты (обсуждение); обсуждать; спорить
+is subject of fierce debates - является предметом ожесточённых дебатов
+but this is assuredly my choice - но это несомненно мой выбор
+system is now more resilient than it has ever been - система сейчас более устойчива, чем она когда-либо была (результат)
+oblivious - забывчивый
+embed - внедрять
+embedding - вложение

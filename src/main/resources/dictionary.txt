@@ -667,7 +667,7 @@ Consistency Ц согласованность (непротиворечивость)
 Pop-up Ц всплывающий; выскакивающий
 Obey Ц подчин€тьс€; повиноватьс€
 Placeholder Ц местозаполнитель (местодержатель)
-Underscore Ц подчЄркивать (акцентировать)
+Underscore Ц подчеркнуть; акцентировать
 Ambiguity Ц двусмысленность; неопределЄнность
 Rely on Ц полагатьс€ на
 Enhance Ц усиливать; улучшать
@@ -1052,8 +1052,8 @@ Seamless Ц бесшовный (плавный)
 Remain Ц оставатьс€
 Staff Ц посох; штат; штаб
 Dangling Ц вис€щий (волочащийс€); бездельничающий
-Multicasting Ц групповое вещание (адресаци€)
-Broadcast Ц широковещание
+Multicasting Ц групповое вещание (группова€ адресаци€)
+Broadcasting Ц трансл€ци€; вещание
 Mere Ц всего лишь
 Regard Ц касательство
 Regarding Ц касательно
@@ -6398,7 +6398,7 @@ enforced Ц принудительный (вынужденный)
 useful - полезный
 weather - погода; погодный
 post-graduate - аспирант
-post-graduate studies - аспирпантура
+post-graduate studies - аспирантура
 18 degrees celsius - 18 градусов цельси€
 temperature - температура
 sweater - свитер
@@ -6924,3 +6924,4 @@ system is now more resilient than it has ever been - система сейчас более устойч
 oblivious - забывчивый
 embed - внедр€ть
 embedding - вложение
+free - свободный; бесплатный; освободить

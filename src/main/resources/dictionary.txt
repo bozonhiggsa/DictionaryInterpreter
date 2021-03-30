@@ -667,7 +667,7 @@ Consistency – согласованность (непротиворечивос
 Pop-up – всплывающий; выскакивающий
 Obey – подчиняться; повиноваться
 Placeholder – местозаполнитель (местодержатель)
-Underscore – подчёркивать (акцентировать)
+Underscore – подчеркнуть; акцентировать
 Ambiguity – двусмысленность; неопределённость
 Rely on – полагаться на
 Enhance – усиливать; улучшать
@@ -1052,8 +1052,8 @@ Seamless – бесшовный (плавный)
 Remain – оставаться
 Staff – посох; штат; штаб
 Dangling – висящий (волочащийся); бездельничающий
-Multicasting – групповое вещание (адресация)
-Broadcast – широковещание
+Multicasting – групповое вещание (групповая адресация)
+Broadcasting – трансляция; вещание
 Mere – всего лишь
 Regard – касательство
 Regarding – касательно
@@ -6398,7 +6398,7 @@ enforced – принудительный (вынужденный)
 useful - полезный
 weather - погода; погодный
 post-graduate - аспирант
-post-graduate studies - аспирпантура
+post-graduate studies - аспирантура
 18 degrees celsius - 18 градусов цельсия
 temperature - температура
 sweater - свитер
@@ -6924,3 +6924,4 @@ system is now more resilient than it has ever been - система сейчас
 oblivious - забывчивый
 embed - внедрять
 embedding - вложение
+free - свободный; бесплатный; освободить

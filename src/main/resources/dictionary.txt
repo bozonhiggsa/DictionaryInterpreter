@@ -449,7 +449,7 @@ I'm at your disposal Ц € в вашем распор€жении
 Timid Ц робкий
 Sensible - здравомысл€щий
 Postponement Ц откладывание (отсрочка)
-Breach Ц нарушение; разрыв
+Breach Ц нарушение; разрыв; нарушать
 Crow - ворона
 Scarecrow Ц чучело (пугать ворон)
 Advertise Ц рекламировать
@@ -2669,8 +2669,8 @@ Future efforts will be focused on Ц будущие усили€ будут сфокусированы на
 Propose Ц предлагать
 Effectiveness Ц эффективность
 Robustness Ц устойчивость
-Extract Ц экстракт (извлечение); извлекать
-Extraction Ц экстракци€ (извлечение)
+Extract Ц экстракт; извлечение; извлекать
+Extraction Ц экстракци€; извлечение
 Due to Ц по причине; благодар€ (за счЄт)
 next goal is Ц следующей целью €вл€етс€
 Modern Ц современный
@@ -5995,7 +5995,7 @@ You may focus your energy on achieving your goals - ты можешь фокусировать свою 
 rich - богатый
 long for - жаждать
 discovery - открытие (обнаружение)
-uncover - раскрыть
+uncover - раскрывать
 resourceful - находчивый; изобретательный
 uncover your resourceful potential - раскрыть свой изобретательный потенциал
 joyful - радостный
@@ -6576,7 +6576,7 @@ popularity - попул€рность
 tens of programmers - дес€тки программистов
 automation - автоматизаци€
 automated - автоматизированный
-maverick - индивидуалист (независимый, бунтарь)
+maverick - индивидуалист; бунтарь (независимый)
 individualist - индивидуалист
 He has no thoughts of its own - он не имеет мыслей своих собственных
 uphold - поддерживать; отстаивать; соблюдать
@@ -6925,3 +6925,11 @@ oblivious - забывчивый
 embed - внедр€ть
 embedding - вложение
 free - свободный; бесплатный; освободить
+hurry - спешка; спешить; торопитьс€
+featuring networking tools - содержащий инструменты сетевого взаимодействи€
+backstage - закулисный
+I can resign - € могу уволитьс€
+special clearance is necessary - специальное разрешение (допуск) необходимо
+infringe - нарушать; ущемл€ть
+not infringe in any way - не ущемл€ют никоим образом
+stride - шаг; шагать

@@ -2894,7 +2894,7 @@ that's cool! Ц то круто!; то здорово!
 resume Ц резюме
 rivalry Ц соперничество
 suffer Ц страдать; подвергатьс€
-exact Ц точный (конкретный)
+exact Ц точный; конкретный
 knock Ц стук; стучать
 knock out Ц выбить; вырубить
 transition Ц переход (преобразование)
@@ -6933,3 +6933,10 @@ special clearance is necessary - специальное разрешение (допуск) необходимо
 infringe - нарушать; ущемл€ть
 not infringe in any way - не ущемл€ют никоим образом
 stride - шаг; шагать
+garden - сад
+mist - туман
+difficulty in gaining access to technology - трудность в получении доступа к технологии
+via - через; посредством
+remote start via the internet - удалЄнный запуск через интернет
+propagate - распростран€ть; пропагандировать
+propagation - распространение; пропаганда

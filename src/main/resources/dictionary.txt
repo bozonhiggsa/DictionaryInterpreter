@@ -2894,7 +2894,7 @@ that's cool! – то круто!; то здорово!
 resume – резюме
 rivalry – соперничество
 suffer – страдать; подвергаться
-exact – точный (конкретный)
+exact – точный; конкретный
 knock – стук; стучать
 knock out – выбить; вырубить
 transition – переход (преобразование)
@@ -6933,3 +6933,10 @@ special clearance is necessary - специальное разрешение (д
 infringe - нарушать; ущемлять
 not infringe in any way - не ущемляют никоим образом
 stride - шаг; шагать
+garden - сад
+mist - туман
+difficulty in gaining access to technology - трудность в получении доступа к технологии
+via - через; посредством
+remote start via the internet - удалённый запуск через интернет
+propagate - распространять; пропагандировать
+propagation - распространение; пропаганда

@@ -6954,5 +6954,3 @@ you know what? - знаешь что?
 payload - груз; полезная нагрузка
 persistent - стойкий; постоянный; настойчивый
 hopeful - полный надежды; обнадёживающий
-dada - dfdf
-dfdfdf - htert

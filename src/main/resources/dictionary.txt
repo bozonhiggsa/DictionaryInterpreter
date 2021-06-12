@@ -5792,7 +5792,7 @@ decide - решать
 decision - решение
 solution - решение
 bride - невеста
-gentle - нежный (м€гкий)
+gentle - нежный; м€гкий
 quote - цитата; цитировать
 quotes - цитаты; кавычки; котировки
 parentheses - скобки
@@ -6955,3 +6955,14 @@ payload - груз; полезна€ нагрузка
 persistent - стойкий; посто€нный; настойчивый
 hopeful - полный надежды; обнадЄживающий
 malfunction - поломка; неисправность
+ample - широкий; обширный
+ambience - атмосфера
+ambient - атмосферный
+capital - капитал; столица; заглавный
+capital letter - заглавна€ буква
+marginal - маргинальный; предельный незначительный
+over the course of 30 days - в течение 30 дней
+latitude - широта
+longitude - долгота
+perturbation - возмущение; колебание
+it is important to keep in mind - это €вл€етс€ важным, помнить

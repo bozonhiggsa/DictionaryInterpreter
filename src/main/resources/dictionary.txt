@@ -6966,3 +6966,9 @@ latitude - широта
 longitude - долгота
 perturbation - возмущение; колебание
 it is important to keep in mind - это является важным, помнить
+exploratory - исследовательский
+it's going to be fine - всё будет хорошо
+affordable - доступный; недорогой
+endure - терпеть; вынести
+bandwidth - ширина полосы (пропускания)
+fire up - зажечь; запустить

@@ -774,7 +774,7 @@ excessive - чрезмерный; избыточный
 prolifically - в изобилии
 asterisk - звЄздочка
 fiance - жених; невеста
-synonymous - синоним
+synonymous - синонимы
 accused - обвин€емый
 sacrilegious - кощунственный
 reincarnation - реинкарнаци€
@@ -2570,7 +2570,7 @@ out of envy Ц из зависти
 steal Ц красть
 struggle Ц борьба; усили€; боротьс€
 are you in a hurry? Ц ты в спешке?
-Meeting Ц митинг (совещание, встреча)
+Meeting Ц митинг; совещание; встреча
 Hint Ц подсказка (намЄк)
 Rare Ц редкий
 Greet Ц приветствовать
@@ -6960,7 +6960,7 @@ ambience - атмосфера
 ambient - атмосферный
 capital - капитал; столица; заглавный
 capital letter - заглавна€ буква
-marginal - маргинальный; предельный незначительный
+marginal - маргинальный; предельный; незначительный
 over the course of 30 days - в течение 30 дней
 latitude - широта
 longitude - долгота
@@ -6972,3 +6972,28 @@ affordable - доступный; недорогой
 endure - терпеть; вынести
 bandwidth - ширина полосы (пропускани€)
 fire up - зажечь; запустить
+in favor - в поддержку (за то)
+all those in favor, raise your hands - все те (кто) в поддержку (за то), поднимите ваши руки
+nifty - из€щный
+segregate - отдел€ть; раздел€ть
+insomnia - бессоница
+cater - обслуживать
+specific - специфический; конкретный
+let me be specific - дай мне быть конкретным
+screen - экран
+take away - забрать
+mind map - мысленна€ карта
+speaker - спикер (оратор); динамик
+experimentation - экспериментирование
+mixture - смесь; сочетание
+disprove - опровергать
+that's not the case - то не (наш) случай
+estimation - оценка; оценивание
+learnings - новый опыт (знани€)
+seasonality - сезонность
+campaign - кампани€
+fast - быстрый; быстро
+glue - клей; клеить
+plain - равнина; простой
+synonym - синоним
+similarity - сходство; подобие

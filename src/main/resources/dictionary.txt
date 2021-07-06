@@ -3061,7 +3061,7 @@ servant – слуга; служащий
 were twice as likely – были дважды как вероятно (дважды вероятней)
 detrimental – ущерб; пагубный
 common sense – общий (здравый) смысл
-overall – общий; всеобщий
+overall – общий; всеобщий; в целом
 advocate – адвокат; отстаивать
 oracle – оракул (пророк)
 tame – приручить; укротить
@@ -4388,7 +4388,7 @@ You don't have to take pity on me – ты не обязан брать жало
 these discussions served to refine the scope of specific proposals – эти обсуждения послужили уточнить (доработать) рамки (границы) специфических предложений
 I can refine my technique as I go – я могу уточнить мою технику, когда я пойду (по ходу)
 this commission to me is hard – это поручение для меня является трудным
-this can describe at many levels of granularity – это можно описать на многих уровнях детализации
+this can be described at many levels of granularity – это может быть описанным на многих уровнях детализации
 I want to work out with you guys – я хочу тренироваться с вами парни
 director may designate a limited number of well-qualified persons – директор может назначить ограниченное число высококвалифицированных персон (лиц)
 harass – притеснять; досаждать
@@ -6997,3 +6997,23 @@ glue - клей; клеить
 plain - равнина; простой
 synonym - синоним
 similarity - сходство; подобие
+defender - защитник
+constructed - построенный; сконструированный
+what do i actually do at work? - что я действительно делаю на работе?
+everything you do - всё, что ты делаешь
+what do we want to avoid? - чего мы хотим избежать?
+the way it's called usually - как это называется обычно
+what do we want? - что мы хотим?
+there are a lot of things that come into play - там много вещей, которые вступают в игру
+how fast do we need results? - как быстро нам нужны результаты?
+how much do we need to wait? - как много нам нужно ждать?
+if you're not paying attention - если ты не уделяешь внимания (процесс)
+if you're not saying "no" - если ты не говоришь "нет" (процесс)
+acquiring knowledge - приобретение знаний
+don't be surprised - не удивляйся
+what kind of value do they want to bring to the world? - какого вида ценность они хотят принести в мир?
+ground - земля; основание; наземный
+suppression - подавление; пресечение
+backbone - основа; позвоночник
+somewhat surprisingly - довольно неожиданно
+

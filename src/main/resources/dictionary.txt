@@ -277,7 +277,7 @@ Intently - намеренно (пристально)
 Unquestionable - бесспорный
 Envelop - обёртывать
 above all - превыше всего
-after all - после всего (в конце концов)
+after all - после всего (в конце концов); наконец
 and all - и всё (такое)
 and so on - и так далее
 and so forth - и так далее
@@ -1034,7 +1034,7 @@ This job requires – эта работа требует
 Deploy – развёртывание; развёртывать
 Java developer should have experience - Java разработчику следует иметь опыт
 Empathy – эмпатия
-Deal – сделка; иметь дело
+Deal – сделка; дело; иметь дело
 Adherence – приверженность
 Driven – гонимый; движимый
 Approach – подход (к решению задачи); подходить; приближаться
@@ -2047,7 +2047,7 @@ Mate – приятель; спариваться
 Confirm – подтвердить
 Resemble – быть похожим; походить на
 In the light of this – в свете этого
-Ongoing – происходящий в настоящее время
+is ongoing – происходящий в настоящее время
 Stance – позиция
 Bestiality – скотство; зверство
 Depict – описывать; изображать
@@ -2458,7 +2458,7 @@ Competitor – конкурент
 Contest – конкурс; соревнование
 Profitable – прибыльный
 start out – начинаться с (из)
-evolve – эволюционировать (развиваться)
+evolve – эволюционировать (развиваться, меняться)
 exposure – экспозиция; воздействие; подверженность
 defer – отложить (отсрочить)
 outstanding – остающийся (нерешённый); выдающийся
@@ -2996,7 +2996,7 @@ Agree – согласиться; договориться
 He agreed on the whole with the draft proposal – он согласился, в целом, с эскизным предложением
 Fence – забор
 Surroundings – окрестности
-Finally – наконец
+Finally – финально; наконец
 Review – рассмотрение; рассмотреть
 Article – статья
 Strange – странный; чужой; незнакомый
@@ -5001,7 +5001,7 @@ to kid – шутить; дурачить
 providers may seek to serve only high-income groups - провайдеры могут стремиться обслуживать только высоко-доходные группы
 such a stipulation would be useful - такое условие (положение) было бы полезным
 from the trivial to the sublime thoughts - от тривиальных до возвышенных мыслей
-this has resulted in resource depletion - это имело результат (результат) в ресурсах истощение
+this has resulted in resource depletion - это привело к (результат) ресурсов истощению
 on the verge of extinction - на грани исчезновения
 You can only supersede your own articles - вы можете только заменять ваши собственные статьи
 let's have a look at - давайте поимеем взгляд на (посмотрим на)
@@ -5091,7 +5091,6 @@ weak-willed - слабовольный
 lowly - ничтожный (скромный)
 seed - семя
 faith - вера
-degrade - деградировать (унизить)
 squirt - обрызгать
 liberate - освободить
 liberation - освобождение
@@ -5703,7 +5702,7 @@ get acquainted - познакомиться; ознакомиться
 ruined - разрушенный (испорченный)
 slug - пуля; слизняк
 sluggish - вялый (медленный)
-lag - лаг (задержка); отставать
+lag - лаг; задержка
 blush - краснеть (покраснеть)
 freckles - веснушки
 tail - хвост; садиться на хвост (следить за)
@@ -6026,9 +6025,9 @@ take into consideration - принять во внимание (в рассмотрение)
 artistic - художественный (творческий)
 nowhere near - никуда не близко (далеко от, далеко не)
 competent - компетентный
-to frame - подставить (обвинить); сформулировать
+to frame - подставить (обвинить); сформулировать (очертить)
 you can frame me - ты можешь подставить меня
-ability to frame a question - способность сформулировать вопрос
+ability to frame a question - способность сформулировать (очертить) вопрос
 tidy - аккуратный
 cushy job - непыльная работа
 proficiency - профессиональность (мастерство, знание)
@@ -6149,7 +6148,6 @@ ton of stuff - тонна (куча) штуковин
 influence - влияние; влиять на
 syntax - синтаксис
 skip - пропуск; пропускать
-once - раз (поскольку)
 trapped - пойманный в ловушку
 shave - бриться
 let's take a closer look - давайте возьмём более близкий (пристальный) взгляд
@@ -6803,7 +6801,7 @@ wide - ширина; широкий
 consensual - консенсусный (согласованный)
 tendency - тенденция (склонность)
 formulate - формулировать; сформулировать
-formulation - формулировка; формулирование; разработка
+formulation - формулировка; формулирование
 fuss - суета; суетиться
 don't fuss, all will be well - не суетись, всё будет хорошо
 chew - жевать
@@ -7016,4 +7014,64 @@ ground - земля; основание; наземный
 suppression - подавление; пресечение
 backbone - основа; позвоночник
 somewhat surprisingly - довольно неожиданно
-
+prefer - предпочитать
+preferable - предпочтительный
+latency - задержка
+lag behind - отставать
+lagging - отставание
+shrink - психиатр; уменьшать; сокращать
+prune - чернослив; сократить; подрезать
+fuse - предохранитель; сливаться; сплавляться
+divisible - делимый
+arguably - возможно; пожалуй
+dirty - грязный
+lastly - наконец
+I learn by getting my hands dirty with real code - я учусь, делая мои руки грязными с реальным кодом
+auxiliary - вспомогательный
+adversarial - состязательный
+alleviate - облегчить; ослабить
+impurity - примесь; загрязнённость
+predecessor - предшественник
+threshold - порог; пороговый
+blend - смесь; сочетание
+blending - смешивание
+warp - искривление; деформировать
+rotate - вращать; вращаться
+balloon - шар; воздушный шар
+such as - такие как
+much like - во многом подобно
+I'd very much like - я бы очень сильно хотел
+this results in - это приводит к
+once - раз (однажды); поскольку; после (когда)
+shrinkage - уменьшение; сокращение
+that made me angry - то разозлило меня
+Do you know what I mean? – ты понимаешь, что я имею в виду?
+Are you following? - ты следуешь? (за ходом моей мысли)
+got it? - понял это?
+trivial - тривиальный (простой)
+preparation - подготовка
+preparatory - подготовительный
+stale data - несвежие (протухшие) данные
+models tend to rot as data evolves - модели имеют тенденцию гнить, когда данные меняются
+to make it easy - чтобы упростить
+I don't agree - я не согласен
+I see your point but - я понимаю твою точку зрения, но
+I'm not so sure about that - я не настолько уверен о том
+excuse me, may I have a word? - извините меня, могу я вставить слово?
+I'm wondering - мне интересно (процесс)
+I'm wondering if - я удивлюсь если (процесс)
+You are dealing with - с которыми ты имеешь дело (процесс)
+seemingly - казалось бы
+don't be scared - не пугайся (не бойся)
+dessert - дессерт
+defiantly - демонстративно
+defiance - нарушение; неповиновение
+defiant - дерзкий; непокорный
+digest - дайджест (сборник); переварить
+it doesn't relieve me from doubts - это не освобождает меня от сомнений
+life is amazing! - жизнь удивительна!
+amazing! - удивительно! (потрясающе!)
+degrade - деградировать; унижать; ухудшать
+duck typing - утиная (неявная) типизация
+as fast as possible - так быстро как возможно
+it's much more likely - это намного более вероятно

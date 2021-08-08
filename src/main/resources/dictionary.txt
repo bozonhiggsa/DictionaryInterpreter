@@ -123,7 +123,6 @@ Third-party – сторонняя (третья сторона)
 Third-party applications support – сторонних приложений поддержка
 Against – против; напротив
 Reverse – обратное; противоположное
-Notably – особенно
 Allegedly – якобы
 Establish – учреждать (устанавливать)
 Established – учреждённый (установленный)
@@ -424,7 +423,7 @@ Poke - пинок; совать; пихать
 Air-tight - сжатый воздух (воздухонепроницаемый)
 Draught - сквозняк
 Painter - живописец
-Kitschy - вульгарный
+Kitschy - китчевый; вульгарный
 Eccentric - эксцентричный
 Obligatory - обязательный
 Estate - поместье
@@ -461,7 +460,6 @@ Sheepish – робкий (овечий)
 Countryside – сельская местность
 Plug – разъём; подключить
 Slight – малый; незначительный
-Hassle – стычка
 Rebel – бунтарь; воспротивиться
 Briskly – оживлённо
 Overflowing – переполненный
@@ -612,7 +610,6 @@ Marvellous – дивный
 Amusing – забавный
 Peculiar – своеобразный
 Boring – надоедливый; скучный
-Dull – занудный
 Rude – грубый (невежливый)
 Outfit – экипировка; наряд
 I am gonna – я собираюсь (что-то делать)
@@ -4782,7 +4779,6 @@ lifting the limit on maximum amount - снятие (отмена) лимита на максимальную сум
 acquaint - познакомиться; ознакомиться
 forego - отказаться от
 breakthrough - прорыв; достижение; успех
-most notably - наиболее особенно
 perceive - воспринимать
 profound - глубокий (серъёзный)
 roll-out - развёртывание
@@ -7075,3 +7071,61 @@ degrade - деградировать; унижать; ухудшать
 duck typing - утиная (неявная) типизация
 as fast as possible - так быстро как возможно
 it's much more likely - это намного более вероятно
+steep - крутой; резкий
+tackle – устранение (решение, преодоление); устранить; решить; справиться с
+reproducible results - воспроизводимые результаты
+regular - регулярный; обычный
+concisely - кратко
+this can be written - это может быть записано
+model fits the training set - модель подходит (соответствует) обучающему сету
+valley - долина
+in the direction of the steepest slope - в направлении крутейшего склона (спуска)
+abrupt - резкий; внезапный
+incrementally - постепенно
+erratic - неустойчивый
+poorly - плохо; слабо; бедно
+expect - ожидать
+expected - ожидаемый
+anticipated - предполагаемый; ожидаемый
+derivative - производная
+tricky - сложный; хитрый
+hinge - петля
+hinge on - зависеть от
+this will hinge largely on his commitment - это будет зависеть во многом от его обязательства
+miraculous - чудесный; удивительный
+coarse - грубый
+vulgar - вульгарный
+I find it coarse and vulgar - я нахожу это грубым и вульгарным
+largely - в основном; во многом
+constrain - ограничивать; сдерживать
+restraint - сдержанность; ограничение
+restrict - ограничивать
+tractable - разрешимый
+intractable - неразрешимый
+by taking the mean - беря среднее
+unnecessary - ненужный
+clutter - беспорядок; загромождать
+formidable - огромный; грозный
+blob - капля; шарик; пузырь
+mitigate - смягчить; уменьшить; ослабить
+mitigation - смягчение последствий
+elbow - локоть
+notably – особенно; значительно
+most notably - наиболее значительно
+hassle – хлопоты
+pedestrian - пешеход
+intensely - интенсивно; активно
+intensity - интенсивность
+transparent - прозрачный (открытый)
+transparency - прозрачность
+satellite - спутник; спутниковый
+satellite images - спутниковые изображения
+infrared - инфракрасный
+dull – тупой; очень скучный
+wise - мудрый
+tall - высокий
+invaluable - бесценный
+remind - напомнить
+butterfly - бабочка
+antique - античный; старинный; древний
+haircut - стрижка; причёска

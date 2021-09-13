@@ -5022,7 +5022,6 @@ habitual - привычный
 chase - погоня; преследование
 just make it your habit - просто сделай это своей привычкой
 it's not that bad - это не так плохо
-for sure - наверняка
 as it's supposed to be – как это предположено (должно) быть
 beneficial - выгодный (полезный)
 helpful - полезный
@@ -7159,7 +7158,7 @@ up until now - до сих пор
 use case - вариант использования
 to keep track - отслеживать
 workaround - обходной путь
-for sure - точно
+for sure - точно; наверняка
 subsequent - последующий
 with regard to - с учётом
 with regard to the model parameters - с учётом параметров модели

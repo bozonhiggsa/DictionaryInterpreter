@@ -250,8 +250,7 @@ Recycling code - код повторного использования
 Borrow - занимать; одалживать
 Junction - стык; перекрёсток
 Wane - спад; спадать (уменьшаться)
-Strike - забастовка; удар; ударять
-Presumably - вероятно
+Strike - забастовка; удар; ударять; поражать
 Short-cut - кратчайший путь
 Apt - подходящий
 I've driven myself - я заездил (загнал) себя (результат)
@@ -628,7 +627,7 @@ Journey – путешествие; поездка
 For the sake of – ради (чего-то)
 For God sake! – ради Бога!
 Give it a shot! – сделай попытку!
-Crack – хруст; трещина; расколоть
+Crack – хруст; трещина; расколоть; хруснуть; треснуть
 Have a crack! – сделай попытку!
 Have a go! – сделай попытку!
 have a fight over something – иметь ссору через что-то
@@ -1928,7 +1927,7 @@ feel like – чувствовать себя как; хотеть
 out loud – вслух
 gorgeous – шикарный
 turned on – включённый (возбуждённый)
-it hit me – это ударило меня (меня осенило)
+it hit me – это поразило меня (меня осенило)
 kind of – вроде как; типа; своего рода
 that wouldn't be an issue – то бы не было проблемой
 well, it matters to me – ну, это имеет дело (значение) для меня
@@ -2461,7 +2460,7 @@ defer – отложить (отсрочить)
 outstanding – остающийся (нерешённый); выдающийся
 outstanding contributions – остающиеся (невыплаченные) взносы
 contribution – взнос; содействие
-specify – специфицировать (указывать, уточнять)
+specify – специфицировать (указывать, уточнять, определять)
 supply – поставка; предоставление
 routinely – обычно
 overlap – дублирование; дублироваться; пересекаться
@@ -3669,7 +3668,7 @@ foremost among them are short-term projects – передовыми среди 
 whereby variables were entered into the system – посредством чего переменные были введены в систему
 and thereby improving its effectiveness – и тем самым повышая её эффективность
 conceivably, it's guilt over his own behavior – вероятно это вина (чувство вины) за его собственное поведение
-presumably related to working activity – вероятно связанных с трудовой деятельностью
+presumably related to working activity – предположительно связанных с трудовой деятельностью
 it was my suggestion – это было моё предложение
 to remedy this situation – чтобы исправить эту ситуацию
 My team is still searching for a remedy – моя команда всё ещё ищет средство (процесс)
@@ -5023,7 +5022,6 @@ habitual - привычный
 chase - погоня; преследование
 just make it your habit - просто сделай это своей привычкой
 it's not that bad - это не так плохо
-for sure - наверняка
 as it's supposed to be – как это предположено (должно) быть
 beneficial - выгодный (полезный)
 helpful - полезный
@@ -5302,7 +5300,7 @@ clothes - одежда
 You're walking down the street - ты идёшь по улице (процесс)
 naked - голый
 masquerade - маскарад
-hit - хит (удар); ударить
+hit - хит (удар); ударить; поразить
 unite - объединить
 expensive - дорогой (дорогостоящий)
 that comes to mind - который приходит на ум
@@ -6748,7 +6746,7 @@ blow off - сдуваться; выпускать пар
 pass through - пройти через
 determine - определять
 this is an imperative rule binding on all participants - это императивное правило, обязательное для всех участников
-further exploration of existing and new concepts has become imperative - дальнейшее исследование существующих и новых концепций стало необходимостью
+further exploration of existing and new concepts has become imperative - дальнейшее исследование существующих и новых концепций стало необходимостью (результат)
 ditch – яма; бросить (избавиться от)
 You shouldn't have gotten in the way - тебе не следовало становиться (бышечная реальность результат) (у меня) на пути
 I apologize for the way they treated you - я извиняюсь за то, как они обращались с тобой
@@ -6778,7 +6776,7 @@ it can negate efforts undertaken in this matter - это может отрица
 probability distribution - распределение вероятностей
 shuffling - перетасовка; перемешивание
 original - оригинал; оригинальный; исходный
-decay - распад; разложение
+decay - распад; разложение; разлагаться; распадаться
 vertical - вертикаль; вертикальный
 horizontal - горизонталь; горизонтальный
 axis - ось
@@ -7128,3 +7126,58 @@ remind - напомнить
 butterfly - бабочка
 antique - античный; старинный; древний
 haircut - стрижка; причёска
+net minimum benefit - чистое минимальное пособие
+fertile soil - плодородная почва
+You're quite sporty - ты довольно спортивный
+I got a lot done - я много сделал
+because of my time at the university, I have a lot of experience in - из-за моего времени в университете я имею большой опыт в
+deviate - отклоняться
+novelty - новизна; новинка
+contaminate - загрязнять; заражать
+presume - полагать; предполагать
+presumably - предположительно
+for quite a while - довольно долгое время
+revival - возрождение
+renew - возобновить
+profound impact - глубокое влияние
+doom - гибель; судьба
+doomed - обречённый
+inhibit - препятствовать
+groundbreaking - новаторский; революционный
+to know what we are dealing with - чтобы знать, с чем мы имеем дело
+is similar to what we did - является подобным к тому, что мы делали
+there is something I must confess - есть кое-что, в чём я должен признаться
+past - прошлое; прошедший; после; мимо
+It's ten past eleven - 10 мин после 11
+blazing - полыхающий
+They end up being less sensitive to slight changes - они оказывается являются менее чувствительными к малым изменениям
+as though - как если бы
+on purpose - специально; намеренно; нарочно
+I've got just the thing - у меня есть как раз то, что нужно
+up until now - до сих пор
+use case - вариант использования
+to keep track - отслеживать
+workaround - обходной путь
+for sure - точно; наверняка
+subsequent - последующий
+with regard to - с учётом
+with regard to the model parameters - с учётом параметров модели
+ahead of time - заранее
+slow down - замедлять
+make it possible - сделать возможным; позволить
+They make it possible to specify - они позволяют определить
+messy - беспорядочный; запутанный
+flaw - недостаток; изъян
+akin - сродни
+pretend - притворяться; делать вид; претендовать
+spurious - ложный
+conformance - соответствие
+conformant - совместимый
+contiguous - прилегающий; смежный
+typically used - обычно используемый
+verbose - многословный
+cumbersome - громоздкий; обременительный
+at a time - за раз
+contextual - контекстный
+invest - инвестировать; вкладывать
+investment - инвестиция; вложение

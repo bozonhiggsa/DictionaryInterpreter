@@ -1368,7 +1368,7 @@ Explain – объяснять
 This work must be finished as soon as possible – эта работа должна быть законченной так скоро, как возможно
 Sell – продавать
 Invent – изобретать; выдумывать
-Behaviour – манеры; поведение
+Behavior – манеры; поведение
 I wish I didn't have something – хотел бы я (чтобы) я не имел чего-то
 You're really very good at it – ты реально очень хорош в этом
 A third is not given! – третьего не дано!
@@ -2114,8 +2114,8 @@ Mess – беспорядок
 get into a mess – попасть в беспорядок (беду)
 mess up – портить; облажаться
 don't mess with me – не валяй дурака со мной	
-favour (favor) – поддержка (благосклонность); одолжение
-do me a favour – сделай мне одолжение
+favor – поддержка (благосклонность); одолжение
+do me a favor – сделай мне одолжение
 footage – запись (длина плёнки в футах)
 explode – взрывать
 exploded – разобранный
@@ -2602,7 +2602,7 @@ alleged – предполагаемый
 alleged crimes – предполагаемых преступлений
 alleged victims – предполагаемых жертв
 spread – распространение; распространяться
-spreading rumours – распространение слухов
+spreading rumors – распространение слухов
 dawn – рассвет
 howdy y'all, my friends! – привет вам, мои друзья!
 he has bought – он купил (результат)
@@ -2782,7 +2782,7 @@ loss – потеря; утрата
 at a loss – в недоумении
 leave – ливнуть (оставить, покинуть)
 leave for – покинуть для (отправляться куда-то)
-favourite – любимый
+favorite – любимый
 serve – служить; обслуживать
 former – прежний
 In the former case – в прежнем (первом) случае
@@ -3006,7 +3006,7 @@ suspicious – подозрительный
 bet – ставка (пари)
 I bet – я ставлю (держу пари)
 Vote – голос; голосование; голосовать
-Neighbour – сосед
+Neighbor – сосед
 Expel – изгонять (высылать, исключать)
 Always – всегда
 Nail – гвоздь; ноготь; пригвоздить
@@ -3101,7 +3101,7 @@ obsessed – зацикленный; одержимый
 glove – перчатка
 lean – наклониться; склониться
 lend – одолжить; придавать
-lend colour to – придавать цвет (чему-то) (делать более правдоподобным)
+lend color to – придавать цвет (чему-то) (делать более правдоподобным)
 proof – доказательство(а)
 bulletproof – пуленепробиваемый (пулей доказанный)
 novice – новичёк
@@ -3603,7 +3603,7 @@ restore property ownership – восстановить собственностью владение
 even though their goals differ – даже хотя их цели различаются
 fictional – вымышленный
 Even though the movie is fictional – даже хотя это кино является вымышленным
-I will adjust my behaviour accordingly – я буду корректировать моё поведение согласно (соответственно)
+I will adjust my behavior accordingly – я буду корректировать моё поведение согласно (соответственно)
 I'm gonna adjust my activities – я собираюсь скорректировать мои активности (действия)
 He was fined – он был оштрафован
 miserable – несчастный; жалкий
@@ -4410,8 +4410,8 @@ considerable – значительный
 considerably – значительно
 I would incur considerable expenses for training – я бы понёс значительные расходы на обучение
 incur liability – нести ответственность
-labour – труд
-labour market – рынок труда
+labor – труд
+labor market – рынок труда
 implementation of that option may entail some consequences – реализация такого варианта может повлечь за собой некоторые последствия
 mysterious – таинственный; загадочный
 You're cheating me – ты обманываешь меня (процесс)
@@ -4920,7 +4920,7 @@ save – спасать; сохранять
 to object – возражать
 to figure – представлять себе; фигурировать
 to date – назначать свидание; ходить на свидание
-to favour – способствовать
+to favor – способствовать
 to deliberate – обсуждать
 to content – довольствоваться
 strong - сильный; прочный
@@ -5487,7 +5487,7 @@ underwear - нижнее бельё
 daddy - папочка
 what's wrong with you? - да что не так с тобой? (что неправильно с тобой?)
 phew - фух
-neighbourhood - соседство (квартал)
+neighborhood - соседство (квартал)
 juice - сок
 juicy - сочный (пикантный)
 hide - скрывать; спрятать
@@ -6211,7 +6211,6 @@ sunny - солнечный
 icebreaker - ледокол; начало разговора
 hop - прыгать; запрыгнуть
 hop in the car - запрыгнуть в машину
-theatre - театр; театральный
 theater - театр; театральный
 willing - желание; готовый; желающий
 willingly - добровольно; охотно
@@ -6363,7 +6362,7 @@ manual - руководство; ручной
 manually - вручную
 indistinctly - неразличимо; невнятно
 rotten - гнилой; тухлый
-dime - монетка
+dime - монетка (10 cents)
 sweat - пот; потеть
 gum - жвачка
 gummy - липкий
